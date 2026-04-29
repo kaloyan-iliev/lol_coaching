@@ -1,0 +1,6 @@
+.env
+*cookies*.txt
+__pycache__/
+*.pyc
+first_20.txt
+data/videos_*_tags.json
