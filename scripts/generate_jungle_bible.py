@@ -21,17 +21,6 @@ from pathlib import Path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 import config
 
-try:
-    import google.generativeai as genai
-except ImportError:
-    genai = None
-
-try:
-    import openai
-except ImportError:
-    openai = None
-
-
 # Topic definitions: each topic maps to tags that match it
 TOPICS = {
     "jungle_fundamentals": {
@@ -175,50 +164,16 @@ OUTPUT FORMAT:
 """
 
 
-def synthesize_with_gemini(prompt: str) -> str:
-    """Use Gemini to synthesize transcripts."""
-    if genai is None:
-        raise ImportError("google-generativeai not installed. Run: pip install google-generativeai")
+def synthesize(prompt: str) -> str:
+    """Synthesize using the configured LLM provider."""
+    from app.llm_client import generate_text
 
-    genai.configure(api_key=config.GEMINI_API_KEY)
-    model = genai.GenerativeModel(config.TEXT_MODEL)
-
-    response = model.generate_content(
+    return generate_text(
         prompt,
-        generation_config=genai.GenerationConfig(
-            temperature=0.3,  # Lower temp for factual synthesis
-            max_output_tokens=8000,
-        ),
-    )
-    return response.text
-
-
-def synthesize_with_openai(prompt: str) -> str:
-    """Use OpenAI to synthesize transcripts."""
-    if openai is None:
-        raise ImportError("openai not installed. Run: pip install openai")
-
-    client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": "You are an expert League of Legends coach and technical writer."},
-            {"role": "user", "content": prompt},
-        ],
-        temperature=0.3,
+        system="You are an expert League of Legends coach and technical writer.",
+        temperature=0.3,  # Lower temp for factual synthesis
         max_tokens=8000,
     )
-    return response.choices[0].message.content
-
-
-def synthesize(prompt: str) -> str:
-    """Synthesize using configured provider."""
-    if config.LLM_PROVIDER == "gemini":
-        return synthesize_with_gemini(prompt)
-    elif config.LLM_PROVIDER == "openai":
-        return synthesize_with_openai(prompt)
-    else:
-        raise ValueError(f"Unknown LLM provider: {config.LLM_PROVIDER}")
 
 
 def generate_topic_section(topic_key: str, videos: list[dict]) -> str | None:

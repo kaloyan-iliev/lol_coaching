@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 first_20.txt
 data/videos_*_tags.json
+.venv/
+# Raw Riot API dumps are large; index/facts/baseline stay tracked
+data/riot/matches/
+data/riot/timelines/
+data/reviews/

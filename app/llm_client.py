@@ -1,6 +1,12 @@
 """
 LLM client for the jungle coaching app.
-Supports Gemini (default, cheapest for vision) and OpenAI.
+Single entry point for all LLM calls (Gemini via google-genai, or OpenAI).
+
+Public interface:
+    generate_text(prompt, system=..., ...)   - text in, text out
+    generate_vision(image_bytes, prompt, ...) - image + text in, text out
+    analyze_screenshot(image_bytes, question) - screenshot coaching (uses Jungle Bible)
+    ask_question(question)                    - coaching Q&A (uses Jungle Bible)
 """
 
 import os
@@ -29,118 +35,132 @@ def get_system_prompt(bible_override: str | None = None) -> str:
     return PROMPT_TEMPLATE.format(jungle_bible=bible)
 
 
-# --- Gemini ---
+# --- Gemini (google-genai) ---
 
-def _get_gemini_model():
-    import google.generativeai as genai
-    genai.configure(api_key=config.GEMINI_API_KEY)
-    return genai.GenerativeModel(
-        config.VISION_MODEL,
-        system_instruction=get_system_prompt(),
+_gemini_client = None
+
+
+def _gemini():
+    global _gemini_client
+    if _gemini_client is None:
+        from google import genai
+        _gemini_client = genai.Client(api_key=config.GEMINI_API_KEY)
+    return _gemini_client
+
+
+def _gemini_config(system: str | None, temperature: float, max_tokens: int, json_mode: bool):
+    from google.genai import types
+    return types.GenerateContentConfig(
+        system_instruction=system,
+        temperature=temperature,
+        max_output_tokens=max_tokens,
+        response_mime_type="application/json" if json_mode else None,
     )
-
-
-def analyze_screenshot_gemini(image_bytes: bytes, question: str) -> str:
-    """Analyze a screenshot using Gemini vision."""
-    import google.generativeai as genai
-
-    model = _get_gemini_model()
-
-    response = model.generate_content(
-        [
-            {"mime_type": "image/png", "data": image_bytes},
-            f"Player's question: {question}",
-        ],
-        generation_config=genai.GenerationConfig(
-            temperature=0.4,
-            max_output_tokens=2000,
-        ),
-    )
-    return response.text
-
-
-def ask_question_gemini(question: str) -> str:
-    """Answer a coaching question (no screenshot)."""
-    import google.generativeai as genai
-
-    model = _get_gemini_model()
-
-    response = model.generate_content(
-        f"Player's question: {question}",
-        generation_config=genai.GenerationConfig(
-            temperature=0.4,
-            max_output_tokens=2000,
-        ),
-    )
-    return response.text
-
-
-# --- OpenAI ---
-
-def analyze_screenshot_openai(image_bytes: bytes, question: str) -> str:
-    """Analyze a screenshot using OpenAI vision."""
-    import base64
-    import openai
-
-    client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
-    b64_image = base64.b64encode(image_bytes).decode("utf-8")
-
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": get_system_prompt()},
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "image_url",
-                        "image_url": {"url": f"data:image/png;base64,{b64_image}"},
-                    },
-                    {"type": "text", "text": f"Player's question: {question}"},
-                ],
-            },
-        ],
-        temperature=0.4,
-        max_tokens=2000,
-    )
-    return response.choices[0].message.content
-
-
-def ask_question_openai(question: str) -> str:
-    """Answer a coaching question (no screenshot) using OpenAI."""
-    import openai
-
-    client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
-
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": get_system_prompt()},
-            {"role": "user", "content": f"Player's question: {question}"},
-        ],
-        temperature=0.4,
-        max_tokens=2000,
-    )
-    return response.choices[0].message.content
 
 
 # --- Public interface ---
 
+def generate_text(
+    prompt: str,
+    system: str | None = None,
+    model: str | None = None,
+    temperature: float = 0.3,
+    max_tokens: int = 4000,
+    json_mode: bool = False,
+) -> str:
+    """Send a text prompt to the configured LLM and return the response text."""
+    if config.LLM_PROVIDER == "gemini":
+        response = _gemini().models.generate_content(
+            model=model or config.TEXT_MODEL,
+            contents=prompt,
+            config=_gemini_config(system, temperature, max_tokens, json_mode),
+        )
+        return response.text
+
+    elif config.LLM_PROVIDER == "openai":
+        import openai
+
+        client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
+        messages = []
+        if system:
+            messages.append({"role": "system", "content": system})
+        messages.append({"role": "user", "content": prompt})
+        kwargs = {"response_format": {"type": "json_object"}} if json_mode else {}
+        response = client.chat.completions.create(
+            model=model or "gpt-4o-mini",
+            messages=messages,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            **kwargs,
+        )
+        return response.choices[0].message.content
+
+    raise ValueError(f"Unknown LLM provider: {config.LLM_PROVIDER}")
+
+
+def generate_vision(
+    image_bytes: bytes,
+    prompt: str,
+    system: str | None = None,
+    model: str | None = None,
+    temperature: float = 0.4,
+    max_tokens: int = 2000,
+) -> str:
+    """Send an image + text prompt to the configured LLM and return the response text."""
+    if config.LLM_PROVIDER == "gemini":
+        from google.genai import types
+
+        response = _gemini().models.generate_content(
+            model=model or config.VISION_MODEL,
+            contents=[
+                types.Part.from_bytes(data=image_bytes, mime_type="image/png"),
+                prompt,
+            ],
+            config=_gemini_config(system, temperature, max_tokens, json_mode=False),
+        )
+        return response.text
+
+    elif config.LLM_PROVIDER == "openai":
+        import base64
+        import openai
+
+        client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
+        b64_image = base64.b64encode(image_bytes).decode("utf-8")
+        messages = []
+        if system:
+            messages.append({"role": "system", "content": system})
+        messages.append({
+            "role": "user",
+            "content": [
+                {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{b64_image}"}},
+                {"type": "text", "text": prompt},
+            ],
+        })
+        response = client.chat.completions.create(
+            model=model or "gpt-4o-mini",
+            messages=messages,
+            temperature=temperature,
+            max_tokens=max_tokens,
+        )
+        return response.choices[0].message.content
+
+    raise ValueError(f"Unknown LLM provider: {config.LLM_PROVIDER}")
+
+
 def analyze_screenshot(image_bytes: bytes, question: str = "What should I do here?") -> str:
     """Analyze a game screenshot and return coaching advice."""
-    if config.LLM_PROVIDER == "gemini":
-        return analyze_screenshot_gemini(image_bytes, question)
-    elif config.LLM_PROVIDER == "openai":
-        return analyze_screenshot_openai(image_bytes, question)
-    else:
-        raise ValueError(f"Unknown LLM provider: {config.LLM_PROVIDER}")
+    return generate_vision(
+        image_bytes,
+        f"Player's question: {question}",
+        system=get_system_prompt(),
+    )
 
 
 def ask_question(question: str) -> str:
     """Answer a coaching question without a screenshot."""
-    if config.LLM_PROVIDER == "gemini":
-        return ask_question_gemini(question)
-    elif config.LLM_PROVIDER == "openai":
-        return ask_question_openai(question)
-    else:
-        raise ValueError(f"Unknown LLM provider: {config.LLM_PROVIDER}")
+    return generate_text(
+        f"Player's question: {question}",
+        system=get_system_prompt(),
+        temperature=0.4,
+        max_tokens=2000,
+    )

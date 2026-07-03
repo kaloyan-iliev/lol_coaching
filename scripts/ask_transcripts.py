@@ -114,45 +114,16 @@ def build_transcript_block(videos: list[dict], max_chars: int = 150000) -> str:
     return block
 
 
-def ask_gemini(prompt: str) -> str:
-    import google.generativeai as genai
+def ask(prompt: str) -> str:
+    from app.llm_client import generate_text
 
-    genai.configure(api_key=config.GEMINI_API_KEY)
-    model = genai.GenerativeModel(config.VISION_MODEL)
-
-    response = model.generate_content(
+    return generate_text(
         prompt,
-        generation_config=genai.GenerationConfig(
-            temperature=0.3,
-            max_output_tokens=4000,
-        ),
-    )
-    return response.text
-
-
-def ask_openai(prompt: str) -> str:
-    import openai
-
-    client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": "You are an expert League of Legends jungle coach."},
-            {"role": "user", "content": prompt},
-        ],
+        system="You are an expert League of Legends jungle coach.",
+        model=config.VISION_MODEL,
         temperature=0.3,
         max_tokens=4000,
     )
-    return response.choices[0].message.content
-
-
-def ask(prompt: str) -> str:
-    if config.LLM_PROVIDER == "gemini":
-        return ask_gemini(prompt)
-    elif config.LLM_PROVIDER == "openai":
-        return ask_openai(prompt)
-    else:
-        raise ValueError(f"Unknown provider: {config.LLM_PROVIDER}")
 
 
 def load_jungle_bible() -> str:

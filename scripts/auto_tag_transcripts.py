@@ -91,11 +91,8 @@ def load_transcript(video_id: str) -> str | None:
     return None
 
 
-def tag_with_gemini(transcript: str) -> dict:
-    import google.generativeai as genai
-
-    genai.configure(api_key=config.GEMINI_API_KEY)
-    model = genai.GenerativeModel(config.TEXT_MODEL)
+def tag_transcript(transcript: str) -> dict:
+    from app.llm_client import generate_text
 
     # Truncate very long transcripts to save tokens
     if len(transcript) > 30000:
@@ -107,16 +104,7 @@ def tag_with_gemini(transcript: str) -> dict:
         valid_tags=", ".join(VALID_TAGS),
     )
 
-    response = model.generate_content(
-        prompt,
-        generation_config=genai.GenerationConfig(
-            temperature=0.1,
-            max_output_tokens=4000,
-            response_mime_type="application/json",
-        ),
-    )
-
-    text = response.text
+    text = generate_text(prompt, temperature=0.1, max_tokens=4000, json_mode=True)
     try:
         return json.loads(text)
     except json.JSONDecodeError:
@@ -126,42 +114,6 @@ def tag_with_gemini(transcript: str) -> dict:
         if start >= 0 and end > start:
             return json.loads(text[start:end])
         raise ValueError(f"Could not parse LLM response as JSON: {text[:500]}")
-
-
-def tag_with_openai(transcript: str) -> dict:
-    import openai
-
-    client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
-
-    if len(transcript) > 30000:
-        transcript = transcript[:20000] + "\n\n[...middle truncated...]\n\n" + transcript[-10000:]
-
-    prompt = TAGGING_PROMPT.format(
-        transcript=transcript,
-        valid_tags=", ".join(VALID_TAGS),
-    )
-
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": "You are a League of Legends expert. Return only valid JSON."},
-            {"role": "user", "content": prompt},
-        ],
-        temperature=0.1,
-        max_tokens=1000,
-        response_format={"type": "json_object"},
-    )
-
-    return json.loads(response.choices[0].message.content)
-
-
-def tag_transcript(transcript: str) -> dict:
-    if config.LLM_PROVIDER == "gemini":
-        return tag_with_gemini(transcript)
-    elif config.LLM_PROVIDER == "openai":
-        return tag_with_openai(transcript)
-    else:
-        raise ValueError(f"Unknown provider: {config.LLM_PROVIDER}")
 
 
 def needs_tagging(video: dict) -> bool:
