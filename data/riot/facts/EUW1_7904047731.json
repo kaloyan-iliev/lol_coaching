@@ -1,0 +1,397 @@
+{
+  "match_id": "EUW1_7904047731",
+  "champion": "Ekko",
+  "win": true,
+  "duration_s": 1186,
+  "duration_clock": "19:46",
+  "game_version": "16.13",
+  "our_team": "blue",
+  "enemy_jungler": "Naafiri",
+  "kda": "8/2/8",
+  "clear": {
+    "start": "red_side_start",
+    "sequence": [
+      {
+        "camp": "raptors",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "red_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "wolves",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "scuttle",
+        "side": "top_river",
+        "own_side": false,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "blue_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "krugs",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          180,
+          240
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "scuttle",
+        "side": "bot_river",
+        "own_side": false,
+        "t_window": [
+          180,
+          240
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "gromp",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          240,
+          300
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "wolves",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          300,
+          360
+        ],
+        "confidence": "high"
+      },
+      {
+        "camp": "red_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          360,
+          420
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "raptors",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          360,
+          420
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "krugs",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "high"
+      }
+    ],
+    "full_clear_end_s": 300,
+    "level_at_end": 7,
+    "jungle_cs_at_end": 56,
+    "note": "Inferred from 60s snapshots; times are windows, not exact. First 8 minutes."
+  },
+  "deaths": [
+    {
+      "t": 868,
+      "clock": "14:27",
+      "killer": "Elise",
+      "assists": 2,
+      "zone": "red_jungle_top",
+      "our_level": 11,
+      "allies_nearby": 1,
+      "gold_diff_vs_enemy_jgl": 912,
+      "flags": []
+    },
+    {
+      "t": 971,
+      "clock": "16:10",
+      "killer": "Kaisa",
+      "assists": 1,
+      "zone": "red_jungle_top",
+      "our_level": 12,
+      "allies_nearby": 1,
+      "gold_diff_vs_enemy_jgl": 713,
+      "flags": []
+    }
+  ],
+  "ganks": [
+    {
+      "t": 164,
+      "clock": "02:44",
+      "lane": "top",
+      "victim": "Zed",
+      "result": "kill",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 483,
+      "clock": "08:02",
+      "lane": "mid",
+      "victim": "Zed",
+      "result": "kill",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 566,
+      "clock": "09:25",
+      "lane": "top",
+      "victim": "Zed",
+      "result": "assist",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 634,
+      "clock": "10:33",
+      "lane": "bot",
+      "victim": "Kaisa",
+      "result": "kill",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 635,
+      "clock": "10:34",
+      "lane": "bot",
+      "victim": "Galio",
+      "result": "assist",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 729,
+      "clock": "12:09",
+      "lane": "top",
+      "victim": "Zed",
+      "result": "assist",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 946,
+      "clock": "15:45",
+      "lane": "mid",
+      "victim": "Naafiri",
+      "result": "assist",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1114,
+      "clock": "18:34",
+      "lane": "top",
+      "victim": "Zed",
+      "result": "kill",
+      "confidence": "heuristic"
+    }
+  ],
+  "objectives": [
+    {
+      "t": 583,
+      "clock": "09:42",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 591,
+      "clock": "09:51",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 599,
+      "clock": "09:59",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 680,
+      "clock": "11:19",
+      "type": "DRAGON",
+      "subtype": "FIRE_DRAGON",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 8,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 1052,
+      "clock": "17:32",
+      "type": "DRAGON",
+      "subtype": "WATER_DRAGON",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": false,
+      "kills_60s_before": 5,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 1185,
+      "clock": "19:45",
+      "type": "RIFTHERALD",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 3,
+      "participation_confidence": "heuristic"
+    }
+  ],
+  "counter_jungle": [
+    {
+      "t": 840,
+      "clock": "14:00",
+      "zone": "red_jungle_top",
+      "jungle_cs_gained": 16,
+      "confidence": "heuristic"
+    },
+    {
+      "t": 900,
+      "clock": "15:00",
+      "zone": "red_jungle_top",
+      "jungle_cs_gained": 2,
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1186,
+      "clock": "19:46",
+      "zone": "red_jungle_bot",
+      "jungle_cs_gained": 8,
+      "confidence": "heuristic"
+    }
+  ],
+  "economy": {
+    "cs_at_10": 78,
+    "cs_at_15": 132,
+    "first_reset_s": 356,
+    "first_gank_t": 164,
+    "gold_diff_vs_enemy_jgl_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "gold_diff": 0,
+        "xp_diff": 0
+      },
+      {
+        "t": 120,
+        "clock": "02:00",
+        "gold_diff": 5,
+        "xp_diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "gold_diff": 20,
+        "xp_diff": 208
+      },
+      {
+        "t": 360,
+        "clock": "06:00",
+        "gold_diff": 504,
+        "xp_diff": 464
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "gold_diff": 935,
+        "xp_diff": 743
+      },
+      {
+        "t": 600,
+        "clock": "10:00",
+        "gold_diff": 1173,
+        "xp_diff": 1115
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "gold_diff": 910,
+        "xp_diff": 1491
+      },
+      {
+        "t": 840,
+        "clock": "14:00",
+        "gold_diff": 912,
+        "xp_diff": 1853
+      },
+      {
+        "t": 960,
+        "clock": "16:00",
+        "gold_diff": 713,
+        "xp_diff": 2111
+      },
+      {
+        "t": 1080,
+        "clock": "18:00",
+        "gold_diff": 1259,
+        "xp_diff": 2726
+      }
+    ]
+  },
+  "vision": {
+    "wards_placed": 6,
+    "control_wards": 1,
+    "wards_killed": 1
+  },
+  "flags": [
+    "first_riftherald_lost_absent"
+  ]
+}

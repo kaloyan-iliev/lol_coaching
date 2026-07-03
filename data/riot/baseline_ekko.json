@@ -1,83 +1,84 @@
 {
   "champion": "Ekko",
   "role": "JUNGLE",
-  "n_games": 13,
+  "n_games": 25,
   "patches": [
+    "16.12",
     "16.13"
   ],
-  "win_rate": 0.46,
+  "win_rate": 0.48,
   "cs_at_10": {
-    "p25": 71.5,
+    "p25": 71.0,
     "median": 75,
-    "p75": 80.5,
-    "n": 13
+    "p75": 78.0,
+    "n": 25
   },
   "cs_at_15": {
-    "p25": 108.5,
-    "median": 121,
-    "p75": 125.0,
-    "n": 13
+    "p25": 109.5,
+    "median": 120,
+    "p75": 126.5,
+    "n": 25
   },
   "first_gank_t_s": {
-    "p25": 268.0,
-    "median": 432.0,
+    "p25": 258.0,
+    "median": 415.5,
     "p75": 643.2,
-    "n": 12
+    "n": 24
   },
   "first_reset_s": {
-    "p25": 243.0,
-    "median": 268,
-    "p75": 273.0,
-    "n": 13
+    "p25": 255.0,
+    "median": 270,
+    "p75": 299.0,
+    "n": 25
   },
   "full_clear_end_s": {
     "p25": 240.0,
-    "median": 300.0,
-    "p75": 345.0,
-    "n": 8
+    "median": 300,
+    "p75": 300.0,
+    "n": 17
   },
   "deaths_before_14min": {
     "p25": 1.0,
-    "median": 2,
+    "median": 1,
     "p75": 2.0,
-    "n": 13
+    "n": 25
   },
   "deaths_total": {
     "p25": 2.0,
     "median": 3,
-    "p75": 4.0,
-    "n": 13
+    "p75": 5.0,
+    "n": 25
   },
   "gank_involvements": {
     "p25": 3.0,
     "median": 6,
     "p75": 8.0,
-    "n": 13
+    "n": 25
   },
   "counter_jungle_episodes": {
     "p25": 0.0,
     "median": 2,
     "p75": 3.0,
-    "n": 13
+    "n": 25
   },
   "wards_placed": {
     "p25": 3.0,
-    "median": 3,
-    "p75": 4.0,
-    "n": 13
+    "median": 4,
+    "p75": 5.0,
+    "n": 25
   },
   "control_wards": {
     "p25": 0.0,
-    "median": 0,
+    "median": 1,
     "p75": 1.0,
-    "n": 13
+    "n": 25
   },
   "wards_killed": {
     "p25": 2.0,
     "median": 4,
-    "p75": 7.5,
-    "n": 13
+    "p75": 5.5,
+    "n": 25
   },
-  "first_objective_participation_rate": 0.26,
+  "first_objective_participation_rate": 0.27,
   "note": "Master+ EUW Ekko jungle. Quartiles over small n - treat as reference range, not law."
 }
