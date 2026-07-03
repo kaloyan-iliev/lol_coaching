@@ -1,0 +1,288 @@
+{
+  "match_id": "EUW1_7906904593",
+  "champion": "Ekko",
+  "win": false,
+  "duration_s": 931,
+  "duration_clock": "15:31",
+  "game_version": "16.13",
+  "our_team": "red",
+  "enemy_jungler": "Graves",
+  "kda": "3/1/0",
+  "clear": {
+    "start": "red_side_start",
+    "sequence": [
+      {
+        "camp": "raptors",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "red_buff",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "blue_buff",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "scuttle",
+        "side": "bot_river",
+        "own_side": false,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "wolves",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "gromp",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "krugs",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          180,
+          240
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "raptors",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          300,
+          360
+        ],
+        "confidence": "high"
+      },
+      {
+        "camp": "red_buff",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          360,
+          420
+        ],
+        "confidence": "high"
+      },
+      {
+        "camp": "wolves",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "blue_buff",
+        "side": "red",
+        "own_side": true,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "scuttle",
+        "side": "top_river",
+        "own_side": false,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "low"
+      }
+    ],
+    "full_clear_end_s": 240,
+    "level_at_end": 6,
+    "jungle_cs_at_end": 50,
+    "note": "Inferred from 60s snapshots; times are windows, not exact. First 8 minutes."
+  },
+  "deaths": [
+    {
+      "t": 425,
+      "clock": "07:04",
+      "killer": "Vex",
+      "assists": 1,
+      "zone": "red_jungle_top",
+      "our_level": 5,
+      "allies_nearby": 2,
+      "gold_diff_vs_enemy_jgl": -1089,
+      "flags": []
+    }
+  ],
+  "ganks": [
+    {
+      "t": 694,
+      "clock": "11:34",
+      "lane": "bot",
+      "victim": "Braum",
+      "result": "kill",
+      "confidence": "heuristic"
+    }
+  ],
+  "objectives": [
+    {
+      "t": 354,
+      "clock": "05:53",
+      "type": "DRAGON",
+      "subtype": "WATER_DRAGON",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 0,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 587,
+      "clock": "09:46",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 1,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 595,
+      "clock": "09:55",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 1,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 598,
+      "clock": "09:57",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": true,
+      "kills_60s_before": 1,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 798,
+      "clock": "13:17",
+      "type": "DRAGON",
+      "subtype": "FIRE_DRAGON",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 0,
+      "participation_confidence": "heuristic"
+    }
+  ],
+  "counter_jungle": [],
+  "economy": {
+    "cs_at_10": 69,
+    "cs_at_15": 91,
+    "first_reset_s": 268,
+    "first_gank_t": 694,
+    "gold_diff_vs_enemy_jgl_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "gold_diff": 0,
+        "xp_diff": 0
+      },
+      {
+        "t": 120,
+        "clock": "02:00",
+        "gold_diff": 24,
+        "xp_diff": -9
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "gold_diff": -805,
+        "xp_diff": 100
+      },
+      {
+        "t": 360,
+        "clock": "06:00",
+        "gold_diff": -981,
+        "xp_diff": -178
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "gold_diff": -733,
+        "xp_diff": -390
+      },
+      {
+        "t": 600,
+        "clock": "10:00",
+        "gold_diff": -1006,
+        "xp_diff": -792
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "gold_diff": -291,
+        "xp_diff": -1187
+      },
+      {
+        "t": 840,
+        "clock": "14:00",
+        "gold_diff": -368,
+        "xp_diff": -1072
+      }
+    ]
+  },
+  "vision": {
+    "wards_placed": 3,
+    "control_wards": 0,
+    "wards_killed": 1
+  },
+  "flags": [
+    "no_early_gank_involvement",
+    "first_dragon_lost_absent",
+    "no_control_wards",
+    "zero_counter_jungling"
+  ]
+}

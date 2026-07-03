@@ -1,0 +1,392 @@
+{
+  "match_id": "EUW1_7905759528",
+  "champion": "Ekko",
+  "win": false,
+  "duration_s": 1229,
+  "duration_clock": "20:29",
+  "game_version": "16.13",
+  "our_team": "blue",
+  "enemy_jungler": "Aatrox",
+  "kda": "3/4/1",
+  "clear": {
+    "start": "red_side_start",
+    "sequence": [
+      {
+        "camp": "raptors",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "red_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "wolves",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "blue_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "high"
+      },
+      {
+        "camp": "scuttle",
+        "side": "bot_river",
+        "own_side": false,
+        "t_window": [
+          180,
+          240
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "gromp",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          300,
+          360
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "wolves",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          300,
+          360
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "scuttle",
+        "side": "top_river",
+        "own_side": false,
+        "t_window": [
+          300,
+          360
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "red_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          360,
+          420
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "blue_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          360,
+          420
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "raptors",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          360,
+          420
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "red_buff",
+        "side": "red",
+        "own_side": false,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "low"
+      }
+    ],
+    "full_clear_end_s": null,
+    "level_at_end": 6,
+    "jungle_cs_at_end": 52,
+    "note": "Inferred from 60s snapshots; times are windows, not exact. First 8 minutes."
+  },
+  "deaths": [
+    {
+      "t": 185,
+      "clock": "03:05",
+      "killer": "Jax",
+      "assists": 0,
+      "zone": "blue_jungle_top",
+      "our_level": 4,
+      "allies_nearby": 1,
+      "gold_diff_vs_enemy_jgl": 0,
+      "flags": []
+    },
+    {
+      "t": 304,
+      "clock": "05:03",
+      "killer": "Tristana",
+      "assists": 1,
+      "zone": "bot_lane",
+      "our_level": 4,
+      "allies_nearby": 1,
+      "gold_diff_vs_enemy_jgl": -231,
+      "flags": []
+    },
+    {
+      "t": 867,
+      "clock": "14:27",
+      "killer": "Aatrox",
+      "assists": 1,
+      "zone": "top_river",
+      "our_level": 9,
+      "allies_nearby": 2,
+      "gold_diff_vs_enemy_jgl": -1071,
+      "flags": []
+    },
+    {
+      "t": 1199,
+      "clock": "19:58",
+      "killer": "Akali",
+      "assists": 3,
+      "zone": "top_lane",
+      "our_level": 12,
+      "allies_nearby": 4,
+      "gold_diff_vs_enemy_jgl": -2037,
+      "flags": []
+    }
+  ],
+  "ganks": [
+    {
+      "t": 706,
+      "clock": "11:46",
+      "lane": "top",
+      "victim": "Jax",
+      "result": "kill",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 843,
+      "clock": "14:02",
+      "lane": "top",
+      "victim": "Jax",
+      "result": "assist",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1075,
+      "clock": "17:55",
+      "lane": "mid",
+      "victim": "Tristana",
+      "result": "kill",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1122,
+      "clock": "18:42",
+      "lane": "bot",
+      "victim": "Jax",
+      "result": "kill",
+      "confidence": "heuristic"
+    }
+  ],
+  "objectives": [
+    {
+      "t": 335,
+      "clock": "05:35",
+      "type": "DRAGON",
+      "subtype": "FIRE_DRAGON",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 494,
+      "clock": "08:14",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 1,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 498,
+      "clock": "08:17",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 0,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 505,
+      "clock": "08:24",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": true,
+      "kills_60s_before": 0,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 670,
+      "clock": "11:10",
+      "type": "DRAGON",
+      "subtype": "AIR_DRAGON",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 1022,
+      "clock": "17:01",
+      "type": "DRAGON",
+      "subtype": "CHEMTECH_DRAGON",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 3,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 1185,
+      "clock": "19:45",
+      "type": "RIFTHERALD",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    }
+  ],
+  "counter_jungle": [],
+  "economy": {
+    "cs_at_10": 72,
+    "cs_at_15": 93,
+    "first_reset_s": 188,
+    "first_gank_t": 706,
+    "gold_diff_vs_enemy_jgl_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "gold_diff": 0,
+        "xp_diff": 0
+      },
+      {
+        "t": 120,
+        "clock": "02:00",
+        "gold_diff": 0,
+        "xp_diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "gold_diff": -79,
+        "xp_diff": -128
+      },
+      {
+        "t": 360,
+        "clock": "06:00",
+        "gold_diff": -202,
+        "xp_diff": -429
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "gold_diff": -454,
+        "xp_diff": -909
+      },
+      {
+        "t": 600,
+        "clock": "10:00",
+        "gold_diff": -470,
+        "xp_diff": -1106
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "gold_diff": -570,
+        "xp_diff": -1670
+      },
+      {
+        "t": 840,
+        "clock": "14:00",
+        "gold_diff": -1071,
+        "xp_diff": -2829
+      },
+      {
+        "t": 960,
+        "clock": "16:00",
+        "gold_diff": -1907,
+        "xp_diff": -4040
+      },
+      {
+        "t": 1080,
+        "clock": "18:00",
+        "gold_diff": -1315,
+        "xp_diff": -4134
+      },
+      {
+        "t": 1200,
+        "clock": "20:00",
+        "gold_diff": -2037,
+        "xp_diff": -5445
+      },
+      {
+        "t": 1229,
+        "clock": "20:29",
+        "gold_diff": -2263,
+        "xp_diff": -5760
+      }
+    ]
+  },
+  "vision": {
+    "wards_placed": 4,
+    "control_wards": 0,
+    "wards_killed": 5
+  },
+  "flags": [
+    "no_early_gank_involvement",
+    "first_dragon_lost_absent",
+    "first_riftherald_lost_absent",
+    "no_control_wards",
+    "zero_counter_jungling"
+  ]
+}
