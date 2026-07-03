@@ -265,6 +265,147 @@
       }
     }
   ],
+  "momentum": {
+    "swings": [
+      {
+        "t_start": 420,
+        "t_end": 540,
+        "clock_start": "07:00",
+        "clock_end": "09:00",
+        "magnitude": 1584,
+        "direction": "gained",
+        "diff_before": -833,
+        "diff_after": 751,
+        "drivers": [
+          "won teamfight at 07:49 in top_lane (2-1 kills)",
+          "we took HORDE at 08:54",
+          "we took HORDE at 09:00",
+          "kill gold to us +620g"
+        ]
+      },
+      {
+        "t_start": 540,
+        "t_end": 1476,
+        "clock_start": "09:00",
+        "clock_end": "24:36",
+        "magnitude": -13516,
+        "direction": "lost",
+        "diff_before": 751,
+        "diff_after": -12765,
+        "drivers": [
+          "lost teamfight at 09:30 in bot_lane (1-2 kills)",
+          "lost teamfight at 10:20 in top_lane (0-2 kills)",
+          "lost teamfight at 11:08 in bot_lane (0-2 kills)",
+          "even teamfight at 11:42 in top_lane (1-1 kills)",
+          "even teamfight at 12:53 in bot_lane (1-1 kills)",
+          "even teamfight at 13:56 in bot_river (1-1 kills)",
+          "lost teamfight at 15:00 in blue_jungle_bot (2-4 kills)",
+          "lost teamfight at 18:35 in bot_river (1-3 kills)",
+          "lost teamfight at 19:39 in top_river (1-3 kills)",
+          "lost teamfight at 22:52 in blue_jungle_top (0-2 kills)",
+          "even teamfight at 23:15 in top_lane (2-2 kills)",
+          "we took HORDE at 08:54",
+          "we took HORDE at 09:00",
+          "enemy took DRAGON at 11:36",
+          "we destroyed a tower_building at 12:15",
+          "enemy destroyed a tower_building at 13:15",
+          "enemy took HORDE at 14:45",
+          "we destroyed a tower_building at 15:12",
+          "enemy destroyed a tower_building at 16:12",
+          "enemy took DRAGON at 17:13",
+          "enemy took RIFTHERALD at 19:45",
+          "enemy took BARON_NASHOR at 20:40",
+          "enemy destroyed a tower_building at 20:47",
+          "enemy destroyed a tower_building at 21:55",
+          "enemy destroyed a tower_building at 22:06",
+          "enemy took DRAGON at 22:28",
+          "enemy destroyed a tower_building at 23:39",
+          "enemy destroyed a tower_building at 23:46",
+          "kill gold to enemy +4027g"
+        ]
+      }
+    ],
+    "team_gold_diff_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "diff": -1027
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "diff": -139
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "diff": -1910
+      },
+      {
+        "t": 960,
+        "clock": "16:00",
+        "diff": -3071
+      },
+      {
+        "t": 1200,
+        "clock": "20:00",
+        "diff": -5442
+      },
+      {
+        "t": 1440,
+        "clock": "24:00",
+        "diff": -12322
+      },
+      {
+        "t": 1476,
+        "clock": "24:36",
+        "diff": -12765
+      }
+    ]
+  },
+  "challenges": {
+    "ours": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 1,
+      "jungle_cs_before_10m": 80.0,
+      "more_enemy_jungle_than_opponent": -59.5,
+      "kills_on_laners_early_as_jungler": 3,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 0,
+      "earliest_dragon_takedown_s": null,
+      "scuttle_crab_kills": 3,
+      "buffs_stolen": 0,
+      "vision_score_per_minute": 0.69,
+      "control_wards_placed": 0,
+      "ward_takedowns_before_20m": 2,
+      "danced_with_rift_herald": 0
+    },
+    "enemy_jgl": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 1,
+      "jungle_cs_before_10m": 80.0,
+      "more_enemy_jungle_than_opponent": -59.5,
+      "kills_on_laners_early_as_jungler": 1,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 1,
+      "earliest_dragon_takedown_s": 341.36,
+      "scuttle_crab_kills": 3,
+      "buffs_stolen": 4,
+      "vision_score_per_minute": 1.24,
+      "control_wards_placed": 5,
+      "ward_takedowns_before_20m": 0,
+      "danced_with_rift_herald": 0
+    }
+  },
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -738,6 +879,8 @@
     "first_baron_nashor_lost_absent",
     "no_control_wards",
     "died_outnumbered",
-    "lost_outnumbered_teamfight"
+    "lost_outnumbered_teamfight",
+    "lost_counter_jungle_battle",
+    "big_momentum_loss"
   ]
 }

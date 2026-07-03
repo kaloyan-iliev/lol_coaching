@@ -27,11 +27,22 @@ if os.path.exists(config.JUNGLE_BIBLE_FILE):
     JUNGLE_BIBLE = Path(config.JUNGLE_BIBLE_FILE).read_text(encoding="utf-8")
 
 
+def load_house_rules() -> str:
+    """The player's own coaching principles - highest-priority knowledge."""
+    if os.path.exists(config.HOUSE_RULES_FILE):
+        return Path(config.HOUSE_RULES_FILE).read_text(encoding="utf-8")
+    return ""
+
+
 def get_system_prompt(bible_override: str | None = None) -> str:
-    """Build the full system prompt with the Jungle Bible injected."""
+    """Build the full system prompt with house rules + the Jungle Bible injected."""
     bible = bible_override or JUNGLE_BIBLE
     if not bible:
         bible = "(No coaching guide loaded yet. Give your best general coaching advice.)"
+    house_rules = load_house_rules()
+    if house_rules:
+        bible = (f"{house_rules}\n\n"
+                 f"(The house rules above OVERRIDE anything below.)\n\n---\n\n{bible}")
     return PROMPT_TEMPLATE.format(jungle_bible=bible)
 
 

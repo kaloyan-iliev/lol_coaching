@@ -153,6 +153,133 @@
       }
     }
   ],
+  "momentum": {
+    "swings": [
+      {
+        "t_start": 1020,
+        "t_end": 1200,
+        "clock_start": "17:00",
+        "clock_end": "20:00",
+        "magnitude": 2804,
+        "direction": "gained",
+        "diff_before": 216,
+        "diff_after": 3020,
+        "drivers": [
+          "we destroyed a tower_building at 17:58",
+          "we destroyed a tower_building at 18:35",
+          "enemy took DRAGON at 18:38",
+          "we destroyed a tower_building at 19:59",
+          "kill gold to us +662g"
+        ]
+      },
+      {
+        "t_start": 1320,
+        "t_end": 1736,
+        "clock_start": "22:00",
+        "clock_end": "28:56",
+        "magnitude": 7504,
+        "direction": "gained",
+        "diff_before": 1351,
+        "diff_after": 8855,
+        "drivers": [
+          "won teamfight at 23:11 in top_river (4-1 kills)",
+          "won teamfight at 26:24 in mid_lane (3-2 kills)",
+          "won teamfight at 28:21 in red_jungle_bot (5-0 kills)",
+          "we took BARON_NASHOR at 23:40",
+          "we took DRAGON at 24:15",
+          "we destroyed a tower_building at 25:35",
+          "we destroyed a tower_building at 26:43",
+          "we destroyed a tower_building at 26:45",
+          "kill gold to us +2085g"
+        ]
+      }
+    ],
+    "team_gold_diff_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "diff": -58
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "diff": -833
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "diff": 215
+      },
+      {
+        "t": 960,
+        "clock": "16:00",
+        "diff": 1625
+      },
+      {
+        "t": 1200,
+        "clock": "20:00",
+        "diff": 3020
+      },
+      {
+        "t": 1440,
+        "clock": "24:00",
+        "diff": 4026
+      },
+      {
+        "t": 1680,
+        "clock": "28:00",
+        "diff": 5538
+      },
+      {
+        "t": 1736,
+        "clock": "28:56",
+        "diff": 8855
+      }
+    ]
+  },
+  "challenges": {
+    "ours": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 1,
+      "jungle_cs_before_10m": 64.4,
+      "more_enemy_jungle_than_opponent": -64.6,
+      "kills_on_laners_early_as_jungler": 1,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 0,
+      "earliest_dragon_takedown_s": 801.26,
+      "scuttle_crab_kills": 5,
+      "buffs_stolen": 1,
+      "vision_score_per_minute": 1.35,
+      "control_wards_placed": 2,
+      "ward_takedowns_before_20m": 5,
+      "danced_with_rift_herald": 0
+    },
+    "enemy_jgl": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 1,
+      "jungle_cs_before_10m": 79.6,
+      "more_enemy_jungle_than_opponent": -46.8,
+      "kills_on_laners_early_as_jungler": 2,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 1,
+      "earliest_dragon_takedown_s": 1118.61,
+      "scuttle_crab_kills": 5,
+      "buffs_stolen": 1,
+      "vision_score_per_minute": 1.91,
+      "control_wards_placed": 5,
+      "ward_takedowns_before_20m": 11,
+      "danced_with_rift_herald": 0
+    }
+  },
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -538,6 +665,7 @@
   },
   "flags": [
     "died_outnumbered",
-    "lost_outnumbered_teamfight"
+    "lost_outnumbered_teamfight",
+    "lost_counter_jungle_battle"
   ]
 }

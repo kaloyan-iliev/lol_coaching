@@ -24,6 +24,7 @@ TRANSCRIPTS_RAW_DIR = os.path.join(DATA_DIR, "transcripts", "raw")
 TRANSCRIPTS_CLEAN_DIR = os.path.join(DATA_DIR, "transcripts", "clean")
 VIDEOS_FILE = os.path.join(DATA_DIR, "videos.json")
 JUNGLE_BIBLE_FILE = os.path.join(KNOWLEDGE_DIR, "jungle_bible.md")
+HOUSE_RULES_FILE = os.path.join(KNOWLEDGE_DIR, "house_rules.md")
 
 # Riot data paths
 RIOT_DIR = os.path.join(DATA_DIR, "riot")
@@ -34,3 +35,4 @@ MATCH_INDEX_FILE = os.path.join(RIOT_DIR, "match_index.json")
 DISCOVERY_STATE_FILE = os.path.join(RIOT_DIR, "discovery_state.json")
 BASELINE_FILE = os.path.join(RIOT_DIR, "baseline_ekko.json")
 REVIEWS_DIR = os.path.join(DATA_DIR, "reviews")
+PREGAME_DIR = os.path.join(DATA_DIR, "pregame")

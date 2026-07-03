@@ -96,6 +96,12 @@ def check_timestamps(review: str, facts: dict) -> list[str]:
     for f_ in facts.get("teamfights", []):
         fact_times.add(f_["t_start"])
         fact_times.add(f_["t_end"])
+    momentum = facts.get("momentum") or {}
+    for s in momentum.get("swings", []):
+        fact_times.add(s["t_start"])
+        fact_times.add(s["t_end"])
+    for p in momentum.get("team_gold_diff_curve", []):
+        fact_times.add(p["t"])
     for p in facts["economy"]["gold_diff_vs_enemy_jgl_curve"]:
         fact_times.add(p["t"])
     for s in facts["clear"]["sequence"]:
@@ -185,7 +191,15 @@ def main():
         os.path.join(os.path.dirname(__file__), "..", "app", "prompts", "review_prompt.txt")
     ).read_text(encoding="utf-8")
 
+    from app.llm_client import generate_text, load_house_rules
+    house_rules = load_house_rules()
+    house_block = (
+        f"# HOUSE RULES (the player's own principles - these OVERRIDE everything below, "
+        f"including COACHING KNOWLEDGE)\n\n{house_rules}\n\n---\n\n"
+    ) if house_rules else ""
+
     user_prompt = (
+        f"{house_block}"
         f"{fact_sheet}\n\n"
         f"---\n\n"
         f"# COACHING KNOWLEDGE (selected sections: {', '.join(section_keys)})\n\n"
@@ -195,7 +209,6 @@ def main():
     )
 
     print("Generating review (1 LLM call)...")
-    from app.llm_client import generate_text
     review = generate_text(user_prompt, system=system_prompt, temperature=0.3, max_tokens=8000)
 
     warnings = check_timestamps(review, facts)

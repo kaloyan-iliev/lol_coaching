@@ -185,6 +185,131 @@
       }
     }
   ],
+  "momentum": {
+    "swings": [
+      {
+        "t_start": 180,
+        "t_end": 480,
+        "clock_start": "03:00",
+        "clock_end": "08:00",
+        "magnitude": -3144,
+        "direction": "lost",
+        "diff_before": -290,
+        "diff_after": -3434,
+        "drivers": [
+          "even teamfight at 03:22 in bot_lane (1-1 kills)",
+          "lost teamfight at 04:34 in bot_lane (0-3 kills)",
+          "lost teamfight at 06:41 in bot_lane (1-2 kills)",
+          "enemy took DRAGON at 05:35",
+          "we took HORDE at 08:14",
+          "kill gold to enemy +1146g"
+        ]
+      },
+      {
+        "t_start": 540,
+        "t_end": 1229,
+        "clock_start": "09:00",
+        "clock_end": "20:29",
+        "magnitude": -11832,
+        "direction": "lost",
+        "diff_before": -3261,
+        "diff_after": -15093,
+        "drivers": [
+          "even teamfight at 11:04 in mid_lane (1-1 kills)",
+          "even teamfight at 11:46 in top_lane (1-1 kills)",
+          "lost teamfight at 16:26 in mid_lane (0-3 kills)",
+          "even teamfight at 18:17 in bot_lane (1-1 kills)",
+          "lost teamfight at 19:29 in blue_jungle_top (0-4 kills)",
+          "enemy took DRAGON at 11:10",
+          "enemy destroyed a tower_building at 11:43",
+          "enemy destroyed a tower_building at 14:11",
+          "we destroyed a tower_building at 14:15",
+          "enemy destroyed a tower_building at 16:13",
+          "enemy took DRAGON at 17:01",
+          "enemy destroyed a tower_building at 18:06",
+          "enemy destroyed a tower_building at 19:41",
+          "enemy took RIFTHERALD at 19:45",
+          "enemy destroyed a tower_building at 20:13",
+          "kill gold to enemy +1919g"
+        ]
+      }
+    ],
+    "team_gold_diff_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "diff": -824
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "diff": -3434
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "diff": -5327
+      },
+      {
+        "t": 960,
+        "clock": "16:00",
+        "diff": -7452
+      },
+      {
+        "t": 1200,
+        "clock": "20:00",
+        "diff": -13065
+      },
+      {
+        "t": 1229,
+        "clock": "20:29",
+        "diff": -15093
+      }
+    ]
+  },
+  "challenges": {
+    "ours": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 0,
+      "jungle_cs_before_10m": 68.0,
+      "more_enemy_jungle_than_opponent": -74.0,
+      "kills_on_laners_early_as_jungler": 0,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 1,
+      "earliest_dragon_takedown_s": null,
+      "scuttle_crab_kills": 1,
+      "buffs_stolen": 0,
+      "vision_score_per_minute": 0.82,
+      "control_wards_placed": 0,
+      "ward_takedowns_before_20m": 5,
+      "danced_with_rift_herald": 0
+    },
+    "enemy_jgl": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 2,
+      "jungle_cs_before_10m": 97.75,
+      "more_enemy_jungle_than_opponent": -42.0,
+      "kills_on_laners_early_as_jungler": 0,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 0,
+      "earliest_dragon_takedown_s": 335.47,
+      "scuttle_crab_kills": 6,
+      "buffs_stolen": 3,
+      "vision_score_per_minute": 0.99,
+      "control_wards_placed": 0,
+      "ward_takedowns_before_20m": 0,
+      "danced_with_rift_herald": 0
+    }
+  },
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -576,7 +701,9 @@
     "first_dragon_lost_absent",
     "first_riftherald_lost_absent",
     "no_control_wards",
-    "zero_counter_jungling",
-    "lost_outnumbered_teamfight"
+    "lost_outnumbered_teamfight",
+    "lost_counter_jungle_battle",
+    "no_crab_control_early",
+    "big_momentum_loss"
   ]
 }

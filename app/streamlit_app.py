@@ -12,6 +12,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
 import streamlit as st
 from llm_client import analyze_screenshot, ask_question
+from pregame import ROLES, run_pregame, save_pregame
 
 st.set_page_config(page_title="Jungle Coach AI", page_icon="🌿", layout="wide")
 
@@ -25,7 +26,7 @@ if "messages" not in st.session_state:
 # Sidebar
 with st.sidebar:
     st.header("Settings")
-    mode = st.radio("Mode", ["Screenshot Analysis", "Ask a Question"])
+    mode = st.radio("Mode", ["Screenshot Analysis", "Ask a Question", "Pre-Game Draft"])
     st.divider()
     st.markdown("**How to use:**")
     st.markdown("1. Take a screenshot in-game (F12 or PrintScreen)")
@@ -35,6 +36,42 @@ with st.sidebar:
     if st.button("Clear Chat"):
         st.session_state.messages = []
         st.rerun()
+
+# Pre-game mode has its own layout (no chat history)
+if mode == "Pre-Game Draft":
+    st.subheader("Pre-Game Draft Analysis")
+    st.caption("Enter both drafts by role - get a one-glance game plan for loading screen")
+
+    col_ours, col_enemy = st.columns(2)
+    ours, enemy = [], []
+    with col_ours:
+        st.markdown("**Our team**")
+        for role in ROLES:
+            default = "Ekko" if role == "Jungle" else ""
+            ours.append(st.text_input(f"{role} (ours)", value=default, key=f"our_{role}"))
+    with col_enemy:
+        st.markdown("**Enemy team**")
+        for role in ROLES:
+            enemy.append(st.text_input(f"{role} (enemy)", key=f"enemy_{role}"))
+
+    notes = st.text_area("Notes (optional)", placeholder="e.g. enemy top is a one-trick, our mid wants to roam")
+
+    if st.button("Generate Game Plan", type="primary"):
+        if not all(c.strip() for c in ours + enemy):
+            st.error("Fill in all 10 champions.")
+        else:
+            with st.spinner("Building game plan..."):
+                card = run_pregame(ours, enemy, notes or None)
+            st.session_state["pregame_card"] = card
+            path = save_pregame(card, ours, enemy)
+            st.caption(f"Saved to {path}")
+
+    if st.session_state.get("pregame_card"):
+        st.markdown("---")
+        st.markdown(st.session_state["pregame_card"])
+        st.download_button("Download game plan", st.session_state["pregame_card"],
+                           file_name="game_plan.md")
+    st.stop()
 
 # Display chat history
 for msg in st.session_state.messages:

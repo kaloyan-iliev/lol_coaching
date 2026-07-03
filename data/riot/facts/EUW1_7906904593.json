@@ -137,6 +137,90 @@
       }
     }
   ],
+  "momentum": {
+    "swings": [
+      {
+        "t_start": 480,
+        "t_end": 840,
+        "clock_start": "08:00",
+        "clock_end": "14:00",
+        "magnitude": -3194,
+        "direction": "lost",
+        "diff_before": -2073,
+        "diff_after": -5267,
+        "drivers": [
+          "lost teamfight at 10:40 in top_lane (0-2 kills)",
+          "even teamfight at 11:11 in bot_lane (2-2 kills)",
+          "lost teamfight at 12:04 in mid_lane (0-2 kills)",
+          "we took HORDE at 09:46",
+          "we took HORDE at 09:55",
+          "enemy took HORDE at 09:57",
+          "enemy destroyed a tower_building at 13:08",
+          "enemy took DRAGON at 13:17"
+        ]
+      }
+    ],
+    "team_gold_diff_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "diff": -1329
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "diff": -2073
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "diff": -3452
+      }
+    ]
+  },
+  "challenges": {
+    "ours": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 1,
+      "jungle_cs_before_10m": 69.55,
+      "more_enemy_jungle_than_opponent": -65.2,
+      "kills_on_laners_early_as_jungler": 0,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 0,
+      "earliest_dragon_takedown_s": null,
+      "scuttle_crab_kills": 1,
+      "buffs_stolen": 0,
+      "vision_score_per_minute": 0.67,
+      "control_wards_placed": 0,
+      "ward_takedowns_before_20m": 1,
+      "danced_with_rift_herald": 0
+    },
+    "enemy_jgl": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 1,
+      "jungle_cs_before_10m": 84.2,
+      "more_enemy_jungle_than_opponent": -50.6,
+      "kills_on_laners_early_as_jungler": 2,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 0,
+      "earliest_dragon_takedown_s": 353.59,
+      "scuttle_crab_kills": 4,
+      "buffs_stolen": 1,
+      "vision_score_per_minute": 1.16,
+      "control_wards_placed": 2,
+      "ward_takedowns_before_20m": 1,
+      "danced_with_rift_herald": 0
+    }
+  },
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -415,6 +499,7 @@
     "no_early_gank_involvement",
     "first_dragon_lost_absent",
     "no_control_wards",
-    "zero_counter_jungling"
+    "lost_counter_jungle_battle",
+    "big_momentum_loss"
   ]
 }

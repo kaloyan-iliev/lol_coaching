@@ -81,6 +81,49 @@ def build_fact_sheet(facts: dict, baseline: dict | None = None) -> str:
         pts = ", ".join(f"{p['clock']}: {p['gold_diff']:+d}g" for p in curve)
         lines.append(f"- Gold diff vs enemy jungler over time: {pts}")
 
+    momentum = facts.get("momentum") or {}
+    swings = momentum.get("swings", [])
+    if swings:
+        lines.append("")
+        lines.append("## Momentum - major TEAM gold swings (the game's turning points)")
+        for s in swings:
+            drivers = "; ".join(s["drivers"])
+            lines.append(f"- {s['clock_start']}->{s['clock_end']}: we {s['direction'].upper()} "
+                         f"~{abs(s['magnitude'])}g team gold "
+                         f"(diff went {s['diff_before']:+d}g -> {s['diff_after']:+d}g). "
+                         f"Drivers: {drivers}")
+        tg = momentum.get("team_gold_diff_curve", [])
+        if tg:
+            pts = ", ".join(f"{p['clock']}: {p['diff']:+d}g" for p in tg)
+            lines.append(f"- Team gold diff over time: {pts}")
+
+    ch = (facts.get("challenges") or {}).get("ours")
+    if ch:
+        bch = b.get("challenges", {}) if b else {}
+        lines.append("")
+        lines.append("## Jungle stat line (EXACT post-game values from Riot, not heuristics)")
+        stat_labels = [
+            ("jungle_cs_before_10m", "Jungle CS before 10:00"),
+            ("more_enemy_jungle_than_opponent", "Enemy-jungle CS advantage vs opponent"),
+            ("initial_buff_count", "Buffs on first clear"),
+            ("initial_crab_count", "First scuttle crabs taken"),
+            ("scuttle_crab_kills", "Scuttle crabs total"),
+            ("kills_on_laners_early_as_jungler", "Early kills on laners (ganks that worked)"),
+            ("epic_monster_steals", "Epic monster steals"),
+            ("epic_monster_kills_within_30s_of_spawn", "Epic monsters taken within 30s of spawn"),
+            ("earliest_dragon_takedown_s", "Earliest dragon takedown (s)"),
+            ("vision_score_per_minute", "Vision score/min"),
+            ("ward_takedowns_before_20m", "Ward takedowns before 20:00"),
+            ("buffs_stolen", "Buffs stolen"),
+        ]
+        for key, label in stat_labels:
+            if ch.get(key) is None:
+                continue
+            lines.append(f"- {label}: {_vs_baseline(ch[key], bch.get(key))}")
+        ech = (facts.get("challenges") or {}).get("enemy_jgl")
+        if ech and ech.get("jungle_cs_before_10m") is not None:
+            lines.append(f"- (Enemy jungler jungle CS before 10:00: {ech['jungle_cs_before_10m']})")
+
     lines.append("")
     lines.append(f"## Deaths ({len(facts['deaths'])} total"
                  + (f", Master+ median {b['deaths_total']['median']}" if b.get("deaths_total") else "")

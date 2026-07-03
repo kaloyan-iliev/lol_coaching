@@ -64,6 +64,27 @@ def validate(entry: dict) -> list[str]:
         problems.append(f"{match_id}: wards placed {facts['vision']['wards_placed']} "
                         f"!= scoreboard {participant.get('wardsPlaced')}")
 
+    detector_wards = participant.get("detectorWardsPlaced")
+    if detector_wards is not None and facts["vision"]["control_wards"] != detector_wards:
+        problems.append(f"{match_id}: control wards from events {facts['vision']['control_wards']} "
+                        f"!= scoreboard detectorWardsPlaced {detector_wards}")
+
+    # Momentum data source check: FINAL timeline frame team gold vs scoreboard
+    # goldEarned totals (the facts curve is sampled, so recompute from the raw timeline)
+    timeline = store.load_timeline(match_id)
+    if timeline is not None:
+        from analysis.momentum import team_gold_curve
+        teams = {p["participantId"]: p["teamId"] for p in match["info"]["participants"]}
+        full_curve = team_gold_curve(timeline, teams, participant["teamId"])
+        our_team = participant["teamId"]
+        gold_by_team = {100: 0, 200: 0}
+        for p in match["info"]["participants"]:
+            gold_by_team[p["teamId"]] += p.get("goldEarned", 0)
+        scoreboard_diff = gold_by_team[our_team] - gold_by_team[200 if our_team == 100 else 100]
+        if full_curve and abs(full_curve[-1]["diff"] - scoreboard_diff) > 500:
+            problems.append(f"{match_id}: final-frame team-gold diff {full_curve[-1]['diff']} "
+                            f"vs scoreboard {scoreboard_diff} (>500g apart)")
+
     return problems
 
 

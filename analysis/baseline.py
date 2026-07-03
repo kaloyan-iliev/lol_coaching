@@ -8,6 +8,7 @@ import statistics
 import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+from analysis.challenges import BASELINE_CHALLENGE_KEYS
 
 
 def _quartiles(values: list[float]) -> dict | None:
@@ -59,6 +60,11 @@ def aggregate_baseline(all_facts: list[dict]) -> dict:
         "first_objective_participation_rate": (
             round(sum(first_objective_participation) / len(first_objective_participation), 2)
             if first_objective_participation else None),
+        "challenges": {
+            key: _quartiles(collect(
+                lambda f, k=key: ((f.get("challenges") or {}).get("ours") or {}).get(k)))
+            for key in BASELINE_CHALLENGE_KEYS
+        },
         "note": "Master+ EUW Ekko jungle. Quartiles over small n - treat as reference range, not law.",
     }
     return baseline

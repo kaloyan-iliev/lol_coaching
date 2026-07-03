@@ -26,6 +26,9 @@ FLAG_SECTIONS = {
     "zero_counter_jungling": ["pathing", "mid_game"],
     "died_outnumbered": ["mental", "vision"],
     "lost_outnumbered_teamfight": ["late_game", "mental"],
+    "lost_counter_jungle_battle": ["pathing", "vision"],
+    "no_crab_control_early": ["early_game", "pathing"],
+    "big_momentum_loss": ["mid_game", "objectives"],
 }
 
 DEFAULT_SECTIONS = ["jungle_fundamentals"]

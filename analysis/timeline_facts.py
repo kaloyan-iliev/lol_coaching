@@ -15,6 +15,8 @@ from analysis.jungle_camps import (
     classify_zone, dist, is_enemy_jungle,
 )
 from analysis.pathing import reconstruct_clear, _frame_positions
+from analysis.challenges import extract_challenges
+from analysis.momentum import team_gold_curve, detect_swings
 
 
 def _participants(match: dict) -> list[dict]:
@@ -322,6 +324,11 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
     # --- clear reconstruction ---
     clear = reconstruct_clear(timeline, pid, team_id)
 
+    # --- momentum (team gold swings) ---
+    teamfights = _cluster_teamfights(events, teams, champs, timeline, pid, team_id)
+    gold_curve = team_gold_curve(timeline, teams, team_id)
+    swings = detect_swings(gold_curve, events, teamfights, teams, team_id)
+
     facts = {
         "match_id": match["metadata"]["matchId"],
         "champion": us["championName"],
@@ -334,7 +341,18 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
         "enemy_jungler": enemy_jgl["championName"] if enemy_jgl else "unknown",
         "kda": f"{us['kills']}/{us['deaths']}/{us['assists']}",
         "comps": _team_comps(match, team_id),
-        "teamfights": _cluster_teamfights(events, teams, champs, timeline, pid, team_id),
+        "teamfights": teamfights,
+        "momentum": {
+            "swings": swings,
+            "team_gold_diff_curve": [
+                {"t": p["t"], "clock": p["clock"], "diff": p["diff"]}
+                for p in gold_curve if p["t"] % 240 < 60  # every ~4 min, compact
+            ],
+        },
+        "challenges": {
+            "ours": extract_challenges(us),
+            "enemy_jgl": extract_challenges(enemy_jgl) if enemy_jgl else None,
+        },
         "clear": clear,
         "deaths": deaths,
         "ganks": ganks,
@@ -395,4 +413,17 @@ def derive_flags(facts: dict) -> list[str]:
            and f["numbers_at_start"]["enemies"] > f["numbers_at_start"]["allies"]
            for f in facts["teamfights"]):
         flags.append("lost_outnumbered_teamfight")
+
+    # Exact Riot-computed signals (challenges), when present
+    ch = (facts.get("challenges") or {}).get("ours") or {}
+    if (ch.get("more_enemy_jungle_than_opponent") is not None
+            and ch["more_enemy_jungle_than_opponent"] < 0):
+        flags.append("lost_counter_jungle_battle")
+        if "zero_counter_jungling" in flags:
+            flags.remove("zero_counter_jungling")  # superseded by the exact stat
+    if ch.get("initial_crab_count") == 0:
+        flags.append("no_crab_control_early")
+    if any(s["direction"] == "lost" and abs(s["magnitude"]) >= 2500
+           for s in (facts.get("momentum") or {}).get("swings", [])):
+        flags.append("big_momentum_loss")
     return flags
