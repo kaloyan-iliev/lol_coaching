@@ -6,8 +6,249 @@
   "duration_clock": "23:23",
   "game_version": "16.13",
   "our_team": "red",
+  "our_role": "JUNGLE",
   "enemy_jungler": "Kindred",
   "kda": "16/3/9",
+  "comps": {
+    "ours": [
+      {
+        "champion": "Shen",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Fizz",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Ezreal",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Bard",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Udyr",
+        "role": "TOP"
+      },
+      {
+        "champion": "Kindred",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Katarina",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Jhin",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Camille",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 99,
+      "clock": "01:39",
+      "t_end": 100,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 0,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 202,
+      "clock": "03:21",
+      "t_end": 205,
+      "zone": "bot_lane",
+      "kills_total": 3,
+      "our_deaths": 1,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 241,
+      "clock": "04:01",
+      "t_end": 273,
+      "zone": "top_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 293,
+      "clock": "04:52",
+      "t_end": 315,
+      "zone": "red_jungle_bot",
+      "kills_total": 4,
+      "our_deaths": 2,
+      "enemy_deaths": 2,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 339,
+      "clock": "05:39",
+      "t_end": 348,
+      "zone": "blue_jungle_bot",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 471,
+      "clock": "07:51",
+      "t_end": 478,
+      "zone": "bot_river",
+      "kills_total": 3,
+      "our_deaths": 2,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 578,
+      "clock": "09:38",
+      "t_end": 632,
+      "zone": "top_lane",
+      "kills_total": 4,
+      "our_deaths": 1,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 851,
+      "clock": "14:11",
+      "t_end": 937,
+      "zone": "bot_lane",
+      "kills_total": 8,
+      "our_deaths": 3,
+      "enemy_deaths": 5,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1056,
+      "clock": "17:35",
+      "t_end": 1096,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1124,
+      "clock": "18:43",
+      "t_end": 1144,
+      "zone": "mid_lane",
+      "kills_total": 4,
+      "our_deaths": 0,
+      "enemy_deaths": 4,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1266,
+      "clock": "21:05",
+      "t_end": 1284,
+      "zone": "blue_jungle_top",
+      "kills_total": 3,
+      "our_deaths": 0,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1332,
+      "clock": "22:12",
+      "t_end": 1343,
+      "zone": "blue_jungle_bot",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    }
+  ],
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -136,6 +377,8 @@
       "zone": "bot_lane",
       "our_level": 3,
       "allies_nearby": 1,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "blue_jungle_top",
       "gold_diff_vs_enemy_jgl": 542,
       "flags": []
     },
@@ -147,6 +390,8 @@
       "zone": "blue_jungle_bot",
       "our_level": 5,
       "allies_nearby": 0,
+      "enemies_nearby": 1,
+      "enemy_jgl_zone": "blue_jungle_bot",
       "gold_diff_vs_enemy_jgl": 1665,
       "flags": [
         "alone_in_enemy_jungle"
@@ -160,6 +405,8 @@
       "zone": "blue_jungle_bot",
       "our_level": 10,
       "allies_nearby": 2,
+      "enemies_nearby": 3,
+      "enemy_jgl_zone": "blue_jungle_bot",
       "gold_diff_vs_enemy_jgl": 2663,
       "flags": []
     }
@@ -171,6 +418,7 @@
       "lane": "bot",
       "victim": "Camille",
       "result": "assist",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -179,6 +427,7 @@
       "lane": "bot",
       "victim": "Jhin",
       "result": "assist",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -187,6 +436,7 @@
       "lane": "top",
       "victim": "Udyr",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -195,6 +445,7 @@
       "lane": "bot",
       "victim": "Camille",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -203,6 +454,7 @@
       "lane": "mid",
       "victim": "Katarina",
       "result": "assist",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -211,6 +463,7 @@
       "lane": "bot",
       "victim": "Kindred",
       "result": "kill",
+      "enemy_jgl_zone": "blue_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -219,6 +472,7 @@
       "lane": "bot",
       "victim": "Udyr",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -227,6 +481,7 @@
       "lane": "mid",
       "victim": "Katarina",
       "result": "kill",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -235,6 +490,7 @@
       "lane": "mid",
       "victim": "Jhin",
       "result": "kill",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -243,6 +499,7 @@
       "lane": "bot",
       "victim": "Katarina",
       "result": "assist",
+      "enemy_jgl_zone": "mid_lane",
       "confidence": "heuristic"
     }
   ],

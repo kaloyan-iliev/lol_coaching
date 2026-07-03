@@ -6,8 +6,153 @@
   "duration_clock": "19:51",
   "game_version": "16.13",
   "our_team": "blue",
+  "our_role": "JUNGLE",
   "enemy_jungler": "Belveth",
   "kda": "2/3/3",
+  "comps": {
+    "ours": [
+      {
+        "champion": "Darius",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Malzahar",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Lucian",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Braum",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Ornn",
+        "role": "TOP"
+      },
+      {
+        "champion": "Belveth",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Annie",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Vladimir",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Rell",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 664,
+      "clock": "11:04",
+      "t_end": 671,
+      "zone": "top_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 725,
+      "clock": "12:05",
+      "t_end": 737,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 797,
+      "clock": "13:17",
+      "t_end": 811,
+      "zone": "blue_jungle_bot",
+      "kills_total": 3,
+      "our_deaths": 3,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 5,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 901,
+      "clock": "15:01",
+      "t_end": 932,
+      "zone": "red_jungle_top",
+      "kills_total": 5,
+      "our_deaths": 2,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1012,
+      "clock": "16:51",
+      "t_end": 1020,
+      "zone": "top_river",
+      "kills_total": 3,
+      "our_deaths": 3,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 5,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1165,
+      "clock": "19:24",
+      "t_end": 1173,
+      "zone": "bot_river",
+      "kills_total": 3,
+      "our_deaths": 3,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    }
+  ],
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -156,6 +301,8 @@
       "zone": "red_jungle_bot",
       "our_level": 4,
       "allies_nearby": 0,
+      "enemies_nearby": 0,
+      "enemy_jgl_zone": "red_jungle_top",
       "gold_diff_vs_enemy_jgl": 136,
       "flags": [
         "alone_in_enemy_jungle"
@@ -169,6 +316,8 @@
       "zone": "blue_jungle_bot",
       "our_level": 10,
       "allies_nearby": 1,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": -198,
       "flags": []
     },
@@ -180,8 +329,12 @@
       "zone": "mid_lane",
       "our_level": 10,
       "allies_nearby": 2,
+      "enemies_nearby": 4,
+      "enemy_jgl_zone": "red_jungle_top",
       "gold_diff_vs_enemy_jgl": -306,
-      "flags": []
+      "flags": [
+        "outnumbered"
+      ]
     }
   ],
   "ganks": [
@@ -191,6 +344,7 @@
       "lane": "mid",
       "victim": "Belveth",
       "result": "kill",
+      "enemy_jgl_zone": "mid_lane",
       "confidence": "heuristic"
     },
     {
@@ -199,6 +353,7 @@
       "lane": "mid",
       "victim": "Annie",
       "result": "assist",
+      "enemy_jgl_zone": "blue_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -207,6 +362,7 @@
       "lane": "mid",
       "victim": "Annie",
       "result": "assist",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     }
   ],
@@ -374,6 +530,8 @@
   "flags": [
     "died_alone_in_enemy_jungle",
     "first_horde_lost_absent",
-    "no_control_wards"
+    "no_control_wards",
+    "died_outnumbered",
+    "lost_outnumbered_teamfight"
   ]
 }

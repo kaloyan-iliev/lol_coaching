@@ -45,7 +45,11 @@ Working notes on what's built, what's verified, and what comes next.
 4. **Streamlit "Game Review" tab** — same functions as `review_game.py`, UI on top.
 5. **Champion-agnostic reviews** — the analyzer is already champion-agnostic
    except the baseline; add per-champion baselines when you play others.
-6. **Later / research:** RAG (only if the bible outgrows ~100k tokens),
+6. **Video citations in reviews** — for each Top-3 mistake, attach a
+   "watch this" link (coach video + timestamp) for the underlying concept.
+   The citation machinery already exists in `ask_transcripts.py`; needs a
+   concept→video-moment index built from videos.json key_timestamps.
+7. **Later / research:** RAG (only if the bible outgrows ~100k tokens),
    personalization (recurring-mistake tracking across your reviews),
    HuggingFace gptilt Challenger dataset as a bigger offline baseline,
    patch-drift checks in `analysis/jungle_camps.py` each major patch.

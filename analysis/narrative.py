@@ -46,6 +46,15 @@ def build_fact_sheet(facts: dict, baseline: dict | None = None) -> str:
         lines.append(f"- Baseline: {b.get('n_games')} Master+ EUW Ekko-jungle games, "
                      f"patches {', '.join(b.get('patches', []))}")
 
+    comps = facts.get("comps")
+    if comps:
+        lines.append("")
+        lines.append("## Draft")
+        ours = ", ".join(f"{c['champion']} ({c['role'].lower()})" for c in comps["ours"])
+        theirs = ", ".join(f"{c['champion']} ({c['role'].lower()})" for c in comps["enemy"])
+        lines.append(f"- Our team: {ours}")
+        lines.append(f"- Enemy team: {theirs}")
+
     lines.append("")
     lines.append("## First clear (inferred from 60s snapshots - times approximate)")
     lines.append(f"- Start: {clear['start']}")
@@ -78,17 +87,31 @@ def build_fact_sheet(facts: dict, baseline: dict | None = None) -> str:
                  + ")")
     for d in facts["deaths"]:
         extra = f", flags: {'/'.join(d['flags'])}" if d["flags"] else ""
+        ejgl = f", enemy jgl was in {d['enemy_jgl_zone']}" if d.get("enemy_jgl_zone") else ""
+        numbers = (f"numbers nearby: {d['allies_nearby']} allies vs {d.get('enemies_nearby', '?')} enemies"
+                   if d.get("enemies_nearby") is not None
+                   else f"allies within 2500 units: {d['allies_nearby']}")
+        gold = (f", gold vs enemy jgl: {d['gold_diff_vs_enemy_jgl']:+d}g"
+                if d.get("gold_diff_vs_enemy_jgl") is not None else "")
         lines.append(f"- {d['clock']} killed by {d['killer']} (+{d['assists']} assists) in {d['zone']}, "
-                     f"level {d['our_level']}, allies within 2500 units: {d['allies_nearby']}, "
-                     f"gold vs enemy jgl: {d['gold_diff_vs_enemy_jgl']:+d}g{extra}"
-                     if d['gold_diff_vs_enemy_jgl'] is not None else
-                     f"- {d['clock']} killed by {d['killer']} in {d['zone']}{extra}")
+                     f"level {d['our_level']}, {numbers}{gold}{ejgl}{extra}")
 
     lines.append("")
     lines.append(f"## Kill involvement in lanes / ganks ({len(facts['ganks'])}, heuristic: "
                  "only kills are visible, not gank attempts)")
     for g in facts["ganks"]:
-        lines.append(f"- {g['clock']} {g['result']} on {g['victim']} in {g['lane']} lane")
+        ejgl = f" (enemy jungler was in {g['enemy_jgl_zone']} at the time)" if g.get("enemy_jgl_zone") else ""
+        lines.append(f"- {g['clock']} {g['result']} on {g['victim']} in {g['lane']} lane{ejgl}")
+
+    tf = facts.get("teamfights", [])
+    lines.append("")
+    lines.append(f"## Teamfights / skirmishes ({len(tf)} detected - clusters of 2+ kills, heuristic)")
+    for f_ in tf:
+        nums = f_["numbers_at_start"]
+        lines.append(f"- {f_['clock']} in {f_['zone']}: {f_['result'].upper()} "
+                     f"({f_['enemy_deaths']} enemy deaths vs {f_['our_deaths']} ours), "
+                     f"numbers at start ~{nums['allies']}v{nums['enemies']} "
+                     f"({'we were involved' if f_['we_involved'] else 'we were NOT involved'})")
 
     obj_names = {
         "HORDE": "HORDE (void grubs)",

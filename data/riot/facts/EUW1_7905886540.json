@@ -6,8 +6,201 @@
   "duration_clock": "31:12",
   "game_version": "16.13",
   "our_team": "blue",
+  "our_role": "JUNGLE",
   "enemy_jungler": "Elise",
   "kda": "10/2/8",
+  "comps": {
+    "ours": [
+      {
+        "champion": "Sion",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Tristana",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Yasuo",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Rell",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Vayne",
+        "role": "TOP"
+      },
+      {
+        "champion": "Elise",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Jayce",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Zeri",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Soraka",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 339,
+      "clock": "05:39",
+      "t_end": 353,
+      "zone": "bot_lane",
+      "kills_total": 5,
+      "our_deaths": 3,
+      "enemy_deaths": 2,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 404,
+      "clock": "06:44",
+      "t_end": 410,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 488,
+      "clock": "08:07",
+      "t_end": 497,
+      "zone": "mid_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 858,
+      "clock": "14:17",
+      "t_end": 860,
+      "zone": "bot_river",
+      "kills_total": 5,
+      "our_deaths": 4,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 903,
+      "clock": "15:03",
+      "t_end": 973,
+      "zone": "mid_lane",
+      "kills_total": 4,
+      "our_deaths": 0,
+      "enemy_deaths": 4,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1102,
+      "clock": "18:21",
+      "t_end": 1106,
+      "zone": "top_river",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1350,
+      "clock": "22:30",
+      "t_end": 1360,
+      "zone": "bot_lane",
+      "kills_total": 3,
+      "our_deaths": 1,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1456,
+      "clock": "24:16",
+      "t_end": 1526,
+      "zone": "blue_jungle_bot",
+      "kills_total": 7,
+      "our_deaths": 2,
+      "enemy_deaths": 5,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1818,
+      "clock": "30:17",
+      "t_end": 1837,
+      "zone": "mid_lane",
+      "kills_total": 6,
+      "our_deaths": 1,
+      "enemy_deaths": 5,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    }
+  ],
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -136,6 +329,8 @@
       "zone": "bot_river",
       "our_level": 9,
       "allies_nearby": 3,
+      "enemies_nearby": 4,
+      "enemy_jgl_zone": "red_jungle_bot",
       "gold_diff_vs_enemy_jgl": 300,
       "flags": []
     },
@@ -147,6 +342,8 @@
       "zone": "blue_jungle_bot",
       "our_level": 14,
       "allies_nearby": 0,
+      "enemies_nearby": 1,
+      "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": 910,
       "flags": []
     }
@@ -158,6 +355,7 @@
       "lane": "bot",
       "victim": "Soraka",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -166,6 +364,7 @@
       "lane": "bot",
       "victim": "Soraka",
       "result": "assist",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -174,6 +373,7 @@
       "lane": "bot",
       "victim": "Zeri",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -182,6 +382,7 @@
       "lane": "mid",
       "victim": "Jayce",
       "result": "kill",
+      "enemy_jgl_zone": "top_river",
       "confidence": "heuristic"
     },
     {
@@ -190,6 +391,7 @@
       "lane": "bot",
       "victim": "Soraka",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -198,6 +400,7 @@
       "lane": "mid",
       "victim": "Zeri",
       "result": "assist",
+      "enemy_jgl_zone": "bot_river",
       "confidence": "heuristic"
     },
     {
@@ -206,6 +409,7 @@
       "lane": "mid",
       "victim": "Soraka",
       "result": "assist",
+      "enemy_jgl_zone": "bot_river",
       "confidence": "heuristic"
     },
     {
@@ -214,6 +418,7 @@
       "lane": "mid",
       "victim": "Zeri",
       "result": "assist",
+      "enemy_jgl_zone": "top_river",
       "confidence": "heuristic"
     },
     {
@@ -222,6 +427,7 @@
       "lane": "bot",
       "victim": "Jayce",
       "result": "assist",
+      "enemy_jgl_zone": "bot_lane",
       "confidence": "heuristic"
     },
     {
@@ -230,6 +436,7 @@
       "lane": "bot",
       "victim": "Elise",
       "result": "assist",
+      "enemy_jgl_zone": "bot_lane",
       "confidence": "heuristic"
     }
   ],

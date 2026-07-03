@@ -6,8 +6,185 @@
   "duration_clock": "20:29",
   "game_version": "16.13",
   "our_team": "blue",
+  "our_role": "JUNGLE",
   "enemy_jungler": "Aatrox",
   "kda": "3/4/1",
+  "comps": {
+    "ours": [
+      {
+        "champion": "Ornn",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Yone",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Smolder",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Camille",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Jax",
+        "role": "TOP"
+      },
+      {
+        "champion": "Aatrox",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Akali",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Tristana",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Karma",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 203,
+      "clock": "03:22",
+      "t_end": 205,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 274,
+      "clock": "04:34",
+      "t_end": 307,
+      "zone": "bot_lane",
+      "kills_total": 3,
+      "our_deaths": 3,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 402,
+      "clock": "06:41",
+      "t_end": 436,
+      "zone": "bot_lane",
+      "kills_total": 3,
+      "our_deaths": 2,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 664,
+      "clock": "11:04",
+      "t_end": 666,
+      "zone": "mid_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 706,
+      "clock": "11:46",
+      "t_end": 719,
+      "zone": "top_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 986,
+      "clock": "16:26",
+      "t_end": 996,
+      "zone": "mid_lane",
+      "kills_total": 3,
+      "our_deaths": 3,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1098,
+      "clock": "18:17",
+      "t_end": 1122,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1169,
+      "clock": "19:29",
+      "t_end": 1208,
+      "zone": "blue_jungle_top",
+      "kills_total": 4,
+      "our_deaths": 4,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 0,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    }
+  ],
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -146,6 +323,8 @@
       "zone": "blue_jungle_top",
       "our_level": 4,
       "allies_nearby": 1,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": 0,
       "flags": []
     },
@@ -157,6 +336,8 @@
       "zone": "bot_lane",
       "our_level": 4,
       "allies_nearby": 1,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "red_jungle_bot",
       "gold_diff_vs_enemy_jgl": -231,
       "flags": []
     },
@@ -168,6 +349,8 @@
       "zone": "top_river",
       "our_level": 9,
       "allies_nearby": 2,
+      "enemies_nearby": 1,
+      "enemy_jgl_zone": "red_base",
       "gold_diff_vs_enemy_jgl": -1071,
       "flags": []
     },
@@ -179,6 +362,8 @@
       "zone": "top_lane",
       "our_level": 12,
       "allies_nearby": 4,
+      "enemies_nearby": 4,
+      "enemy_jgl_zone": "blue_jungle_top",
       "gold_diff_vs_enemy_jgl": -2037,
       "flags": []
     }
@@ -190,6 +375,7 @@
       "lane": "top",
       "victim": "Jax",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -198,6 +384,7 @@
       "lane": "top",
       "victim": "Jax",
       "result": "assist",
+      "enemy_jgl_zone": "red_base",
       "confidence": "heuristic"
     },
     {
@@ -206,6 +393,7 @@
       "lane": "mid",
       "victim": "Tristana",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -214,6 +402,7 @@
       "lane": "bot",
       "victim": "Jax",
       "result": "kill",
+      "enemy_jgl_zone": "bot_river",
       "confidence": "heuristic"
     }
   ],
@@ -387,6 +576,7 @@
     "first_dragon_lost_absent",
     "first_riftherald_lost_absent",
     "no_control_wards",
-    "zero_counter_jungling"
+    "zero_counter_jungling",
+    "lost_outnumbered_teamfight"
   ]
 }

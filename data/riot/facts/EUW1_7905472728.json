@@ -6,8 +6,233 @@
   "duration_clock": "23:20",
   "game_version": "16.13",
   "our_team": "blue",
+  "our_role": "JUNGLE",
   "enemy_jungler": "XinZhao",
   "kda": "12/2/7",
+  "comps": {
+    "ours": [
+      {
+        "champion": "KSante",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Yone",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Ashe",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Soraka",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Camille",
+        "role": "TOP"
+      },
+      {
+        "champion": "XinZhao",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Akali",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Zoe",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Pyke",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 344,
+      "clock": "05:43",
+      "t_end": 350,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 2,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 424,
+      "clock": "07:03",
+      "t_end": 426,
+      "zone": "bot_lane",
+      "kills_total": 3,
+      "our_deaths": 1,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 531,
+      "clock": "08:51",
+      "t_end": 561,
+      "zone": "bot_lane",
+      "kills_total": 4,
+      "our_deaths": 1,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 577,
+      "clock": "09:36",
+      "t_end": 600,
+      "zone": "mid_lane",
+      "kills_total": 3,
+      "our_deaths": 1,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 809,
+      "clock": "13:28",
+      "t_end": 821,
+      "zone": "top_lane",
+      "kills_total": 3,
+      "our_deaths": 2,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 0,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 838,
+      "clock": "13:57",
+      "t_end": 868,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 934,
+      "clock": "15:33",
+      "t_end": 944,
+      "zone": "bot_river",
+      "kills_total": 4,
+      "our_deaths": 2,
+      "enemy_deaths": 2,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1006,
+      "clock": "16:46",
+      "t_end": 1006,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1027,
+      "clock": "17:06",
+      "t_end": 1041,
+      "zone": "mid_lane",
+      "kills_total": 4,
+      "our_deaths": 1,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1151,
+      "clock": "19:11",
+      "t_end": 1162,
+      "zone": "mid_lane",
+      "kills_total": 4,
+      "our_deaths": 1,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1283,
+      "clock": "21:22",
+      "t_end": 1346,
+      "zone": "top_river",
+      "kills_total": 8,
+      "our_deaths": 3,
+      "enemy_deaths": 5,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    }
+  ],
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -156,6 +381,8 @@
       "zone": "top_lane",
       "our_level": 10,
       "allies_nearby": 0,
+      "enemies_nearby": 1,
+      "enemy_jgl_zone": "mid_lane",
       "gold_diff_vs_enemy_jgl": 772,
       "flags": []
     },
@@ -167,8 +394,12 @@
       "zone": "bot_river",
       "our_level": 11,
       "allies_nearby": 1,
+      "enemies_nearby": 3,
+      "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": 1017,
-      "flags": []
+      "flags": [
+        "outnumbered"
+      ]
     }
   ],
   "ganks": [
@@ -178,6 +409,7 @@
       "lane": "bot",
       "victim": "Zoe",
       "result": "assist",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -186,6 +418,7 @@
       "lane": "mid",
       "victim": "Akali",
       "result": "assist",
+      "enemy_jgl_zone": "mid_lane",
       "confidence": "heuristic"
     },
     {
@@ -194,6 +427,7 @@
       "lane": "top",
       "victim": "Akali",
       "result": "assist",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -202,6 +436,7 @@
       "lane": "mid",
       "victim": "Pyke",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -210,6 +445,7 @@
       "lane": "mid",
       "victim": "Akali",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -218,6 +454,7 @@
       "lane": "mid",
       "victim": "XinZhao",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -226,6 +463,7 @@
       "lane": "top",
       "victim": "Camille",
       "result": "kill",
+      "enemy_jgl_zone": "red_base",
       "confidence": "heuristic"
     },
     {
@@ -234,6 +472,7 @@
       "lane": "mid",
       "victim": "Akali",
       "result": "assist",
+      "enemy_jgl_zone": "mid_lane",
       "confidence": "heuristic"
     }
   ],
@@ -413,5 +652,8 @@
     "control_wards": 1,
     "wards_killed": 2
   },
-  "flags": []
+  "flags": [
+    "died_outnumbered",
+    "lost_outnumbered_teamfight"
+  ]
 }

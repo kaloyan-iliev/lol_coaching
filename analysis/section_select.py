@@ -24,6 +24,8 @@ FLAG_SECTIONS = {
     "no_control_wards": ["vision"],
     "big_early_gold_deficit_vs_jungler": ["early_game", "pathing"],
     "zero_counter_jungling": ["pathing", "mid_game"],
+    "died_outnumbered": ["mental", "vision"],
+    "lost_outnumbered_teamfight": ["late_game", "mental"],
 }
 
 DEFAULT_SECTIONS = ["jungle_fundamentals"]

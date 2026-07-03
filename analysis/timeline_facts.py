@@ -72,6 +72,81 @@ def mmss(t_s: float) -> str:
     return f"{int(t_s) // 60:02d}:{int(t_s) % 60:02d}"
 
 
+ROLE_ORDER = ["TOP", "JUNGLE", "MIDDLE", "BOTTOM", "UTILITY"]
+
+
+def _team_comps(match: dict, our_team_id: int) -> dict:
+    """Both drafts, ordered by role."""
+    def comp(team_id):
+        members = [p for p in _participants(match) if p["teamId"] == team_id]
+        members.sort(key=lambda p: ROLE_ORDER.index(p["teamPosition"])
+                     if p.get("teamPosition") in ROLE_ORDER else 9)
+        return [{"champion": p["championName"],
+                 "role": p.get("teamPosition", "?")} for p in members]
+    return {"ours": comp(our_team_id),
+            "enemy": comp(200 if our_team_id == 100 else 100)}
+
+
+def _cluster_teamfights(events: list[dict], teams: dict[int, int], champs: dict[int, str],
+                        timeline: dict, pid: int, team_id: int) -> list[dict]:
+    """Group champion kills into fights: kills within 45s and 3500 units of each other."""
+    kills = [ev for ev in events if ev.get("type") == "CHAMPION_KILL"]
+    fights = []
+    current = []
+    for ev in kills:
+        if current:
+            last = current[-1]
+            dt = (ev["timestamp"] - last["timestamp"]) / 1000
+            lp, ep = last.get("position") or {}, ev.get("position") or {}
+            dd = dist((lp.get("x", 0), lp.get("y", 0)), (ep.get("x", 0), ep.get("y", 0)))
+            if dt > 45 or dd > 3500:
+                fights.append(current)
+                current = []
+        current.append(ev)
+    if current:
+        fights.append(current)
+
+    out = []
+    for fight in fights:
+        if len(fight) < 2:
+            continue  # single kills are already covered by deaths/ganks
+        t0 = fight[0]["timestamp"] / 1000
+        t1 = fight[-1]["timestamp"] / 1000
+        our_deaths = sum(1 for ev in fight if teams.get(ev.get("victimId")) == team_id)
+        their_deaths = len(fight) - our_deaths
+        involved = set()
+        for ev in fight:
+            involved.add(ev.get("victimId"))
+            involved.add(ev.get("killerId"))
+            involved.update(ev.get("assistingParticipantIds", []))
+        involved.discard(None)
+        involved.discard(0)
+        we_involved = pid in involved
+
+        # Numbers on each side near the fight start (heuristic: 60s snapshots)
+        centroid_pos = fight[0].get("position") or {}
+        centroid = (centroid_pos.get("x", 0), centroid_pos.get("y", 0))
+        minute_positions = _positions_at_minute(timeline, round(t0 / 60))
+        allies_near = sum(1 for p, pos in minute_positions.items()
+                          if teams.get(p) == team_id and dist(pos, centroid) < 4000)
+        enemies_near = sum(1 for p, pos in minute_positions.items()
+                           if teams.get(p) != team_id and dist(pos, centroid) < 4000)
+
+        zone = classify_zone(*centroid)
+        out.append({
+            "t_start": round(t0), "clock": mmss(t0), "t_end": round(t1),
+            "zone": zone,
+            "kills_total": len(fight),
+            "our_deaths": our_deaths, "enemy_deaths": their_deaths,
+            "result": ("won" if their_deaths > our_deaths
+                       else "lost" if our_deaths > their_deaths else "even"),
+            "we_involved": we_involved,
+            "numbers_at_start": {"allies": allies_near, "enemies": enemies_near,
+                                 "confidence": "heuristic (60s snapshots)"},
+        })
+    return out
+
+
 def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
     us = _find_participant(match, puuid)
     pid = us["participantId"]
@@ -84,6 +159,12 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
     our_snaps = _frame_positions(timeline, pid)
     ejgl_snaps = _frame_positions(timeline, enemy_jgl["participantId"]) if enemy_jgl else []
     events = _all_events(timeline)
+
+    def enemy_jgl_zone_at(t_s: float) -> str | None:
+        snap = _snapshot_at(ejgl_snaps, t_s)
+        if snap is None:
+            return None
+        return classify_zone(snap["x"], snap["y"])
 
     def gold_xp_diff_at(t_s: float) -> tuple[int | None, int | None]:
         if not ejgl_snaps:
@@ -103,10 +184,16 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
         pos = ev.get("position") or {}
         zone = classify_zone(pos.get("x", 0), pos.get("y", 0))
         minute_positions = _positions_at_minute(timeline, round(t / 60))
+        death_pos = (pos.get("x", 0), pos.get("y", 0))
         allies_nearby = sum(
             1 for other_pid, opos in minute_positions.items()
             if other_pid != pid and teams.get(other_pid) == team_id
-            and dist(opos, (pos.get("x", 0), pos.get("y", 0))) < NEARBY_ALLY_RADIUS
+            and dist(opos, death_pos) < NEARBY_ALLY_RADIUS
+        )
+        enemies_nearby = sum(
+            1 for other_pid, opos in minute_positions.items()
+            if teams.get(other_pid) != team_id
+            and dist(opos, death_pos) < NEARBY_ALLY_RADIUS
         )
         gd, xd = gold_xp_diff_at(t)
         snap = _snapshot_at(our_snaps, t)
@@ -117,9 +204,13 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
             "zone": zone,
             "our_level": snap["level"] if snap else None,
             "allies_nearby": allies_nearby,
+            "enemies_nearby": enemies_nearby,
+            "enemy_jgl_zone": enemy_jgl_zone_at(t),
             "gold_diff_vs_enemy_jgl": gd,
             "flags": [],
         }
+        if enemies_nearby - allies_nearby >= 2:
+            death["flags"].append("outnumbered")
         if is_enemy_jungle(zone, team_id) and allies_nearby == 0:
             death["flags"].append("alone_in_enemy_jungle")
         if zone.endswith("_river") and t < 210:
@@ -151,6 +242,7 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
                 "lane": zone.replace("_lane", ""),
                 "victim": champs.get(ev.get("victimId"), "unknown"),
                 "result": "kill" if involved_as_killer else "assist",
+                "enemy_jgl_zone": enemy_jgl_zone_at(t),
                 "confidence": "heuristic",
             })
             if first_gank_t is None:
@@ -238,8 +330,11 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
         "duration_clock": mmss(duration_s),
         "game_version": ".".join(match["info"].get("gameVersion", "").split(".")[:2]),
         "our_team": "blue" if team_id == 100 else "red",
+        "our_role": us.get("teamPosition", "?"),
         "enemy_jungler": enemy_jgl["championName"] if enemy_jgl else "unknown",
         "kda": f"{us['kills']}/{us['deaths']}/{us['assists']}",
+        "comps": _team_comps(match, team_id),
+        "teamfights": _cluster_teamfights(events, teams, champs, timeline, pid, team_id),
         "clear": clear,
         "deaths": deaths,
         "ganks": ganks,
@@ -294,4 +389,10 @@ def derive_flags(facts: dict) -> list[str]:
         flags.append("big_early_gold_deficit_vs_jungler")
     if not facts["counter_jungle"]:
         flags.append("zero_counter_jungling")
+    if any("outnumbered" in d["flags"] for d in deaths):
+        flags.append("died_outnumbered")
+    if any(f["we_involved"] and f["result"] == "lost"
+           and f["numbers_at_start"]["enemies"] > f["numbers_at_start"]["allies"]
+           for f in facts["teamfights"]):
+        flags.append("lost_outnumbered_teamfight")
     return flags

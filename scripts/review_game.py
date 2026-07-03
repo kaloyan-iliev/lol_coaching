@@ -93,6 +93,9 @@ def check_timestamps(review: str, facts: dict) -> list[str]:
         fact_times.add(o["t"])
     for c in facts["counter_jungle"]:
         fact_times.add(c["t"])
+    for f_ in facts.get("teamfights", []):
+        fact_times.add(f_["t_start"])
+        fact_times.add(f_["t_end"])
     for p in facts["economy"]["gold_diff_vs_enemy_jgl_curve"]:
         fact_times.add(p["t"])
     for s in facts["clear"]["sequence"]:
@@ -158,6 +161,15 @@ def main():
     baseline = load_baseline()
     if baseline is None:
         print("(No baseline stats found - run riot_build_baseline.py for Master+ comparisons)")
+
+    if facts["our_role"] != "JUNGLE":
+        print(f"\nWARNING: you played {facts['champion']} {facts['our_role']}, but this analyzer "
+              f"is built for JUNGLE. Clear/pathing/counter-jungle facts will be meaningless; "
+              f"deaths, teamfights and objectives are still valid.")
+    if baseline and facts["champion"] != baseline.get("champion"):
+        print(f"(You played {facts['champion']}; baseline is {baseline.get('champion')}-specific - "
+              f"omitting per-champion stat comparisons)")
+        baseline = None
 
     fact_sheet = build_fact_sheet(facts, baseline)
 

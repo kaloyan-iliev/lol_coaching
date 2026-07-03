@@ -6,8 +6,169 @@
   "duration_clock": "18:34",
   "game_version": "16.13",
   "our_team": "red",
+  "our_role": "JUNGLE",
   "enemy_jungler": "Udyr",
   "kda": "5/4/2",
+  "comps": {
+    "ours": [
+      {
+        "champion": "Zed",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Cassiopeia",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Aphelios",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Thresh",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Aurora",
+        "role": "TOP"
+      },
+      {
+        "champion": "Udyr",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Yone",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Xayah",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Rakan",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 190,
+      "clock": "03:09",
+      "t_end": 217,
+      "zone": "red_jungle_bot",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 366,
+      "clock": "06:05",
+      "t_end": 370,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 2,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 422,
+      "clock": "07:02",
+      "t_end": 423,
+      "zone": "top_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 501,
+      "clock": "08:21",
+      "t_end": 517,
+      "zone": "bot_lane",
+      "kills_total": 4,
+      "our_deaths": 2,
+      "enemy_deaths": 2,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 688,
+      "clock": "11:27",
+      "t_end": 697,
+      "zone": "mid_lane",
+      "kills_total": 4,
+      "our_deaths": 3,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 829,
+      "clock": "13:49",
+      "t_end": 841,
+      "zone": "bot_lane",
+      "kills_total": 3,
+      "our_deaths": 1,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1022,
+      "clock": "17:01",
+      "t_end": 1022,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    }
+  ],
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -146,6 +307,8 @@
       "zone": "red_jungle_bot",
       "our_level": 5,
       "allies_nearby": 2,
+      "enemies_nearby": 3,
+      "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": 594,
       "flags": []
     },
@@ -157,6 +320,8 @@
       "zone": "mid_lane",
       "our_level": 9,
       "allies_nearby": 1,
+      "enemies_nearby": 1,
+      "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": -211,
       "flags": []
     },
@@ -168,6 +333,8 @@
       "zone": "top_lane",
       "our_level": 11,
       "allies_nearby": 1,
+      "enemies_nearby": 1,
+      "enemy_jgl_zone": "blue_jungle_bot",
       "gold_diff_vs_enemy_jgl": -382,
       "flags": []
     },
@@ -179,8 +346,12 @@
       "zone": "bot_lane",
       "our_level": 12,
       "allies_nearby": 0,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "red_jungle_bot",
       "gold_diff_vs_enemy_jgl": -890,
-      "flags": []
+      "flags": [
+        "outnumbered"
+      ]
     }
   ],
   "ganks": [
@@ -190,6 +361,7 @@
       "lane": "mid",
       "victim": "Yone",
       "result": "kill",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -198,6 +370,7 @@
       "lane": "bot",
       "victim": "Rakan",
       "result": "kill",
+      "enemy_jgl_zone": "blue_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -206,6 +379,7 @@
       "lane": "mid",
       "victim": "Yone",
       "result": "kill",
+      "enemy_jgl_zone": "bot_lane",
       "confidence": "heuristic"
     },
     {
@@ -214,6 +388,7 @@
       "lane": "mid",
       "victim": "Yone",
       "result": "assist",
+      "enemy_jgl_zone": "bot_river",
       "confidence": "heuristic"
     },
     {
@@ -222,6 +397,7 @@
       "lane": "top",
       "victim": "Aurora",
       "result": "kill",
+      "enemy_jgl_zone": "blue_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -230,6 +406,7 @@
       "lane": "bot",
       "victim": "Yone",
       "result": "kill",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     }
   ],
@@ -397,6 +574,7 @@
     "first_horde_lost_absent",
     "first_riftherald_lost_absent",
     "no_control_wards",
-    "zero_counter_jungling"
+    "zero_counter_jungling",
+    "died_outnumbered"
   ]
 }

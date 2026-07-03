@@ -6,8 +6,185 @@
   "duration_clock": "25:16",
   "game_version": "16.13",
   "our_team": "blue",
+  "our_role": "JUNGLE",
   "enemy_jungler": "Pantheon",
   "kda": "8/1/8",
+  "comps": {
+    "ours": [
+      {
+        "champion": "Sion",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "AurelionSol",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Kalista",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Alistar",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Zoe",
+        "role": "TOP"
+      },
+      {
+        "champion": "Pantheon",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Kassadin",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Zeri",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Janna",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 141,
+      "clock": "02:20",
+      "t_end": 148,
+      "zone": "bot_river",
+      "kills_total": 3,
+      "our_deaths": 2,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 378,
+      "clock": "06:18",
+      "t_end": 381,
+      "zone": "top_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 412,
+      "clock": "06:51",
+      "t_end": 415,
+      "zone": "top_river",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 4,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 432,
+      "clock": "07:11",
+      "t_end": 432,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 680,
+      "clock": "11:19",
+      "t_end": 710,
+      "zone": "bot_lane",
+      "kills_total": 4,
+      "our_deaths": 2,
+      "enemy_deaths": 2,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1089,
+      "clock": "18:08",
+      "t_end": 1092,
+      "zone": "blue_jungle_bot",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1322,
+      "clock": "22:02",
+      "t_end": 1369,
+      "zone": "red_jungle_top",
+      "kills_total": 3,
+      "our_deaths": 1,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1474,
+      "clock": "24:33",
+      "t_end": 1479,
+      "zone": "red_jungle_bot",
+      "kills_total": 3,
+      "our_deaths": 0,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    }
+  ],
   "clear": {
     "start": "red_side_start",
     "sequence": [
@@ -136,8 +313,12 @@
       "zone": "red_jungle_top",
       "our_level": 12,
       "allies_nearby": 1,
+      "enemies_nearby": 4,
+      "enemy_jgl_zone": "red_jungle_top",
       "gold_diff_vs_enemy_jgl": 1912,
-      "flags": []
+      "flags": [
+        "outnumbered"
+      ]
     }
   ],
   "ganks": [
@@ -147,6 +328,7 @@
       "lane": "mid",
       "victim": "Kassadin",
       "result": "assist",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -155,6 +337,7 @@
       "lane": "top",
       "victim": "Zoe",
       "result": "assist",
+      "enemy_jgl_zone": "red_jungle_top",
       "confidence": "heuristic"
     },
     {
@@ -163,6 +346,7 @@
       "lane": "bot",
       "victim": "Zeri",
       "result": "assist",
+      "enemy_jgl_zone": "bot_river",
       "confidence": "heuristic"
     },
     {
@@ -171,6 +355,7 @@
       "lane": "bot",
       "victim": "Janna",
       "result": "assist",
+      "enemy_jgl_zone": "bot_river",
       "confidence": "heuristic"
     },
     {
@@ -179,6 +364,7 @@
       "lane": "top",
       "victim": "Zoe",
       "result": "assist",
+      "enemy_jgl_zone": "red_jungle_bot",
       "confidence": "heuristic"
     },
     {
@@ -187,6 +373,7 @@
       "lane": "mid",
       "victim": "Kassadin",
       "result": "kill",
+      "enemy_jgl_zone": "mid_lane",
       "confidence": "heuristic"
     },
     {
@@ -195,6 +382,7 @@
       "lane": "top",
       "victim": "Zoe",
       "result": "kill",
+      "enemy_jgl_zone": "bot_lane",
       "confidence": "heuristic"
     }
   ],
@@ -407,6 +595,7 @@
     "wards_killed": 7
   },
   "flags": [
-    "first_dragon_lost_absent"
+    "first_dragon_lost_absent",
+    "died_outnumbered"
   ]
 }
