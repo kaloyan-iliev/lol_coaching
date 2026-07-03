@@ -252,54 +252,54 @@
   "momentum": {
     "swings": [
       {
-        "t_start": 180,
+        "t_start": 300,
         "t_end": 480,
-        "clock_start": "03:00",
+        "clock_start": "05:00",
         "clock_end": "08:00",
-        "magnitude": 2068,
+        "magnitude": 1774,
         "direction": "gained",
-        "diff_before": -485,
+        "diff_before": -191,
         "diff_after": 1583,
         "drivers": [
           "won teamfight at 05:33 in top_river (2-1 kills)",
           "even teamfight at 05:54 in mid_lane (1-1 kills)",
           "won teamfight at 07:28 in bot_river (3-1 kills)",
-          "even teamfight at 08:02 in mid_lane (1-1 kills)",
-          "kill gold to us +863g"
+          "kill gold to us +663g"
         ]
       },
       {
         "t_start": 540,
-        "t_end": 1186,
+        "t_end": 720,
         "clock_start": "09:00",
-        "clock_end": "19:46",
-        "magnitude": 8457,
+        "clock_end": "12:00",
+        "magnitude": 2185,
         "direction": "gained",
         "diff_before": 1139,
-        "diff_after": 9596,
+        "diff_after": 3324,
         "drivers": [
           "won teamfight at 09:25 in top_lane (2-0 kills)",
           "won teamfight at 10:25 in bot_lane (3-2 kills)",
           "won teamfight at 10:55 in top_lane (2-1 kills)",
-          "even teamfight at 13:25 in bot_lane (1-1 kills)",
-          "even teamfight at 14:13 in top_lane (3-3 kills)",
-          "won teamfight at 15:27 in mid_lane (9-5 kills)",
-          "even teamfight at 18:26 in bot_lane (1-1 kills)",
-          "won teamfight at 19:29 in bot_river (3-0 kills)",
           "we took HORDE at 09:42",
           "we took HORDE at 09:51",
-          "we took HORDE at 09:59",
-          "we took DRAGON at 11:19",
-          "we destroyed a tower_building at 11:27",
-          "we destroyed a tower_building at 14:18",
-          "we destroyed a tower_building at 15:55",
-          "we destroyed a tower_building at 16:45",
-          "we destroyed a tower_building at 16:56",
+          "we took HORDE at 09:59"
+        ]
+      },
+      {
+        "t_start": 960,
+        "t_end": 1140,
+        "clock_start": "16:00",
+        "clock_end": "19:00",
+        "magnitude": 4059,
+        "direction": "gained",
+        "diff_before": 4581,
+        "diff_after": 8640,
+        "drivers": [
+          "won teamfight at 15:27 in mid_lane (9-5 kills)",
+          "even teamfight at 18:26 in bot_lane (1-1 kills)",
           "we took DRAGON at 17:32",
-          "we destroyed a tower_building at 18:36",
-          "we destroyed a tower_building at 18:45",
-          "enemy took RIFTHERALD at 19:45",
-          "kill gold to us +1220g"
+          "we destroyed 5 buildings",
+          "kill gold to us +1144g"
         ]
       }
     ],

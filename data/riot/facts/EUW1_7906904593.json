@@ -140,23 +140,38 @@
   "momentum": {
     "swings": [
       {
-        "t_start": 480,
-        "t_end": 840,
-        "clock_start": "08:00",
-        "clock_end": "14:00",
-        "magnitude": -3194,
+        "t_start": 540,
+        "t_end": 660,
+        "clock_start": "09:00",
+        "clock_end": "11:00",
+        "magnitude": -2022,
         "direction": "lost",
-        "diff_before": -2073,
-        "diff_after": -5267,
+        "diff_before": -1673,
+        "diff_after": -3695,
         "drivers": [
           "lost teamfight at 10:40 in top_lane (0-2 kills)",
           "even teamfight at 11:11 in bot_lane (2-2 kills)",
-          "lost teamfight at 12:04 in mid_lane (0-2 kills)",
           "we took HORDE at 09:46",
           "we took HORDE at 09:55",
           "enemy took HORDE at 09:57",
-          "enemy destroyed a tower_building at 13:08",
-          "enemy took DRAGON at 13:17"
+          "kill gold to enemy +812g"
+        ]
+      },
+      {
+        "t_start": 720,
+        "t_end": 840,
+        "clock_start": "12:00",
+        "clock_end": "14:00",
+        "magnitude": -1815,
+        "direction": "lost",
+        "diff_before": -3452,
+        "diff_after": -5267,
+        "drivers": [
+          "even teamfight at 11:11 in bot_lane (2-2 kills)",
+          "lost teamfight at 12:04 in mid_lane (0-2 kills)",
+          "enemy took DRAGON at 13:17",
+          "enemy destroyed 1 building",
+          "kill gold to us +530g"
         ]
       }
     ],
@@ -499,7 +514,6 @@
     "no_early_gank_involvement",
     "first_dragon_lost_absent",
     "no_control_wards",
-    "lost_counter_jungle_battle",
-    "big_momentum_loss"
+    "lost_counter_jungle_battle"
   ]
 }

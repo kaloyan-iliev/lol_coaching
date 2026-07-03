@@ -281,34 +281,40 @@
           "lost teamfight at 10:06 in red_jungle_top (0-2 kills)",
           "we took HORDE at 09:37",
           "we took HORDE at 09:44",
-          "enemy took HORDE at 09:49",
-          "kill gold to enemy +962g"
+          "enemy took HORDE at 09:49"
         ]
       },
       {
-        "t_start": 960,
-        "t_end": 1359,
-        "clock_start": "16:00",
-        "clock_end": "22:39",
-        "magnitude": -10891,
+        "t_start": 1020,
+        "t_end": 1140,
+        "clock_start": "17:00",
+        "clock_end": "19:00",
+        "magnitude": -3038,
         "direction": "lost",
-        "diff_before": -491,
+        "diff_before": -377,
+        "diff_after": -3415,
+        "drivers": [
+          "lost teamfight at 15:55 in mid_lane (4-6 kills)",
+          "enemy destroyed 1 building",
+          "kill gold to enemy +700g"
+        ]
+      },
+      {
+        "t_start": 1200,
+        "t_end": 1359,
+        "clock_start": "20:00",
+        "clock_end": "22:39",
+        "magnitude": -8744,
+        "direction": "lost",
+        "diff_before": -2638,
         "diff_after": -11382,
         "drivers": [
-          "won teamfight at 15:29 in bot_lane (2-1 kills)",
-          "lost teamfight at 15:55 in mid_lane (4-6 kills)",
           "lost teamfight at 20:18 in blue_jungle_top (1-4 kills)",
           "lost teamfight at 22:16 in bot_lane (0-5 kills)",
-          "enemy took RIFTHERALD at 15:30",
-          "enemy destroyed a tower_building at 15:53",
-          "enemy destroyed a tower_building at 17:07",
-          "enemy took DRAGON at 19:27",
-          "we destroyed a tower_building at 19:58",
-          "enemy destroyed a tower_building at 20:54",
           "enemy took BARON_NASHOR at 21:09",
-          "enemy destroyed a tower_building at 22:12",
-          "enemy destroyed a tower_building at 22:21",
-          "kill gold to enemy +2949g"
+          "we destroyed 1 building",
+          "enemy destroyed 3 buildings",
+          "kill gold to enemy +2314g"
         ]
       }
     ],

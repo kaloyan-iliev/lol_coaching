@@ -342,41 +342,44 @@
         "diff_after": 1436,
         "drivers": [
           "lost teamfight at 18:29 in blue_jungle_bot (2-5 kills)",
-          "we destroyed a tower_building at 16:36",
           "we took RIFTHERALD at 17:07",
-          "enemy destroyed a tower_building at 17:12",
-          "enemy destroyed a tower_building at 18:36",
-          "we destroyed a tower_building at 18:37",
+          "we destroyed 2 buildings",
+          "enemy destroyed 2 buildings",
           "kill gold to enemy +1056g"
         ]
       },
       {
-        "t_start": 1380,
-        "t_end": 1920,
-        "clock_start": "23:00",
-        "clock_end": "32:00",
-        "magnitude": 9467,
+        "t_start": 1440,
+        "t_end": 1620,
+        "clock_start": "24:00",
+        "clock_end": "27:00",
+        "magnitude": 5526,
         "direction": "gained",
-        "diff_before": -308,
-        "diff_after": 9159,
+        "diff_before": -524,
+        "diff_after": 5002,
         "drivers": [
           "won teamfight at 24:01 in red_jungle_bot (5-3 kills)",
           "won teamfight at 25:40 in bot_river (5-3 kills)",
-          "won teamfight at 29:00 in bot_lane (4-2 kills)",
-          "lost teamfight at 30:46 in mid_lane (2-3 kills)",
-          "we destroyed a tower_building at 24:50",
           "we took DRAGON at 26:18",
+          "we destroyed 1 building",
+          "kill gold to us +1960g"
+        ]
+      },
+      {
+        "t_start": 1620,
+        "t_end": 1800,
+        "clock_start": "27:00",
+        "clock_end": "30:00",
+        "magnitude": 3800,
+        "direction": "gained",
+        "diff_before": 5002,
+        "diff_after": 8802,
+        "drivers": [
+          "won teamfight at 29:00 in bot_lane (4-2 kills)",
           "we took BARON_NASHOR at 27:27",
-          "enemy destroyed a tower_building at 28:26",
-          "we destroyed a tower_building at 28:40",
-          "we destroyed a tower_building at 29:18",
-          "we destroyed a tower_building at 29:35",
-          "we destroyed a tower_building at 29:39",
-          "we destroyed a inhibitor_building at 29:45",
-          "we destroyed a inhibitor_building at 29:48",
-          "we destroyed a inhibitor_building at 31:15",
-          "we destroyed a tower_building at 32:08",
-          "kill gold to us +1989g"
+          "we destroyed 6 buildings",
+          "enemy destroyed 1 building",
+          "kill gold to us +529g"
         ]
       }
     ],

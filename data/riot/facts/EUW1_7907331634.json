@@ -173,58 +173,48 @@
     "swings": [
       {
         "t_start": 300,
-        "t_end": 540,
+        "t_end": 480,
         "clock_start": "05:00",
-        "clock_end": "09:00",
-        "magnitude": -1817,
+        "clock_end": "08:00",
+        "magnitude": -1777,
         "direction": "lost",
         "diff_before": 919,
-        "diff_after": -898,
+        "diff_after": -858,
         "drivers": [
-          "lost teamfight at 06:43 in mid_lane (0-2 kills)",
-          "won teamfight at 09:14 in bot_lane (2-0 kills)",
-          "enemy took HORDE at 08:47",
-          "enemy took HORDE at 08:54",
-          "enemy took HORDE at 09:01"
+          "lost teamfight at 06:43 in mid_lane (0-2 kills)"
         ]
       },
       {
-        "t_start": 720,
+        "t_start": 840,
         "t_end": 1020,
-        "clock_start": "12:00",
+        "clock_start": "14:00",
         "clock_end": "17:00",
-        "magnitude": -2819,
+        "magnitude": -2023,
         "direction": "lost",
-        "diff_before": 378,
+        "diff_before": -418,
         "diff_after": -2441,
         "drivers": [
           "even teamfight at 13:32 in bot_river (1-1 kills)",
           "lost teamfight at 15:47 in red_jungle_bot (0-2 kills)",
-          "enemy destroyed a tower_building at 14:32",
-          "we destroyed a tower_building at 16:10",
-          "enemy destroyed a tower_building at 16:20",
           "enemy took DRAGON at 16:22",
-          "kill gold to enemy +1227g"
+          "we destroyed 1 building",
+          "enemy destroyed 2 buildings",
+          "kill gold to enemy +916g"
         ]
       },
       {
-        "t_start": 1320,
+        "t_start": 1380,
         "t_end": 1490,
-        "clock_start": "22:00",
+        "clock_start": "23:00",
         "clock_end": "24:50",
-        "magnitude": -4830,
+        "magnitude": -5327,
         "direction": "lost",
-        "diff_before": -2224,
+        "diff_before": -1727,
         "diff_after": -7054,
         "drivers": [
           "lost teamfight at 23:50 in mid_lane (0-3 kills)",
-          "enemy took BARON_NASHOR at 21:42",
           "enemy took DRAGON at 23:05",
-          "enemy destroyed a tower_building at 24:08",
-          "enemy destroyed a tower_building at 24:22",
-          "enemy destroyed a inhibitor_building at 24:26",
-          "enemy destroyed a tower_building at 24:38",
-          "enemy destroyed a tower_building at 24:38",
+          "enemy destroyed 5 buildings",
           "kill gold to enemy +1526g"
         ]
       }

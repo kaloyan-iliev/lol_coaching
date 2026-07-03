@@ -218,33 +218,25 @@
           "won teamfight at 08:59 in top_river (2-1 kills)",
           "enemy took HORDE at 08:27",
           "we took HORDE at 08:38",
-          "we took HORDE at 08:42",
-          "kill gold to us +750g"
+          "we took HORDE at 08:42"
         ]
       },
       {
-        "t_start": 600,
-        "t_end": 1020,
-        "clock_start": "10:00",
-        "clock_end": "17:00",
-        "magnitude": -5498,
+        "t_start": 720,
+        "t_end": 900,
+        "clock_start": "12:00",
+        "clock_end": "15:00",
+        "magnitude": -3253,
         "direction": "lost",
-        "diff_before": 1990,
-        "diff_after": -3508,
+        "diff_before": 799,
+        "diff_after": -2454,
         "drivers": [
           "even teamfight at 11:35 in top_lane (1-1 kills)",
           "lost teamfight at 12:16 in mid_lane (0-2 kills)",
           "even teamfight at 13:06 in bot_lane (1-1 kills)",
-          "lost teamfight at 14:46 in bot_river (0-2 kills)",
           "enemy took DRAGON at 12:02",
-          "enemy destroyed a tower_building at 14:09",
-          "we destroyed a tower_building at 14:12",
-          "enemy took RIFTHERALD at 15:30",
-          "enemy destroyed a tower_building at 15:52",
-          "enemy destroyed a tower_building at 16:00",
-          "we destroyed a tower_building at 16:42",
-          "we destroyed a tower_building at 17:01",
-          "kill gold to enemy +3547g"
+          "we destroyed 1 building",
+          "enemy destroyed 1 building"
         ]
       }
     ],

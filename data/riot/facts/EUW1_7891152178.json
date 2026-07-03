@@ -268,13 +268,13 @@
   "momentum": {
     "swings": [
       {
-        "t_start": 420,
+        "t_start": 480,
         "t_end": 660,
-        "clock_start": "07:00",
+        "clock_start": "08:00",
         "clock_end": "11:00",
-        "magnitude": -2219,
+        "magnitude": -2113,
         "direction": "lost",
-        "diff_before": 460,
+        "diff_before": 354,
         "diff_after": -1759,
         "drivers": [
           "even teamfight at 08:00 in mid_lane (1-1 kills)",
@@ -282,37 +282,42 @@
           "we took HORDE at 08:30",
           "enemy took DRAGON at 09:25",
           "we took HORDE at 09:52",
-          "we took HORDE at 09:57",
-          "kill gold to enemy +1230g"
+          "we took HORDE at 09:57"
         ]
       },
       {
-        "t_start": 660,
-        "t_end": 1200,
-        "clock_start": "11:00",
-        "clock_end": "20:00",
-        "magnitude": 6669,
+        "t_start": 720,
+        "t_end": 900,
+        "clock_start": "12:00",
+        "clock_end": "15:00",
+        "magnitude": 3756,
         "direction": "gained",
-        "diff_before": -1759,
-        "diff_after": 4910,
+        "diff_before": -2372,
+        "diff_after": 1384,
         "drivers": [
           "won teamfight at 12:14 in bot_river (4-2 kills)",
           "won teamfight at 13:56 in bot_lane (3-2 kills)",
+          "we destroyed 1 building",
+          "enemy destroyed 1 building",
+          "kill gold to us +1776g"
+        ]
+      },
+      {
+        "t_start": 960,
+        "t_end": 1140,
+        "clock_start": "16:00",
+        "clock_end": "19:00",
+        "magnitude": 4602,
+        "direction": "gained",
+        "diff_before": 822,
+        "diff_after": 5424,
+        "drivers": [
           "even teamfight at 15:42 in mid_lane (1-1 kills)",
           "won teamfight at 16:36 in bot_river (2-0 kills)",
           "won teamfight at 17:08 in bot_lane (2-0 kills)",
-          "won teamfight at 18:00 in mid_lane (2-0 kills)",
-          "lost teamfight at 19:51 in top_river (1-4 kills)",
-          "we destroyed a tower_building at 14:16",
-          "enemy destroyed a tower_building at 14:17",
-          "we destroyed a tower_building at 16:25",
-          "we destroyed a tower_building at 16:26",
           "we took DRAGON at 16:28",
           "we took RIFTHERALD at 17:15",
-          "we destroyed a tower_building at 18:17",
-          "we destroyed a tower_building at 18:25",
-          "we destroyed a tower_building at 18:37",
-          "kill gold to us +2205g"
+          "we destroyed 5 buildings"
         ]
       },
       {
@@ -326,7 +331,7 @@
         "diff_after": 2521,
         "drivers": [
           "lost teamfight at 19:51 in top_river (1-4 kills)",
-          "we destroyed a tower_building at 18:37",
+          "we destroyed 1 building",
           "kill gold to enemy +1943g"
         ]
       },
@@ -343,16 +348,9 @@
           "won teamfight at 21:22 in top_lane (3-0 kills)",
           "won teamfight at 23:03 in mid_lane (3-0 kills)",
           "won teamfight at 23:32 in mid_lane (2-1 kills)",
-          "enemy destroyed a tower_building at 21:54",
-          "we destroyed a tower_building at 21:58",
           "we took BARON_NASHOR at 22:04",
           "we took DRAGON at 22:54",
-          "enemy destroyed a tower_building at 22:57",
-          "we destroyed a inhibitor_building at 23:19",
-          "we destroyed a tower_building at 23:32",
-          "we destroyed a tower_building at 23:35",
-          "we destroyed a tower_building at 23:46",
-          "kill gold to us +2815g"
+          "we destroyed 5 buildings"
         ]
       }
     ],

@@ -221,56 +221,53 @@
     "swings": [
       {
         "t_start": 540,
-        "t_end": 1020,
+        "t_end": 720,
         "clock_start": "09:00",
-        "clock_end": "17:00",
-        "magnitude": -5077,
+        "clock_end": "12:00",
+        "magnitude": -2430,
         "direction": "lost",
         "diff_before": -395,
-        "diff_after": -5472,
+        "diff_after": -2825,
         "drivers": [
           "even teamfight at 09:46 in bot_lane (1-1 kills)",
           "lost teamfight at 11:15 in mid_lane (0-2 kills)",
-          "even teamfight at 13:45 in mid_lane (1-1 kills)",
-          "even teamfight at 15:40 in mid_lane (1-1 kills)",
-          "lost teamfight at 15:59 in red_jungle_bot (0-3 kills)",
-          "won teamfight at 17:09 in bot_river (2-0 kills)",
           "we took HORDE at 08:34",
           "enemy took DRAGON at 10:50",
-          "enemy took RIFTHERALD at 15:31",
-          "enemy destroyed a tower_building at 15:42",
-          "we destroyed a tower_building at 16:29",
-          "enemy destroyed a tower_building at 16:47",
-          "enemy took DRAGON at 17:02",
-          "enemy destroyed a tower_building at 17:09",
-          "kill gold to enemy +1930g"
+          "kill gold to enemy +1171g"
         ]
       },
       {
-        "t_start": 1080,
-        "t_end": 1468,
-        "clock_start": "18:00",
-        "clock_end": "24:28",
-        "magnitude": -9554,
+        "t_start": 840,
+        "t_end": 1020,
+        "clock_start": "14:00",
+        "clock_end": "17:00",
+        "magnitude": -2322,
         "direction": "lost",
-        "diff_before": -4849,
-        "diff_after": -14403,
+        "diff_before": -3150,
+        "diff_after": -5472,
+        "drivers": [
+          "even teamfight at 13:45 in mid_lane (1-1 kills)",
+          "even teamfight at 15:40 in mid_lane (1-1 kills)",
+          "lost teamfight at 15:59 in red_jungle_bot (0-3 kills)",
+          "enemy took RIFTHERALD at 15:31",
+          "enemy took DRAGON at 17:02",
+          "we destroyed 1 building"
+        ]
+      },
+      {
+        "t_start": 1200,
+        "t_end": 1380,
+        "clock_start": "20:00",
+        "clock_end": "23:00",
+        "magnitude": -6873,
+        "direction": "lost",
+        "diff_before": -6356,
+        "diff_after": -13229,
         "drivers": [
           "lost teamfight at 20:02 in top_lane (0-2 kills)",
-          "enemy destroyed a tower_building at 17:31",
-          "we destroyed a tower_building at 18:44",
-          "enemy destroyed a tower_building at 19:42",
-          "enemy destroyed a tower_building at 20:25",
           "enemy took BARON_NASHOR at 21:18",
-          "enemy destroyed a tower_building at 22:24",
-          "enemy destroyed a inhibitor_building at 22:32",
-          "enemy destroyed a tower_building at 22:54",
-          "enemy destroyed a tower_building at 22:59",
-          "enemy destroyed a inhibitor_building at 23:06",
-          "enemy destroyed a tower_building at 23:09",
-          "enemy destroyed a inhibitor_building at 23:12",
-          "enemy destroyed a tower_building at 24:14",
-          "kill gold to enemy +3040g"
+          "enemy destroyed 9 buildings",
+          "kill gold to enemy +2372g"
         ]
       }
     ],

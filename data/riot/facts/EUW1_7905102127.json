@@ -188,25 +188,20 @@
   "momentum": {
     "swings": [
       {
-        "t_start": 840,
+        "t_start": 960,
         "t_end": 1140,
-        "clock_start": "14:00",
+        "clock_start": "16:00",
         "clock_end": "19:00",
-        "magnitude": 4925,
+        "magnitude": 3889,
         "direction": "gained",
-        "diff_before": 1356,
+        "diff_before": 2392,
         "diff_after": 6281,
         "drivers": [
           "won teamfight at 18:08 in blue_jungle_bot (2-0 kills)",
-          "we destroyed a tower_building at 14:38",
-          "enemy destroyed a tower_building at 14:47",
           "we took RIFTHERALD at 15:36",
-          "we destroyed a tower_building at 15:52",
-          "enemy destroyed a tower_building at 16:10",
-          "we destroyed a tower_building at 16:20",
           "enemy took DRAGON at 16:44",
-          "we destroyed a tower_building at 16:52",
-          "we destroyed a tower_building at 18:40"
+          "we destroyed 4 buildings",
+          "enemy destroyed 1 building"
         ]
       },
       {
@@ -220,33 +215,28 @@
         "diff_after": 3225,
         "drivers": [
           "won teamfight at 22:02 in red_jungle_top (2-1 kills)",
-          "we destroyed a tower_building at 18:40",
-          "enemy destroyed a tower_building at 21:49",
           "we took DRAGON at 22:06",
+          "we destroyed 1 building",
+          "enemy destroyed 1 building",
           "kill gold to enemy +2384g"
         ]
       },
       {
-        "t_start": 1320,
+        "t_start": 1380,
         "t_end": 1516,
-        "clock_start": "22:00",
+        "clock_start": "23:00",
         "clock_end": "25:16",
-        "magnitude": 3513,
+        "magnitude": 3319,
         "direction": "gained",
-        "diff_before": 3225,
+        "diff_before": 3419,
         "diff_after": 6738,
         "drivers": [
           "won teamfight at 22:02 in red_jungle_top (2-1 kills)",
           "won teamfight at 24:33 in red_jungle_bot (3-0 kills)",
-          "enemy destroyed a tower_building at 21:49",
-          "we took DRAGON at 22:06",
           "enemy took BARON_NASHOR at 22:37",
-          "we destroyed a tower_building at 24:51",
-          "we destroyed a inhibitor_building at 24:57",
-          "enemy destroyed a tower_building at 25:01",
-          "we destroyed a tower_building at 25:04",
-          "we destroyed a tower_building at 25:06",
-          "kill gold to us +1806g"
+          "we destroyed 4 buildings",
+          "enemy destroyed 1 building",
+          "kill gold to us +2073g"
         ]
       }
     ],

@@ -237,44 +237,36 @@
     "swings": [
       {
         "t_start": 420,
-        "t_end": 720,
+        "t_end": 600,
         "clock_start": "07:00",
-        "clock_end": "12:00",
-        "magnitude": 3159,
+        "clock_end": "10:00",
+        "magnitude": 3004,
         "direction": "gained",
         "diff_before": 54,
-        "diff_after": 3213,
+        "diff_after": 3058,
         "drivers": [
           "won teamfight at 07:03 in bot_lane (2-1 kills)",
           "won teamfight at 08:51 in bot_lane (3-1 kills)",
           "won teamfight at 09:36 in mid_lane (2-1 kills)",
-          "we took HORDE at 11:08",
-          "we took HORDE at 11:13",
-          "we took HORDE at 11:15",
-          "kill gold to us +1117g"
+          "kill gold to us +797g"
         ]
       },
       {
-        "t_start": 900,
+        "t_start": 1020,
         "t_end": 1200,
-        "clock_start": "15:00",
+        "clock_start": "17:00",
         "clock_end": "20:00",
-        "magnitude": 3820,
+        "magnitude": 3375,
         "direction": "gained",
-        "diff_before": 2985,
+        "diff_before": 3430,
         "diff_after": 6805,
         "drivers": [
-          "even teamfight at 15:33 in bot_river (2-2 kills)",
           "even teamfight at 16:46 in bot_lane (1-1 kills)",
           "won teamfight at 17:06 in mid_lane (3-1 kills)",
           "won teamfight at 19:11 in mid_lane (3-1 kills)",
-          "we destroyed a tower_building at 15:55",
-          "we destroyed a tower_building at 16:02",
-          "enemy destroyed a tower_building at 16:18",
-          "we destroyed a tower_building at 17:03",
           "enemy took RIFTHERALD at 19:45",
           "we took DRAGON at 19:54",
-          "kill gold to us +1553g"
+          "we destroyed 1 building"
         ]
       }
     ],

@@ -188,49 +188,69 @@
   "momentum": {
     "swings": [
       {
-        "t_start": 180,
-        "t_end": 480,
-        "clock_start": "03:00",
-        "clock_end": "08:00",
-        "magnitude": -3144,
+        "t_start": 240,
+        "t_end": 420,
+        "clock_start": "04:00",
+        "clock_end": "07:00",
+        "magnitude": -2564,
         "direction": "lost",
-        "diff_before": -290,
-        "diff_after": -3434,
+        "diff_before": -824,
+        "diff_after": -3388,
         "drivers": [
-          "even teamfight at 03:22 in bot_lane (1-1 kills)",
           "lost teamfight at 04:34 in bot_lane (0-3 kills)",
           "lost teamfight at 06:41 in bot_lane (1-2 kills)",
           "enemy took DRAGON at 05:35",
-          "we took HORDE at 08:14",
-          "kill gold to enemy +1146g"
+          "kill gold to enemy +1261g"
         ]
       },
       {
-        "t_start": 540,
-        "t_end": 1229,
-        "clock_start": "09:00",
-        "clock_end": "20:29",
-        "magnitude": -11832,
+        "t_start": 600,
+        "t_end": 780,
+        "clock_start": "10:00",
+        "clock_end": "13:00",
+        "magnitude": -2461,
         "direction": "lost",
-        "diff_before": -3261,
-        "diff_after": -15093,
+        "diff_before": -3674,
+        "diff_after": -6135,
         "drivers": [
           "even teamfight at 11:04 in mid_lane (1-1 kills)",
           "even teamfight at 11:46 in top_lane (1-1 kills)",
+          "enemy took DRAGON at 11:10",
+          "enemy destroyed 1 building"
+        ]
+      },
+      {
+        "t_start": 840,
+        "t_end": 1020,
+        "clock_start": "14:00",
+        "clock_end": "17:00",
+        "magnitude": -3931,
+        "direction": "lost",
+        "diff_before": -5730,
+        "diff_after": -9661,
+        "drivers": [
           "lost teamfight at 16:26 in mid_lane (0-3 kills)",
+          "enemy took DRAGON at 17:01",
+          "we destroyed 1 building",
+          "enemy destroyed 2 buildings",
+          "kill gold to enemy +743g"
+        ]
+      },
+      {
+        "t_start": 1080,
+        "t_end": 1229,
+        "clock_start": "18:00",
+        "clock_end": "20:29",
+        "magnitude": -5827,
+        "direction": "lost",
+        "diff_before": -9266,
+        "diff_after": -15093,
+        "drivers": [
           "even teamfight at 18:17 in bot_lane (1-1 kills)",
           "lost teamfight at 19:29 in blue_jungle_top (0-4 kills)",
-          "enemy took DRAGON at 11:10",
-          "enemy destroyed a tower_building at 11:43",
-          "enemy destroyed a tower_building at 14:11",
-          "we destroyed a tower_building at 14:15",
-          "enemy destroyed a tower_building at 16:13",
-          "enemy took DRAGON at 17:01",
-          "enemy destroyed a tower_building at 18:06",
-          "enemy destroyed a tower_building at 19:41",
           "enemy took RIFTHERALD at 19:45",
-          "enemy destroyed a tower_building at 20:13",
-          "kill gold to enemy +1919g"
+          "enemy destroyed 3 buildings",
+          "kill gold to enemy +795g"
         ]
       }
     ],

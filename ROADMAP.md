@@ -30,29 +30,58 @@ Working notes on what's built, what's verified, and what comes next.
 - `scripts/generate_jungle_bible.py --incremental` — regenerates only sections
   whose transcript set changed (`knowledge/sections_meta.json`)
 
+### v2 additions (July 2026)
+- **House rules** (`knowledge/house_rules.md`): your own principles (HR ids)
+  override all knowledge in every prompt; reviews must cite HR/guide concepts
+  for meta claims or label them "(general reasoning, not from your coaches)".
+- **Momentum**: team-gold swing detection with event drivers; reviews include
+  "Momentum Turning Points" with proactive at-mm:ss directives.
+- **Exact Riot stats** (`analysis/challenges.py`): precomputed jungle analytics
+  in facts, flags, fact sheet, and baseline quartiles.
+- **Pre-game draft analyzer**: `scripts/pregame.py` + Streamlit "Pre-Game
+  Draft" tab → one-glance game-plan card (archetypes, win conditions,
+  lane-by-lane, gank targets, early/mid/teamfight plan).
+- **Data dictionary**: `docs/DATA_DICTIONARY.md` (+ `audit_data_dictionary.py
+  --check` after each patch).
+- **Baseline: 50 Master+ EUW Ekko games**, all validated.
+
 ## Next steps (in rough priority order)
 
-1. **Review your own games.** `python scripts/review_game.py --riot-id "YourName#TAG" --list`
-   then `--latest`. Compare the review's Top-3 mistakes against your own VOD
-   judgment for 2-3 games; tune `app/prompts/review_prompt.txt` where it's off.
+1. **Use it for a week.** Pregame card before games, review after. Add house
+   rules whenever the AI's judgment differs from yours — that file is how the
+   coach learns YOUR philosophy.
 2. **Expand the coach roster.** JungleGapGG channel is already scanned
    (`channel_scan.py --list JungleGapGG`); pick fundamentals videos, run the
    chain, regenerate incrementally. Multi-coach input activates the bible's
    "when coaches disagree" synthesis.
-3. **Grow the baseline.** Rerun `riot_fetch_baseline.py --target 50` with fresh
-   dev keys over a few days; consider `--seed-riot-ids` with Ekko one-tricks
-   from League of Graphs. Re-run `riot_build_baseline.py` after.
-4. **Streamlit "Game Review" tab** — same functions as `review_game.py`, UI on top.
-5. **Champion-agnostic reviews** — the analyzer is already champion-agnostic
-   except the baseline; add per-champion baselines when you play others.
-6. **Video citations in reviews** — for each Top-3 mistake, attach a
+3. **Video citations in reviews** — for each Top-3 mistake, attach a
    "watch this" link (coach video + timestamp) for the underlying concept.
    The citation machinery already exists in `ask_transcripts.py`; needs a
    concept→video-moment index built from videos.json key_timestamps.
+4. **Streamlit "Game Review" tab** — same functions as `review_game.py`, UI on top.
+5. **Fight participation via damageStats** — top unexploited signal (see
+   DATA_DICTIONARY §8): per-minute damage to champions catches "absent from
+   every fight" and "present but did nothing" patterns.
+6. **Per-champion baselines** — the analyzer is champion-agnostic; run
+   `riot_fetch_baseline.py` variants for Diana etc. when you play them.
 7. **Later / research:** RAG (only if the bible outgrows ~100k tokens),
    personalization (recurring-mistake tracking across your reviews),
    HuggingFace gptilt Challenger dataset as a bigger offline baseline,
    patch-drift checks in `analysis/jungle_camps.py` each major patch.
+
+## Productization path (if this becomes a tool for others)
+
+What exists is single-user by design. To serve other players/champions:
+1. **Riot production API key** (apply at developer.riotgames.com with the app
+   description; dev keys are personal-use only and expire daily).
+2. **Per-champion baselines on demand** — the fetch pipeline is already
+   champion-parameterizable; store `baseline_{champion}.json` per champ.
+3. **Multi-tenant knowledge** — the bible stays shared; house_rules becomes
+   per-user; reviews keyed by the user's Riot ID.
+4. **Cost model** — reviews are 1 LLM call (~free at Flash pricing); the
+   expensive part is baseline fetching per champion (API quota, not money).
+5. **Riot policy check** — coaching tools on match-v5 data are generally fine;
+   anything using live game data needs a compliance review.
 
 ## Known limitations (accepted for v1)
 - Timeline positions every 60s; no smite/camp/summoner-spell events → clear

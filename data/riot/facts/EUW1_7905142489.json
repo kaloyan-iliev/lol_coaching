@@ -268,47 +268,37 @@
   "momentum": {
     "swings": [
       {
-        "t_start": 1020,
+        "t_start": 1140,
         "t_end": 1320,
-        "clock_start": "17:00",
+        "clock_start": "19:00",
         "clock_end": "22:00",
-        "magnitude": -4152,
+        "magnitude": -4893,
         "direction": "lost",
-        "diff_before": -1605,
+        "diff_before": -864,
         "diff_after": -5757,
         "drivers": [
-          "won teamfight at 17:40 in bot_river (3-2 kills)",
           "lost teamfight at 18:49 in mid_lane (0-4 kills)",
           "lost teamfight at 22:01 in top_river (2-3 kills)",
-          "we destroyed a tower_building at 17:05",
-          "enemy destroyed a tower_building at 19:03",
-          "enemy destroyed a tower_building at 19:32",
           "enemy took DRAGON at 20:10",
-          "enemy destroyed a tower_building at 21:11",
           "enemy took BARON_NASHOR at 21:56",
-          "kill gold to us +632g"
+          "enemy destroyed 3 buildings"
         ]
       },
       {
         "t_start": 1440,
-        "t_end": 1634,
+        "t_end": 1620,
         "clock_start": "24:00",
-        "clock_end": "27:14",
-        "magnitude": -4062,
+        "clock_end": "27:00",
+        "magnitude": -3515,
         "direction": "lost",
         "diff_before": -5463,
-        "diff_after": -9525,
+        "diff_after": -8978,
         "drivers": [
           "lost teamfight at 24:10 in mid_lane (1-3 kills)",
           "lost teamfight at 26:13 in bot_river (1-4 kills)",
           "lost teamfight at 27:00 in red_jungle_top (1-2 kills)",
-          "enemy destroyed a tower_building at 24:37",
-          "enemy destroyed a inhibitor_building at 24:42",
           "we took DRAGON at 25:35",
-          "enemy destroyed a tower_building at 26:42",
-          "enemy destroyed a inhibitor_building at 26:47",
-          "enemy destroyed a tower_building at 26:50",
-          "enemy destroyed a tower_building at 26:54",
+          "enemy destroyed 6 buildings",
           "kill gold to enemy +1211g"
         ]
       }

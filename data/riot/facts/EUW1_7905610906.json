@@ -167,46 +167,42 @@
         "drivers": [
           "even teamfight at 11:04 in top_lane (1-1 kills)",
           "even teamfight at 12:05 in bot_lane (1-1 kills)",
-          "we destroyed a tower_building at 12:02"
+          "we destroyed 1 building"
         ]
       },
       {
-        "t_start": 720,
+        "t_start": 780,
         "t_end": 900,
-        "clock_start": "12:00",
+        "clock_start": "13:00",
         "clock_end": "15:00",
-        "magnitude": -1595,
+        "magnitude": -2201,
         "direction": "lost",
-        "diff_before": 1064,
+        "diff_before": 1670,
         "diff_after": -531,
         "drivers": [
-          "even teamfight at 12:05 in bot_lane (1-1 kills)",
           "lost teamfight at 13:17 in blue_jungle_bot (0-3 kills)",
           "won teamfight at 15:01 in red_jungle_top (3-2 kills)",
-          "we destroyed a tower_building at 12:02",
-          "enemy destroyed a tower_building at 13:54",
           "enemy took DRAGON at 13:58",
-          "kill gold to enemy +882g"
+          "enemy destroyed 1 building",
+          "kill gold to enemy +1269g"
         ]
       },
       {
-        "t_start": 960,
+        "t_start": 1020,
         "t_end": 1191,
-        "clock_start": "16:00",
+        "clock_start": "17:00",
         "clock_end": "19:51",
-        "magnitude": -3512,
+        "magnitude": -2396,
         "direction": "lost",
-        "diff_before": 587,
+        "diff_before": -529,
         "diff_after": -2925,
         "drivers": [
-          "won teamfight at 15:01 in red_jungle_top (3-2 kills)",
           "lost teamfight at 16:51 in top_river (0-3 kills)",
           "lost teamfight at 19:24 in bot_river (0-3 kills)",
-          "enemy destroyed a tower_building at 15:34",
           "we took RIFTHERALD at 16:43",
-          "we destroyed a tower_building at 18:23",
           "we took DRAGON at 19:11",
-          "kill gold to enemy +1561g"
+          "we destroyed 1 building",
+          "kill gold to enemy +1881g"
         ]
       }
     ],
@@ -656,7 +652,6 @@
     "no_control_wards",
     "died_outnumbered",
     "lost_outnumbered_teamfight",
-    "lost_counter_jungle_battle",
-    "big_momentum_loss"
+    "lost_counter_jungle_battle"
   ]
 }

@@ -188,19 +188,18 @@
   "momentum": {
     "swings": [
       {
-        "t_start": 60,
-        "t_end": 480,
-        "clock_start": "01:00",
-        "clock_end": "08:00",
-        "magnitude": -3756,
+        "t_start": 180,
+        "t_end": 360,
+        "clock_start": "03:00",
+        "clock_end": "06:00",
+        "magnitude": -3552,
         "direction": "lost",
-        "diff_before": -10,
-        "diff_after": -3766,
+        "diff_before": -255,
+        "diff_after": -3807,
         "drivers": [
           "lost teamfight at 03:03 in bot_lane (0-2 kills)",
           "lost teamfight at 04:55 in red_jungle_top (0-2 kills)",
-          "enemy took DRAGON at 06:42",
-          "kill gold to enemy +1527g"
+          "kill gold to enemy +1873g"
         ]
       },
       {
@@ -217,7 +216,7 @@
           "enemy took HORDE at 09:26",
           "enemy took HORDE at 09:34",
           "enemy took HORDE at 09:44",
-          "enemy destroyed a tower_building at 11:39"
+          "enemy destroyed 1 building"
         ]
       },
       {
@@ -232,35 +231,27 @@
         "drivers": [
           "won teamfight at 12:27 in bot_river (3-0 kills)",
           "even teamfight at 13:36 in top_lane (1-1 kills)",
-          "enemy destroyed a tower_building at 11:39",
           "we took DRAGON at 12:25",
-          "enemy destroyed a tower_building at 14:14",
+          "enemy destroyed 2 buildings",
           "kill gold to us +1514g"
         ]
       },
       {
-        "t_start": 780,
-        "t_end": 1105,
-        "clock_start": "13:00",
-        "clock_end": "18:25",
-        "magnitude": -7930,
+        "t_start": 840,
+        "t_end": 1020,
+        "clock_start": "14:00",
+        "clock_end": "17:00",
+        "magnitude": -6027,
         "direction": "lost",
-        "diff_before": -2753,
-        "diff_after": -10683,
+        "diff_before": -3319,
+        "diff_after": -9346,
         "drivers": [
-          "won teamfight at 12:27 in bot_river (3-0 kills)",
           "even teamfight at 13:36 in top_lane (1-1 kills)",
           "lost teamfight at 14:17 in mid_lane (1-2 kills)",
           "lost teamfight at 15:50 in bot_river (0-4 kills)",
-          "lost teamfight at 18:08 in red_jungle_top (0-2 kills)",
-          "enemy destroyed a tower_building at 14:14",
           "enemy took RIFTHERALD at 16:00",
-          "enemy destroyed a tower_building at 16:25",
-          "enemy destroyed a tower_building at 16:46",
-          "we destroyed a tower_building at 18:11",
-          "enemy destroyed a tower_building at 18:18",
-          "enemy destroyed a tower_building at 18:20",
-          "kill gold to enemy +2401g"
+          "enemy destroyed 3 buildings",
+          "kill gold to enemy +2337g"
         ]
       }
     ],
