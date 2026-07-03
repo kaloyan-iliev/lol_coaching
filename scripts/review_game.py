@@ -164,6 +164,15 @@ def main():
     print(f"Analyzing {match_id}...")
     match, timeline = fetch_game(client, match_id)
     facts = extract_facts(match, timeline, puuid)
+
+    # Persist the parsed layer for own games too (baseline games get theirs
+    # from riot_build_baseline.py)
+    facts_path = os.path.join(config.FACTS_DIR, f"{match_id}.json")
+    os.makedirs(config.FACTS_DIR, exist_ok=True)
+    with open(facts_path, "w", encoding="utf-8") as f:
+        json.dump(facts, f, indent=2, ensure_ascii=False)
+    print(f"Facts saved to {facts_path}")
+
     baseline = load_baseline()
     if baseline is None:
         print("(No baseline stats found - run riot_build_baseline.py for Master+ comparisons)")

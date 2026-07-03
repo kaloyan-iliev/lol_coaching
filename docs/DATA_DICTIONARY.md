@@ -98,8 +98,8 @@ Other interesting keys not yet used: `earlyLaningPhaseGoldExpAdvantage`, `maxLev
 
 ## 8. Highest-value unexploited signals (ranked)
 
-1. **Fight participation via `damageStats` deltas** — per-minute damage to champions catches "present but no kill" and "absent from every fight" patterns.
+1. ~~Fight participation via `damageStats` deltas~~ — **SHIPPED**: missed teamfights now carry `our_zone_at_start` + `our_champ_dmg_during`; deaths carry `unspent_gold`; the jungler gold curve carries `level_diff`.
 2. **Power-spike detection** — item completions (ITEM_PURCHASED of completed items) + championStats jumps + LEVEL_UP 6/11/16 vs the enemy jungler → "fight now" windows.
-3. **Plates by lane** (`TURRET_PLATE_DESTROYED`) — objective lane-prio proxy for the early game.
+3. **Plates by lane** (`TURRET_PLATE_DESTROYED`) — ⚠ semantics unclear: we observed ~44 plate events per game vs a 30-plate theoretical max, so the event does not map 1:1 to plates. Verify against a known VOD before using.
 4. **Kill-contribution arrays** (`victimDamageReceived`) — distinguishes carrying fights from KDA padding.
 5. **More `challenges` fields** — laning advantages, immobilizations landed, skillshots dodged.

@@ -1,0 +1,11 @@
+participantId,champion,team,role,win,kills,deaths,assists,goldEarned,totalCS,jungleCS,wardsPlaced,controlWards,visionScore,totalDamageToChampions,damageTaken,totalTimeSpentDead_s,initial_buff_count,initial_crab_count,jungle_cs_before_10m,more_enemy_jungle_than_opponent,kills_on_laners_early_as_jungler,jungler_kills_early_jungle,takedowns_before_jungle_minions,epic_monster_steals,epic_monster_kills_within_30s_of_spawn,earliest_dragon_takedown_s,scuttle_crab_kills,buffs_stolen,vision_score_per_minute,control_wards_placed,ward_takedowns_before_20m,danced_with_rift_herald
+1,Riven,100,TOP,True,4,1,2,11684,222,4,9,1,23,16287,14634,10,0,0,0,0,,,0,0,0,,0,0,0.96,1,0,0
+2,Ekko,100,JUNGLE,True,5,4,11,11244,164,149,1,0,17,15823,26207,85,2,1,77.45,-39.7,1,0,1,0,0,861.0,3,1,0.72,0,3,0
+3,Locke,100,MIDDLE,True,13,2,6,13069,177,6,11,0,21,28500,22306,30,0,0,2,0,,,1,0,0,,0,0,0.9,0,1,0
+4,Ashe,100,BOTTOM,True,4,2,9,11706,193,12,6,0,15,16200,11782,30,0,0,0,0,,,0,0,0,861.0,1,0,0.63,0,0,0
+5,Seraphine,100,UTILITY,True,4,2,10,7842,23,4,23,2,47,5380,13913,41,0,0,0,0,,,0,0,0,861.0,0,0,1.97,2,1,0
+6,Shen,200,TOP,False,0,5,4,6934,165,0,10,1,20,10377,23327,142,0,0,0,0,,,0,0,0,,0,0,0.83,1,1,0
+7,Diana,200,JUNGLE,False,5,7,1,9465,169,136,4,1,17,16081,22631,164,2,1,60.65,-56.7,2,0,0,0,0,522.29,3,2,0.73,1,2,0
+8,Sylas,200,MIDDLE,False,3,11,1,6994,130,0,9,0,16,17528,26206,294,0,0,0,0,,,0,0,0,,0,0,0.69,0,0,0
+9,Aphelios,200,BOTTOM,False,2,3,4,10296,191,0,8,0,18,15960,15944,53,0,0,0,0,,,0,0,0,522.29,0,0,0.78,0,1,0
+10,Janna,200,UTILITY,False,1,4,6,6086,19,0,18,2,42,4753,12967,93,0,0,0,0,,,0,0,0,522.29,0,0,1.74,2,1,0

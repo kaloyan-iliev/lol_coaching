@@ -86,7 +86,9 @@
         "allies": 2,
         "enemies": 1,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "mid_lane",
+      "our_champ_dmg_during": 0
     },
     {
       "t_start": 385,
@@ -102,7 +104,9 @@
         "allies": 2,
         "enemies": 2,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "red_base",
+      "our_champ_dmg_during": 0
     },
     {
       "t_start": 414,
@@ -118,7 +122,9 @@
         "allies": 3,
         "enemies": 2,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "red_jungle_bot",
+      "our_champ_dmg_during": 1018
     },
     {
       "t_start": 574,
@@ -166,7 +172,9 @@
         "allies": 1,
         "enemies": 2,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "red_jungle_bot",
+      "our_champ_dmg_during": 0
     },
     {
       "t_start": 839,
@@ -230,7 +238,9 @@
         "allies": 4,
         "enemies": 2,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "top_lane",
+      "our_champ_dmg_during": 0
     },
     {
       "t_start": 1145,
@@ -496,6 +506,7 @@
       "enemies_nearby": 4,
       "enemy_jgl_zone": "red_jungle_bot",
       "gold_diff_vs_enemy_jgl": -150,
+      "unspent_gold": 13,
       "flags": []
     },
     {
@@ -509,8 +520,10 @@
       "enemies_nearby": 4,
       "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": -845,
+      "unspent_gold": 1653,
       "flags": [
-        "outnumbered"
+        "outnumbered",
+        "large_unspent_gold"
       ]
     }
   ],
@@ -673,61 +686,71 @@
         "t": 0,
         "clock": "00:00",
         "gold_diff": 0,
-        "xp_diff": 0
+        "xp_diff": 0,
+        "level_diff": 0
       },
       {
         "t": 120,
         "clock": "02:00",
         "gold_diff": -150,
-        "xp_diff": 5
+        "xp_diff": 5,
+        "level_diff": 0
       },
       {
         "t": 240,
         "clock": "04:00",
         "gold_diff": -100,
-        "xp_diff": 103
+        "xp_diff": 103,
+        "level_diff": 0
       },
       {
         "t": 360,
         "clock": "06:00",
         "gold_diff": -914,
-        "xp_diff": 104
+        "xp_diff": 104,
+        "level_diff": 0
       },
       {
         "t": 480,
         "clock": "08:00",
         "gold_diff": -1359,
-        "xp_diff": -76
+        "xp_diff": -76,
+        "level_diff": 0
       },
       {
         "t": 600,
         "clock": "10:00",
         "gold_diff": -1633,
-        "xp_diff": -783
+        "xp_diff": -783,
+        "level_diff": -1
       },
       {
         "t": 720,
         "clock": "12:00",
         "gold_diff": -1102,
-        "xp_diff": -418
+        "xp_diff": -418,
+        "level_diff": -1
       },
       {
         "t": 840,
         "clock": "14:00",
         "gold_diff": -1403,
-        "xp_diff": -547
+        "xp_diff": -547,
+        "level_diff": 0
       },
       {
         "t": 960,
         "clock": "16:00",
         "gold_diff": -1629,
-        "xp_diff": -1156
+        "xp_diff": -1156,
+        "level_diff": -1
       },
       {
         "t": 1080,
         "clock": "18:00",
         "gold_diff": -1241,
-        "xp_diff": -67
+        "xp_diff": -67,
+        "level_diff": 0
       }
     ]
   },
@@ -741,6 +764,8 @@
     "first_riftherald_lost_absent",
     "big_early_gold_deficit_vs_jungler",
     "died_outnumbered",
-    "lost_counter_jungle_battle"
+    "lost_counter_jungle_battle",
+    "died_with_large_unspent_gold",
+    "absent_from_multiple_fights"
   ]
 }

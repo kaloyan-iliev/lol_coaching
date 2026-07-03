@@ -34,7 +34,9 @@ def _frame_positions(timeline: dict, participant_id: int) -> list[dict]:
             "lane_cs": pf.get("minionsKilled", 0),
             "level": pf.get("level", 1),
             "gold": pf.get("totalGold", 0),
+            "current_gold": pf.get("currentGold", 0),
             "xp": pf.get("xp", 0),
+            "dmg_to_champs": (pf.get("damageStats") or {}).get("totalDamageDoneToChampions", 0),
         })
     return snapshots
 

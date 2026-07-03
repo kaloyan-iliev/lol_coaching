@@ -70,7 +70,9 @@
         "allies": 0,
         "enemies": 0,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "red_jungle_top",
+      "our_champ_dmg_during": 0
     },
     {
       "t_start": 413,
@@ -102,7 +104,9 @@
         "allies": 3,
         "enemies": 1,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "top_lane",
+      "our_champ_dmg_during": 1370
     },
     {
       "t_start": 672,
@@ -134,7 +138,9 @@
         "allies": 2,
         "enemies": 1,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "red_jungle_bot",
+      "our_champ_dmg_during": 0
     }
   ],
   "momentum": {
@@ -377,6 +383,7 @@
       "enemies_nearby": 3,
       "enemy_jgl_zone": "red_jungle_top",
       "gold_diff_vs_enemy_jgl": -1089,
+      "unspent_gold": 239,
       "flags": []
     }
   ],
@@ -459,49 +466,57 @@
         "t": 0,
         "clock": "00:00",
         "gold_diff": 0,
-        "xp_diff": 0
+        "xp_diff": 0,
+        "level_diff": 0
       },
       {
         "t": 120,
         "clock": "02:00",
         "gold_diff": 24,
-        "xp_diff": -9
+        "xp_diff": -9,
+        "level_diff": 0
       },
       {
         "t": 240,
         "clock": "04:00",
         "gold_diff": -805,
-        "xp_diff": 100
+        "xp_diff": 100,
+        "level_diff": 0
       },
       {
         "t": 360,
         "clock": "06:00",
         "gold_diff": -981,
-        "xp_diff": -178
+        "xp_diff": -178,
+        "level_diff": 0
       },
       {
         "t": 480,
         "clock": "08:00",
         "gold_diff": -733,
-        "xp_diff": -390
+        "xp_diff": -390,
+        "level_diff": 0
       },
       {
         "t": 600,
         "clock": "10:00",
         "gold_diff": -1006,
-        "xp_diff": -792
+        "xp_diff": -792,
+        "level_diff": -1
       },
       {
         "t": 720,
         "clock": "12:00",
         "gold_diff": -291,
-        "xp_diff": -1187
+        "xp_diff": -1187,
+        "level_diff": -1
       },
       {
         "t": 840,
         "clock": "14:00",
         "gold_diff": -368,
-        "xp_diff": -1072
+        "xp_diff": -1072,
+        "level_diff": -1
       }
     ]
   },
@@ -514,6 +529,7 @@
     "no_early_gank_involvement",
     "first_dragon_lost_absent",
     "no_control_wards",
-    "lost_counter_jungle_battle"
+    "lost_counter_jungle_battle",
+    "absent_from_multiple_fights"
   ]
 }

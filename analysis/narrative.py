@@ -80,6 +80,10 @@ def build_fact_sheet(facts: dict, baseline: dict | None = None) -> str:
     if curve:
         pts = ", ".join(f"{p['clock']}: {p['gold_diff']:+d}g" for p in curve)
         lines.append(f"- Gold diff vs enemy jungler over time: {pts}")
+        lvl_pts = [p for p in curve if p.get("level_diff")]
+        if lvl_pts:
+            lvls = ", ".join(f"{p['clock']}: {p['level_diff']:+d}" for p in lvl_pts)
+            lines.append(f"- LEVEL diff vs enemy jungler (nonzero moments): {lvls}")
 
     momentum = facts.get("momentum") or {}
     swings = momentum.get("swings", [])
@@ -136,8 +140,10 @@ def build_fact_sheet(facts: dict, baseline: dict | None = None) -> str:
                    else f"allies within 2500 units: {d['allies_nearby']}")
         gold = (f", gold vs enemy jgl: {d['gold_diff_vs_enemy_jgl']:+d}g"
                 if d.get("gold_diff_vs_enemy_jgl") is not None else "")
+        unspent = (f", ~{d['unspent_gold']}g UNSPENT (fighting without items)"
+                   if (d.get("unspent_gold") or 0) >= 600 else "")
         lines.append(f"- {d['clock']} killed by {d['killer']} (+{d['assists']} assists) in {d['zone']}, "
-                     f"level {d['our_level']}, {numbers}{gold}{ejgl}{extra}")
+                     f"level {d['our_level']}, {numbers}{gold}{unspent}{ejgl}{extra}")
 
     lines.append("")
     lines.append(f"## Kill involvement in lanes / ganks ({len(facts['ganks'])}, heuristic: "
@@ -151,10 +157,16 @@ def build_fact_sheet(facts: dict, baseline: dict | None = None) -> str:
     lines.append(f"## Teamfights / skirmishes ({len(tf)} detected - clusters of 2+ kills, heuristic)")
     for f_ in tf:
         nums = f_["numbers_at_start"]
+        if f_["we_involved"]:
+            involvement = "we were involved"
+        else:
+            where = f" - we were in {f_['our_zone_at_start']}" if f_.get("our_zone_at_start") else ""
+            dmg = f_.get("our_champ_dmg_during")
+            dmg_note = (f", dealt {dmg} champ dmg that window" if dmg is not None else "")
+            involvement = f"we were NOT involved{where}{dmg_note}"
         lines.append(f"- {f_['clock']} in {f_['zone']}: {f_['result'].upper()} "
                      f"({f_['enemy_deaths']} enemy deaths vs {f_['our_deaths']} ours), "
-                     f"numbers at start ~{nums['allies']}v{nums['enemies']} "
-                     f"({'we were involved' if f_['we_involved'] else 'we were NOT involved'})")
+                     f"numbers at start ~{nums['allies']}v{nums['enemies']} ({involvement})")
 
     obj_names = {
         "HORDE": "HORDE (void grubs)",

@@ -209,10 +209,13 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
             "enemies_nearby": enemies_nearby,
             "enemy_jgl_zone": enemy_jgl_zone_at(t),
             "gold_diff_vs_enemy_jgl": gd,
+            "unspent_gold": snap["current_gold"] if snap else None,
             "flags": [],
         }
         if enemies_nearby - allies_nearby >= 2:
             death["flags"].append("outnumbered")
+        if snap and snap["current_gold"] >= 600 and t > 300:
+            death["flags"].append("large_unspent_gold")
         if is_enemy_jungle(zone, team_id) and allies_nearby == 0:
             death["flags"].append("alone_in_enemy_jungle")
         if zone.endswith("_river") and t < 210:
@@ -302,8 +305,11 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
         if snap["t"] % 120 < 60:  # every ~2 minutes keeps it compact
             gd, xd = gold_xp_diff_at(snap["t"])
             if gd is not None:
+                esnap = _snapshot_at(ejgl_snaps, snap["t"])
                 gold_diff_curve.append({"t": snap["t"], "clock": mmss(snap["t"]),
-                                        "gold_diff": gd, "xp_diff": xd})
+                                        "gold_diff": gd, "xp_diff": xd,
+                                        "level_diff": (snap["level"] - esnap["level"])
+                                        if esnap else None})
 
     first_reset = next(
         (ev["timestamp"] / 1000 for ev in events
@@ -326,6 +332,18 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
 
     # --- momentum (team gold swings) ---
     teamfights = _cluster_teamfights(events, teams, champs, timeline, pid, team_id)
+
+    # Annotate fights we sat out: where were we, and did we deal ANY champ
+    # damage that minute? (damage deltas catch "nearby but not fighting" too)
+    for fight in teamfights:
+        if fight["we_involved"]:
+            continue
+        snap = _snapshot_at(our_snaps, fight["t_start"])
+        next_snap = _snapshot_at(our_snaps, fight["t_end"] + 60)
+        dmg_during = (next_snap["dmg_to_champs"] - snap["dmg_to_champs"]) \
+            if snap and next_snap else None
+        fight["our_zone_at_start"] = classify_zone(snap["x"], snap["y"]) if snap else None
+        fight["our_champ_dmg_during"] = dmg_during
     gold_curve = team_gold_curve(timeline, teams, team_id)
     swings = detect_swings(gold_curve, events, teamfights, teams, team_id)
 
@@ -426,4 +444,10 @@ def derive_flags(facts: dict) -> list[str]:
     if any(s["direction"] == "lost" and abs(s["magnitude"]) >= 2500
            for s in (facts.get("momentum") or {}).get("swings", [])):
         flags.append("big_momentum_loss")
+    if any("large_unspent_gold" in d["flags"] for d in deaths):
+        flags.append("died_with_large_unspent_gold")
+    missed = [f for f in facts["teamfights"]
+              if not f["we_involved"] and (f.get("our_champ_dmg_during") or 0) < 200]
+    if len(missed) >= 2:
+        flags.append("absent_from_multiple_fights")
     return flags

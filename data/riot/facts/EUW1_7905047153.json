@@ -102,7 +102,9 @@
         "allies": 4,
         "enemies": 3,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "blue_jungle_bot",
+      "our_champ_dmg_during": 0
     },
     {
       "t_start": 593,
@@ -182,7 +184,9 @@
         "allies": 5,
         "enemies": 4,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "top_river",
+      "our_champ_dmg_during": 0
     },
     {
       "t_start": 1522,
@@ -262,7 +266,9 @@
         "allies": 5,
         "enemies": 4,
         "confidence": "heuristic (60s snapshots)"
-      }
+      },
+      "our_zone_at_start": "red_base",
+      "our_champ_dmg_during": 0
     }
   ],
   "momentum": {
@@ -519,6 +525,7 @@
       "enemies_nearby": 0,
       "enemy_jgl_zone": "mid_lane",
       "gold_diff_vs_enemy_jgl": 691,
+      "unspent_gold": 226,
       "flags": []
     },
     {
@@ -532,7 +539,10 @@
       "enemies_nearby": 4,
       "enemy_jgl_zone": "top_lane",
       "gold_diff_vs_enemy_jgl": 775,
-      "flags": []
+      "unspent_gold": 1943,
+      "flags": [
+        "large_unspent_gold"
+      ]
     },
     {
       "t": 721,
@@ -545,7 +555,10 @@
       "enemies_nearby": 3,
       "enemy_jgl_zone": "blue_jungle_bot",
       "gold_diff_vs_enemy_jgl": -91,
-      "flags": []
+      "unspent_gold": 835,
+      "flags": [
+        "large_unspent_gold"
+      ]
     },
     {
       "t": 1224,
@@ -558,6 +571,7 @@
       "enemies_nearby": 2,
       "enemy_jgl_zone": "blue_jungle_bot",
       "gold_diff_vs_enemy_jgl": 207,
+      "unspent_gold": 489,
       "flags": []
     },
     {
@@ -571,6 +585,7 @@
       "enemies_nearby": 4,
       "enemy_jgl_zone": "bot_river",
       "gold_diff_vs_enemy_jgl": -902,
+      "unspent_gold": 176,
       "flags": [
         "outnumbered"
       ]
@@ -759,97 +774,113 @@
         "t": 0,
         "clock": "00:00",
         "gold_diff": 0,
-        "xp_diff": 0
+        "xp_diff": 0,
+        "level_diff": 0
       },
       {
         "t": 120,
         "clock": "02:00",
         "gold_diff": 383,
-        "xp_diff": -131
+        "xp_diff": -131,
+        "level_diff": -1
       },
       {
         "t": 240,
         "clock": "04:00",
         "gold_diff": 390,
-        "xp_diff": 37
+        "xp_diff": 37,
+        "level_diff": 0
       },
       {
         "t": 360,
         "clock": "06:00",
         "gold_diff": 691,
-        "xp_diff": -159
+        "xp_diff": -159,
+        "level_diff": 0
       },
       {
         "t": 480,
         "clock": "08:00",
         "gold_diff": 553,
-        "xp_diff": -492
+        "xp_diff": -492,
+        "level_diff": -1
       },
       {
         "t": 600,
         "clock": "10:00",
         "gold_diff": 775,
-        "xp_diff": -267
+        "xp_diff": -267,
+        "level_diff": -1
       },
       {
         "t": 720,
         "clock": "12:00",
         "gold_diff": -91,
-        "xp_diff": -452
+        "xp_diff": -452,
+        "level_diff": -1
       },
       {
         "t": 840,
         "clock": "14:00",
         "gold_diff": -294,
-        "xp_diff": -593
+        "xp_diff": -593,
+        "level_diff": -1
       },
       {
         "t": 960,
         "clock": "16:00",
         "gold_diff": -262,
-        "xp_diff": 75
+        "xp_diff": 75,
+        "level_diff": 0
       },
       {
         "t": 1080,
         "clock": "18:00",
         "gold_diff": -58,
-        "xp_diff": -83
+        "xp_diff": -83,
+        "level_diff": 0
       },
       {
         "t": 1200,
         "clock": "20:00",
         "gold_diff": 207,
-        "xp_diff": -2
+        "xp_diff": -2,
+        "level_diff": 0
       },
       {
         "t": 1320,
         "clock": "22:00",
         "gold_diff": -606,
-        "xp_diff": -1296
+        "xp_diff": -1296,
+        "level_diff": -1
       },
       {
         "t": 1440,
         "clock": "24:00",
         "gold_diff": -810,
-        "xp_diff": -1040
+        "xp_diff": -1040,
+        "level_diff": 0
       },
       {
         "t": 1560,
         "clock": "26:00",
         "gold_diff": -902,
-        "xp_diff": -471
+        "xp_diff": -471,
+        "level_diff": 0
       },
       {
         "t": 1680,
         "clock": "28:00",
         "gold_diff": -959,
-        "xp_diff": -530
+        "xp_diff": -530,
+        "level_diff": -1
       },
       {
         "t": 1800,
         "clock": "30:00",
         "gold_diff": 184,
-        "xp_diff": 937
+        "xp_diff": 937,
+        "level_diff": 0
       }
     ]
   },
@@ -862,6 +893,8 @@
     "three_plus_deaths_before_14min",
     "died_outnumbered",
     "lost_counter_jungle_battle",
-    "big_momentum_loss"
+    "big_momentum_loss",
+    "died_with_large_unspent_gold",
+    "absent_from_multiple_fights"
   ]
 }

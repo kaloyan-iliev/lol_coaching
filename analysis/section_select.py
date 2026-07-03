@@ -29,6 +29,8 @@ FLAG_SECTIONS = {
     "lost_counter_jungle_battle": ["pathing", "vision"],
     "no_crab_control_early": ["early_game", "pathing"],
     "big_momentum_loss": ["mid_game", "objectives"],
+    "died_with_large_unspent_gold": ["mental", "clearing"],
+    "absent_from_multiple_fights": ["mid_game", "mental"],
 }
 
 DEFAULT_SECTIONS = ["jungle_fundamentals"]
