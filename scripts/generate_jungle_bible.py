@@ -81,6 +81,22 @@ TOPICS = {
 }
 
 
+SECTIONS_META_FILE = os.path.join(config.KNOWLEDGE_DIR, "sections_meta.json")
+
+
+def load_sections_meta() -> dict:
+    """Which transcript IDs fed each section at last generation."""
+    if os.path.exists(SECTIONS_META_FILE):
+        with open(SECTIONS_META_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_sections_meta(meta: dict):
+    with open(SECTIONS_META_FILE, "w", encoding="utf-8") as f:
+        json.dump(meta, f, indent=2, ensure_ascii=False)
+
+
 def load_videos_metadata() -> list[dict]:
     """Load video metadata from videos.json."""
     with open(config.VIDEOS_FILE, "r", encoding="utf-8") as f:
@@ -302,6 +318,8 @@ def main():
     parser.add_argument("--list-topics", action="store_true", help="List available topics and exit")
     parser.add_argument("--combine-only", action="store_true", help="Just combine existing sections into final document")
     parser.add_argument("--show-matching", action="store_true", help="Show which videos match which topics (dry run)")
+    parser.add_argument("--incremental", action="store_true",
+                        help="Only regenerate sections whose matched transcript set changed")
 
     args = parser.parse_args()
 
@@ -349,15 +367,39 @@ def main():
             print(f"Available: {', '.join(TOPICS.keys())}")
             sys.exit(1)
         generate_topic_section(args.topic, videos)
+        meta = load_sections_meta()
+        meta[args.topic] = sorted(v["id"] for v in match_videos_to_topic(videos, args.topic))
+        save_sections_meta(meta)
     else:
-        # Generate all topics
-        print("Generating The Jungle Bible\n")
+        # Generate all topics (or only changed ones with --incremental)
+        meta = load_sections_meta()
+        mode = "incrementally" if args.incremental else ""
+        print(f"Generating The Jungle Bible {mode}\n")
         for topic_key in TOPICS:
+            matched_ids = sorted(v["id"] for v in match_videos_to_topic(videos, topic_key))
+            section_path = os.path.join(config.KNOWLEDGE_DIR, f"section_{topic_key}.md")
+            if (args.incremental and meta.get(topic_key) == matched_ids
+                    and os.path.exists(section_path)):
+                print(f"\n[{topic_key}] unchanged ({len(matched_ids)} transcripts), skipping")
+                continue
             print(f"\n[{topic_key}]")
-            generate_topic_section(topic_key, videos)
+            if generate_topic_section(topic_key, videos) is not None:
+                meta[topic_key] = matched_ids
+                save_sections_meta(meta)
 
         # Handle unmatched transcripts
-        generate_for_unmatched_transcripts(videos)
+        all_matched = set()
+        for topic_key in TOPICS:
+            all_matched.update(v["id"] for v in match_videos_to_topic(videos, topic_key))
+        unmatched_ids = sorted(v["id"] for v in videos if v["id"] not in all_matched)
+        supp_path = os.path.join(config.KNOWLEDGE_DIR, "section_supplementary.md")
+        if (args.incremental and meta.get("_supplementary") == unmatched_ids
+                and os.path.exists(supp_path)):
+            print(f"\n[supplementary] unchanged ({len(unmatched_ids)} transcripts), skipping")
+        else:
+            generate_for_unmatched_transcripts(videos)
+            meta["_supplementary"] = unmatched_ids
+            save_sections_meta(meta)
 
     # Combine into final document
     print("\nAssembling final document...")

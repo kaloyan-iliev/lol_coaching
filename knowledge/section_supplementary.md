@@ -1,68 +1,100 @@
-Here's a supplementary section for "The Jungle Bible," compiling coaching advice from KireiLoL's transcript:
+Here is a supplementary section for "The Jungle Bible," compiling coaching advice from KireiLoL's transcript.
 
 ---
 
-## KireiLoL's Advanced Jungle Decision-Making
+## Supplementary Section: KireiLoL's Jungle Insights
 
-This section delves into the intricate thought processes and decision-making frameworks employed by high-level junglers, focusing on how to consistently find kills, manage tempo, and exert map pressure.
+This section compiles various actionable coaching tips and frameworks from KireiLoL, focusing on gank execution, decision-making, and strategic thinking in the jungle.
 
-### 1. Pre-Game & Initial Pathing
+### I. Pre-Game Strategy & Planning
 
-*   **Resource Allocation Evaluation Framework:** Before the game even begins, evaluate where your resources will be most impactful by asking these questions in order:
-    1.  **What is the enemy team going to do?** (Think about their champion's goals and win conditions).
-    2.  **Which lanes are volatile?** (Identify lanes most prone to action, often due to champion matchups or aggressive playstyles).
-    3.  **How does the enemy jungler path?** (Predict their likely route based on volatile lanes and their champion's clear speed/gank timings).
-    4.  **What do I want to do?** (Plan your own pathing and initial gank/clear based on the above analysis, aiming to counter or capitalize).
-*   **Level 1 Warding:** Place a ward to gain crucial information on the enemy jungler's starting camp. This is vital for predicting their early pathing and potential ganks.
+Effective jungling starts before the first camp. Use the loading screen and early game to formulate a plan.
 
-### 2. Jungle Tracking & Map Awareness
+*   **Draft Analysis:**
+    *   Evaluate both your team's and the enemy team's draft.
+    *   Identify your team's win condition (e.g., a strong scaling ADC like Vayne).
+    *   Determine the enemy team's win condition.
+*   **Lane Volatility:**
+    *   Identify which lanes are "volatile" (prone to early kills or heavy trading). These are prime targets for ganks.
+    *   Example: A lane where a champion *has* to go in (e.g., a melee vs. ranged matchup, or a high-kill potential duo).
+*   **Enemy Jungler Prediction:**
+    *   Anticipate the enemy jungler's pathing and intentions.
+    *   Consider potential invades (e.g., "Can Graves level two invade me?").
+    *   Adjust your initial pathing accordingly (e.g., "buff into buff" if worried about an invade).
+*   **Initial Pathing & Priority:**
+    *   Based on lane volatility, decide which side of the map you want to prioritize early (e.g., "Bot lane is super volatile, so I want to path towards the bot side").
 
-*   **Constant Mini-Map Monitoring:** Always look at the mini-map, even while farming your camps. This is non-negotiable for high-level play.
-    *   **Observe Laner Movements:** Watch for enemy laners walking into the river or placing wards. This can reveal gank opportunities or enemy jungle presence.
-    *   **Exploit Vision Gaps:** If you see an enemy support push in and place a ward in the river, you can often path behind them for an easy gank, as they might feel safe.
-    *   **Opportunistic Ganks:** You can sometimes skip camps to gank if you see a clear opportunity (e.g., enemy wards river and is overextended). However, only do this if you are confident the enemy jungler won't see you and punish your skipped camps (e.g., if they are full clearing on the opposite side of the map).
-*   **Wave State as Information:**
-    *   **Slow Push:** A slow push towards your lane indicates the wave will be bad for your laner later, but not immediately. Use this to anticipate future gank opportunities.
-    *   **Aggressive Play:** If enemy laners play aggressively into a slow-pushing wave, they are highly vulnerable.
-*   **Predicting Enemy Jungler:** Use wave states and your knowledge of their champion to anticipate where the enemy jungler will be. Ping your laners in advance if you suspect a gank.
+### II. Gank Execution & Timing
 
-### 3. Ganking & Skirmishing
+Gank execution is highlighted as the *most important* practical skill.
 
-*   **Gank Pathing:** When ganking, always aim to cut off the enemy's escape path. This maximizes your chances of securing the kill or forcing summoner spells.
-*   **Patience in Ganking:**
-    *   Wait for enemies to commit or overextend, especially if you believe they lack vision of you.
-    *   From their perspective, they might only see your low-HP laner and decide to fight, not realizing you're waiting in a bush. Use their limited information against them.
-*   **Counter-Ganking:**
-    *   **Conditions for a strong counter-gank:**
-        *   **Enemy Jungler hasn't Based Yet:** The longer they stay on the map after a play, the more tempo you gain if you base and return.
-        *   **Item Power Spike:** You have a significant item advantage over the enemy jungler.
-        *   **Crashing Wave:** A wave is crashing into your laner's tower, indicating a likely gank target for the enemy jungler.
-    *   **Proactive Pings:** Ping your laners early about potential enemy ganks based on wave states. Laners need advance notice to adjust their play.
+#### A. General Gank Principles
 
-### 4. Tempo & Basing
+*   **Approach from Behind:** Always try to gank from behind the enemy, cutting off their escape path. Avoid walking directly from obvious, easily wardable bushes.
+*   **Target Priority:**
+    *   Focus on the enemy jungler or ADC in skirmishes.
+    *   Killing the support is generally less impactful unless they are deep, in which case you kill them and get out to prevent the ADC from cleaning up.
+*   **Patience & Team Sync:**
+    *   Don't ping your laners to engage too early. Wait for them to be in position.
+    *   If your laner is far away, play slow and wait for them to get closer before committing to the gank. Engage when you can "sandwich" the enemy.
+*   **Skirmish Awareness:**
+    *   In a fight, don't spam ping your laner; focus on the fight itself.
+    *   If you're not 100% sure you win a 1v1, play slow and wait for your teammates to assist.
 
-*   **Instant Basing After Kills:**
-    *   **Why?** To convert gold into items, heal up, and get back to the map quickly with full resources. This ensures you are available for the next play.
-    *   **Pre-emptive Planning:** Before even making a play (e.g., bot lane gank), look at other lane wave states (e.g., top lane slow push) to plan your next move after basing.
-    *   **Prioritize Tempo over Small Camps:** After a successful gank, often instant base instead of clearing nearby small camps (like Krugs) if it allows you to gain tempo or respond to another lane.
-*   **Understanding Tempo Advantage:**
-    *   **Post-Kill Scenario:** If you get a kill and the enemy jungler is coming from base, they will likely have tempo on you if you don't base immediately.
-    *   **Homeguards Advantage:** Before minute 14-15, you gain "homeguards" speed after basing. If you base slightly faster than the enemy jungler (who might still need to heal or walk back), you gain a significant tempo advantage, allowing you to reach lanes or objectives faster.
-    *   **Be Available:** Basing with gold and low HP ensures you are available on the map for potential mid or bot lane fights.
+#### B. Wave State Awareness
 
-### 5. Wave Management (Jungle Perspective)
+Wave states are crucial indicators for gank opportunities.
 
-*   **After a Kill:** If you want your laner to freeze a wave after a successful gank, drag the wave slightly to prevent it from slow-pushing too far under the enemy tower.
-*   **Anticipate Next Wave:** Always look at the next wave spawning to inform your decisions on whether to push, freeze, or leave the lane.
-*   **Communicate with Laners:** Ping and communicate with your laners about wave states and potential enemy jungler movements so they can adjust their play (e.g., "push next wave ASAP," "careful"). Lower Elo laners often don't think about enemy jungle position.
+*   **Pushing Waves (Bad for Gank):** If your lane is pushing the enemy under their tower, it's difficult to gank effectively.
+*   **Slow Pushing Waves (Good for Gank):**
+    *   A wave that is slow pushing towards the enemy team makes them vulnerable as they extend to farm.
+    *   Similarly, a wave that is slow pushing towards *your* tower (or is already under it) creates excellent gank opportunities as the enemy is overextended and close to your turret.
 
-### 6. Post-Play Decision-Making Framework
+#### C. Post-Flash Ganks
 
-*   **After securing a kill or making a successful play, immediately ask yourself:**
-    1.  **Do I need to base?** (Consider your current gold, HP, and item timings).
-    2.  **Where is the enemy jungler?** (Predict their location based on recent sightings, objectives, and wave states).
-    3.  **What do I want to play for next?** (Identify the next high-value play or objective, such as a dragon, another gank, or invading camps).
+*   **Avoid Immediate Gank:** If an enemy laner just used Flash and survived, do *not* gank them immediately.
+*   **Full Clear & Reset:** It's often better to full clear your jungle camps, allow them to respawn, and then look for a gank on that lane later when Flash is still down. This ensures you don't waste time on a low-probability gank and maintain your farm.
 
-By internalizing these thought processes, you can elevate your jungle play, recognize opportunities, and consistently make high-impact decisions throughout the game.
+### III. Mid-Game Decision Making
+
+Strategic decisions after a play are as important as the play itself.
+
+#### A. Post-Kill Actions
+
+After securing a kill, immediately ask yourself these questions:
+
+1.  **"Do I need to base?"** (If you have significant gold, the answer is usually yes).
+2.  **"What do I want to play for?"** (This is usually your strong laner or win condition).
+3.  **Power Spike Management:** If you've hit a major item power spike (e.g., Kraken Slayer), base *as soon as possible* to spend your gold. Don't full clear your entire jungle before basing, as you want to be ready to fight with your new items. Path towards your win condition side after basing.
+
+#### B. Basing & Gold Management
+
+*   **Timely Bases:** Base to spend your gold and get stronger. Don't hold onto large amounts of gold.
+*   **Objective-Oriented Bases:** If a major objective (like Dragon) is spawning soon (e.g., in 1 minute):
+    1.  Clear camps on the *opposite* side of the map.
+    2.  Base to spend your gold.
+    3.  Then, path directly towards the objective side. This ensures you arrive with full items and health.
+
+#### C. Objective Prioritization
+
+*   **Strength Advantage:** If you are significantly stronger than the enemy jungler (e.g., item advantage, ultimate advantage), you can confidently take objectives like Dragon or Baron. Dare them to contest.
+*   **Risk Assessment:** If your laners die or you're at a disadvantage (e.g., 2v3), don't force a fight over an objective. It's better to concede the objective, keep farming, and wait for a more favorable opportunity.
+
+#### D. Skirmishing & Teamfights
+
+*   **Know Your Limits:** Don't engage in unfavorable fights (e.g., 2v3).
+*   **Play to Your Strengths:** If you have a power spike, look for fights on your win condition side.
+
+### IV. Communication & Pinging
+
+Effective communication is key to coordinating with your team.
+
+*   **Proactive Pinging:** Ping your laners to play safe when the enemy jungler is missing or potentially nearby (e.g., "Riven missing," "Graves missing," "Be careful"). This helps prevent deaths and allows your team to wait for your power spikes or bases.
+*   **Avoid Spam Pinging:** During a fight, focus on the fight itself rather than spamming pings.
+
+### V. General Jungle Principles
+
+*   **Helping Laners Crash Waves:** Sometimes, your presence in a lane isn't for a gank but to help a laner crash a wave. This is especially important if they are vulnerable to an all-in and need to reset or prevent a freeze.
+*   **Snowballing:** Consistently applying pressure, securing kills, and making smart post-kill decisions (basing, pathing to win condition) is how you snowball your lead. Effective pinging to prevent your laners from dying while you're resetting also contributes to snowballing.
 
 ---

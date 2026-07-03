@@ -222,5 +222,33 @@
     "win": false,
     "has_timeline": true,
     "source": "ladder_scan"
+  },
+  {
+    "match_id": "EUW1_7906372703",
+    "game_version": "16.13.791.5903",
+    "queue_id": 420,
+    "game_creation": 1783002322376,
+    "game_duration_s": 1403,
+    "ekko_puuid": "H8VuvzqhsOnRv0_L0Ow1jLo4cr3JdazRIF-79lm54_f60-x_J9nW8bnxEpMKdmiyrLCVQ2k7BY4rBg",
+    "ekko_participant_id": 7,
+    "ekko_team_id": 200,
+    "tier": "GRANDMASTER",
+    "win": true,
+    "has_timeline": true,
+    "source": "ladder_scan"
+  },
+  {
+    "match_id": "EUW1_7906180262",
+    "game_version": "16.13.791.5903",
+    "queue_id": 420,
+    "game_creation": 1782986797825,
+    "game_duration_s": 1456,
+    "ekko_puuid": "wLKcjMNBKwDMngrCg-RtKYEqMbeYoD8koDG7HxaRxFosHkqWZ9qzgfZkvc1HjsVqJ86mtsNLhBH-fw",
+    "ekko_participant_id": 2,
+    "ekko_team_id": 100,
+    "tier": "GRANDMASTER",
+    "win": true,
+    "has_timeline": true,
+    "source": "ladder_scan"
   }
 ]
