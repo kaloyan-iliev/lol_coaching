@@ -1,0 +1,146 @@
+{
+  "champion": "_GENERIC",
+  "role": "JUNGLE",
+  "n_games": 100,
+  "patches": [
+    "16.12",
+    "16.13"
+  ],
+  "win_rate": 0.5,
+  "cs_at_10": {
+    "p25": 69.0,
+    "median": 74.5,
+    "p75": 79.8,
+    "n": 100
+  },
+  "cs_at_15": {
+    "p25": 106.0,
+    "median": 116.0,
+    "p75": 126.8,
+    "n": 100
+  },
+  "first_gank_t_s": {
+    "p25": 199.0,
+    "median": 264,
+    "p75": 436.0,
+    "n": 99
+  },
+  "first_reset_s": {
+    "p25": 188.8,
+    "median": 224.0,
+    "p75": 269.0,
+    "n": 100
+  },
+  "full_clear_end_s": {
+    "p25": 240.0,
+    "median": 300,
+    "p75": 360.0,
+    "n": 57
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 100
+  },
+  "deaths_total": {
+    "p25": 2.0,
+    "median": 4.5,
+    "p75": 7.0,
+    "n": 100
+  },
+  "gank_involvements": {
+    "p25": 4.0,
+    "median": 7.0,
+    "p75": 9.0,
+    "n": 100
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 100
+  },
+  "wards_placed": {
+    "p25": 3.0,
+    "median": 4.0,
+    "p75": 7.0,
+    "n": 100
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 1.0,
+    "p75": 2.0,
+    "n": 100
+  },
+  "wards_killed": {
+    "p25": 2.0,
+    "median": 3.0,
+    "p75": 6.0,
+    "n": 100
+  },
+  "first_objective_participation_rate": 0.34,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 65.2,
+      "median": 71.7,
+      "p75": 76.0,
+      "n": 100
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -59.5,
+      "median": -53.1,
+      "p75": -43.5,
+      "n": 100
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 100
+    },
+    "scuttle_crab_kills": {
+      "p25": 2.0,
+      "median": 4.0,
+      "p75": 5.0,
+      "n": 100
+    },
+    "vision_score_per_minute": {
+      "p25": 0.8,
+      "median": 1.0,
+      "p75": 1.2,
+      "n": 100
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "n": 100
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.0,
+      "median": 2.0,
+      "p75": 4.0,
+      "n": 100
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 2.0,
+      "p75": 2.0,
+      "n": 100
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 1.0,
+      "n": 100
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 402.4,
+      "median": 664.7,
+      "p75": 982.7,
+      "n": 75
+    }
+  },
+  "note": "Master+ EUW _GENERIC jungle. Quartiles over small n - treat as reference range, not law. GENERIC baseline across ALL jungle champions - clear-speed and CS metrics vary by champion, treat those loosely."
+}

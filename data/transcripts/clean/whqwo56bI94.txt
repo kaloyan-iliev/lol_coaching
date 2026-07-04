@@ -1,0 +1,3586 @@
+# 21 June Bootcamp Session
+# Coach: Thomas Yuen
+# Tags: 
+# URL: https://youtu.be/whqwo56bI94
+# Video ID: whqwo56bI94
+
+[00:01] Let's begin the boot camp. Okay. And
+[00:03] let's start sharing my screen and let's
+[00:06] show you guys right here this. And let
+[00:09] me open Epipen. So for the people
+[00:12] wondering, I am recording it. So if you
+[00:14] have to leave for some reason halfway,
+[00:16] you will be getting it later. Okay? So
+[00:19] don't worry if you're wondering what ELO
+[00:21] is useful for. If you can check my
+[00:23] screen. Do you guys see my screen? I
+[00:25] assume you guys do, right? Just to make
+[00:27] sure you guys see my screen. If you're
+[00:29] wondering for what rank is this, I'll be
+[00:31] very honest. If you're below uh gold and
+[00:35] below, okay, like silver, bronze,
+[00:38] and iron,
+[00:40] it is not going to be as good for you
+[00:42] because I would say usually if you're
+[00:44] very very low, you should focus on
+[00:46] ganking, champion mastery, like how to
+[00:49] base properly. But the moment you get to
+[00:52] like platog, even gold, everything from
+[00:54] gold is fine. the stuff I'm about to
+[00:57] teach you, it will be so useful. I'm
+[01:00] telling you, you'll actually realize
+[01:01] what your mistakes are. Low monster is
+[01:03] all super useful. Grand master super
+[01:04] useful ch like I'm telling you, every
+[01:06] single elo above gold is really good.
+[01:09] Okay. Anyway, I don't want to waste you
+[01:11] guys time, but let's just get into it.
+[01:13] And first of all, welcome to my Midgame
+[01:16] boot camp master class where you will be
+[01:18] learning basically well all the tips and
+[01:20] tricks. I mean, I don't know if you guys
+[01:23] actually know who I am. I haven't done
+[01:25] this last time, but it's just a quick
+[01:27] summary, okay? I currently I'm grand
+[01:28] master. I'm [ __ ] boosted. But
+[01:30] essentially, in this boot camp, I'll be
+[01:32] saving you guys a lot of time on just
+[01:34] what to do to improve. Like I'm telling
+[01:37] you guys, people have joined before.
+[01:39] They even said that 5 years they would
+[01:41] still not learn it. Okay? So, let's just
+[01:44] teach you guys those fundamentals. So,
+[01:47] what are the topics we'll cover? It is
+[01:50] well, a winner's mentality with
+[01:51] actionable steps. We'll get to that.
+[01:54] Okay, we'll get to that. Hold up. I need
+[01:56] to open this part. Okay. Um, just to
+[02:01] make sure that you guys see as well the
+[02:04] boot camp steps. Now, let's continue and
+[02:08] go to the next part. So, you guys will
+[02:11] learn actionable steps. I'll get into it
+[02:13] later, but you guys will learn as well
+[02:15] what is midame tempo. And when I say
+[02:17] tempo, okay, Midame tempo basically
+[02:19] means knowing how to count numbers.
+[02:23] consistently. I'm going to teach you
+[02:25] guys the system on well basically how to
+[02:28] count numbers consistently which is not
+[02:30] only your rule all the rules as well.
+[02:32] Okay,
+[02:34] tempo and waves basically once you
+[02:36] understand tempo and you can combine it
+[02:39] with waves the games become a lot easier
+[02:41] but I will tell you that this isn't as
+[02:43] high priority as this. This is like the
+[02:46] secret number two. Okay,
+[02:49] create edge on objectives. I'll I'll
+[02:50] just show you how team five positioning
+[02:54] and summary and the most important tool
+[02:57] to win. Okay. And another thing I want
+[03:01] you guys to take notes if you don't
+[03:04] understand something of like 2, three,
+[03:06] four, five, six or whatever. Write it
+[03:09] down. At the end of the coaching
+[03:11] session, you can ask me. During the
+[03:14] coaching session in this class, I will
+[03:15] not answer questions, but I need you to
+[03:17] have your sticky note open. Okay? and
+[03:20] take notes. Any questions you have,
+[03:22] write them down because in the end it's
+[03:24] very crucial that you guys understand
+[03:27] everything. Okay?
+[03:31] So I hope you guys have sticky notes
+[03:33] open. Please just open it
+[03:36] now. Let's begin. Okay. I hope you have
+[03:39] our sticky notes open. So let's start
+[03:42] with mentality.
+[03:44] I have coached right now probably around
+[03:48] think seven years like normal people and
+[03:51] I coached all professionally for like
+[03:52] two years and worked for like insane
+[03:54] people and I can tell you that I'm just
+[03:58] going to go instantly okay and I'm going
+[03:59] to go step by step which is basically
+[04:02] this. I want you to take note of this
+[04:06] and I'm going to add a few more. Okay.
+[04:08] Um distractions. When I say
+[04:10] distractions,
+[04:12] don't look at Discord. Like I'm sure
+[04:14] some of you guys are looking Discord
+[04:15] because it's dope mean. Oh my god, did I
+[04:17] get a new message? Please just don't do
+[04:19] that, okay? Like don't open Discord when
+[04:21] in game fully looking game. Okay, very
+[04:24] very crucial.
+[04:26] and real life um stuff. This is
+[04:32] something I haven't uh added on my last
+[04:34] boot camp, but I do think this is very
+[04:35] crucial as well because especially this
+[04:38] part, if you got your real life [ __ ]
+[04:41] together and you have less distractions,
+[04:43] performing in league is actually much
+[04:45] easier. So, if there's anything
+[04:47] distracting you, of course, if it's
+[04:48] fixable, fix it because I'm telling you,
+[04:51] if you're good outside the rift, inside
+[04:54] the rift, you're going to be smurfing as
+[04:55] well. Okay. And distraction speaks for
+[04:57] itself, right? You don't want your mom
+[04:59] invading your room and talking to you
+[05:01] about life. Like, you don't want that.
+[05:03] You should like tell her, "Bro, I'm I'm
+[05:05] locked in. Just just don't distract me."
+[05:07] Anything that's distracting you, think
+[05:08] about it. Just, you know, get rid of
+[05:11] that. Okay. Anyway,
+[05:14] out of all these things, okay, these are
+[05:17] the things that are holding you back,
+[05:18] which is too big of a champion pool.
+[05:20] Switching champion pools. Well, I'll
+[05:22] tell you why later. But um regarding
+[05:25] this part, okay, especially too big of a
+[05:27] champion pool and switching champion
+[05:28] pools, why like you hear it very often.
+[05:31] Why is it crucial you one trick or two
+[05:34] trick? Why is that? Because League of
+[05:38] Legends is an habit building game where
+[05:41] you have to learn how to let's say
+[05:43] jungle track, you have to make a game
+[05:44] plan, you have to count numbers. There's
+[05:46] like probably 15 things at the same time
+[05:48] you have to think about. And if you play
+[05:51] a champion you're not used to, it's
+[05:53] going to be very difficult to build
+[05:55] habits. Which is why if you have a small
+[05:57] champion pool and you stick to it, it's
+[06:00] much easier to build habits, which is
+[06:03] basically freeing up your mental stack.
+[06:06] Two little games. I know a lot of you
+[06:08] guys here are platinum plus. If you're
+[06:11] emerald plus, you're literally in the
+[06:13] 10%, okay? You're literally like the top
+[06:15] 10% of League of Legends.
+[06:18] By playing one or two games a day, you
+[06:20] can't expect to have good results. So, I
+[06:22] would recommend minimum three. If you're
+[06:24] like above master, I think four plus is
+[06:26] recommended. But anything above like
+[06:28] emerald three plus, okay,
+[06:32] not having daily goals. When I say daily
+[06:34] goals, I know like 95% of you guys don't
+[06:37] do this. I'm going to get to this, okay?
+[06:39] But this is in my opinion the biggest
+[06:40] cheat that I have if I want to improve.
+[06:44] Not reviewing games, focusing too many
+[06:46] things. I think the other things are
+[06:48] like very clear right no self refraction
+[06:51] blaming other people no game plans after
+[06:53] bad plays these are the things usually
+[06:56] holding you back now
+[06:59] let's look at opposite things okay
+[07:03] everything opposite of like things
+[07:04] holding you back is basically this which
+[07:08] is small chain pool sticking with the
+[07:10] same chain pool consistent gaming clear
+[07:13] daily goals what you want to work on
+[07:15] reviewing your games, focusing on one
+[07:17] two concepts, not wasting brain energy
+[07:19] because if you blame other people, it
+[07:21] doesn't move you towards your goal.
+[07:23] Accountability. Why is accountability
+[07:25] very crucial? Because if, let's say,
+[07:27] your teammates are griefing you, what's
+[07:30] the point of flaming or blaming your
+[07:31] teammates? You're going to get another
+[07:33] teammate anyway. Just focus on yourself.
+[07:36] If you want to climb, you need to have
+[07:38] accountability and knowing what's next
+[07:40] after bad play. A lot of you guys as
+[07:42] well will tend to out auto out auto
+[07:44] outpilot. So whenever a bad play
+[07:47] happens, you might be like, "Oh my god,
+[07:49] my lad's so boosted. What is this?"
+[07:52] Instead of actually thinking what
+[07:53] matters, which is how do you win a game?
+[07:56] What do you want to play for next?
+[07:58] Where's the enemy jungle? You need to
+[08:00] recognize how your own brain works and
+[08:03] find your own triggers, how you get
+[08:05] triggered, and then you need to
+[08:07] acknowledge it and then try to fix it in
+[08:10] game as soon as possible. But now out of
+[08:14] all these things, how many things are
+[08:16] holding you back? I want you guys to
+[08:18] write how many things are holding you
+[08:19] back. Just count. Okay, just count. How
+[08:23] many things are holding you back?
+[08:26] Out of all these things, this is four,
+[08:28] five, this is four, five, six, seven,
+[08:30] eight, nine things. Okay,
+[08:35] look, that's actually crazy numbers
+[08:37] though. If it's like three or four,
+[08:38] that's actually a lot. By the way, just
+[08:39] so you guys know, your goal should be
+[08:44] to like really like make that to maximum
+[08:47] ideally.
+[08:49] But now, just because I'm telling you
+[08:51] guys this, I need you guys to take
+[08:54] action. Okay? So,
+[08:56] essentially this, what is moving me away
+[08:58] from my goal? It's all the things that
+[09:00] was in the previous page. What is moving
+[09:02] me towards my goal? So, take a look at
+[09:04] this. Okay, let's say that I know that
+[09:09] well this is different for every person.
+[09:11] So I'm going to like write this down in
+[09:13] the chat or copy it for the boys. But so
+[09:16] I'm going to copy this. Okay, I want you
+[09:18] guys to copy this what I just copied
+[09:20] right here. Okay,
+[09:23] and then move me towards my goal. I need
+[09:26] you guys to have your notepad open
+[09:29] and write down all the things that are
+[09:32] holding you back. So like all of these
+[09:34] things, okay? Write it down and write
+[09:38] what is moving you towards your goal.
+[09:39] Like I'm going to literally wait for you
+[09:42] guys four or five minutes till you guys
+[09:44] finish it.
+[09:46] So yeah, write stuff down.
+[09:52] What is moving you away and how do you
+[09:54] move towards? You first need to be aware
+[09:56] of like what's holding you back. Write
+[09:58] it down. Okay.
+[10:01] And of course, right opposite five
+[10:03] minutes, guys. So at 19:21ish,
+[10:06] we'll continue. And if you want some
+[10:08] examples of mine, I can show you. But uh
+[10:11] I can even copy in the chat here. Okay,
+[10:13] I'm going to copy here in the chat. So
+[10:15] you guys can just look at what I have as
+[10:18] a comparison.
+[10:20] But you guys should in the end write
+[10:22] down your own stuff. Okay, let me be
+[10:24] sure. Write down your own stuff.
+[10:27] So I'm just gonna
+[10:29] wait for you guys. Write it down, boys.
+[10:31] Five minutes. You guys have five
+[10:32] minutes.
+[10:34] I'll wait for you guys.
+[10:37] It's not just listening to me, guys. You
+[10:39] guys have to actually put in some
+[10:40] action.
+[10:49] Until then, I'll just wait for you guys.
+[10:50] And for the people that are done or do
+[10:53] things well, ask me questions in the
+[10:55] chat. I'll answer here. Okay? So, I'll
+[10:58] answer your questions.
+[11:01] I'll just use your notepad. Use your own
+[11:03] notepad.
+[11:34] uh daily goals. I'll get to that. Don't
+[11:36] worry, guys. I I'll get to that. the
+[11:38] daily goals. I'll get to that after
+[12:41] All
+[12:53] right. 2 minutes left, boys. Okay. And
+[12:54] just so you know, I cannot answer too
+[12:56] much because everyone's typing, but um
+[13:06] okay guys,
+[13:08] I don't need you guys to write down um
+[13:10] your pros and cons. I need you guys to
+[13:12] have that for yourself, okay? Just to be
+[13:14] sure.
+[13:19] The daily goal, I will tell you guys
+[13:21] later. No worries about it.
+[13:27] I got you guys.
+[13:44] That's better.
+[14:10] Okay, one minute left, boys.
+[14:51] No, self-reflection is more like being
+[14:53] aware that you're the problem. That is
+[14:55] self-reflection and finding problems or
+[14:57] like knowing how to review. But okay, I
+[15:01] would say that right now hopefully you
+[15:03] guys have written down the things that
+[15:04] you guys are bad at and the complete
+[15:07] opposite.
+[15:09] So the next thing, okay, regarding goal
+[15:12] setting, I'm going to copy this in the
+[15:14] chat. So, make sure to copy this. Okay,
+[15:16] so I'm going to really tell you right
+[15:18] now before people leave and they don't
+[15:20] do it, but I need you guys to do the
+[15:22] following. Okay,
+[15:24] look at how you count numbers. For my
+[15:27] first or second boot camp, I had people
+[15:30] focus on the wrong things, which is
+[15:32] like, let's say, timing waves with CC.
+[15:35] In this boot camp, I'm telling you guys
+[15:36] that you guys will learn how to count
+[15:38] numbers, and you should be focusing on
+[15:40] that. So, what I need you guys to do is
+[15:43] this. I'm going to copy this in the chat
+[15:45] here. Copy paste it. Like boom, right
+[15:48] there. So, how is how does it work? The
+[15:52] way it works is that you want to review
+[15:55] a game from yesterday. I watched it
+[15:56] well. And this is essentially counting
+[15:58] numbers slash fighting like whatever is
+[16:01] right. But especially counting numbers.
+[16:03] What I did poorly. Counting numbers.
+[16:07] Count the numbers. It's literally
+[16:10] your goal. If your goal is to count
+[16:13] numbers, you should focus on that before
+[16:15] the day starts at the end of the day.
+[16:17] And just so you know, I'm going to go
+[16:18] into detail of this, but I'm already
+[16:20] telling you guys right now because I
+[16:22] know some people will focus on the wrong
+[16:24] things. You guys will learn in the boot
+[16:25] camp. Don't worry. But I I'll teach you
+[16:28] guys.
+[16:30] Now,
+[16:32] hopefully we all actually wrote down
+[16:34] things and your sheet should look like
+[16:37] the following. you have clear things
+[16:40] that are holding you back, right?
+[16:43] And do the opposite of that. And your
+[16:45] goal is literally to read this before
+[16:47] they start and like stick to it.
+[16:50] If you can have like zero or one or two
+[16:52] of these things that are holding you
+[16:54] back, you are going to climb at least
+[16:56] few divisions easily. I'm telling you,
+[17:00] you have to hold yourself accountable
+[17:01] though. Okay.
+[17:04] Now as well of course if you know that
+[17:06] um
+[17:08] you have certain goals
+[17:11] this is just how you should have a goal
+[17:13] setting before they start regarding
+[17:16] fundamentals.
+[17:18] But anyway let's go to the next thing.
+[17:20] Okay
+[17:22] that was like more a mentality part and
+[17:24] actionable steps. So what is Midame and
+[17:27] why is so hard? So, now we're going to
+[17:28] come to the juicy ju juicy part, guys.
+[17:31] Because essentially, it's a death match
+[17:33] with nine other players. It's a fighting
+[17:36] game with animals unleashed. Like, I'm
+[17:39] sure that all of you guys know that if
+[17:40] you play jungle, you'll always see your
+[17:42] laner just push here, die, push here,
+[17:45] die, push here, die. If you play AD
+[17:48] carry, you see your jungler doing a
+[17:49] random top lane play and she's playing
+[17:51] with like a strong laner. This is
+[17:53] literally playing with animals
+[17:55] unleashed. They're like in the zoo and
+[17:58] they they have no one stopping them. But
+[18:00] I will teach you guys like how to
+[18:01] minimize that. Okay.
+[18:04] And it's hard as well because of the
+[18:06] following reasons. You are relying on
+[18:09] clueless teammates that have no clue
+[18:10] what to do. It's hard to keep track of
+[18:14] numbers all the times because let's say
+[18:16] that a laner here is just deciding to
+[18:19] drop his wave and he roams. Guess what?
+[18:21] You should be aware of that. You'll be
+[18:23] learning all of this. Where should you
+[18:25] base? Where not? Well, how to move
+[18:28] around the map. This is all macro,
+[18:29] right? How to communicate to my monkeys.
+[18:32] Very, very good one, too. And the main
+[18:36] reason why the games feel so fast and
+[18:38] why it's a [ __ ] show because the right
+[18:41] games implement this this season. Okay,
+[18:44] after minute 14, the waves spawn every
+[18:47] 25 seconds, which means that instead of
+[18:50] 30 seconds, your laders die now every 25
+[18:54] seconds.
+[18:56] literally.
+[18:58] So, it's even worse. Okay, every 30
+[19:01] minutes is 20 seconds. So, basically, it
+[19:04] forces your laners to int more because
+[19:07] every single time there's a wave, they
+[19:09] will walk up and they can get killed by
+[19:11] anyone.
+[19:13] Okay, that's why Midame is a [ __ ] show.
+[19:15] And I'm going to teach you how to have
+[19:17] the most impact when your laners want to
+[19:19] run down. And if you play a laner, I'm
+[19:22] going to teach you as well how to think
+[19:23] from a jungle perspective.
+[19:25] Now, that's why it's more of a [ __ ]
+[19:27] show. Okay. So, now I'm going to teach
+[19:29] you guys the types of tempo in game so
+[19:32] you can recognize in game tempo.
+[19:36] But basically, it's very simple, right?
+[19:38] You're either up tempo, down tempo, and
+[19:40] people can cheat tempo. So, to clarify
+[19:43] this, if the enemy is dead or enemy team
+[19:46] has to catch the wave, you're up tempo.
+[19:50] when you have to catch the wave or when
+[19:52] you're dead, you're down tempo. It
+[19:54] essentially means whoever can make the
+[19:57] first play.
+[19:59] What is cheating tempo?
+[20:01] Cheating tempo is when laners ignore a
+[20:03] wave or when a jungler decides to just
+[20:05] rage gank and not farm. So, you'll
+[20:09] either die to people that are usually
+[20:12] uptempo or they cheat tempo. But, I'll
+[20:14] I'll show you some examples and it'll
+[20:16] make a lot more sense to you. Oh, okay.
+[20:19] Let me log in first real quick
+[20:22] and then I'm going to show you guys
+[20:27] uh
+[20:29] okay
+[20:32] logging in for the boys and now let's
+[20:35] get into it. Okay. Okay. Let's go to 2
+[20:40] minute then. So first thing first. Okay.
+[20:43] You guys need to understand
+[20:46] how laners work and waves. So when I say
+[20:50] waves,
+[20:52] do you see this mid wave here?
+[20:55] This mid lane wave is already hitable.
+[20:58] You see? Whereas look at bot wave. Look
+[21:00] mini map. It hasn't even hit the tower
+[21:03] yet. Which is why midwave is always
+[21:08] faster.
+[21:10] Midwave is always faster.
+[21:13] Okay, when I say midwave is always
+[21:15] faster, I basically mean that if Yunata
+[21:18] here decides to push mid lane and he
+[21:20] goes into side lane,
+[21:23] he's always going to be instantly on the
+[21:25] side wave cuz let's say he pushes this
+[21:27] and Fiora is trying to push. If Fiora is
+[21:30] not looking mid lane purity, he will
+[21:33] die. Look what happens now. Okay, Jyn
+[21:37] has to catch the wave here.
+[21:39] The Fiora here is taking fight in the
+[21:41] bot lane.
+[21:43] But do you think that as he took this
+[21:45] fight
+[21:47] that he knew that he didn't have middle
+[21:48] impurity?
+[21:52] Probably not. And as a jungler, you
+[21:55] actually need to understand this as
+[21:56] well. And as a laner, too, because this
+[21:58] is just tempo. This is literally
+[22:00] understanding how waves work. Mid lane
+[22:01] wave is instantly. Sidelane wave is
+[22:04] always one wave slower. And I'll show
+[22:06] you like soon a sideline wave, okay?
+[22:07] Because look here. They here got well
+[22:10] cooked. Okay.
+[22:12] Now I'm going to show the cycling wave.
+[22:17] This is just me explaining to you guys
+[22:19] how the waves work. Okay, just to
+[22:20] clarify. It's more like the wave timers
+[22:24] because you first need to understand the
+[22:25] timers of the wave before I can go more
+[22:27] in depth. This is just the pure basics.
+[22:29] Okay, so look here. This is Chovi. He's
+[22:33] now pushing a sideline wave.
+[22:35] If he pushes this side wave,
+[22:39] when is he going to be mid lane?
+[22:42] You see there's like a bit wave right
+[22:44] now, right?
+[22:47] It's going to be on the next wave that
+[22:49] spawns. Okay.
+[22:53] So now you see you see Chi, he's moving
+[22:55] mid lane. So he'll be there on the next
+[22:58] wave
+[23:01] because take a look at this guy. Look,
+[23:03] he's going to go mid lane now. You see
+[23:05] Talia has to catch the wave here. And if
+[23:08] the enemy team decides to fight when
+[23:10] Chovi can move first on this wave,
+[23:12] they're dying. So why am I explaining
+[23:16] this?
+[23:18] If you're playing a jungler here and you
+[23:21] see that someone is missing on the side
+[23:23] lane, it's very simple. You literally
+[23:26] look at your own wave. So let's say that
+[23:29] you see this wave here,
+[23:31] the same wave is here. And if you see a
+[23:34] side laner missing, guess what?
+[23:38] The side link can be there on the next
+[23:39] wave.
+[23:43] And that's how you can estimate when
+[23:44] laners can move to you. Mid lane wave,
+[23:47] mid lane wave is instantly on side lane.
+[23:50] Sidelane wave is one wave later. Okay,
+[23:53] this is something you have to understand
+[23:55] because if you understand this, you
+[23:57] understand the timers of when laners can
+[23:59] roam to you. Okay,
+[24:03] now I'm going to show you like an
+[24:05] example. Okay, a PV example.
+[24:09] So, I'm going to show you first like a
+[24:11] gin example. Okay, now you understand
+[24:13] how waves work. Okay, I am not going to
+[24:17] tell you anything. I just want you to
+[24:19] look at Jin POV
+[24:21] and I want you to look at the mini map.
+[24:24] Just look on the mini map. Okay, this is
+[24:26] Jin. This is Jin.
+[24:31] Take a look what happens. Okay,
+[24:36] Jin now is strong. He's like, I'm OP,
+[24:39] guys.
+[24:46] One problem.
+[24:48] A Vladimir came here
+[24:51] and he died.
+[24:53] So, if you go back, right,
+[24:57] I want you to think if you're the gin
+[24:58] here, okay? And this is how League of
+[25:00] Legends work. And as a jungler, you will
+[25:02] have the same problem. Let's say this
+[25:05] Jin wants to push next wave. Or let's
+[25:07] say you're you're the Jarvin here. Okay,
+[25:08] let's say Jarvin is here. Okay, Jarvin
+[25:11] wants to look for a play here. What
+[25:13] should Jarvin do to know if he has
+[25:18] numbers or not?
+[25:20] Which team has tempo? His team or enemy
+[25:23] team? How can you replicate that?
+[25:28] Okay, let's look at the chat. Okay,
+[25:29] people are saying look sides, watch bot
+[25:31] lane.
+[25:34] This is not replicable in game. You
+[25:37] can't always look at sidelane.
+[25:39] I'm going to teach you guys a way to
+[25:42] manage and look at numbers easier, which
+[25:44] is before fighting, contesting waves, or
+[25:48] invading,
+[25:50] look mini map and look at
+[25:54] your team, enemy team.
+[25:57] So, every single 25 seconds, if you
+[25:59] decide to fight, okay, your job is to
+[26:02] look at the mini map and look at your
+[26:05] team and enemy team. And why am I saying
+[26:07] your team? Because look, I'm going to
+[26:09] show you now the J perspective, okay?
+[26:13] Cuz that was obviously the educator
+[26:15] perspective, but now I'm going to show
+[26:16] the J perspective. It's it's all the
+[26:18] same, by the way. It's all the same.
+[26:20] Look, this is Jarvis's perspective,
+[26:23] okay? Jarvin now is looking at his camp.
+[26:28] Now, imagine you're the Jarvin here,
+[26:29] okay? And let's say Jarvin here, he
+[26:31] wants to base like he does.
+[26:34] Jarvon is now not useful.
+[26:38] He is in base. So what should he do?
+[26:41] Every single time
+[26:44] your laner here, right, wants to push a
+[26:46] wave,
+[26:49] you need to look
+[26:51] at tempo and of course you need to ping
+[26:53] them back. So if let's say you're a Java
+[26:55] here, okay,
+[26:57] and you see that your MR is in the tower
+[27:01] and his B's missing.
+[27:04] What does this mean?
+[27:08] If Vladimir goes here mid lane, okay,
+[27:11] he'll be there on this wave.
+[27:14] Remember, if someone pushes side lane
+[27:16] wave, he's they're going to be one wave
+[27:18] slower.
+[27:19] What is the one wave slower? It's going
+[27:21] to be this wave. is the next one. Okay,
+[27:25] so now if you're the Jaron and you
+[27:26] actually looked mini map and let's say
+[27:29] that he has this trigger right before
+[27:31] pushing contesting waves invading
+[27:37] look mini map and count numbers. So to
+[27:40] make it simple
+[27:45] if you push mid lane
+[27:48] you look side lane. If you push side
+[27:51] lane,
+[27:53] you look mid lane.
+[27:56] This makes sense, right? Because let's
+[27:57] say you're the one pushing mid lane.
+[27:58] Guess what? You always know where your
+[28:00] opponent is, but you don't know where
+[28:02] the sidelanes are. So, let's say this
+[28:04] Jin here made a habit of like, "Okay, I
+[28:07] push mid lane wave. I should look side
+[28:08] lane." Now, he should be like,
+[28:12] "Where's Vladimir?"
+[28:16] And then he should already be like, "My
+[28:17] teammate is bot lane. Vladimir is
+[28:19] missing. So if if Jyn actually was aware
+[28:22] of that, he would not have Okay, maybe
+[28:25] he would have aled here, but he would be
+[28:27] like, "Okay, Vladimir can be here. If I
+[28:29] see anyone on my screen and I can get
+[28:31] engaged on, I'll instantly run away."
+[28:35] But you see how he doesn't give a [ __ ]
+[28:37] here.
+[28:39] And now he gets engaged. It's because
+[28:41] he's not he's not aware of tempo. So
+[28:44] even if you're playing jungle, it's the
+[28:45] same principle. You need to understand
+[28:48] how waves work and when they can be
+[28:49] there. Okay, so now we're going to go to
+[28:52] the mid POV.
+[28:54] So, let's look at this guy. Okay,
+[28:57] this is Mahar.
+[29:00] Mahar now has to catch the wave. What
+[29:03] should Mahar do on paper?
+[29:06] What should Mosar do?
+[29:09] Do you guys know? What should Mosar do?
+[29:13] He should ping. He should ping that
+[29:15] Vladimir's missing and that Jyn can die.
+[29:17] Right now, let me ask you the following.
+[29:20] Do you guys think that your side laners
+[29:22] are pinging back? Like, like, tell me.
+[29:24] Tell me honestly, bro, I've played the
+[29:26] game for a decade. Like, bro, people are
+[29:28] so [ __ ] lazy. It's crazy.
+[29:32] People don't ping maybe two out of 10
+[29:35] times. Okay, people are very
+[29:38] inconsistent with this. So
+[29:42] MAR here should be pinging back. Don't
+[29:45] expect that. That's why if you play
+[29:46] jungle, if you play lane, you need to
+[29:48] learn how to count numbers yourself
+[29:51] without relying on your teammates.
+[29:54] Because look, look, look at Mahar. Mahar
+[29:57] is just this is how people ping. Okay,
+[29:59] Mahar is pinging like this. Take a look
+[30:02] at chat.
+[30:05] Okay, the Vladimir is now missing. Okay,
+[30:08] like now
+[30:10] he pings like this signals that enemies
+[30:13] are missing
+[30:15] for laners. They already think I did my
+[30:18] job, guys. I pinged here one time.
+[30:22] And and bro, like like dude, no one sees
+[30:25] that. If he wants to ping, he has to
+[30:28] ping people in their face and then ping
+[30:32] them the reason. So how should he
+[30:34] actually ping? He should ping now in
+[30:37] Jyn's face. Care, care, care. Bot lane
+[30:40] is missing. So now Jyn knows, ah,
+[30:44] Vladimir is missing. I need to be
+[30:46] careful of that. But but you see Mozar
+[30:49] Ped one time and look at him. He's like
+[30:53] Dy
+[30:55] la.
+[30:57] Oh, let me EQ the wave here. Oh, what
+[31:00] the [ __ ] Millennium died here. Bro, I'm
+[31:02] telling you this is the biggest problem
+[31:04] in League of Legends,
+[31:07] which is that people don't communicate.
+[31:11] So, this is just generally like when
+[31:12] people are down tempo. Okay, he got
+[31:14] pushed in.
+[31:17] Now, take a look here. Okay,
+[31:20] so
+[31:22] take a look at this Diana here. Diana
+[31:25] right now is basically and I want you to
+[31:27] pay attention to respawn timer. Okay,
+[31:29] the Talon is the enemy jungler, I
+[31:31] believe. Or actually, no, it's Suani. My
+[31:33] bad.
+[31:35] Do you see Sichuan respawn timer like
+[31:38] right now? It's It's 2 seconds. Okay.
+[31:43] If Diana needs the base right now,
+[31:46] is he going to be uptempo or down tempo?
+[31:53] Down tempo, right? I think we can all
+[31:54] agree with that.
+[31:57] knowing if he's down tempmpo and he
+[31:59] decides to base right now.
+[32:03] What is his job?
+[32:07] His job is to understand that well
+[32:09] Siduani always has his first move. Plus,
+[32:12] on top of that, if you take a look here
+[32:14] at bot lane, okay, look at Shen. Look at
+[32:16] Shen. Okay,
+[32:19] it happened to be a Shen, but this could
+[32:21] be like any other champion that can now
+[32:22] roam mid lane.
+[32:25] Should Zarygallio potentially fight on
+[32:27] this mid lane wave?
+[32:32] No.
+[32:33] But you can only recognize that by
+[32:35] understanding how a side lane tempo
+[32:37] works. And look now Brand is now just
+[32:40] tping in. Diana's down tempo. And the
+[32:44] guy here could have died. It was quite
+[32:46] lucky he survived. But this is a good
+[32:49] example on like well one jungle down
+[32:53] tempo.
+[32:55] to later down tempo and no one
+[32:58] communicates this.
+[33:00] It's because people don't understand
+[33:02] when Danish can move and they just don't
+[33:05] ping
+[33:06] which is why it's pretty cooked. Now,
+[33:10] now you guys understand a bit why I
+[33:12] explained the mid into side and side
+[33:13] lane into mid is because you guys now
+[33:16] understand the timers when side laners
+[33:18] can be mid lane and when mid laners can
+[33:21] be on side lane. And it doesn't matter
+[33:22] what role you play.
+[33:25] It's the same. It's literally the same.
+[33:29] It's just about understanding Midame.
+[33:32] Okay.
+[33:34] Now, let's take a look at an example.
+[33:37] When people are cheating tempo. So, what
+[33:39] is cheating tempo?
+[33:42] When people just drop wave, camps, and
+[33:47] ro.
+[33:49] We can all agree here that Twisted Fate
+[33:51] is cheating tempo, right? He drops the
+[33:53] tower. He roams mid lane. He's dropping
+[33:56] waves. Okay.
+[33:59] And now we got some kills.
+[34:03] Now, do you see Twist Fate going back
+[34:06] towards the bot here?
+[34:11] Guess what? What is Twisted Fate
+[34:13] supposed to do right now?
+[34:19] ping, right? It's a turnbased game.
+[34:25] But now look,
+[34:27] TF's now basing, not recognizing tempo.
+[34:30] And you know what's funny? These three
+[34:32] people here thought they were actually
+[34:33] smart. They're like, "Oh my god, guys,
+[34:35] we're choosing here in a bush. They
+[34:37] don't see us." I mean, they're not
+[34:40] wrong. But why does it matter if you're
+[34:43] getting outnumbered?
+[34:45] It's cooked.
+[34:47] So people can cheat tempo and I'll
+[34:50] explain to you soon like what you can do
+[34:51] against. Okay. And by this VGO as well.
+[34:55] Okay. Actually I'll show you later. I'm
+[34:57] going to show you the VGO POV first. I'm
+[34:59] going to show you the jungle POV. Okay.
+[35:01] Because as a jungler it's the same [ __ ]
+[35:04] Okay. Look here. You're the VGO here.
+[35:06] Okay. Look at VGO.
+[35:09] Viego now is literally he just respond.
+[35:12] Okay. Look.
+[35:15] Now if Diego is smart and he takes a
+[35:18] look at the mini map and he sees five is
+[35:21] alive and this is how he recognize she
+[35:22] tempo. Five of them are alive.
+[35:28] TF is showing bot lane and rise is
+[35:30] missing.
+[35:33] If someone is missing they can just
+[35:37] cheat tempo.
+[35:40] So whenever you look mini map and you
+[35:42] don't see the guy on the mini map,
+[35:44] expect him to cheat tempo. So take a
+[35:47] look here.
+[35:50] VGO here should first be like, okay,
+[35:53] well um I'm not on this wave. I'm quite
+[35:57] far away and twist fate is in tier two.
+[35:59] Okay.
+[36:02] And he only sees one person on mid lane
+[36:04] which is Misfortune.
+[36:08] the rice can just cheat tempo. I mean,
+[36:10] in this case, he's not even cheating
+[36:11] tempo. He literally just has tempo.
+[36:14] Okay,
+[36:16] so at the moment, do you see this
+[36:18] midling wave?
+[36:20] And do you see how Vie is farming here
+[36:21] on this wave?
+[36:29] He could have easily recognized this.
+[36:32] He could have easily recognized that
+[36:33] Rise is potentially moving
+[36:37] and that dev numbers here. And now do
+[36:40] you see as well how Viego now is
+[36:42] fighting here? Look, this is what Viego
+[36:44] see. Okay, not all of this, but probably
+[36:46] Viego sees this. Okay, probably
+[36:49] you see Min.
+[36:51] Viego right now sees this. This is
+[36:54] literally you're in mini map, guys. I'm
+[36:56] I'm not kidding. You guys are now very
+[36:58] tunnel visioned on the fight instead of
+[37:01] guess what? When a random fight happens
+[37:05] this is considered a random fight in
+[37:06] game. Okay, look mini map and look at
+[37:11] your teammates
+[37:13] enemy.
+[37:15] If enemy doesn't show
+[37:19] is they are there.
+[37:22] So the problem here is that his minimum
+[37:25] now is disabled and he's only looking at
+[37:27] what's in front of him. How is this
+[37:30] supposed to be? What's supposed to
+[37:32] happen is the following. He looks at his
+[37:34] fight initially. Okay, then it becomes
+[37:36] this. This is how it's supposed to be.
+[37:41] He should only look mean. He should be
+[37:43] like, "Okay, my teammate is in base
+[37:47] and I I don't see like the enemy team.
+[37:52] So he should already be fully aware I am
+[37:55] in a disadvantageous disadvant basically
+[37:58] the enemy team has advantage here right
+[38:00] and he should not be fighting here but
+[38:02] instead because he's so tunnel visioned
+[38:05] he's just flashing in here
+[38:07] and he insta dice.
+[38:11] So if people are missing, right, if
+[38:14] people are missing, it's cheating tempo.
+[38:16] But usually it's they just have to first
+[38:19] move.
+[38:23] Doesn't make sense, boys. Regarding like
+[38:25] tempo,
+[38:30] side lane into mid, one slower, mid into
+[38:33] side, it makes sense, right?
+[38:36] And of course, if they're missing,
+[38:38] they're just [ __ ] tempo.
+[38:40] We get that, right? It's like people
+[38:43] don't have an habit because previously
+[38:45] in the chat you guys said, "Oh, yeah,
+[38:48] just look mini map, bro." But what is
+[38:51] the trigger before fighting contesting
+[38:53] waves? But all this I'm going to write
+[38:55] down later, okay, we're not done yet.
+[38:59] We're not done yet. Okay, I'm going to
+[39:01] give you guys a summary of tempo, but
+[39:03] we're far from done. Okay,
+[39:06] which is basically tempo is based of
+[39:08] each individual player.
+[39:12] And when solo laners push side lane,
+[39:14] they can be on the next mid wave. When
+[39:17] bot laners push mid lane, they can be
+[39:19] instantly on the side lane wave.
+[39:22] And when no one is showing on waves,
+[39:24] they might just group and cheat tempo.
+[39:28] Now, the solution is before fighting or
+[39:31] contesting waves or invading, you want
+[39:34] to look mini map and check numbers. So,
+[39:38] if you're playing an AD carry before you
+[39:40] push every single wave, your job is to
+[39:43] look at
+[39:45] side lane
+[39:47] because of this. If you're playing a
+[39:50] side laner and you want to push a wave,
+[39:53] guess what?
+[39:55] You look at mid lane.
+[39:58] And that way you'll understand whether
+[40:00] you can or cannot play aggressive. And
+[40:03] of course, if people are just missing,
+[40:06] they are basically just dropping farm.
+[40:08] And people can't permach tempo because
+[40:10] if they do that, they lose farm and XP.
+[40:14] Like imagine people could permit tempo
+[40:16] it people cannot because if they don't
+[40:19] farm at some point they're just hella
+[40:20] useless.
+[40:22] But this is the solution basically. Now
+[40:25] I'm going to show an example on how it
+[40:29] looks like in a game. Okay,
+[40:32] so this is a voling game. But first
+[40:34] thing first, this is what I teach on my
+[40:35] course as well. Uh I only explain the A
+[40:37] which is alive which is counting
+[40:38] numbers. But generally speaking, you
+[40:41] want to have a plan. Okay.
+[40:44] Now, no matter how good your plan is,
+[40:46] you need to communicate to your laners
+[40:48] to not int.
+[40:51] And then it's alive, which is count
+[40:54] numbers before fighting.
+[40:58] Especially this part is something I'll
+[41:00] be teaching a lot today. But take a look
+[41:02] here. Okay, take a look at this example.
+[41:05] I'm playing the Volibe here and the game
+[41:07] plan is to play for Drake.
+[41:10] I'm now laner tracking. So, what do I
+[41:12] mean with laner tracking?
+[41:13] In Midame, it's very difficult to know
+[41:16] where the enemy drone is. So, what do I
+[41:18] do? I look at my teammates's positions.
+[41:21] Okay. But I'm thinking, okay, are they
+[41:24] overextended enough to die or not? So,
+[41:26] usually if they're if they're like here,
+[41:29] okay, they will usually die. Like, I'm
+[41:33] not kidding. In mid game, if I'm like
+[41:34] here and my laners are like here, I just
+[41:39] ping them back because when there's a
+[41:41] wave and they push and I'm not there, I
+[41:45] just ping them. Don't do it. Okay, so
+[41:46] that's why I called laner track because
+[41:48] technically I don't know where the enemy
+[41:50] jungle is. But I can tell what he can
+[41:54] kill by how overextended my laners are.
+[41:57] Cuz look, can the enemy kill my ech on
+[42:00] best under tower? Hell no. Can I kill a
+[42:03] pike that has 50,000 dashes? No. Can I
+[42:06] kill a Yunata? No. So that's why no
+[42:09] matter how good your plan is, your plan
+[42:12] is going to fail if your laners die. So
+[42:16] I personally always have a game plan and
+[42:18] then I make sure laners don't die.
+[42:22] Now, oh, one thing I missed. Do you see
+[42:26] here how like Azir has to push here?
+[42:29] Remember I said before side lane,
+[42:34] look mid lane. So if you're not as good,
+[42:38] he should now look mid lane. He should
+[42:39] be like a moving. But like I said, if
+[42:42] you play a jungle, you're not going to
+[42:44] have your teammates ping this. So you
+[42:46] yourself should figure that out.
+[42:50] So I'm like, well, um, they can move to
+[42:52] me. I'm a bit careful. But remember, is
+[42:56] anyone showing bland? Yes or no?
+[43:00] No, right.
+[43:02] So, what can this guy do? He can cheat
+[43:04] tempo,
+[43:06] ignore this wave, ignore the wave here,
+[43:08] and go mid lane.
+[43:10] So, now what am I doing?
+[43:14] I'm pinging him to be careful, too.
+[43:19] Now,
+[43:21] if my laners are now safe, okay, this is
+[43:23] a bit more advanced. Okay, I I don't
+[43:24] want you guys to focus on this too much,
+[43:25] but I'll just explain to you guys a bit
+[43:28] the concept, okay? On how you can do it
+[43:29] in game. Look, now this is the beautiful
+[43:33] part before contesting waves, fighting
+[43:40] and invading, right? Look at mini map
+[43:45] and look at your team plus enemy. So,
+[43:48] you might be wondering why am I saying
+[43:51] before contesting waves? Let me ask you
+[43:53] a question. Let's say my ambassador here
+[43:56] showing mid lane, okay? And Barts him.
+[44:00] Do you think we're going to fight? Yes
+[44:02] or no?
+[44:05] What do you guys think?
+[44:08] Okay. Like what's the reason you guys
+[44:10] writing no? If Bart is ulting us on mid
+[44:13] lane,
+[44:14] we we basically are they're forcing me
+[44:16] to fight like like okay if enemy team is
+[44:19] literally Kalista ulting on my face
+[44:23] it it's too late already like I have to
+[44:25] fight it or I die. So basically whenever
+[44:30] you contest a wave right you're actually
+[44:31] fighting because if enemy team has
+[44:34] engaged and they decide to fight you
+[44:36] you're dead. That's why before you
+[44:39] contest a wave, you need to count the
+[44:42] numbers. Okay.
+[44:44] Do you see what I mean? That's why I'm
+[44:45] saying before contesting waves
+[44:49] is because before you even touch a wave,
+[44:52] you already need to know whether you can
+[44:54] or cannot fight it. So now I already
+[44:58] identified my teammate's position, my
+[45:00] echo here. This guy's top lane. Where's
+[45:03] the enemy?
+[45:06] Like if I don't see anyone, I consider
+[45:09] that cheating tempo.
+[45:12] Like it's not even like a maybe he's
+[45:14] here. No, he is here. So look at the
+[45:17] checklist I have here. Okay, before
+[45:19] contesting mid lane wave
+[45:22] and now look at top lane missing. I look
+[45:25] at bot lane
+[45:27] missing. Like where's this guy?
+[45:30] Now I see my echo top. I'm like, this is
+[45:32] 5v4 enemy team. So, what do I do? I
+[45:37] communicate to my laners. Look at me.
+[45:42] Before we get fighting here, I get a
+[45:43] fight going here. I'm like, please
+[45:44] don't.
+[45:47] Now, let me ask you the following.
+[45:51] If Ekko continues pushing top lane,
+[45:54] will someone go there? Yes or no?
+[45:58] They should. They cannot continue to
+[46:01] cheat tempo because they will lose a
+[46:03] full tower.
+[46:05] But look here because I have now count
+[46:07] the numbers right before fighting. I'm
+[46:10] like, huh, I'm not stupid, guys.
+[46:13] I just per my lers back.
+[46:16] I'm dancing with them because I know my
+[46:19] Ekko's pushing top lane.
+[46:22] And now I know that Quinn has to go back
+[46:24] top lane. He cannot continue cheating
+[46:27] his tempo because Ekko will literally
+[46:28] end the game. So now because I know
+[46:31] they're going to go back top lane,
+[46:34] I fight.
+[46:38] And now if let's say they show top lane
+[46:41] now, which they should, right? Because
+[46:42] he cannot cho the entire game. Now it's
+[46:47] 54
+[46:49] for us.
+[46:53] Do you guys see what I mean?
+[46:56] Yes or no?
+[46:58] It's all about like creating a system in
+[47:00] a game. Okay, before pushing contested
+[47:03] waves that have numbers. If yes, we
+[47:05] should not fight that. If you have
+[47:06] numbers, go fight.
+[47:11] This makes sense, right? This is just a
+[47:13] summary. But we're not done yet, guys.
+[47:15] Because this is like as as as you get
+[47:18] higher elo, okay? It's so crucial to
+[47:20] understand.
+[47:22] Now,
+[47:24] how to recognize Midame tempo in game.
+[47:29] If you die midame, it's because enemy
+[47:31] cheated the tempo, which means they're
+[47:33] just dropping the wave and missing or
+[47:36] the enemy team has first move where they
+[47:38] push a wave and move and enemy team has
+[47:42] to catch. Okay,
+[47:44] how do you fix that? This is the
+[47:46] solution. Before
+[47:50] you fight, before you in, before
+[47:52] contesting waves, before you invade, you
+[47:54] want to look mini map and check lanes.
+[47:58] Fight mid is look side. Fight side is
+[48:01] look mid. It's that [ __ ] simple,
+[48:03] guys. And you know what? If you're
+[48:05] playing, let's say, top laner, right?
+[48:07] Fight side
+[48:10] push is look at your jungler. If you see
+[48:13] your jungler still needs to take three
+[48:15] camps, your job is to be a dog and wait
+[48:17] for him.
+[48:19] Literally, your jungler cannot cheat
+[48:22] tempo. He has to farm. Okay,
+[48:26] now
+[48:29] let's take a look here. Okay, an
+[48:31] example.
+[48:35] I want you to think from the urgot
+[48:37] perspective. Okay, I want you to think
+[48:39] from the urgot perspective.
+[48:42] Urgot is about to fight on the mid lane.
+[48:45] What is he supposed to do
+[48:47] before fighting? Right. Waves invading.
+[48:51] What is he supposed to do? Tell me.
+[48:55] Okay. Counter. But how? Be more
+[48:56] specific. Be specific.
+[49:04] Look at his teammate and look at enemy
+[49:07] teammate and silent of course as well,
+[49:09] right? But basically now you should be
+[49:11] look okay technically Urgot is a side
+[49:12] laner right but he's fighting mid lane.
+[49:15] If I were him I would look at okay where
+[49:17] are my teammates? Uh Zerian base is
+[49:20] dead. Diana's dead.
+[49:25] How much is the enemy team? This is
+[49:27] basically two one and two is coming.
+[49:33] Before he fights he should already be
+[49:35] fully aware of the numbers.
+[49:38] So if he's fully aware of the numbers,
+[49:40] he will now be thinking, do I want to
+[49:42] continue in here or do I just want to
+[49:44] get out after one kill? But all of this
+[49:48] decision has to be made before he
+[49:50] fights. The problem is that people don't
+[49:54] know if they have more or less numbers,
+[49:56] so they're like, "Let's go."
+[50:02] In this case, it worked out, but it
+[50:05] could have been very bad.
+[50:08] So, even if you play a lane or a jungle,
+[50:11] it's all the same. You should be able to
+[50:13] learn how to count numbers before
+[50:14] fighting. Okay?
+[50:19] Now,
+[50:21] I'm going to show you guys this example,
+[50:22] okay? And I'm just going to just play
+[50:24] it. I'm going to play it and Kazix is
+[50:26] going to invade. Let's see what happens.
+[50:29] Okay?
+[50:33] Just look me. All you need to know.
+[50:44] Yep. He's going enemy raptors.
+[50:48] Um
+[50:50] and I got a bit surprised
+[50:54] and um
+[50:57] he died right here and his set died as
+[51:00] well and his Nami died as well.
+[51:04] This is a 91 Kazix. Okay, that's
+[51:06] completely OP. Now tell me,
+[51:10] what do you notice on bot lane?
+[51:15] There are two people bot lane,
+[51:19] no one is showing on the bot lane,
+[51:20] right? And just so you know, okay, think
+[51:24] about it like, okay, if Silos pushes
+[51:26] this wave here, okay,
+[51:28] he pushes this wave and then comes mid
+[51:30] lane. When is Silas going to be on the
+[51:33] mid lane wave?
+[51:40] Next one. So if Kazix had a checklist
+[51:44] here, which means before invading,
+[51:47] look at mini map and look at your team
+[51:50] plus enemy. So let's break it down here.
+[51:53] Okay,
+[51:55] his team is farming bots. Enemy team is
+[51:58] cheating tempo slash first. Okay, this
+[52:00] is not even cheating tempo. Enemy team
+[52:02] has first move because why do they first
+[52:05] move? Because usually if a laner can
+[52:08] push out this wave here on the bot lane
+[52:11] or is this close to tier two, they just
+[52:13] have to first move.
+[52:16] So if he had this mental checklist, he
+[52:18] would now be like, "Okay,
+[52:20] I don't see anyone on the map
+[52:24] and my teammates are not here. This is a
+[52:27] 3v5.
+[52:32] So his job was literally to just I mean
+[52:35] he can he can do this. Okay, just so you
+[52:37] know, he can he can hit this stand here
+[52:39] and jump out.
+[52:42] It's completely fine.
+[52:45] But he should like just get the [ __ ]
+[52:46] out. And no, he doesn't want to fight.
+[52:49] And look at him. He sees Urgot here is
+[52:51] like, "Oh yeah, let me let me run into
+[52:53] this bush."
+[52:55] Oh [ __ ]
+[52:58] He completely failed to recognize
+[53:00] numbers. And you know what's even worse?
+[53:03] The silos and Zia here. Are they pinging
+[53:06] here? Yes or no?
+[53:09] No.
+[53:12] This is why Midame is such a [ __ ] show
+[53:15] because
+[53:17] laners and jungers don't count numbers.
+[53:20] Laners and jungers don't communicate
+[53:23] numbers.
+[53:28] This is why people die and this is why
+[53:30] you in mid game
+[53:33] are basically taking bad fights quite
+[53:35] often and this happens in challenger too
+[53:37] by the way. This is how people lose.
+[53:41] Now
+[53:46] take a look here. Okay, now I'm showing
+[53:47] a silent example. I'm going to go a bit
+[53:49] more back
+[53:50] but take a look here on the mini map.
+[53:52] Okay.
+[53:55] What do you notice?
+[53:59] I'm not going to say anything. I need
+[54:00] you to think.
+[54:10] He sees. So on the side lane, he's like,
+[54:11] let's make a silent blade.
+[54:21] Now he kills Oriana
+[54:27] and he just dies like a piggy.
+[54:31] Now I'm going to go back. Okay,
+[54:35] just so you know, uh the Tom Cage is
+[54:37] dead. So the Tom Cage either if he's
+[54:39] missing, he's dead. Okay, but here's the
+[54:42] problem.
+[54:45] Mid lane, if he pushes mid lane wave, he
+[54:48] can be there on the next sideline wave
+[54:50] instantly.
+[54:51] This is not cheating tempo. This is just
+[54:54] the Ash having the first move. If Ania
+[54:58] decided to ignore the wave here, go top
+[55:01] lane, Anivvia's cheating tempo.
+[55:05] He's literally dropping a wave to be
+[55:08] there. Ania will be cheating tempo.
+[55:10] His sacrifice is a wave. Ash here simply
+[55:14] has the first move because the Ania has
+[55:17] to catch the wave here. So if Jagger had
+[55:20] a mental framework of thinking, okay, I
+[55:23] see a fight top
+[55:25] now, he should be like,
+[55:28] look mid lane,
+[55:31] look at his team, look at enemy. What
+[55:34] should he notice right now? That Ania is
+[55:37] the one catching. Okay. And that if he
+[55:40] goes for a silent play here that his
+[55:42] teammates are slower.
+[55:47] So now when he makes his pick here,
+[55:48] okay, he should already be fully aware
+[55:51] that
+[55:53] they can be here.
+[55:56] His teammates are far away and he has to
+[55:59] play slow.
+[56:01] The problem is that people don't think
+[56:03] about these things before the fight.
+[56:07] And now he's just walking like a donkey
+[56:10] and then like he's just getting one
+[56:12] shot. If he waited like three seconds,
+[56:16] it would have been a free win.
+[56:21] But because he didn't look at numbers,
+[56:23] he didn't look at like which the tempo
+[56:26] and with the first move,
+[56:29] he he just played prop poorly. This is
+[56:31] nothing to do with mechanics, by the
+[56:32] way. This is just pure fundamentals.
+[56:37] Now,
+[56:38] let me show an example of cheating
+[56:40] tempo.
+[56:43] So, okay, this is me. Okay, this is me.
+[56:46] I want to invade the enemy jungle here.
+[56:48] Okay, I have the correct framework. Look
+[56:50] at me. We're invading.
+[56:54] Look at mini map and look at your team
+[56:57] and enemy team. Now, tell me, I'm about
+[57:00] to invade. What am I seeing here?
+[57:04] Tell me what's numbers.
+[57:07] What would be the numbers here? They're
+[57:09] five alive. We're five alive. What is
+[57:11] it? Is it 2v5? Is it 5v4? What is it?
+[57:17] Three versus five. That's correct. It's
+[57:20] three versus five. My victor is top
+[57:22] lane. My look is in base. I see Leo and
+[57:25] Samira, but I don't see anyone else.
+[57:29] So, I consider them now cheating tempo
+[57:31] and they can be five men here. So, look
+[57:34] at me. Okay,
+[57:36] I'm hitting the wolves knowing they can
+[57:38] be five.
+[57:40] Look, I only see three people here.
+[57:42] Okay,
+[57:45] a lot of people here would just be
+[57:48] fighting. They're like, I'm strong. No,
+[57:51] even if I'm 150,
+[57:53] I don't fight here because if I don't
+[57:56] fight here, Victor's pushing top. I get
+[57:58] free top lane tower. I get free move
+[58:01] from the victor
+[58:03] and it's a win anyway.
+[58:06] Why would I fight here? Right? So the
+[58:08] first thing I do is I out.
+[58:12] I ping my teammates to not fight
+[58:17] and I just play safe.
+[58:21] You see you see how easily flash out.
+[58:22] I'm like I don't want to fight.
+[58:25] Now my N is coming closer. My Victor's
+[58:28] DPing in.
+[58:33] And now I kill Leona here.
+[58:37] And now it starts becoming 55.
+[58:42] So here the enemy team caught me off
+[58:45] guard here because I didn't want to
+[58:47] fight in the first place, but they saw
+[58:49] me through a plant here, right? Because
+[58:50] you can see I even put a pink ward here
+[58:52] so they don't see me, but they see me
+[58:55] because of the the fairy light. So here
+[58:58] they actually caught me off guard. But
+[59:00] even though they caught me off guard, I
+[59:01] knew exactly this was 3v5.
+[59:05] So I didn't even have to think. I don't
+[59:07] have more numbers. I'm instantly out.
+[59:11] But most people here would not be aware
+[59:13] of numbers. And I knew enemy cheated
+[59:16] tempo here.
+[59:21] This makes sense, right? But hey, like
+[59:23] the more examples you see, the more
+[59:24] it'll make sense because this is so
+[59:27] crucial.
+[59:29] Does it make sense, boys?
+[59:32] Don't fight if you get outnumbered.
+[59:36] Okay,
+[59:38] this is the correct example.
+[59:41] So, I'm going to show like one last
+[59:43] example because I'm telling you about
+[59:45] it. If you can master this, it's life is
+[59:47] life's easy.
+[59:53] Okay, so look here. Okay,
+[59:56] out of contest mid lane wave. Remember
+[59:58] before contesting mid lane wave, you
+[60:00] want to look silent, right? Even in
+[60:01] early game, I see Ash has a first move.
+[60:05] My Ezreal is catching the wave here.
+[60:10] You see how my Ezreal pings
+[60:14] the [ __ ] classic. But I hate, no
+[60:16] joke, I generally hate it when P like
+[60:18] this. It's so tilting. They ping one
+[60:20] time this and they expect me to see it
+[60:22] when I'm like I'm about to fight. Of
+[60:23] course not.
+[60:27] So now I'm not fighting here. Okay.
+[60:32] Now look at Azro what he's doing now.
+[60:36] You see Ash here? Ash is moving still.
+[60:39] Ash is basically just dropping the wave.
+[60:41] She didn't tempo. He went back to bot
+[60:43] lane. But now we died.
+[60:48] Well, that sucks. Right now, take a look
+[60:50] what happens here.
+[60:53] The next example. So, that's B. Ash is
+[60:55] the first move, but my laners don't
+[60:57] recognize that.
+[61:01] Okay, this is going to be a good one.
+[61:03] Okay. So, right now,
+[61:08] let's see what happens. Okay, I'm going
+[61:09] to play a bit forward. So I see the ash
+[61:12] on bullet overextending
+[61:15] and I'm going to explain you guys all of
+[61:16] this for this reason too so it it'll
+[61:18] make more sense. Do you see how cast is
+[61:21] missing now?
+[61:25] Remember before fighting looking at lane
+[61:27] cru's numbers.
+[61:29] Do I go for this ash kill? Yes or no?
+[61:32] If cast just moves here yes or no. Do I
+[61:36] go for the kill? Yes or no?
+[61:44] There's mixed opinions.
+[61:48] The answer is
+[61:50] yes. This is called a fast play. Just
+[61:54] because the enemy team has numbers, it
+[61:57] doesn't mean you cannot kill someone
+[61:59] quickly and get out.
+[62:01] The whole point of counting numbers
+[62:05] is do I continue or do I back
+[62:12] like before I even kill him? Okay, I
+[62:15] already know exactly what I want to do,
+[62:19] whether I want to kill him and chase
+[62:20] him. Cuz you know what happens very
+[62:21] often? Let's say the enemy cast is
+[62:24] moving and the ash flashes here, okay,
+[62:26] and overchase,
+[62:30] I die. But if I know the mid lane is
+[62:32] moving first, I can now decide, okay,
+[62:36] can I kill him and get out?
+[62:39] If yes, I I'll kill him and get out. If
+[62:42] no, I'll be like, "Sure, I'll just run
+[62:44] away." So, as a jungler, your decisions
+[62:48] should be made before. Okay?
+[62:52] Cuz I'm Okay, guys. Woo. You guys
+[62:54] overchase enemy team, right? One, if you
+[62:56] overchase, I'm sure so many of you guys
+[62:58] get a kill, you guys get tunnel
+[62:59] visioned, you never [ __ ] stop. You're
+[63:01] like, "Let's continue, baby boy, and
+[63:03] let's let's go." I did the same mistake,
+[63:06] by the way. I did the same mistake in
+[63:08] the past because I couldn't count like a
+[63:10] human.
+[63:12] Okay.
+[63:17] And another thing, right? This is very
+[63:19] easy. This last example, by the way, so
+[63:22] don't worry.
+[63:24] Take a look here. Okay.
+[63:27] My laners here. Let's say you're playing
+[63:29] jungle, okay? And you see that these
+[63:31] guys want to make a play here on mid
+[63:32] lane.
+[63:35] They're showing two B in here.
+[63:37] Ezra here, Kissante here.
+[63:41] Even though someone's missing, you
+[63:42] shouldn't always expect them to move. I
+[63:44] really want to clarify that. Don't
+[63:46] always expect them to move. Usually, the
+[63:49] first thing they'll do is like run top
+[63:50] lane, okay? But here, I know that this
+[63:53] is going to be well a 2v2 very likely.
+[63:57] It could be it could be 3v2. Okay. But
+[64:00] now, if this guy shows and they show
+[64:02] it's a 2v2.
+[64:04] So now I can think, okay, um, they'll
+[64:06] probably win this. It It's an I don't
+[64:09] know Ash level 12, but yeah, Ash plus
+[64:12] whatever should not be able to to win
+[64:15] against my carries, right?
+[64:18] So you can as well learn how to count
+[64:20] numbers for your laners.
+[64:24] But do you understand this? Yes or no?
+[64:26] Because we're going to move to the next
+[64:27] chapter. Do you understand it? Yes or
+[64:29] no? Tempo on how to stop dying like a
+[64:33] pig.
+[64:36] I had like more examples because I
+[64:38] really want to make sure you guys
+[64:39] understand it.
+[64:42] Okay, I hope you guys I hope you guys
+[64:44] do. Okay, now
+[64:48] uh this I can skip honestly. It's fine.
+[64:52] Uh actually maybe this one's a is a good
+[64:54] example. Hold up. Um
+[64:56] six first move.
+[64:59] I I'll guys give you a last example.
+[65:01] Okay. Okay. Look at six. One last
+[65:03] example. Look at Zix. Okay.
+[65:06] When can Zix be here?
+[65:10] This wave, right? Look at Zix. Zix
+[65:12] literally push the top L wave.
+[65:16] Let's see when Zix arrives here. And by
+[65:18] the way, just so you know, if you don't
+[65:20] see anyone showing side lane, next wave.
+[65:24] When is Zix here?
+[65:27] Right now.
+[65:29] Exactly on the next midline wave.
+[65:33] So, let's say as a jungler here, you're
+[65:34] playing Wukong. Okay, let's say I'm
+[65:36] doing raptors here. Okay, let's say
+[65:37] you're doing raptors.
+[65:39] What should you do? You should ping ding
+[65:43] ding. And you should ping them to play
+[65:45] safe because as a jungler, when you're
+[65:48] farming your camps and you see their
+[65:50] side lanes missing,
+[65:52] you need to be the side laner. You need
+[65:54] to like ping here and ping them, please.
+[65:57] Bot lane. Their side lanes about to
+[65:59] move. Don't die.
+[66:04] And if you understand that, it becomes
+[66:07] so much easier.
+[66:10] So much easier,
+[66:12] look this. Okay, this is really the last
+[66:14] example. Okay,
+[66:19] look here.
+[66:21] I'm about to fight on the mid lane here.
+[66:23] What do I do? My teammates, enemy team
+[66:27] all missing.
+[66:30] Look at my rumble. My rumble here is
+[66:33] smurfing. He's pinging me to back off
+[66:36] because he wants to base. This is how
+[66:38] it's supposed to be, guys. This guy's
+[66:39] the [ __ ] goat, dude. This guy is the
+[66:41] [ __ ] goat. This is like the one or
+[66:43] two out of 10 times.
+[66:46] And look at me. Look at this trash here.
+[66:48] Okay, look at this trash. Look, I know
+[66:50] they're missing. Look min. I'm pinging
+[66:52] missing missing. Right.
+[66:54] Look at my trash. I I instant ping him
+[66:57] back.
+[66:59] So as a jungler, if you're farming, if
+[67:01] you see the silence are missing, you see
+[67:03] your leners fighting here. Ping them
+[67:06] back off. I'm spaming him back here.
+[67:09] Praying to the lords he doesn't die. Now
+[67:12] I reevaluate the map set again. Mundu
+[67:15] top lane. My leaders are coming. I'm now
+[67:18] like I'm so down to fight.
+[67:23] I'm like, come fight me, boy.
+[67:27] And now another concept. Actually, this
+[67:28] is this is a pretty crucial concept.
+[67:30] This is a bonus concept. Okay, look. I'm
+[67:34] going to fight here. Okay.
+[67:36] And my sinner's bot lane. Should I chase
+[67:39] here? Yes or no?
+[67:50] Okay,
+[67:51] the answer is yes.
+[67:56] Why is it yes?
+[67:59] This is called the bulldo strategy. So
+[68:02] imagine that this voler okay is going to
+[68:05] try to tank four of us. Is okay it's
+[68:07] literally going to be 2v4 here. Okay
+[68:10] we can literally oneot him and just run
+[68:14] out and get out
+[68:17] cuz these guys here even if they try to
+[68:19] come. Okay,
+[68:22] guess what? It's just a fast play. I
+[68:24] just one-shot him and get the [ __ ] out.
+[68:27] I know Sinner's bot lane, but I'm not
+[68:29] going to like chase them all the way if
+[68:32] I know that they can survive for a very
+[68:35] long time. Let's volbeundo instead and
+[68:38] he can stall like for 10 seconds.
+[68:41] I I I would I would not I would not
+[68:43] fight this. I would not fight this. I
+[68:45] only do this if I can quickly one-shot
+[68:47] them and get out or keep running up. So
+[68:51] here I'm very strong. So even if these
+[68:53] guys would chase me here,
+[68:56] I would be able to find an escape.
+[68:59] So you can only do this if you can like
+[69:01] be confident that you don't got get
+[69:03] collapsed on. Okay.
+[69:07] So this is a bit more advanced. Like
+[69:10] this is like fast plays and bulldoers
+[69:12] concepts, but it it's I don't want you
+[69:15] guys to like not fight just because they
+[69:18] have numbers. I want you guys to learn
+[69:20] how to like make one quick play and get
+[69:22] out. If you guys get to that level,
+[69:26] it's so much more smoother.
+[69:29] But okay,
+[69:31] now
+[69:33] we're done with like the the numbers
+[69:35] part. Okay,
+[69:38] now I'm going to show you guys a deeper
+[69:39] concept I really want to highlight.
+[69:41] Don't focus on this yet. If you cannot
+[69:44] count numbers, don't focus on this. This
+[69:47] is very advanced, but it's very good to
+[69:49] know. Okay,
+[69:51] but first I'm going to show you guys
+[69:52] like the introduction to to lines and
+[69:55] why waves and tempo is important.
+[70:00] So,
+[70:02] you first need to understand that as a
+[70:05] jungler, okay, you're almost always in
+[70:09] line two.
+[70:12] What happens in Midame?
+[70:17] They're here.
+[70:20] And if your laners are winning,
+[70:24] they will push and they will die. I call
+[70:27] this personally the dead zone. What is
+[70:30] the dead zone? It's basically when they
+[70:32] decide to overextend through line three
+[70:34] and I'm not there.
+[70:37] When are they not in a dead zone?
+[70:40] It's when I decide to actually join from
+[70:44] here
+[70:46] the Ahri and I'm joining him in the same
+[70:49] line.
+[70:52] So basically
+[70:54] when they just cross line three and I'm
+[70:56] not there I ping them back. Right? So
+[70:58] why am I telling you this to understand?
+[71:01] This is essentially how to snowball.
+[71:03] If you are ahead and you have the choice
+[71:06] between your camps or enemy camps when
+[71:08] ahead,
+[71:10] would you want to take your camps or
+[71:12] enemy camps?
+[71:15] Enemy right
+[71:17] now. I'm going to show you some
+[71:18] beautiful examples.
+[71:25] Okay, so this is Shaden. Okay, he's the
+[71:28] he he was the first one to get LP in
+[71:30] AOS. He got rank one AO West. Look at
+[71:33] him. Okay, so before I explain this
+[71:37] example,
+[71:38] it's you don't want to time your camps
+[71:41] with waves with CC and it's GG. Why is
+[71:47] that? Why is that? Okay,
+[71:50] so let's say that Graves can invade the
+[71:54] raptor here. Okay.
+[71:58] Time caps with waves with CC SG.
+[72:03] Do you remember how I said that whenever
+[72:07] there's a wave 25 seconds your A laners
+[72:10] will walk up and die.
+[72:14] It's the same for the enemy team.
+[72:17] Now imagine that you have some CC on the
+[72:20] mid lane which is Virus. Okay. and
+[72:23] you're on time on the wave.
+[72:26] He's now in the same line.
+[72:31] If Grace was farming here and let's say
+[72:34] their jungler can ultimate mid lane,
+[72:37] he's dead. But now, because he's
+[72:40] hovering mid lane here and he has CC,
+[72:43] right, which is the virus crowd control,
+[72:46] he can kill them.
+[72:48] So look now he joined them in the same
+[72:51] line.
+[72:53] He now got a double kill.
+[72:58] Most jungers here when they're ahead,
+[73:01] they'll be like, "Time to go back to a
+[73:04] full clear."
+[73:07] But no, if you can actually invade his
+[73:10] camps,
+[73:14] [ __ ] do it. And now of course
+[73:16] remember
+[73:19] if you can do that with like tempo
+[73:20] tracking it's so much better because
+[73:22] look he timed camps with waves okay with
+[73:26] his laners okay with temper tracking. So
+[73:30] if you look at this example before he
+[73:32] invaded here he looked okay Y showing
+[73:34] top lane pent showing bot lane my Aurora
+[73:36] is basing even if Pentin here
+[73:40] um I'm going to explain the camps soon
+[73:42] later okay I haven't explained the camps
+[73:43] yet um so that's a bit my bad but look
+[73:46] even though Aurora's basing here and
+[73:48] Pention can move first this can be a
+[73:51] fast play it can literally be like a
+[73:53] quick oneshot him knowing that Pent can
+[73:56] move first and he's out of
+[74:01] This is the difference between someone
+[74:02] good and bad. The good players know that
+[74:05] even if they move first, it takes some
+[74:07] time and the play can be over before he
+[74:09] gets there.
+[74:14] Boom. Double kill. And look at him. He
+[74:17] was looking for enemy camps. And I'm
+[74:19] sure that before he invades here, he
+[74:21] already had in mind, okay, he really
+[74:23] wants to take one of his camps.
+[74:26] Now I'm going to play bit forward
+[74:29] because he's in the same line with his
+[74:30] laners and not doing his own camps.
+[74:34] Do you remember how I said
+[74:37] monkey laners, they just push and die?
+[74:41] Guess what? If you're an enemy jungle
+[74:43] and enemy laners are in the middle of
+[74:45] the line and you're here in enemy
+[74:47] jungle,
+[74:49] are they going to survive?
+[74:52] No. It's like you're basically dear
+[74:54] jungler, but you're not the friendly
+[74:55] jungler. You're like, you know, the
+[74:57] devil.
+[75:00] And because he simply
+[75:04] came with a wave with CC is G. And
+[75:07] before invading, he was temper tracking.
+[75:12] Now,
+[75:14] next example.
+[75:18] Take a look at my boy here. So this
+[75:21] jungler here to give some context is
+[75:22] going to do raptors.
+[75:25] But now
+[75:29] does he have CC here?
+[75:34] Is there a wave here?
+[75:37] Is enemy team immo?
+[75:40] Yes. Why would he not like try to fight
+[75:44] here
+[75:46] and see if he could get a fight going?
+[75:50] and then just go back to farming if
+[75:51] there's no fight. Now look, there's
+[75:54] literally a fight here.
+[75:57] And now he's like, "Hold up, I'm going
+[76:00] to move." Now,
+[76:03] the thing is that he's not aware of CC
+[76:05] and when there's waves, their skills. So
+[76:09] now, let me show you an example where um
+[76:11] I know how lers are thinking and there's
+[76:13] CC. So look at me. There's me, the Zach.
+[76:15] Okay, these guys are winning. They're
+[76:18] stomping. Okay,
+[76:20] I know that I have the crowd control and
+[76:22] that these guys want to play aggressive.
+[76:27] So now, because I know they want to play
+[76:29] aggressive and there's a wave and I
+[76:31] happen to be around,
+[76:35] I kill them.
+[76:37] So whenever they CC and there's a wave,
+[76:40] depending on their champs as well,
+[76:42] right? Let's say enemy team is I don't
+[76:43] know a pike support and an az carry
+[76:48] maybe you cannot kill them
+[76:50] but you need to understand that if you
+[76:53] know how much kill thread you have
+[76:56] it's much easier to understand how to
+[76:57] get kills
+[77:02] now um take a look at this example
+[77:05] I'm playing the lease here and this is
+[77:07] the the part where I'm going to explain
+[77:09] time camps with waves why is that
+[77:12] if I take my wolf raptors here. Okay.
+[77:17] And I take my wolves,
+[77:20] do I make on time on this midline wave?
+[77:28] No. Which means that if I want to invade
+[77:31] this, I can only take my raptors. And so
+[77:34] I'm timing
+[77:35] camps with waves with CC, right? That's
+[77:40] usually G. If enemy team is not
+[77:42] trolling,
+[77:45] I um count numbers right before
+[77:48] invading.
+[77:50] So now
+[77:52] because I'm perfectly on time. Look,
+[77:54] look at Zary. Zary is now catching the
+[77:56] wave because he's catching the wave.
+[77:58] That's why I like to time it with with
+[78:00] waves because waves essentially gives
+[78:03] you man advantage. You see Zary catching
+[78:05] mid lane. Look at trash. Surprise,
+[78:08] [ __ ]
+[78:11] And now, of course, I'm fully aware of
+[78:13] mini map. I see that they're all
+[78:16] missing,
+[78:18] but because I'm very strong, I'm down to
+[78:21] fight.
+[78:24] The Atrix is fighting
+[78:27] and this is cooked.
+[78:31] And now because I timed a camp with a
+[78:35] wave and there were enemy camps, I
+[78:38] snowball the game.
+[78:42] There's a break in like 10 minutes or
+[78:44] something. Okay,
+[78:46] so I'm going to skip that part. It's
+[78:47] fine.
+[78:51] So now take a look here.
+[78:54] I'm playing monkey.
+[78:57] If
+[78:59] I'm on the wave,
+[79:01] we can fight. If I'm not there, I ping
+[79:05] them back. So, do you see here how like
+[79:07] I was mid lane, but now I leave. Do you
+[79:10] see this mid lane wave?
+[79:12] Every single time I see a wave and I'm
+[79:14] not there, look at my ping.
+[79:18] I just ping him back.
+[79:21] And especially 40 seconds before the
+[79:23] drake, they will die. Look at me now.
+[79:26] Okay. I know I want a base and I see
+[79:28] another midling wave.
+[79:31] What do I do?
+[79:40] I pin him back.
+[79:42] When am I going to be there?
+[79:47] Next wave. Now
+[79:50] look at Aelius. Aelius sees Ash with
+[79:53] this HP. Do you think this Ailius would
+[79:55] ego check him if I didn't ping him back?
+[80:00] Bro, he 100% will. It's not even a
+[80:03] question. He will for sure. Thousand
+[80:05] thousand%.
+[80:08] But now he's playing a bit more
+[80:10] respectfully.
+[80:12] He's even walking back.
+[80:16] And luckily because he didn't walk up,
+[80:19] Cindra here actually lands his stone and
+[80:22] he didn't [ __ ] die. That was the only
+[80:25] timer. Those two two waves he could die.
+[80:28] Now because I'm here and he didn't die,
+[80:35] if we fight now, we win.
+[80:38] Do you see how like I'm thinking in
+[80:40] waves?
+[80:44] And is this going to work every single
+[80:45] time? No. It's all about consistency and
+[80:49] doing it as much as you can.
+[80:53] And what what would probably happen in
+[80:55] your game is that I'm sure does happen
+[80:58] to you. You're now base. You're like a
+[80:59] very good items. Your your affili just
+[81:01] dies 20 seconds before Drake. How often
+[81:04] does it happen to you?
+[81:06] Quite often, right? And but just so you
+[81:10] know, it happens to me too. But
+[81:13] three out of 10 times I prevent that.
+[81:17] I need you guys to realize that it's a
+[81:19] probability game. Sometimes they listen,
+[81:21] sometimes they don't. But if you do the
+[81:23] right games, sorry, if you do the right
+[81:25] things every single time, three out of
+[81:28] 10 times over 100 games, if your win
+[81:31] rate increase by 7%. That is a lot by
+[81:34] the way.
+[81:37] Okay.
+[81:40] Now I'm going to show you guys the tree
+[81:42] camp rule and after this we have a
+[81:44] break. Okay, I believe it's after this
+[81:45] one.
+[81:47] So what is the tree camp rule? I have a
+[81:50] rule which is the following. Let me let
+[81:51] me open rift kit for you guys. Um rift
+[81:54] kit
+[81:57] in Midame
+[81:59] is the following. This is camp one. This
+[82:01] is camp two. This is camp three. This is
+[82:02] camp four.
+[82:04] Okay. This is camp one, two, three,
+[82:07] four.
+[82:10] What is the tree camp rule?
+[82:14] The tree camp rule is basically you take
+[82:17] this this this
+[82:20] if an objective
+[82:23] is up or about to spawn. Why is that?
+[82:27] Why do you think I call this a tree camp
+[82:29] rule? I want you to think about it. Why
+[82:30] is that? Why do I skip my fourth camp?
+[82:38] Let's see the answer.
+[82:45] It has to do with waves. I end up close
+[82:48] to mid lane, guys. Think about it. One,
+[82:51] two, three. Close to mid. One, two,
+[82:54] three. Close to mid.
+[82:57] If I go to the gromp or golems, it's too
+[83:02] far.
+[83:04] So now take a look at this. Okay, Baron
+[83:06] is literally up. Remember time caps
+[83:11] with waves with CC, right?
+[83:15] With count number before waves, of
+[83:18] course, right? SG. Look at me now. Do
+[83:21] you see this mid lane wave?
+[83:25] If I go for my Gromp,
+[83:28] what are the chances of my laners ining?
+[83:34] extremely [ __ ] high. It's not even
+[83:36] funny, by the way. It's It's not even
+[83:38] funny. So, here
+[83:42] I'm securing this wave here. Right now,
+[83:45] if there's any fight, I'm here. If
+[83:48] there's no fight, I clear the vision.
+[83:53] And if they fight me,
+[83:57] they're going to die.
+[84:03] Does this make sense? This is mostly mid
+[84:04] game by this is not early game, guys.
+[84:07] Does this make sense? And just because I
+[84:09] did the three camp rule right before an
+[84:11] objective, I get the Baron. Would you
+[84:15] rather take one camp extra or would you
+[84:18] rather skip a camp, get a kill, and get
+[84:21] the Baron?
+[84:23] Or would you rather have your laner die
+[84:25] and they take the Baron? Tell me, guys.
+[84:32] Now, when should you not do this? When
+[84:34] should you not do this? When do you not
+[84:37] do the three camp rule?
+[84:40] And side laners have first move. Okay,
+[84:42] guys. Uh the tree camp rule sounds very
+[84:44] nice, but
+[84:47] if enemy laners have the first move, you
+[84:48] do three camp rule, it's basically three
+[84:50] cam rule into base. You're going to die.
+[84:52] Let's clarify that. Okay,
+[84:56] don't do that.
+[84:58] Second thing,
+[85:00] when you have a big item power spike and
+[85:03] you need it for objective, if let's say
+[85:05] you have a big item power spike, you
+[85:07] need it for an objective, you don't do
+[85:09] it because of for obvious reasons,
+[85:11] right?
+[85:13] The other times when you don't do it,
+[85:14] when um you
+[85:17] there's no objective
+[85:20] and nothing to fish.
+[85:23] I will get back to that later.
+[85:26] But um yeah, basically this. Okay,
+[85:31] but this makes sense, right?
+[85:34] But I'm going to explain to you later.
+[85:36] But now there's a small break. There's a
+[85:39] five minute break here, boys, before I'm
+[85:41] going to explain you personally my
+[85:43] concept that I love the most. I love
+[85:46] this one the most, by the way. This is
+[85:49] my favorite. This is how I cheat [ __ ]
+[85:51] ELO every single game. And you guys
+[85:53] would love this one. If you thought
+[85:55] tempo, whatever was good. My favorite is
+[85:57] edging on objectives. I love edge on
+[86:00] objectives. I'm I'm telling you, it's
+[86:01] it's the best. So now, let's wait for
+[86:04] you guys. Uh get some water. 5 minute
+[86:06] break.
+[86:08] At 2:37 we start. Okay. All right. Um
+[86:12] 2037.
+[86:16] Uh I will guys if you don't want to take
+[86:19] a break I'll answer questions in the
+[86:21] chat but I can't answer everything. Okay
+[86:22] but take a break get some water go for
+[86:24] toilet whatever. Okay five minute break
+[86:30] I'll answer as much as I can.
+[86:33] Do you do trouble maker? Um,
+[86:37] if I have side impurity and I can hide
+[86:40] on bush on an objective.
+[86:42] Yes.
+[86:46] Uh, what to do?
+[86:49] Okay. If they do this, it is what it is.
+[86:51] Adapt is the edge on the Yes, it's
+[86:55] fishing concept. Yes, for my midium
+[86:57] course.
+[87:02] Okay. If there's no camps up in enemy
+[87:04] jungle, you don't invade.
+[87:07] You only invade usually if there's
+[87:09] something to take, you know.
+[87:17] Uh, okay. You should stick to
+[87:21] I Okay, I know. Okay, these champs are
+[87:23] very difficult in Platinum Emerald, by
+[87:25] the way.
+[87:27] Um, these champions work, but you really
+[87:30] need to understand what I just taught
+[87:32] you. Actually, yeah. No, I think I think
+[87:34] what I'm going to teach you is going to
+[87:35] be very useful. Like, keep playing those
+[87:37] champs after boot camp. Of course, you I
+[87:39] didn't explain much early game, but I
+[87:41] think if you understand Midame, it makes
+[87:43] those champs so much easier.
+[87:46] After today, I'll send the VOD and you
+[87:47] can rewatch.
+[87:49] But please don't focus on the waves too
+[87:52] much. Focus more on the tempo, okay?
+[87:55] Please focus more on the tempo and focus
+[87:57] on one thing at a time. The waves part
+[88:00] is like if you master tempo, if you can
+[88:02] literally count numbers per sperma. If
+[88:04] not, don't do it. Uh, I'll teach you
+[88:07] this. Don't worry, it's at the end.
+[88:11] Okay. Quinn is obviously faster
+[88:15] as a jitter.
+[88:20] Um,
+[88:23] that was a good question. The question
+[88:24] you should be asking yourself is, can we
+[88:26] win the fight? Yes or no? That's all
+[88:28] usually.
+[88:31] Uh I don't have a bad example of when
+[88:33] have the first move, but I think it
+[88:35] speaks for itself. If there silent his
+[88:37] first move, you just don't go on mid
+[88:39] lane cuz you know you you get [ __ ]
+[88:44] raptor. How did you there? Uh I I just
+[88:47] look mini map. I literally looked mini
+[88:49] map. I looked side lane. I was like my
+[88:51] teammates are not there. Theirs could be
+[88:53] there, but I'll be fine with that. I
+[88:56] explained this a lot. So you can watch
+[88:57] the replay after.
+[89:02] Um, okay. Fast play is most of the times
+[89:05] good if you can just one and run out.
+[89:09] Um,
+[89:10] what you mean like save them for greater
+[89:12] fights? You basically mean
+[89:14] let's let's say 40 seconds before an
+[89:17] objective, right?
+[89:19] You want to save it.
+[89:22] I I I mean, okay, usually fast play is
+[89:23] just if you can make a quick kill and
+[89:25] get out, you know, like I don't know how
+[89:27] to explain it deeper.
+[89:33] Uh
+[89:35] but uh
+[89:39] okay, this is more like anticipating it
+[89:41] can come, you know. Uh usually if this
+[89:43] is the case, you want to play on those
+[89:44] lanes, which means that let's say Shen
+[89:45] DP, you want to make sure your top lane
+[89:47] is free first.
+[89:52] camping. Um, okay. Basically, on the
+[89:55] timer, your camps with waves. That's
+[89:57] that's all. But hey, this is a hard
+[89:59] concept. Even if you don't get it, it's
+[90:02] fine. For the people that get it, really
+[90:04] wonderful, but focus more on the tempo.
+[90:11] I I agree with this. I I think Baron and
+[90:13] fake objective. Okay, if you get an ace,
+[90:15] you can get it for free, get it. But um
+[90:18] I I think usually it's fake. Yeah, you
+[90:20] should just bait.
+[90:24] But I'll explain that. How does take
+[90:26] your camps?
+[90:31] But how does taking your camp?
+[90:35] Wait. Uh I don't think they conflict. I
+[90:38] I didn't get the question.
+[90:41] But okay, actually we started like one
+[90:42] minute, so I need to give myself a break
+[90:44] as well.
+[90:46] need to rest my voice a bit. So, in one
+[90:49] minuteish, we start again. Okay, I'll
+[90:52] explain the best um
+[90:55] what I love the most personally
+[91:23] Okay, it's 37.
+[91:26] Are we ready, boys? Are we ready?
+[91:37] Okay. Okay,
+[91:42] let's let's get it. Uh, regarding Okay,
+[91:45] I'm going to answer one final question
+[91:46] regarding tempo. I think that's a good
+[91:47] question. So, personally,
+[91:50] how I like to track jungle. Okay, pay
+[91:53] attention, boys. This is actually
+[91:54] crucial. Um,
+[91:57] so first thing first, first I would be
+[92:00] like, if my laners are crossing this
+[92:03] line, okay, and let's say I'm jungle,
+[92:05] anyone is crossing in mid game, I just I
+[92:07] just pin them back. This is the easiest
+[92:10] way. This this is the easiest way to
+[92:12] jungle track in mid to late game. That's
+[92:13] I call it lane track. Okay. The second
+[92:15] way is that if you get more advanced,
+[92:20] if you see that, let's say
+[92:24] this boy here on top has the first move.
+[92:26] Okay?
+[92:29] Even if your laners didn't overextend,
+[92:31] he can literally be here. If this is a
+[92:34] male fight,
+[92:37] he's dead.
+[92:39] But if you understand right, look at
+[92:42] mini map and you see if you're missing
+[92:44] and it can come in the next wave,
+[92:48] you just bing ding ding.
+[92:51] This is more like precise. This is
+[92:53] precise jungle tracking or like uh later
+[92:55] tracking. This is the harder one, but I
+[92:58] I'd recommend you guys to start like the
+[93:00] easiest one, which is if they cross
+[93:02] middle of the line. Uh the harder one is
+[93:06] when they have individual tempo.
+[93:11] So the easiest way to recognize that is
+[93:14] having a mindset. Okay, which is first
+[93:16] one have a plan. Secondly on a laner
+[93:18] track. So the moment you have
+[93:19] established a plan
+[93:22] your job is literally
+[93:28] no joke. I just look mini map.
+[93:31] I I don't even look at my screen. I just
+[93:34] look at who's having the first move.
+[93:38] Anyway, let's continue. I hope that
+[93:40] explained to you um how to do both a
+[93:43] bit. Okay, start with the simple ones.
+[93:48] But now, boys,
+[93:50] hold up. Let's take a look now at how to
+[93:54] edge at objectives. Okay, this is
+[93:56] personally my favorite setup um or my
+[93:59] favorite thing to do. So, let's get into
+[94:01] it. Okay. Now you might be wondering
+[94:04] what is a edge on objectives.
+[94:08] First I need to show you this example.
+[94:16] If you manage to do like the later stuff
+[94:18] like the tempo stuff, this is the next
+[94:21] lovely thing.
+[94:23] So what is it?
+[94:32] So, let's say you're the Volibe here,
+[94:34] okay? And you manage now to have a plan.
+[94:36] Your laners are not [ __ ] dying. You
+[94:39] are taking fights with good numbers and
+[94:41] you don't take a 3v4. Now, how do you
+[94:45] play around objective?
+[94:48] It's simple.
+[94:50] You push mid and clear rivers. Let's say
+[94:53] both your side laners could collapse mid
+[94:55] lane. If I push mid lane now, I'm dead.
+[94:59] But here, I now know that they couldn't
+[95:01] be here in game. In game, I knew that
+[95:03] they're not a threat. Okay, I knew they
+[95:04] were not here.
+[95:06] So, I push mid and clear river warts.
+[95:09] Why is that?
+[95:11] Why am I securing the wave
+[95:16] and clearing river warts?
+[95:19] Look at their vision.
+[95:22] Okay. Okay. This is my vision first.
+[95:23] Okay. But look at this.
+[95:28] I'm hitting the Baron, but I know that
+[95:30] after I've cleared all the wards here,
+[95:37] someone's going to come in.
+[95:41] I don't care about the Baron. I just
+[95:44] want to get a fight that is in my favor.
+[95:52] Look at Alistar.
+[95:54] Alisar was like, "Let me get in there."
+[95:56] Never mind. I'm kidding, guys. Please
+[95:58] let me get out. Please, please let me
+[95:59] survive. And look at Alisar.
+[96:05] This Alisar look like the biggest NPC in
+[96:07] the world.
+[96:09] He's running for his goddamn life. And
+[96:12] he's like,
+[96:15] and it just died.
+[96:17] Bro, it looked so troll. He's literally
+[96:22] like
+[96:26] jokes. I I actually actually look at him
+[96:28] smiling. He actually he actually was
+[96:32] like, "Hold up, hold up, hold up, guys.
+[96:36] Never mind.
+[96:39] It looks so troll, right?"
+[96:42] But here's the thing. I need you to look
+[96:45] from the enemy perspective. Look from
+[96:48] enemy perspective. Okay, they have a
+[96:51] ward here. They have a ward here.
+[96:57] After I clear this warts, what do you
+[96:59] think that they're seeing?
+[97:10] They're going to start bearing. And look
+[97:11] at the funny part. He even saw me leave.
+[97:14] Okay, he even saw me leave.
+[97:18] But he doesn't know.
+[97:22] He has to get it. He has to get in
+[97:24] there.
+[97:26] And now what's the problem? Look at Jyn.
+[97:28] Look at them. They're all split. So
+[97:31] they're forced to face check separately
+[97:34] while we're all together here. How can
+[97:37] they ever win this fight here?
+[97:40] They cannot.
+[97:41] And because he had no vision here, he
+[97:44] was forced to face check. and a fight is
+[97:46] won before it started.
+[97:54] Does this make sense? I hope it does.
+[97:56] This is the easiest example.
+[98:03] Now,
+[98:05] take a look at
+[98:08] this example.
+[98:19] I have probably close some taps.
+[98:22] So, take a look at this Jagger here.
+[98:24] Okay. Baron 30 seconds. The four Drake
+[98:28] for both teams 40 seconds.
+[98:34] Look at this. What do you think the
+[98:35] problem is?
+[98:37] alter the steps
+[98:40] wave
+[98:42] towards fish.
+[98:45] The problem is that if you don't clear a
+[98:48] wave, if the enemy team continues
+[98:50] pushing, you have to defend and you lose
+[98:54] the position advantage.
+[98:57] League of Legends is a probability game.
+[99:01] If you have good position,
+[99:04] you win before the fight starts. So
+[99:06] that's why you always want to secure the
+[99:07] wave so you don't have to catch the wave
+[99:09] like this because now they take the
+[99:12] vision and now they can start fishing.
+[99:15] So look here,
+[99:18] they literally gave the position and
+[99:19] they're so lucky they don't have a pink
+[99:21] ward here.
+[99:23] And now because he didn't push the wave
+[99:25] right, there ends up happening a fight
+[99:28] in the open.
+[99:33] And now I mean he kind of cringed that
+[99:36] and TLDDR they just lost the game here.
+[99:39] They they got aced.
+[99:42] If he just pushed the wave
+[99:45] it was three win. I'm going to first
+[99:47] show the bad examples. Okay. Look here.
+[99:49] Same principle. Drake is spawning in 10
+[99:52] seconds.
+[99:53] Why would you ever want to fight in the
+[99:55] open
+[99:58] when you can fight in the jungle
+[100:01] and just win before the fight starts?
+[100:03] where they would face check. Why would
+[100:04] you ever do that?
+[100:08] Why
+[100:10] people in lower elos and you guys
+[100:13] probably do this? Because you don't have
+[100:15] a plan. Oh, and you're actually like um
+[100:20] not playing properly.
+[100:22] Is this one? Hold up.
+[100:24] Fat fingered. Oh, look here. Right. Look
+[100:28] at Diana. Instead of Diana contesting
+[100:31] this bush here,
+[100:34] he hits the Drake here.
+[100:36] It's all about contesting this bush and
+[100:39] many face check kill them before the
+[100:41] fight starts.
+[100:46] Same principle.
+[100:49] Always play to defend your vision. If
+[100:51] they come in, kill them. Okay, now
+[100:55] I'm going to show you how it actually is
+[100:57] supposed to be done.
+[100:58] Look at me. Okay. And now I'm going to
+[101:00] explain this part.
+[101:03] The pros to securing wave first is that
+[101:06] you can kill the enemy. You can defend
+[101:08] your laner. You can get pushed off and
+[101:11] you get a leash.
+[101:13] The cons is that if you don't push me
+[101:16] away first, your lers can die. You get
+[101:18] pushed off. You doing solo takes so long
+[101:21] and you can't trap the enemy team solo.
+[101:23] So look here. Look what I'm doing here.
+[101:26] Most jungers here would start the
+[101:28] objective. No, just sit in the bush
+[101:31] here.
+[101:33] If they fight mid lane, I fight back. If
+[101:36] they don't, and they face check here
+[101:39] without having warts,
+[101:44] they die.
+[101:47] And now I take the objective.
+[101:51] And now it's free.
+[101:54] Look from enemy POV. how it looks like.
+[102:01] Look at NP. Okay. Look, look at Pike.
+[102:04] Pike's like, "Oh my god, there's no
+[102:06] warts."
+[102:10] It's either they contest mid lane and
+[102:12] try to kill him. I kill them. Or they
+[102:16] get vision here. I'm sitting here.
+[102:20] They don't come at all. I pull this rig
+[102:22] out here. So if they ever come in, I'm
+[102:26] ready to defend the vision. Where's
+[102:28] black for them?
+[102:33] He This just got put down. Insta dead
+[102:37] because I'm in position.
+[102:40] Boom. Fried Drake. And now I'm starting
+[102:42] it because I dare them to fight me for a
+[102:44] five. I want them to fight me.
+[102:48] Even if they come in here, they're dead.
+[102:50] I I will not lose to them, you know. So
+[102:52] now we go to the next example.
+[102:56] Look here. Look at this is a common
+[102:58] mistake as well. Look at this Caitlin.
+[103:00] Look, I'm trying to time my camps with
+[103:03] waves, right? You see this mid lane
+[103:04] wave?
+[103:07] Perfectly on time.
+[103:11] I mean, here
+[103:13] it's a bit awkward because my Kalin is
+[103:15] not on the midling wave. So I'm just
+[103:17] defending vision here or clearing vision
+[103:18] here. You see, I'm clearing vision
+[103:20] wards.
+[103:21] Look my Caitlyn.
+[103:26] Will I do the Baron hair? Yes or no?
+[103:31] Obviously not, right? What will I do? I
+[103:35] start fishing.
+[103:39] I just put my fishing rod here and hope
+[103:41] someone takes it.
+[103:45] And now instead of me fighting the
+[103:47] objective, I'm like, well, hello, bros.
+[103:51] Because my goal is just to make them
+[103:53] come to me.
+[103:55] I just want to fight. And by having them
+[103:58] fight is basically just clearing the
+[104:00] vision boards at objectives.
+[104:04] And now I get objective, you see. And
+[104:06] now I get the Baron. And look, this is
+[104:08] how it looks like from their POV, right?
+[104:10] Look, Braum put awards.
+[104:13] He's trying to base here.
+[104:22] And now they're like, well, um, I guess
+[104:26] I have to go back.
+[104:30] Do you see how I just make the enemy
+[104:32] team come to me by clearing these wards
+[104:36] here?
+[104:38] And this way I force them into me to get
+[104:42] a fight that I want.
+[104:47] That's all. I lose nothing by doing
+[104:51] this. Nothing. Right.
+[104:54] So now let's go to a pro example.
+[105:01] Look, I'm going to show you first what
+[105:03] happens. Okay, just look.
+[105:13] Let me tell the following.
+[105:20] These guys, I can tell you guys that
+[105:22] each of them are getting paid over six
+[105:25] figures by the way. Okay, each one of
+[105:27] them.
+[105:29] Why do you think that here they could
+[105:31] look like an iron team?
+[105:37] Why does this look like someone in Iron
+[105:39] that hasn't played against Saraphim
+[105:40] before?
+[105:42] It is
+[105:44] Biz Yon. They don't have vision. T1 here
+[105:51] is just clearing the wards and they're
+[105:53] seeing how the enemy team reacts. If the
+[105:56] enemy team here didn't come in, okay,
+[105:58] and they use the blue trinkets, they
+[106:00] would just push another wave, repeat the
+[106:02] process.
+[106:06] It's just rinse and repeat.
+[106:11] And that's how they just ace them is by
+[106:13] knowing how to secure wave clear wards.
+[106:18] Bish.
+[106:21] Okay.
+[106:26] Okay, this is a fun example, but it even
+[106:29] works against me. Look here. Okay, I'm
+[106:31] the VGO. This is like diamond MR. Look
+[106:34] at this.
+[106:36] They hit the Drake.
+[106:38] Look at them. Instead of wasting their
+[106:41] spells and abilities, they're saving
+[106:43] everything here.
+[106:47] And look, this is our vision.
+[106:51] So now I'm like, okay, maybe they're on
+[106:53] it. And now look at ski daddy.
+[106:59] Ski daddy just one shot me and he's like
+[107:03] my job is done.
+[107:07] This is me falling for it.
+[107:11] Now let me show you in very um relatable
+[107:14] example. This is a bonus concept as
+[107:16] well. Okay.
+[107:19] Right here. Look at tempo.
+[107:22] My cartus, my fur is down temper here.
+[107:24] Okay,
+[107:26] I want to give this drake because I
+[107:28] think we cannot fight because we don't
+[107:30] have numbers and I don't want to get
+[107:32] fished here, right? So, I'm like
+[107:36] pinging back on the way Baron, right?
+[107:39] I'm probably pinging Tolen in his face
+[107:41] as well in his face. So, he sees it.
+[107:44] What does my Talon decide to do? What do
+[107:47] you think he's going to try to do here?
+[107:56] He went in, he died.
+[108:00] And look at him typing now.
+[108:03] He's like, "But we
+[108:08] Why do Zack
+[108:11] recalling?"
+[108:13] Okay. Okay. Basically, he's [ __ ]
+[108:14] stupid. Okay. He's completely delusional
+[108:18] blaming my base with his noers. Okay,
+[108:20] but now look, look at this
+[108:24] here. Why am I pinging them back?
+[108:27] I want them to start the baron, lose HP,
+[108:31] and waste abilities.
+[108:33] So, look at me. Can they be in this
+[108:35] bush? Yes or no? Yes.
+[108:38] Am I afraid? Yes. I'm not [ __ ]
+[108:41] jumping in. Look at Manami.
+[108:50] balls of steel.
+[108:54] He's lucky that they weren't cheesing.
+[108:56] But now imagine you decided to fish
+[108:59] here. It's literally a free fish.
+[109:02] Literally. But anyway, now I see the
+[109:06] Baron HP.
+[109:08] I'm not going to go instantly go in. Why
+[109:11] is that? Remember this is a bonus
+[109:14] concept. Okay.
+[109:16] One, they waste abilities. Two, they
+[109:19] lose HP. Three, they will flip 50/50 and
+[109:22] waste more spells
+[109:26] or resistance gone. That as well.
+[109:31] So now
+[109:33] I'm literally chilling.
+[109:35] I'm waiting for them. They managed to
+[109:37] cancel my base or like my jump.
+[109:43] I stole the Baron
+[109:46] and we got a quarter kill here.
+[109:51] Now, what happened? I'm going to show
+[109:53] you enemy POV.
+[109:59] First thing first, they didn't fish.
+[110:01] Okay, if you're confident that you can
+[110:03] start a Baron and turn, start it. Okay,
+[110:05] but people in solo usually start it for
+[110:08] fun. like I explain this more in depth
+[110:09] on my mid lingium course, but I'm going
+[110:11] to teach you guys the basics. Okay, but
+[110:13] now look at HPS. Okay, now
+[110:17] Brent 100%. Uh, Silos
+[110:21] 80% I think 85%.
+[110:25] Azure is like
+[110:29] 8%. B 100%.
+[110:33] Lulu 85%. Okay,
+[110:35] look this is the HP before. Now let's
+[110:39] check it after
+[110:46] brand 80% silos
+[110:50] 65%
+[110:51] Azel 70%
+[110:54] b 90 blue like okay it's not exact right
+[110:57] but
+[110:59] not only did they in total lose a lot of
+[111:02] HP look at their cooldowns too
+[111:06] silos e Cool down.
+[111:10] Brand W cool down.
+[111:13] Lula Q coold down.
+[111:16] And look at Silus now. Look at Silus
+[111:18] now. Look at his abilities.
+[111:23] He Wed the Baron.
+[111:27] Do you see why I love the late contest?
+[111:32] Is because people [ __ ] choke here.
+[111:34] Even in professional play. And I can
+[111:35] tell you that because I've coached
+[111:36] professionals even they choke here. Now
+[111:39] imagine how hard Sod players choke when
+[111:41] it gets low
+[111:44] gigahart. So you can make from a bad
+[111:46] situation a good situation if you know
+[111:50] how to like how to late contest, right?
+[111:53] Yeah. And basically there's more things
+[111:55] in that. But but now because of this
+[111:59] from my thought on dying,
+[112:02] this was a winning play.
+[112:07] Now last example on fishing. There will
+[112:11] be some drafts where you have no CC.
+[112:13] Okay, look at my draft. I have Senna,
+[112:15] Severe, Echo, Riven. Okay, I don't
+[112:17] consider this having much CC. Okay,
+[112:21] this is how to play if you have no CC.
+[112:25] Vision is cleared. So, look, wave,
+[112:29] vision, fish, wave check, vision check,
+[112:32] fish in in the process, right?
+[112:37] I'm fishing.
+[112:46] Nami for some reason saw us. He knew
+[112:49] about the fishing.
+[112:51] What do I do now? I repeat the same
+[112:53] process. I get the wave.
+[112:59] I ping manage to come here
+[113:02] and I'm fishing. Look at me. I'm going
+[113:05] to put the fishing rod.
+[113:17] I have no CC.
+[113:19] But do you see how like a Jace just
+[113:22] looks like the biggest NPC?
+[113:25] Why is that? He tried to check this.
+[113:30] This is what I love the most. So if
+[113:33] you're able to basically do the
+[113:34] following right which is u count numbers
+[113:36] before waves fighting right now if let's
+[113:40] say they're not trolling
+[113:43] circular wave
+[113:46] your vision
+[113:53] does this make sense boys
+[113:56] before you get to fishing you need to
+[113:58] count numbers first
+[114:00] now if they're trolling you kill them.
+[114:03] If they're not trolling and you're
+[114:05] perform an objective there, you just do
+[114:08] this.
+[114:14] I am tracking blue trinket purchases.
+[114:16] Yes, I actually track that. But that's
+[114:17] more in depth, by the way. That's more
+[114:18] in depth. Like I'm not going to go food
+[114:21] in depth, right? Like like I can write a
+[114:24] book about it.
+[114:27] Anyway,
+[114:28] now I'm going to teach you guys how to
+[114:30] team fight. Okay,
+[114:33] this is a very good chapter as well.
+[114:37] So, um
+[114:40] first thing first,
+[114:42] before you go for a team fight, you
+[114:44] should always have position advantage.
+[114:46] This is the best way to team fight.
+[114:48] Okay, before you even get to a team
+[114:50] fight, get position advantage.
+[114:54] This is better than any team fight,
+[114:56] which is macro.
+[115:00] is yeah macro is number one. Okay,
+[115:07] this is the best position you can have
+[115:08] in a team fight which is before they
+[115:10] come in the fighters won already. Okay,
+[115:14] this is the best
+[115:16] way to win.
+[115:19] We all agree with that. Okay,
+[115:22] now next thing this is number one. If
+[115:26] you cannot do number one and you have to
+[115:28] go for straight team fight, you want to
+[115:30] look for flank if outranged.
+[115:33] Let me break them down to you.
+[115:37] So look here. Okay, take a look at enemy
+[115:40] team comp. Felos, Senna, Saraphene. I
+[115:44] have short range, short range, short
+[115:47] range. I mean long range, but we all get
+[115:50] outranged by Saraphin tles by the way.
+[115:55] So, guess what? If I play front to back,
+[115:58] look at me. Okay, look at me at the VGO,
+[116:05] bro. How is it playable?
+[116:10] It's not playable, right? A front to
+[116:12] back when you get outranged is cooked.
+[116:15] It's just not doable.
+[116:19] So, usually if you get outranged, what
+[116:22] should you do?
+[116:25] Take a look at this example.
+[116:27] If I know that I get outranged and me
+[116:29] coming from the front is cooked.
+[116:33] I will do this,
+[116:37] I will flank and go from all the way
+[116:40] around
+[116:43] and get a fight going.
+[116:46] I want to clarify, if you play Kindred
+[116:48] or something, don't do it. But if you
+[116:50] have any champ that has crowd control or
+[116:51] they can get a fight going is good.
+[116:54] Okay, let me clarify that because I hope
+[116:56] some guys of you don't misunderstand.
+[116:58] But yeah, look here now because I have a
+[117:00] flank, right? I'm behind them. I can get
+[117:04] a fight going. I would never get his
+[117:06] flesh or anything if I did not come from
+[117:09] behind.
+[117:10] And now look at Rengar.
+[117:14] Ski Daddy thought it was a good idea to
+[117:16] one v3.
+[117:18] It wasn't
+[117:22] anyway.
+[117:23] Uh let me see what's this examples
+[117:25] again. So look here. Same principle.
+[117:29] Enemy team has a zix. I have trash
+[117:31] Ailius. I will never reach the Zix. So
+[117:35] what do I do?
+[117:37] I go from behind. I look for a flank.
+[117:43] Zig's dead.
+[117:47] You want to fish. If you can't fish, you
+[117:50] want to flank. If you get outranged.
+[117:53] Now,
+[117:55] let's talk about if you are basically
+[117:57] playing front to back.
+[118:00] This is the most difficult part. Okay.
+[118:03] How does a front to back look like? So,
+[118:05] a front to back essentially comes down
+[118:07] to the following. Who receives slash
+[118:09] deals more damage?
+[118:16] It's all about this.
+[118:19] Woo receives or deals more damage. Take
+[118:22] a look at Vi
+[118:26] when Vi goes in here. Okay.
+[118:30] Is he going to deal or receive more
+[118:32] damage?
+[118:37] I hope we can all agree that he can he
+[118:38] receives more, right?
+[118:40] So what is the problem? He before he
+[118:43] jumps in needs to look at this guy,
+[118:46] needs to look at this guy. Can his
+[118:49] laners even follow up?
+[118:53] Clearly not. So this is a losing trade.
+[118:59] He lost this HP for nothing.
+[119:05] Now,
+[119:08] this one's fine.
+[119:13] Let's take a look at this one. Okay,
+[119:16] this one is appropriate. Okay, who
+[119:19] outranges which team comp?
+[119:22] Left or right?
+[119:30] Okay, left, right, T1. Who outranges?
+[119:32] Let's be more specific.
+[119:35] Anivvia
+[119:37] Lucian outrageous with ultimate
+[119:40] everything else. No, no, no, no. Okay,
+[119:45] so now what is Vice's job?
+[119:49] It's literally just to make sure they
+[119:52] cannot engage. It's peel. What should
+[119:55] Wukong do? Look for a flank if possible.
+[119:58] Now, let's take a look at how junglers
+[120:00] are playing this. And in this case, I'm
+[120:02] focusing more on jungers, okay? It's so
+[120:03] hard to focus on all rules. But look
+[120:05] here,
+[120:08] look at look at owner. Okay, he jumps in
+[120:11] here. Q's A E. He gets out.
+[120:17] Positive trade. Lost zero HP for this.
+[120:20] Perfect.
+[120:30] Look at Wukong. He went in here.
+[120:33] Who's going to follow?
+[120:39] Positive or negative?
+[120:42] Hella [ __ ] negative. So, what does he
+[120:44] have to do? Get out. He got out already.
+[120:47] He knew it was negative trait.
+[120:52] Now,
+[120:57] do we see how Wukong here tried to eat
+[120:58] instantly
+[121:01] canceled? And by the way, just so you
+[121:03] know, is this
+[121:05] a positive or negative trade for Wukong,
+[121:08] even if VI didn't cancel him,
+[121:12] bro? That that's the biggest negative
+[121:14] trade ever cuz Anivia here can just zone
+[121:17] this guy and this guy will take damage
+[121:19] from the AD carry. It's hella negative.
+[121:21] and Rise as well super far away.
+[121:25] And now because the fight was so [ __ ]
+[121:27] negative,
+[121:28] he could just one-shot him
+[121:35] and now he's cooked.
+[121:37] But do you see like how a team fight in
+[121:40] the end comes down to like who deals or
+[121:43] receive more damage?
+[121:45] If you get outranged, look flank, right?
+[121:49] If you win front to back, just peel.
+[121:58] Another example.
+[122:02] Okay. So, I want you to take a look at
+[122:04] Mr. Kenyon. Okay. Where's Kenyon? Okay.
+[122:07] Canyon here.
+[122:08] First, I'm going to show you the fight.
+[122:10] I'm not going to give you uh more
+[122:12] theory. Okay. Take a look at Canyon.
+[122:15] Okay.
+[122:30] I'm going to show you once more. Once
+[122:31] more. Okay.
+[122:43] What do you notice?
+[122:46] What do you notice he's doing?
+[122:51] It's all about negative and positive.
+[122:56] Take a look here. Okay,
+[122:59] Kenyon right now is just pressing Q.
+[123:01] What's he trying to do? He's trying to
+[123:03] space this guy. And do you see how the
+[123:05] AD carry here and Chovi
+[123:09] free target
+[123:11] right now? As long as Kumayushi and Zea
+[123:14] don't have any target.
+[123:17] If this guy ever goes in here, really
+[123:20] negative trade because why would you go
+[123:22] for negative trade when it's a positive
+[123:24] trade right
+[123:26] now? If this guy
+[123:29] goes in here, negative or positive?
+[123:34] Negative. Because Alisar is not dealing
+[123:36] any damage to these guys. So right now
+[123:40] he's just zoning with his Q the rice.
+[123:45] He's just like walking on him. Now he
+[123:48] realizes these guys are respecting.
+[123:50] Alisar is trying to escape here. He's
+[123:52] like, "Please man, let me get out." Now
+[123:54] Ken is like, "Get back in there."
+[124:00] But now these guys will try to hit him.
+[124:04] So if V alexar here,
+[124:09] is that worth it
+[124:12] to get a Gumash interface and a Zach
+[124:14] interface? Not at all. So look what he's
+[124:17] doing. Every hits him, he presses one E.
+[124:21] He's only clicking away.
+[124:26] He didn't even all tech. He just eat and
+[124:28] run for his goddamn life cuz he
+[124:31] understands the negative
+[124:34] and the positive traits
+[124:37] and he understands how to position. And
+[124:40] now you can see that because he walked
+[124:42] away. Okay,
+[124:45] look at Zea as well. Zaka actually tried
+[124:47] to reach him.
+[124:50] Truck up his pillar, but if he didn't
+[124:53] [ __ ] up the pillar, this guy's this HP.
+[124:58] And now of course like he goes back in
+[125:00] because Trophy saw a very good
+[125:01] opportunity, really good flank
+[125:04] and then you just send it, you know, but
+[125:07] basically that's how you should see team
+[125:08] fighting. Like if you break it down at
+[125:11] the highest level, this is how people
+[125:13] team fight. And based of like of course
+[125:16] thread assessment as well, which I'll
+[125:18] cover later,
+[125:19] you'll understand how professionals are
+[125:22] team fighting.
+[125:24] And does this make sense, boys?
+[125:26] on team fighting if you get one is of
+[125:29] course positioning in objectives two
+[125:32] flank if you get outrange three and just
+[125:34] peel you know
+[125:37] it's all about positive or negative
+[125:42] now
+[125:45] let's do a summary of what you learned
+[125:46] but we're not done yet but um it's very
+[125:49] understand it's very important that you
+[125:51] guys have a summary before I move on
+[125:55] are these things making more sense which
+[125:57] is that knowing yourself and actionable
+[125:59] actionable steps. What is moving you
+[126:01] towards or away?
+[126:04] Next thing later roam timers and
+[126:06] cheating tempo. Sidelane wave is always
+[126:09] one wave slower. Mid lane wave is
+[126:11] instantly. If laners don't show on the
+[126:14] wave consider them cheating which means
+[126:16] that you just don't want to fight.
+[126:21] timing waves with camps because if
+[126:24] there's a wave of camp with CC,
+[126:27] you can get a kill and how to fish at
+[126:30] objectives, which is essentially secure
+[126:33] a wave, clear vision, put out your
+[126:36] fishing rod,
+[126:38] and then how to team fight what I just
+[126:39] explained.
+[126:42] Does the start making more sense? Yes or
+[126:44] no? after I've explained this for like I
+[126:47] don't know two hours by now
+[126:51] 50/50 ask me questions after but okay
+[126:54] could you guys understand
+[126:56] now I'm going to show you guys the
+[126:59] common mistakes and the correct examples
+[127:06] 80% of the time when you're farming as a
+[127:09] jungler or laner your goal as a junior
+[127:12] laner is to make sure that you have a
+[127:13] plan why is it important to have a plan.
+[127:16] If you have a plan, you know what
+[127:19] objectives to play for. If you know what
+[127:22] objective to play for,
+[127:26] you know where to fish.
+[127:29] Without knowing what to play for, if
+[127:31] you're on the wrong side on the map, you
+[127:33] cannot fish. Okay? And when I say what
+[127:36] objective to play for or have a plan, a
+[127:40] plan to simplify is the following. Okay?
+[127:41] Uh guys, open your sticky note. Everyone
+[127:44] open your sticky notes right now. Open
+[127:47] it. Open it.
+[127:51] Plan is
+[127:53] strongest laner
+[127:56] objective.
+[127:59] If stronger not there, don't fight.
+[128:04] Imagine you have a 10 zero Lucian.
+[128:08] Your 10 zucian decides to go bot lane.
+[128:10] Bambar is in the top side.
+[128:14] Don't fight the Baron without him. Ping
+[128:16] him in his face. Join. Okay, I'm going
+[128:19] to write it down. Land is strongest
+[128:21] laner raw objective. If strongest laner
+[128:25] not there, don't fight the objective.
+[128:30] Okay,
+[128:31] laners don't die. What is that?
+[128:35] Um I I didn't really go much in depth
+[128:37] about that but essenti/mid
+[128:46] have tempo.
+[128:49] Write it down guys. I want you guys to
+[128:51] write it down yourself. And once you've
+[128:53] written it down, write it down in your
+[128:56] own words that makes the most sense
+[128:59] because this makes the most sense to me,
+[129:01] but you might want to phrase it
+[129:03] differently. So just write it down first
+[129:05] and then write
+[129:07] it in whichever sense it makes sense to
+[129:09] your brain because I know some of us
+[129:11] might be autistic which is me as well
+[129:13] and this makes sense to me but might not
+[129:14] make sense to you. So write it down and
+[129:17] then rechange later. Okay.
+[129:19] But this makes sense to me. Okay.
+[129:25] Okay. I hope he did that. Now the last
+[129:29] step before fighting such race invading
+[129:33] look mini map and look at your team
+[129:37] and look at enemy
+[129:39] I'll write down the chat for fighting
+[129:42] waves invading
+[129:47] look mini map and look at your team and
+[129:50] look at enemy team and count
+[129:55] okay so you'll have a plan. You want to
+[129:58] come not die and then tempo and then
+[130:00] fishing. Now, do you see like 1 2 3 4.
+[130:07] Does this make more sense to you now?
+[130:09] But how to do it in game a bit?
+[130:12] Like first have a plan, then [ __ ]
+[130:14] ping not in like piggies, and then
+[130:16] before you fight, just count like a
+[130:17] human
+[130:20] and then fish. It gives you clear
+[130:23] structure. First, you need to have a
+[130:24] plan. Boom. Now you're in the mindset of
+[130:27] like my job is to track and see what
+[130:30] they can do. Now once we're my laners
+[130:33] haven't died, we're about to fight mid
+[130:35] lane. Boom. Count, count, count.
+[130:40] Okay, great.
+[130:42] Now I'm going to show you guys some
+[130:43] examples.
+[130:48] Look at this Wukong here. Wukong is
+[130:51] about to fight mid lane.
+[130:53] What do you Go to m lane.
+[130:58] Where's the enemy side laner?
+[131:01] Missing right
+[131:07] now. Look at what what Wukong does. He
+[131:09] now sees an Mundo appear on the screen.
+[131:14] Okay.
+[131:16] If he was aware of this, he could decide
+[131:19] quick one shot, get the [ __ ] out.
+[131:23] But he never saw that Mundo. So in this
+[131:26] moment, he has to decide. Do I flash in
+[131:28] or do I run away? What do you think
+[131:31] Wukong is going to do?
+[131:37] We all know the answer.
+[131:40] He's like, "Ha, let's go, baby boy."
+[131:43] Um,
+[131:45] yeah. Let let's let's see what happens
+[131:47] after.
+[131:53] This is basically you guys the common
+[131:56] mistake is that people don't have an
+[131:58] habit. You know what he looks at right
+[132:00] now? What he looks at right now is this.
+[132:02] He sees this. Okay, this is gone.
+[132:06] This does not not exist anymore. This is
+[132:08] just non-existent.
+[132:12] This is how it looks like.
+[132:18] change the habit.
+[132:21] Anyway,
+[132:25] I'm going to first show you guys a
+[132:26] common mistakes.
+[132:28] Look here at Kaz. Okay,
+[132:31] Kazix now is invading.
+[132:35] Is someone showing on the bot lane?
+[132:41] Nope.
+[132:43] What should Khazix do here when no one's
+[132:46] showing on the bot lane?
+[132:49] Press a W. Get the [ __ ] out. What does
+[132:53] he do?
+[132:57] Wants to drop an auto attack.
+[132:59] I think he's cool. out
+[133:07] that
+[133:10] before he even decided to walk in, he
+[133:13] should have been like,
+[133:16] "Where are the sidelaners?"
+[133:20] Like, why would you want to do this if
+[133:22] one enemies no vision here, two enemies
+[133:25] cheating temper here, and three just let
+[133:28] them come closer?
+[133:34] Why do you want to make it so painful
+[133:35] for yourself?
+[133:41] Another mistake people make,
+[133:44] you see this vision here. Okay, it
+[133:47] depends on Kazix. You do want to flank,
+[133:48] but let's say that if your laner pushed
+[133:50] in the wave here, one of them is
+[133:52] catching here. Secure this bush vision.
+[133:57] This guy is looking for a flank when his
+[133:59] laners now have to gig a sweat.
+[134:05] And guess what? What if they just
+[134:06] bulldoze them
+[134:10] cuz he has to like sweat here too, you
+[134:12] know?
+[134:16] And then Kazix here doesn't have a flank
+[134:19] is awkward. Like here he should try to
+[134:21] secure vision if possible. And well, he
+[134:23] just got aced. But these are a bit the
+[134:25] common mistakes just not contesting
+[134:27] vision and stuff. Okay, now let me show
+[134:30] you how it's done properly. Okay,
+[134:34] I want to play for the Baron here. Okay,
+[134:35] that's my plan. Plan is Baron. Next is
+[134:39] communicate is laners no die.
+[134:44] Uh this is the next step, right, which
+[134:46] is time camps with waves.
+[134:49] I see my fur move mid lane here. So I'm
+[134:51] like, okay, he's using his temp move. I
+[134:53] have CC. I can try to fight here. They
+[134:56] back off. I farm instantly.
+[135:00] Am I here on this mid lane wave? No. So
+[135:03] what do I do? Ping them back.
+[135:07] Which wave will I be there? The next
+[135:10] wave if I can make it. So here I already
+[135:14] know that I'm only going to take blue
+[135:15] buff because if I take my Gromp I don't
+[135:18] make it on time on this midline wave.
+[135:26] So now I see a crap as well. And just so
+[135:28] you know this crap is [ __ ] OP. So and
+[135:30] I see my cards not on mid lane wave.
+[135:32] So I just take the crap
+[135:36] right now before going mid.
+[135:39] I look at side lane. It's coming soon by
+[135:41] the way.
+[135:43] Look, I'm going mid lane now. Okay. And
+[135:46] look, look, look what I'm doing. I'm
+[135:47] clearing the wards.
+[135:49] Now I have to clear the ward. You see
+[135:50] this mid lane wave?
+[135:54] When I want to fight here and jump in, I
+[135:56] look at top lane. I'm like, wait,
+[136:00] I don't see their top laner here. Do you
+[136:03] see here how ping missing top?
+[136:06] Do you see this process of like my
+[136:09] plan's barren, I make sure my naners
+[136:11] don't die. I'm trying to time my camps
+[136:13] with waves before going mid lane. And
+[136:15] the final step, I'm about to fight.
+[136:18] I'm looking at numbers
+[136:20] now. I don't want to fight here
+[136:24] because they have numbers. But now I see
+[136:26] my mid lane getting all in. Just because
+[136:28] they have numbers, it doesn't mean I
+[136:30] don't want to fight. It just means that
+[136:32] if I can quickly one-shot him, I'll take
+[136:35] it.
+[136:37] If I cannot,
+[136:39] I got to [ __ ] out,
+[136:42] right? Because look, I think Silus will
+[136:44] push wave a bit slow. Do you see? I
+[136:45] think Silus pushes wave
+[136:48] now.
+[136:51] And a wave just appeared. It's not like
+[136:53] he can teleport, guys. Okay.
+[136:58] And now I'm trying to quickly one the
+[137:00] vein, but knowing that Silus is coming
+[137:02] first.
+[137:04] Okay.
+[137:07] So now I can just back off.
+[137:14] But I'm playing Zack and even if I know
+[137:16] he's coming,
+[137:20] I win it.
+[137:24] But do you guys see how like it's like
+[137:26] systematic?
+[137:28] Do you guys see it?
+[137:31] It's It looks simple, right?
+[137:38] But it's not that simple by the way. It
+[137:40] takes time to build habits. Okay.
+[137:45] Now, another baron. And by the way, this
+[137:48] example you guys have seen before, but
+[137:51] it's going to make more sense now
+[137:53] because I showed you guys this example
+[137:56] before the fishing
+[137:58] tree camp rule with objective.
+[138:01] Look. One, two, three.
+[138:06] One, two, three with waves. Now, what
+[138:10] did I do?
+[138:18] That is actually what I'm doing here, by
+[138:19] the way.
+[138:23] And that's why they walked in here.
+[138:28] And because of that,
+[138:32] we get Baron.
+[138:35] GG.
+[138:40] These are just like um summaries, okay?
+[138:42] Like reminders of you guys because I
+[138:43] know I' I've explained a lot, but it's
+[138:45] very important I give you guys some
+[138:47] examples so you guys remember. Oh, look.
+[138:49] Look at Kavi, buddy. This guy's [ __ ]
+[138:51] good. By the way, in team fighting, it's
+[138:54] about negative. Sorry. negative or
+[138:56] positive, right? It's as well about
+[138:58] understanding what are enemy threats.
+[139:02] Let's say you're playing Kavi or any
+[139:03] other carry. What are the threats of the
+[139:05] enemy team
+[139:13] Q EQ an Azure Q
+[139:17] look at Kavi? Okay,
+[139:20] I'm going to play it first and then I'll
+[139:21] explain after.
+[139:38] Okay, I'm going to play it once more and
+[139:39] then explain after because I I know it
+[139:41] can go fast sometimes. Look once more.
+[139:43] Let's see if you can see it.
+[139:56] Okay, let me go back. So, first thing
+[139:59] first, he knows that an Q, Ezra's Q, Sus
+[140:03] Q.
+[140:05] Look at him walking up,
+[140:08] anticipating Q, and he's not just
+[140:10] anticipating his Q, right? He's
+[140:12] anticipating
+[140:14] other cues as well. He runs up, he
+[140:16] dodges. Now, do you see how Jarvin Oh,
+[140:19] [ __ ] Do you see how Jarvin now
+[140:24] EQed the rice?
+[140:27] This guy is useless. He wants to like go
+[140:30] on these guys to grab their attention
+[140:35] cuz obviously if these guys hit him,
+[140:38] good. If these guys all nuke him, bad.
+[140:44] So now he's going on them, right? You
+[140:47] see? Now he's like, well, there's no one
+[140:51] to peel anymore. This guy, this guy,
+[140:53] this guy hits him. Positive or negative?
+[140:57] Definitely negative because this guy is
+[140:59] a can.
+[141:00] Even if these guys hit him,
+[141:03] it's very [ __ ] negative. I can tell
+[141:05] you that. Okay.
+[141:07] So, because it's very negative here,
+[141:08] he's like, "Um, yeah,
+[141:12] I'm out.
+[141:15] Look at him. He's like running like
+[141:16] crazy because he knows this is like a
+[141:18] giga negative trait and SC can tank 20
+[141:22] times more.
+[141:25] You see
+[141:28] that is how people are team fighting
+[141:34] simplified you know
+[141:36] but it starts making more sense right
+[141:38] how people team fight.
+[141:41] Okay. Does all of this make sense so
+[141:44] far, boys?
+[141:46] This is like a summary of like some
+[141:48] examples.
+[141:52] Okay, good. How long left? Um, I think
+[141:55] we're almost done. We're almost done.
+[141:59] Like 15 minutes maybe. But this is like
+[142:02] no cap the crucial part because guys,
+[142:06] um, it's very nice. You guys learn all
+[142:08] of this, but remember you need to learn
+[142:11] how to master and review this. Okay,
+[142:14] this is the thing you need to like the
+[142:16] best comes for last. This is like the
+[142:19] the most beautiful part. Okay,
+[142:22] anyway,
+[142:26] how do you master and review this?
+[142:28] That's the thing. Okay, this is the
+[142:30] work. So
+[142:33] remember,
+[142:36] I need you guys first to have a clear
+[142:39] goal on your mental. What's moving away
+[142:41] from your goal? What do you need to do
+[142:43] towards Okay, first of all, you need to
+[142:45] like fix your champ pool. You need to
+[142:46] fix make sure you review your games.
+[142:48] Have a clear goal. Okay, then this
+[142:52] before the day starts, look at one game
+[142:54] from yesterday and look at following.
+[142:56] Now
+[142:58] someone Okay.
+[143:00] Send VOD. One VOD. Oh, look. One VOD.
+[143:02] Drop it. Okay. That guy. Kyoto. We got
+[143:05] it. Okay. Kyoto.
+[143:07] I'm going to use one of you guys
+[143:09] example.
+[143:12] Kyoto probably um was quick anyway.
+[143:14] Anyway,
+[143:16] so let's look at the one fundamental I
+[143:20] would want him to work on. Okay.
+[143:23] Every single time you die in Midame,
+[143:27] I want you to look at
+[143:29] did you actually count numbers or did
+[143:31] you just break your arms? So let's say
+[143:33] here, I think he died here, right? Okay,
+[143:34] let's say here. Okay,
+[143:37] as is going to fight here in this um B
+[143:39] side here. Okay, if you look at pure
+[143:42] numbers wise, Zix Teo dead volt.
+[143:46] Um
+[143:48] this is a 3v2.
+[143:51] Enemy threats is K&W and Archarm.
+[143:56] Let's see how your team fights.
+[144:06] Got hit by IR charm. Got hit by um KW.
+[144:12] Zero respect for enemy abilities.
+[144:16] No ulti. So let's say you were to review
+[144:19] this. Okay.
+[144:22] When you see someone appear on your
+[144:24] screen, is the numbers check? Let's say
+[144:27] you check numbers here. You then want to
+[144:28] look at how did I team fight? Absolutely
+[144:32] giga [ __ ] boosted. I'm so sorry, bro,
+[144:34] but absolutely giga boosted. Anyway, so
+[144:38] here you can clearly see that he didn't
+[144:41] even try to dodge the IR charm
+[144:45] and just took the full combo. And I'm
+[144:46] telling you about it. If he actually
+[144:47] dodged irri was a bit healthy here, I
+[144:50] can see him winning. No, no, no, not
+[144:52] even see you. You are winning this.
+[144:55] So, if you want to review first focus on
+[144:57] did I count numbers.
+[145:01] Okay. I'm going to go quickly
+[145:05] to see another one. Okay.
+[145:08] So, let's look at this one here. He died
+[145:10] again.
+[145:13] So, let's take a look. And but you can
+[145:15] even look at the objective and see if
+[145:17] you fish properly. Okay, look, bro.
+[145:18] Okay, listen, dude. Bro, bro, bro, bro,
+[145:24] bro,
+[145:25] do you see what I mean? Enemies blue
+[145:28] trinked pink wart. Like another pink
+[145:30] wart. And he's like, you know what?
+[145:33] What is fishing? I've never heard of
+[145:35] fishing before. We just hit the
+[145:37] objective. We lose our HP. We waste our
+[145:41] abilities. And let's [ __ ] burger flip
+[145:43] it.
+[145:47] And now he decides to leave.
+[145:50] Okay. And now let's see how he fights.
+[145:54] Okay. Irish charm has charm
+[145:57] didn't quue multiple people and just
+[145:59] takes everything and is dead. Okay. But
+[146:01] but but do you guys see how like
+[146:04] if you were to review your objectives,
+[146:08] your uh fighting and counting?
+[146:12] It's so easy. Now give me give me one
+[146:14] more vult. Send it. Send it. One more
+[146:15] vault. One more. Go. Okay. Someone was
+[146:17] fast. Murky, dude. This guy just had
+[146:19] enter. Dude, that's crazy.
+[146:24] That guy is so [ __ ] fast, bro. That's
+[146:26] crazy.
+[146:28] Anyway, Murky,
+[146:31] look this game. He's ahead. Okay,
+[146:34] he's gigahhead. Did you even lose this
+[146:36] game?
+[146:41] Okay, let's see. I actually need to
+[146:43] Okay,
+[146:46] you get the Baron even. Okay, let's go
+[146:49] here.
+[146:52] Right now, as he takes objective, okay,
+[146:55] there's a fight right now. Remember the
+[146:56] common mistakes. You see this? People
+[147:00] usually don't look at this. Okay,
+[147:03] so we can all agree that Jay is right
+[147:05] now just dead. Okay, he's just dead.
+[147:09] Send us mid lane. So this QB at
+[147:13] three. Let's continue watching.
+[147:17] But now
+[147:19] as he's going to fight this, okay, he
+[147:22] has to be fully aware of like the pros
+[147:24] and cons to this fight.
+[147:27] But it's an echo, so I can see him
+[147:28] survive.
+[147:32] But he's definitely getting outnumbered
+[147:33] here.
+[147:36] Now he should ping his teammates back
+[147:37] off.
+[147:39] Unless he really thinks he can win it,
+[147:40] then go for it. But
+[147:43] that
+[147:47] I think he probably lost his game by the
+[147:48] way. I actually think he lost the game.
+[147:53] He lost the game. Okay, let's look at
+[147:55] the final team fight. Okay, let's look
+[147:56] at the final team fight. Sing is dead.
+[148:00] Jay pushing mid lane. What is his job?
+[148:03] Literally wait for his mid lane a little
+[148:05] bit. What? What? No. No. Fish. Fish.
+[148:07] Wait. Wait. Hold up. Okay. Okay. Enemy
+[148:09] here. Try to push. Okay. Enemy try.
+[148:12] Wait. This is so awkward. By the way,
+[148:14] why aren't you guys in mid lane?
+[148:18] Okay. Sure. You guys made a side pick.
+[148:20] Sure. Sure. Sure. Sure. It's fine. It's
+[148:21] fine. But now, now no, no, no. Why don't
+[148:25] you just stand here? Why don't you just
+[148:27] stand here and see? Just just literally
+[148:30] stand here. They're going to come in.
+[148:32] Why would you change your position to
+[148:34] that bush when they don't even see this
+[148:35] bush? Look at this guy.
+[148:41] You cannot tell me if you're pressing W
+[148:43] here,
+[148:45] you could not have a good W. And if you
+[148:47] anticipated Ezra will cue this bush, you
+[148:49] literally stand here.
+[148:51] You literally stand here. Ezra use Q.
+[148:54] You go back with W. You're like surprise
+[148:56] [ __ ]
+[148:58] If Ezreal didn't hit anyone here, he's
+[149:00] going to face check 100%.
+[149:06] Look at, bro, if you're really here,
+[149:08] it's so free. This is a freeze fight. Do
+[149:10] you see how like
+[149:12] here you didn't well stand in the red
+[149:15] bush, didn't dodge a Q, and then just
+[149:18] fish here? Why are you waiting so long
+[149:21] when they literally don't see these
+[149:23] bushes?
+[149:26] You press W and a fight already started.
+[149:29] The fight should have been won already
+[149:33] literally.
+[149:35] So
+[149:38] essentially the how to review
+[149:41] how do you master review? Okay, let me
+[149:44] write it down. Um I don't know if you
+[149:47] guys have early game course but I
+[149:48] explain it more in depth. But review
+[149:50] your games. Uh do the following.
+[149:53] Micro
+[149:55] macro.
+[149:57] Look at your I'm going to copy this.
+[149:59] Okay. Look at your um
+[150:03] Did you anticipate enemy threats? Did
+[150:06] you space? This is something I didn't
+[150:07] cover, but did you use your abilities
+[150:12] correctly?
+[150:14] macro.
+[150:16] They should play strong as members
+[150:22] equal or more numbers.
+[150:26] This is a game plan.
+[150:34] Have good base timers
+[150:36] uh to be as strong as possible. So, I
+[150:39] would recommend you to review the
+[150:41] following
+[150:45] This
+[150:49] literally
+[150:55] uh was it well with three games?
+[150:58] Look at your first three deaths. Look at
+[151:01] one, two crucial mid game mistakes.
+[151:10] uh check your drill tracking.
+[151:16] I would re Okay, please. Okay, pay
+[151:17] attention, boys. Focus on one thing at a
+[151:19] time. Focus on
+[151:29] um
+[151:31] let me see the rest as well.
+[151:38] micro. This is what to focus on mostly
+[151:43] to look at micro and macro
+[151:48] and focus on the one fundamental you
+[151:51] want to work on.
+[151:53] Please focus on counting numbers and
+[151:55] reviews on how you fight.
+[152:01] So you literally want to go to a point
+[152:04] in mid game or early game how you fight.
+[152:07] Look at your micro and then look at your
+[152:10] macro in Midame about counting numbers.
+[152:13] So, okay. Last view once sent. Okay.
+[152:17] Okay.
+[152:20] We got one.
+[152:23] Okay. So, how do you do that? I'm going
+[152:26] to show you like one game how to review.
+[152:28] Okay. Because in the end,
+[152:31] you guys only learned mostly tempo and
+[152:33] fishing, right? But let's say that you
+[152:35] want to review. Okay, don't neglect your
+[152:38] early game. Don't neglect your early
+[152:40] game. If you want to make your mid game
+[152:42] easier, first fix your early game. All
+[152:45] the things I taught you is super good if
+[152:47] you're even or ahead. It sucks if you're
+[152:50] behind. Okay,
+[152:52] so let's say you got a lead. Let's say
+[152:54] his first death.
+[152:56] Let's look here. Okay, when he's
+[152:58] fighting here,
+[153:00] first of all, did it play equal more
+[153:02] numbers? And how did he play it?
+[153:07] Okay, let's say here he fights. Okay,
+[153:09] it's it's it's [ __ ] one. Wait, it's
+[153:11] one, right?
+[153:18] Okay, he's fighting here. This is a 2v3,
+[153:20] but um
+[153:23] Okay, guys. I I didn't see his gold, but
+[153:28] did you have good base timers to be as
+[153:30] strong as possible? Bro, this was the
+[153:32] freest [ __ ] fight. But how do you
+[153:34] have 3k gold in your pocket, bro?
+[153:37] Bro, you have literally 2.6 [ __ ] K
+[153:39] gold.
+[153:42] Dude, if you just took this red buff,
+[153:46] okay, you based top the bot. Don't go
+[153:50] for bot in play. Just literally base top
+[153:52] the bot. Next ultimate, your tunnels
+[153:54] reborn.
+[153:57] You would win the game. So when you look
+[154:00] at your first deaths, okay bro, okay,
+[154:02] this is like base timers. This is
+[154:04] something of course I didn't teach in
+[154:05] the mid to late game, but uh in my
+[154:07] course I explain everything about this,
+[154:09] but this is this your base timers and
+[154:11] game plan suck.
+[154:14] So first when review first your deaths
+[154:16] and look at okay this fight first of all
+[154:19] how did I play mechanically because one
+[154:22] thing you have to realize is that even
+[154:24] if this play was bad macro
+[154:27] please still review your micro
+[154:30] because if your micro is good sometimes
+[154:33] you can get away with illegal stuff but
+[154:35] you should always you know fix micro so
+[154:37] let's take a look he QQ's here okay but
+[154:41] look look at
+[154:44] He uses his W here
+[154:49] to get more AD, I guess. But why would
+[154:52] you not just like,
+[154:55] okay, why would you not hold your E,
+[154:57] right? Use your W when he like maybe all
+[155:00] excuse you so you remove damage and then
+[155:04] you can like Q him,
+[155:07] E him, and actually hit him. art tech
+[155:10] cue him and then run away then guess
+[155:15] what you're probably this HP and your
+[155:17] team is finish him so even though your
+[155:20] macro was doxit here if you played it
+[155:23] better on a micro level
+[155:27] you're fine here you're fine literally
+[155:29] and Kogma dies
+[155:32] do you see how like decision-m wise your
+[155:34] macro was bad
+[155:37] but I want you to not neglect nect
+[155:42] your micro, okay? Because in the end, if
+[155:45] you guys want to climb, you can get away
+[155:46] with so much stuff,
+[155:48] but that's only if you play good. And in
+[155:50] the end, what you're going to focus on
+[155:52] is what you're going to become. So,
+[155:55] please don't be like, oh yeah, this is a
+[155:57] bad macro play. I'm not going to look at
+[155:59] how I played individually. Always look
+[156:01] at how you played individually. And if
+[156:03] you don't know how you could have played
+[156:05] better, you need to watch OTPs
+[156:09] that main your champion, see how they
+[156:11] play. Okay? Then you do the same thing
+[156:13] for your second death, same thing for
+[156:15] your third death. And then you go to
+[156:17] your mid game and you're like, okay,
+[156:19] what was the crucial turnaround?
+[156:23] I would say that
+[156:25] you're pretty far ahead here. What made
+[156:28] you lose here?
+[156:32] Um, okay. Next thing, next thing. Hold
+[156:34] up. Give me one moment. That was
+[156:36] interesting. Um, okay.
+[156:42] Let's look here.
+[156:44] Okay, here. Did this work? Okay, look,
+[156:46] look, look, look. Drake spawning 140.
+[156:48] Okay, you're about to fight bot lane.
+[156:51] You have numbers. This should be a good
+[156:52] fight on paper. Okay.
+[156:57] Okay. But do you see the problem here?
+[157:01] Just just nukeessa
+[157:05] fight. I think just just nukeessa here
+[157:08] and one tap him.
+[157:12] Where did you die? Oh wait, default mid
+[157:13] lane. Okay, I mean here you just fight
+[157:15] without ultimate, right? If you die
+[157:17] here, it's just like you fight without
+[157:19] ultimate and you fight without your
+[157:21] strongest member cuz I'm pretty sure
+[157:24] your Darius is not your strongest
+[157:25] member.
+[157:28] I think you die here, right? I hope you
+[157:31] press tab. Hold up.
+[157:34] Who's your strongest member? Um,
+[157:36] actually, no. Your D is your strongest
+[157:38] member. But you basically had no
+[157:39] ultimate, so it's cooked. So, you want
+[157:42] to always look at your micro and micro,
+[157:43] guys. Okay? And that's pretty much how
+[157:46] you want to review.
+[157:49] And as for daily goals, the daily goal
+[157:51] should be the one fundamental,
+[157:53] which is counting numbers. Please focus
+[157:55] on counting numbers.
+[157:58] from all the things you learned today.
+[158:01] I need you guys to focus on
+[158:08] uh this count numbers. Don't focus on
+[158:12] tempo waves. Don't focus on the edge on
+[158:14] objectives. Don't focus on team five
+[158:16] positioning. Focus on winner mentality
+[158:20] and actionable steps and counting
+[158:22] numbers.
+[158:24] Okay,
+[158:26] it's step by step.
+[158:29] Okay,
+[158:31] that's how you do it.
+[158:35] Now, we go to the last chapter again.
+[158:39] And that's basically how you want to do
+[158:40] it, boys.
+[158:43] Does it make sense, boys? Yes or no?
+[158:49] For the people that were no, save your
+[158:51] questions. I'll answer them after.
+[158:55] Uh I will as well copy the notes. I'm
+[158:57] going to give these notes to you guys.
+[158:58] Okay.
+[159:03] But in this video, so not video, but
+[159:05] this notes that I sent basically that's
+[159:08] how you should review generally.
+[159:10] I mean in the early game course I
+[159:12] explain a lot more in depth. It's like
+[159:13] 30 minutes where I explain more in
+[159:14] depth. But um but yeah, for now I just
+[159:18] explain mostly these parts, right?
+[159:21] And for the people in this chat and only
+[159:23] on the boot camp, there is an 15%
+[159:26] discount for the courses only here and
+[159:29] 10% off for multiple ones. So if you
+[159:31] want do want to learn faster then well
+[159:34] you can get it for a lot cheaper. And
+[159:36] please don't leak the code outside this
+[159:38] boot camp because it's already super
+[159:40] cheap the courses for what you're going
+[159:41] to get because if you think that this
+[159:43] was good,
+[159:46] you should think about how good the
+[159:47] courses are. People are literally
+[159:48] getting like challenger. Like not not
+[159:52] even challenger. Like you know this guy
+[159:55] for example, he's now ranked 100 NA by
+[159:57] the way and he's writing to me in DMs
+[160:00] like I'm actually beating pro players
+[160:02] like they're noobs. I explain a lot more
+[160:05] in depth than the boot camp but it like
+[160:08] it's 13 hours, right?
+[160:11] But that's if you guys want to combine
+[160:13] the courses with the just know what to
+[160:16] do exactly better.
+[160:19] Um
+[160:21] uh the VOD will be like uploaded after
+[160:25] the session basically. But first I'll
+[160:26] answer all the questions you know
+[160:30] and for the code if you're wondering
+[160:31] it's boot camp 15. But but now what
+[160:35] question do you guys have? Because now
+[160:36] I'll go through the phase where I'll
+[160:38] just answer every single question. Um,
+[160:40] do you guys have Oh, wait. I think I
+[160:42] wrote in the wrong chat. Wait, hold up.
+[160:46] Oh, yeah. What question do you guys
+[160:47] have?
+[160:49] The code is this basically. Whoops. It's
+[160:52] um is this.
+[160:55] This is the code for the 50% discount.
+[160:59] Uh, how do you stop early? Okay.
+[161:03] Early Jesus is
+[161:07] Okay, this is a different beast, by the
+[161:08] way. This is a different beast.
+[161:11] And just so you know, so this this count
+[161:13] is going to be removed in a few days
+[161:15] because I don't want to have this on for
+[161:16] too long.
+[161:20] Uh but okay, let me start at the bottom
+[161:22] here. Okay. Could you go again to time
+[161:25] camps with waves and CC? Okay, this is
+[161:27] just literally you want to time
+[161:31] your camps with wave. So let's say you
+[161:33] take one extra wave, you have to ask
+[161:35] yourself, do I make on time? And just so
+[161:38] you guys know, this is basically the end
+[161:39] of the boot camp. I hope you guys
+[161:42] enjoyed it. First of all, did you guys
+[161:44] enjoy it and did you guys learn a lot?
+[161:46] Yes or no? I hope you guys did. Come on,
+[161:49] guys. My voice is dying. Let me sip some
+[161:51] water, guys.
+[161:55] Jesus,
+[161:59] it's literally dying. Um,
+[162:01] okay. I'm glad you guys enjoyed it.
+[162:03] Okay, the thing is that
+[162:06] when I say something's worth it, it's
+[162:08] giga worth it, you know.
+[162:11] It's it's giga worth it.
+[162:17] And it could literally take you guys few
+[162:20] years to realize this information, but
+[162:21] now you guys have it a bit more step by
+[162:23] step on what to do.
+[162:27] You connect a lot of loose dots, but
+[162:29] okay. Make sure to Oh. Oh, hold up.
+[162:31] Wait, guys. Don't leave yet.
+[162:34] a bonus swing for you guys
+[162:38] in the end. Wait, where's my [ __ ]
+[162:42] Use this as well to improve.
+[162:45] But this only I could charge you guys
+[162:46] 20. But look, just abuse this.
+[162:51] Your goal should always be one thing,
+[162:53] you know, before fighting. Look [ __ ]
+[162:56] mini map. Focus on this till you do it
+[162:59] consistently.
+[163:02] You look at your first three deaths.
+[163:04] Strong points. Points improve.
+[163:09] Goal should be okay. It's not jing. It's
+[163:12] counting numbers. So you want to do this
+[163:14] as well. File make a copy. Okay. Make a
+[163:18] copy of it.
+[163:21] And then you can literally just
+[163:22] customize yourself. And then you'll have
+[163:25] like a daily recap. So what I like to do
+[163:27] personally is that have a daily recap
+[163:31] and then at some point let's say after a
+[163:33] week you can be like okay this week on
+[163:35] 2018 okay let's say so there will be
+[163:39] some days you'll have like six losses in
+[163:40] a row but if you actually track your
+[163:43] progress daily and look at the wins
+[163:45] losses in a week's time
+[163:48] you're usually in the positive if you
+[163:50] focus on the right things so you don't
+[163:53] get as tilted. Imagine someone's trying
+[163:56] to lose weight and after one day he's
+[163:58] like, "Oh my god, I gained 0.5 kilo."
+[164:01] Whereas if you actually looked at the
+[164:03] week and you did the right things, you
+[164:05] will always climb.
+[164:07] Okay?
+[164:09] So focus on your daily recaps and then
+[164:11] have like a weekly thing. And when I say
+[164:13] weekly thing, make sure to like look
+[164:17] every week and reflect after a week, how
+[164:20] much progress did I make?
+[164:24] This is basically short summary because
+[164:26] on um
+[164:28] I explained more in depth with this one
+[164:31] how to apply the course funments and
+[164:33] like how to use the sheet. But yeah,
+[164:35] essentially I try to explain as much as
+[164:37] I can because if you know how to review
+[164:39] your games, I'm learning you guys how to
+[164:42] fish.
+[164:45] I'm not giving you guys to fish. I'm
+[164:48] learning you guys how to fish.
+[164:51] And that is this basically.
+[164:55] So, so yeah, you know,
+[164:59] that is the crucial part. Okay.
+[165:02] And yeah, I mean, like I said though,
+[165:04] step by step, the only reason people
+[165:07] don't climb is because they focus on too
+[165:08] many things at once. Because I know some
+[165:10] people here have all my courses, but I
+[165:14] need you to realize that my mid to late
+[165:17] course is like 13 hours
+[165:21] with just till one and six. This is
+[165:25] enough to get the masters. I really want
+[165:28] to clarify this. Just one to six is
+[165:31] literally enough
+[165:33] to get the masters.
+[165:35] You don't need like everything. This is
+[165:39] literally if you want to go above M and
+[165:40] like [ __ ] smurf, okay? Like
+[165:44] this is literally if you want to go pro
+[165:45] or something, you know? This is for the
+[165:47] people that are okay, not pro, but if
+[165:50] you want to go like grandmaster
+[165:51] challenger,
+[165:52] if you want to get that elo, then sure,
+[165:55] it makes sense. But if your gold is like
+[165:58] master, you don't have to focus on
+[166:00] everything.
+[166:03] Just one to six is enough.
+[166:07] That's like the crucial part. If you
+[166:09] have one to six, then you're basically
+[166:11] well um literally giga chilling, you
+[166:14] know, like actually
+[166:18] uh wait, let me go back to my Discord.
+[166:20] It disappeared. Um
+[166:26] okay, but let me answer the questions in
+[166:28] the chat though now.
+[166:30] Step by step, okay, step by step.
+[166:35] Okay, let me scroll down.
+[166:38] So my face of feeling over the mid game
+[166:40] with simple back
+[166:45] um
+[166:47] plan and communicate relation okay it
+[166:51] okay the thing is that I couldn't show
+[166:53] it to you guys but
+[166:58] but that question is very difficult to
+[167:00] answer because I feel like you need on
+[167:02] practical in-game example for example
+[167:05] this one I break down the course
+[167:08] concepts step by step in a game
+[167:11] then you can kind of see like how it
+[167:13] looks like step by step you know
+[167:16] because you see with editing as well you
+[167:18] can see it's it's more simplified or
+[167:20] like okay this is a step I want to do
+[167:22] now this is what I'm focusing on now and
+[167:24] you can see the planning communicate
+[167:26] transfer pressure alive it's it's always
+[167:29] going to be the same you'll see alive
+[167:33] uh one minute before objective
+[167:36] you'll see like the planning and other
+[167:38] stuff, but I can't give you a good
+[167:40] answer to that because
+[167:42] it's it it's so league is so difficult
+[167:46] but easy, but you need to understand
+[167:48] what to do at what time, you know? Look
+[167:50] at this game, right? I mean, this was a
+[167:52] game where
+[167:54] my lers were legit [ __ ] boosted.
+[167:57] I'm trying to find stats, but
+[168:02] uh but this team was giga boosted, but I
+[168:05] was being very consistent. Look, my mid
+[168:08] and B were not it,
+[168:10] but if you know the steps, it's so much
+[168:12] easier, but I can't explain it to you
+[168:16] by text. It's It's not possible.
+[168:20] Wait, most concepts learned today apply
+[168:22] when yes I have concepts when I'm behind
+[168:26] but this is only on the courses like bro
+[168:28] imagine I just taught you guys two
+[168:30] things this took like three hours
+[168:33] that's why is it hard to explain
+[168:35] everything and and remember this is 20
+[168:38] by the way
+[168:40] this is 20 you know there's a reason
+[168:43] this cost 200 because it's like
+[168:46] everything like actually
+[168:50] How much scores LS 200? When do you know
+[168:52] flank angle is good? If they don't see
+[168:55] you and you can get behind to them. This
+[168:58] usually go from the side
+[169:01] on the side where they have no vision.
+[169:03] By the way,
+[169:05] how deal of having bad games lost?
+[169:08] Um, okay. You have to What? [ __ ] Wait,
+[169:12] where did the chat go?
+[169:14] You have to understand League is a
+[169:15] probability game and
+[169:19] even if you lose two games, it doesn't
+[169:21] matter as long as you're locked in. But
+[169:22] if you're tilted, that is the problem.
+[169:25] Having bad games is fine, but being
+[169:27] tilted and then you're playing
+[169:28] differently, that's what's bad. You
+[169:30] know,
+[169:33] how do you play enemies position? Okay,
+[169:35] usually you cross mapap or you set it
+[169:37] before, but like I said, I can't explain
+[169:40] everything. This is basically the the
+[169:42] one minute rule before objectives to
+[169:46] force them out of it.
+[169:48] But basically, it's like 1 minute before
+[169:49] the objective. Not not always. It's very
+[169:51] situational. You want to push out the
+[169:53] opposite side.
+[169:55] How much is it applicable, bro? This is
+[169:57] very applicable for AD carry. You want
+[169:58] to have a plan for an AD carry. Have a
+[170:00] good base timer. You want to ping your
+[170:02] donkeys to not die and count numbers.
+[170:05] And then you as an AD carry are the best
+[170:06] guy that can fish. You literally push a
+[170:08] wave, clear the wards, hide and seek.
+[170:12] It's better to play Okay, it's better to
+[170:13] play two similar champions. Ideally,
+[170:17] yeah, just so you guys know, I'm pretty
+[170:19] much done the boot camp. I'm just
+[170:20] answering questions and as I saw
+[170:23] previously, you guys enjoyed it, so I'm
+[170:25] happy to hear that. And yeah, I mean,
+[170:28] I'm just going to answer all the
+[170:29] questions so you guys understand what I
+[170:30] mean. And please focus on one thing at a
+[170:33] time. Just only focus on counting
+[170:35] numbers. Don't focus on the waves. And
+[170:38] one thing as well, boys, I forgot to
+[170:40] say, I told you guys, bring your VOD.
+[170:44] You I'll give you guys some homework.
+[170:46] Review your own games.
+[170:50] After the question and answer, please
+[170:52] review your own games and figure out
+[170:55] your own mistakes. Look at how you count
+[170:58] and play objectives.
+[171:01] You guys will see the difference. But
+[171:05] now I'm basically going to stop the
+[171:06] recording and all the answers all
+[171:09] um answer basically.
+[171:12] But yeah, that's basically it. And for
+[171:16] the people, right, this is the discount
+[171:17] code if you want to use because some
+[171:19] people ask me before is boot camp 15. If
+[171:21] you want the 20%, you just have to DM me
+[171:24] on Discord for for multiple courses.
+[171:27] But this is based the fit the for one
+[171:30] course.

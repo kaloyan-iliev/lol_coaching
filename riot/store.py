@@ -55,10 +55,21 @@ def load_timeline(match_id: str) -> dict | None:
     return _read_json(timeline_path(match_id), None)
 
 
-# --- match index ---
+# --- match index (one entry per JUNGLER-GAME: a match yields up to 2 entries) ---
+
+def _normalize_entry(e: dict) -> dict:
+    """Migrate legacy Ekko-only entries (ekko_* fields) to the generic schema."""
+    if "ekko_puuid" in e:
+        e = dict(e)
+        e["puuid"] = e.pop("ekko_puuid")
+        e["participant_id"] = e.pop("ekko_participant_id")
+        e["team_id"] = e.pop("ekko_team_id")
+        e.setdefault("champion", "Ekko")
+    return e
+
 
 def load_index() -> list[dict]:
-    return _read_json(config.MATCH_INDEX_FILE, [])
+    return [_normalize_entry(e) for e in _read_json(config.MATCH_INDEX_FILE, [])]
 
 
 def save_index(index: list[dict]):
@@ -69,7 +80,8 @@ def save_index(index: list[dict]):
 
 def add_index_entry(entry: dict):
     index = load_index()
-    if any(e["match_id"] == entry["match_id"] for e in index):
+    if any(e["match_id"] == entry["match_id"] and e.get("puuid") == entry.get("puuid")
+           for e in index):
         return
     index.append(entry)
     save_index(index)

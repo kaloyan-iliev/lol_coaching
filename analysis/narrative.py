@@ -43,7 +43,9 @@ def build_fact_sheet(facts: dict, baseline: dict | None = None) -> str:
     lines.append(f"- Duration: {facts['duration_clock']}, patch {facts['game_version']}, "
                  f"enemy jungler: {facts['enemy_jungler']}")
     if b:
-        lines.append(f"- Baseline: {b.get('n_games')} Master+ EUW Ekko-jungle games, "
+        champ_label = ("all jungle champions" if b.get("champion") == "_GENERIC"
+                       else f"{b.get('champion', '?')}-jungle")
+        lines.append(f"- Baseline: {b.get('n_games')} Master+ EUW {champ_label} games, "
                      f"patches {', '.join(b.get('patches', []))}")
 
     comps = facts.get("comps")

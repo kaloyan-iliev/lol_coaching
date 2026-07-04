@@ -24,7 +24,7 @@ def _quartiles(values: list[float]) -> dict | None:
     }
 
 
-def aggregate_baseline(all_facts: list[dict]) -> dict:
+def aggregate_baseline(all_facts: list[dict], champion: str = "Ekko") -> dict:
     n = len(all_facts)
 
     def collect(fn):
@@ -39,7 +39,7 @@ def aggregate_baseline(all_facts: list[dict]) -> dict:
             first_objective_participation.append(1 if (obj["team"] == "ally" and obj["we_nearby"]) else 0)
 
     baseline = {
-        "champion": "Ekko",
+        "champion": champion,
         "role": "JUNGLE",
         "n_games": n,
         "patches": sorted({f["game_version"] for f in all_facts}),
@@ -65,6 +65,10 @@ def aggregate_baseline(all_facts: list[dict]) -> dict:
                 lambda f, k=key: ((f.get("challenges") or {}).get("ours") or {}).get(k)))
             for key in BASELINE_CHALLENGE_KEYS
         },
-        "note": "Master+ EUW Ekko jungle. Quartiles over small n - treat as reference range, not law.",
+        "note": (f"Master+ EUW {champion} jungle. Quartiles over small n - "
+                 f"treat as reference range, not law."
+                 + (" GENERIC baseline across ALL jungle champions - clear-speed and "
+                    "CS metrics vary by champion, treat those loosely."
+                    if champion == "_GENERIC" else "")),
     }
     return baseline

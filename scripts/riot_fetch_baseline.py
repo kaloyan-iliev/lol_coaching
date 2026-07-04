@@ -1,21 +1,18 @@
 """
-Discover and download Master+ Ekko-jungle matches (with timelines) from EUW
-to build the baseline dataset.
+Discover and download Master+ jungle games (with timelines) from EUW to grow
+the games knowledge base.
 
-Strategy (request-efficient, since Ekko jungle is rare at Master+):
-  1. Pull Challenger/GM/Master ladder entries (3 requests).
-  2. For each player (best first), check top-3 champion mastery (1 req) and
-     skip anyone without Ekko in their top 3.
-  3. For Ekko players: pull recent ranked match IDs, fetch matches, keep games
-     where they played Ekko JUNGLE, and download the timeline for keepers.
+Every fetched match yields up to TWO jungler-game entries (one per team), so
+the default mode keeps ANY ranked match - ~2 jungler-games per ~2 API calls.
+Optionally filter discovery to one champion (mastery-based pre-filter).
 
 Progress persists to data/riot/discovery_state.json after every player, so an
 expired dev key (24h) or Ctrl+C loses nothing - just rerun.
 
 Usage:
-    python scripts/riot_fetch_baseline.py                    # fetch until target (default 25)
-    python scripts/riot_fetch_baseline.py --target 30
-    python scripts/riot_fetch_baseline.py --status           # show progress, no requests
+    python scripts/riot_fetch_baseline.py --target 150          # any jungler-games
+    python scripts/riot_fetch_baseline.py --target 75 --champion Ekko
+    python scripts/riot_fetch_baseline.py --status              # progress, no requests
     python scripts/riot_fetch_baseline.py --seed-riot-ids "Name1#TAG,Name2#TAG"
 """
 
@@ -28,21 +25,22 @@ import config
 from riot import store
 from riot.client import RiotClient, DevKeyExpired
 
-EKKO_CHAMPION_ID = 245
+CHAMPION_IDS = {"Ekko": 245}  # extend as needed for --champion mastery filtering
 RANKED_SOLO_QUEUE = 420
 MIN_GAME_DURATION_S = 900  # skip remakes / very short games
-MATCHES_PER_PLAYER = 20    # recent ranked games to inspect per Ekko player
+MATCHES_PER_PLAYER = 20    # recent ranked games to inspect per player
 
 
-def find_ekko_jungle_participant(match: dict) -> dict | None:
-    """Return the participant dict if someone played Ekko jungle in this match."""
+def find_junglers(match: dict, champion: str | None = None) -> list[dict]:
+    """All JUNGLE participants in a valid match (optionally only one champion)."""
     info = match.get("info", {})
     if info.get("gameDuration", 0) < MIN_GAME_DURATION_S:
-        return None
-    for p in info.get("participants", []):
-        if p.get("championName") == "Ekko" and p.get("teamPosition") == "JUNGLE":
-            return p
-    return None
+        return []
+    junglers = [p for p in info.get("participants", [])
+                if p.get("teamPosition") == "JUNGLE"]
+    if champion:
+        junglers = [p for p in junglers if p.get("championName") == champion]
+    return junglers
 
 
 def make_index_entry(match: dict, participant: dict, tier: str, source: str) -> dict:
@@ -53,9 +51,10 @@ def make_index_entry(match: dict, participant: dict, tier: str, source: str) -> 
         "queue_id": info.get("queueId"),
         "game_creation": info.get("gameCreation"),
         "game_duration_s": info.get("gameDuration"),
-        "ekko_puuid": participant["puuid"],
-        "ekko_participant_id": participant["participantId"],
-        "ekko_team_id": participant["teamId"],
+        "puuid": participant["puuid"],
+        "champion": participant["championName"],
+        "participant_id": participant["participantId"],
+        "team_id": participant["teamId"],
         "tier": tier,
         "win": participant["win"],
         "has_timeline": True,
@@ -63,17 +62,19 @@ def make_index_entry(match: dict, participant: dict, tier: str, source: str) -> 
     }
 
 
+def count_entries() -> int:
+    return len(store.load_index())
+
+
 def process_player(client: RiotClient, puuid: str, tier: str, state: dict,
-                   target: int, source: str) -> int:
-    """Inspect one player's recent games; download Ekko-jungle keepers.
-    Returns number of new baseline games found."""
+                   target: int, source: str, champion: str | None) -> int:
+    """Inspect one player's recent games; index all jungler-games found."""
     found = 0
     checked = set(state["checked_match_ids"])
-    known = {e["match_id"] for e in store.load_index()}
 
     match_ids = client.match_ids(puuid, queue=RANKED_SOLO_QUEUE, count=MATCHES_PER_PLAYER)
     for match_id in match_ids:
-        if match_id in checked or match_id in known:
+        if match_id in checked:
             continue
         state["checked_match_ids"].append(match_id)
 
@@ -81,21 +82,26 @@ def process_player(client: RiotClient, puuid: str, tier: str, state: dict,
         if match is None:
             continue
 
-        participant = find_ekko_jungle_participant(match)
-        if participant is None:
+        junglers = find_junglers(match, champion)
+        if not junglers:
             continue
 
         timeline = client.timeline(match_id)
         if timeline is None or len(timeline.get("info", {}).get("frames", [])) <= 10:
-            print(f"    {match_id}: Ekko jungle found but timeline missing/short, skipping")
+            print(f"    {match_id}: timeline missing/short, skipping")
             continue
 
         store.save_match(match_id, match)
         store.save_timeline(match_id, timeline)
-        store.add_index_entry(make_index_entry(match, participant, tier, source))
-        found += 1
-        total = len(store.load_index())
-        print(f"    KEEPER {match_id} (win={participant['win']}, "
+        # Index EVERY jungler in the match (not just the filtered one) - a
+        # champion-filtered fetch still contributes the opponent's game
+        for p in find_junglers(match):
+            store.add_index_entry(make_index_entry(match, p, tier, source))
+            found += 1
+
+        total = count_entries()
+        champs = "+".join(p["championName"] for p in find_junglers(match))
+        print(f"    KEEPER {match_id} ({champs}, "
               f"{match['info']['gameDuration'] // 60}min) - total {total}")
         if total >= target:
             break
@@ -103,10 +109,11 @@ def process_player(client: RiotClient, puuid: str, tier: str, state: dict,
     return found
 
 
-def run_seeds(client: RiotClient, riot_ids: list[str], state: dict, target: int):
-    """Process manually seeded players (e.g. from League of Graphs Ekko leaderboard)."""
+def run_seeds(client: RiotClient, riot_ids: list[str], state: dict, target: int,
+              champion: str | None):
+    """Process manually seeded players (e.g. from League of Graphs leaderboards)."""
     for riot_id in riot_ids:
-        if len(store.load_index()) >= target:
+        if count_entries() >= target:
             break
         if "#" not in riot_id:
             print(f"  Skipping invalid Riot ID (need Name#TAG): {riot_id}")
@@ -118,32 +125,40 @@ def run_seeds(client: RiotClient, riot_ids: list[str], state: dict, target: int)
             print("    not found")
             continue
         puuid = account["puuid"]
-        process_player(client, puuid, tier="SEED", state=state, target=target, source="seed")
+        process_player(client, puuid, tier="SEED", state=state, target=target,
+                       source="seed", champion=champion)
         if puuid not in state["scanned_puuids"]:
             state["scanned_puuids"].append(puuid)
         store.save_discovery_state(state)
 
 
-def run_ladder_scan(client: RiotClient, state: dict, target: int, tiers: tuple[str, ...]):
+def run_ladder_scan(client: RiotClient, state: dict, target: int,
+                    tiers: tuple[str, ...], champion: str | None):
     print("Fetching Master+ ladders...")
     entries = client.master_plus_entries(tiers=tiers)
     print(f"  {len(entries)} players on {'/'.join(tiers)} ladders\n")
 
     scanned = set(state["scanned_puuids"])
+    champion_id = CHAMPION_IDS.get(champion) if champion else None
 
     for i, entry in enumerate(entries):
-        if len(store.load_index()) >= target:
+        if count_entries() >= target:
             break
         puuid = entry.get("puuid")
         if not puuid or puuid in scanned:
             continue
 
-        mastery = client.top_mastery(puuid, count=3)
-        has_ekko = any(m.get("championId") == EKKO_CHAMPION_ID for m in mastery)
+        eligible = True
+        if champion_id:
+            # Champion mode: 1 mastery call filters ~95% of players
+            mastery = client.top_mastery(puuid, count=3)
+            eligible = any(m.get("championId") == champion_id for m in mastery)
+            if eligible:
+                print(f"  [{entry['tier']} #{i}] {champion} player found, checking games...")
 
-        if has_ekko:
-            print(f"  [{entry['tier']} #{i}] Ekko player found, checking recent games...")
-            process_player(client, puuid, entry["tier"], state, target, source="ladder_scan")
+        if eligible:
+            process_player(client, puuid, entry["tier"], state, target,
+                           source="ladder_scan", champion=champion)
 
         scanned.add(puuid)
         state["scanned_puuids"].append(puuid)
@@ -151,29 +166,32 @@ def run_ladder_scan(client: RiotClient, state: dict, target: int, tiers: tuple[s
 
         if (i + 1) % 50 == 0:
             print(f"  ...scanned {len(scanned)} players, "
-                  f"{len(store.load_index())}/{target} games found")
+                  f"{count_entries()}/{target} jungler-games indexed")
 
 
 def show_status():
     state = store.load_discovery_state()
     index = store.load_index()
-    print(f"Baseline games found : {len(index)}")
-    print(f"Players scanned      : {len(state['scanned_puuids'])}")
-    print(f"Matches checked      : {len(state['checked_match_ids'])}")
+    print(f"Jungler-games indexed : {len(index)}")
+    print(f"Unique matches        : {len({e['match_id'] for e in index})}")
+    print(f"Players scanned       : {len(state['scanned_puuids'])}")
+    print(f"Matches checked       : {len(state['checked_match_ids'])}")
     if index:
-        wins = sum(1 for e in index if e["win"])
-        by_tier = {}
+        by_champ = {}
         for e in index:
-            by_tier[e["tier"]] = by_tier.get(e["tier"], 0) + 1
+            by_champ[e.get("champion", "?")] = by_champ.get(e.get("champion", "?"), 0) + 1
+        top = sorted(by_champ.items(), key=lambda kv: -kv[1])[:15]
         versions = sorted({".".join(e["game_version"].split(".")[:2]) for e in index})
-        print(f"Win rate in dataset  : {wins}/{len(index)}")
-        print(f"By tier              : {by_tier}")
-        print(f"Patches              : {versions}")
+        print(f"Top champions         : {', '.join(f'{c} x{n}' for c, n in top)}")
+        print(f"Patches               : {versions}")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Fetch Master+ Ekko-jungle baseline games from EUW")
-    parser.add_argument("--target", type=int, default=25, help="Number of games to collect (default: 25)")
+    parser = argparse.ArgumentParser(description="Grow the Master+ jungler-games knowledge base (EUW)")
+    parser.add_argument("--target", type=int, default=150,
+                        help="Total jungler-game entries to reach (default: 150)")
+    parser.add_argument("--champion", default=None,
+                        help="Only fetch matches where this champion jungles (e.g. Ekko)")
     parser.add_argument("--tiers", default="challenger,grandmaster,master",
                         help="Comma-separated tiers to scan, best first")
     parser.add_argument("--seed-riot-ids", default="",
@@ -186,21 +204,26 @@ def main():
         show_status()
         return
 
+    if args.champion and args.champion not in CHAMPION_IDS:
+        print(f"No champion ID known for '{args.champion}'. Add it to CHAMPION_IDS "
+              f"(see Data Dragon champion.json) or run without --champion.")
+        sys.exit(1)
+
     store.ensure_dirs()
     state = store.load_discovery_state()
     client = RiotClient()
 
-    print(f"Target: {args.target} Master+ Ekko-jungle games "
-          f"({config.RIOT_PLATFORM}/{config.RIOT_REGION})")
+    mode = f"{args.champion}-jungle games" if args.champion else "jungler-games (any champion)"
+    print(f"Target: {args.target} {mode} ({config.RIOT_PLATFORM}/{config.RIOT_REGION})")
     print(f"Resuming: {len(state['scanned_puuids'])} players already scanned, "
-          f"{len(store.load_index())} games already found\n")
+          f"{count_entries()} entries already indexed\n")
 
     try:
         if args.seed_riot_ids:
-            run_seeds(client, args.seed_riot_ids.split(","), state, args.target)
+            run_seeds(client, args.seed_riot_ids.split(","), state, args.target, args.champion)
         else:
             tiers = tuple(t.strip().upper() for t in args.tiers.split(","))
-            run_ladder_scan(client, state, args.target, tiers)
+            run_ladder_scan(client, state, args.target, tiers, args.champion)
     except DevKeyExpired as e:
         store.save_discovery_state(state)
         print(f"\n{e}")
@@ -213,13 +236,8 @@ def main():
     store.save_discovery_state(state)
     print()
     show_status()
-    total = len(store.load_index())
-    if total >= args.target:
-        print(f"\nDone - {total} games. Next: python scripts/riot_build_baseline.py")
-    else:
-        print(f"\nLadder scan exhausted at {total}/{args.target} games. "
-              f"Try --seed-riot-ids with players from a site like League of Graphs "
-              f"(Ekko EUW leaderboard).")
+    if count_entries() >= args.target:
+        print(f"\nDone. Next: python scripts/riot_build_baseline.py")
 
 
 if __name__ == "__main__":

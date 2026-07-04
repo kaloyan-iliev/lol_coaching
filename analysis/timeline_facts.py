@@ -319,13 +319,18 @@ def extract_facts(match: dict, timeline: dict, puuid: str) -> dict:
     )
 
     # --- vision ---
+    # Champion objects (Nidalee traps, Shen blade...) also fire WARD_PLACED with
+    # wardType UNDEFINED - count only real wards, matching the scoreboard
+    REAL_WARD_TYPES = {"YELLOW_TRINKET", "BLUE_TRINKET", "SIGHT_WARD", "CONTROL_WARD"}
     wards_placed = sum(1 for ev in events
-                       if ev.get("type") == "WARD_PLACED" and ev.get("creatorId") == pid)
+                       if ev.get("type") == "WARD_PLACED" and ev.get("creatorId") == pid
+                       and ev.get("wardType") in REAL_WARD_TYPES)
     control_wards = sum(1 for ev in events
                         if ev.get("type") == "WARD_PLACED" and ev.get("creatorId") == pid
                         and ev.get("wardType") == "CONTROL_WARD")
     wards_killed = sum(1 for ev in events
-                       if ev.get("type") == "WARD_KILL" and ev.get("killerId") == pid)
+                       if ev.get("type") == "WARD_KILL" and ev.get("killerId") == pid
+                       and ev.get("wardType") in REAL_WARD_TYPES)
 
     # --- clear reconstruction ---
     clear = reconstruct_clear(timeline, pid, team_id)

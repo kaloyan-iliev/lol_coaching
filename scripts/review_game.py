@@ -27,10 +27,17 @@ from analysis.section_select import select_sections_for_flags
 RANKED_SOLO_QUEUE = 420
 
 
-def load_baseline() -> dict | None:
-    if os.path.exists(config.BASELINE_FILE):
-        with open(config.BASELINE_FILE, encoding="utf-8") as f:
-            return json.load(f)
+def load_baseline(champion: str) -> dict | None:
+    """Per-champion baseline if we have one, else the generic all-jungler baseline."""
+    candidates = [
+        os.path.join(config.BASELINES_DIR, f"{champion}.json"),
+        os.path.join(config.BASELINES_DIR, "_generic.json"),
+        config.BASELINE_FILE if champion == "Ekko" else None,  # legacy
+    ]
+    for path in candidates:
+        if path and os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
     return None
 
 
@@ -173,18 +180,17 @@ def main():
         json.dump(facts, f, indent=2, ensure_ascii=False)
     print(f"Facts saved to {facts_path}")
 
-    baseline = load_baseline()
+    baseline = load_baseline(facts["champion"])
     if baseline is None:
         print("(No baseline stats found - run riot_build_baseline.py for Master+ comparisons)")
+    elif baseline.get("champion") == "_GENERIC":
+        print(f"(No {facts['champion']}-specific baseline yet - using the generic "
+              f"all-jungler baseline; clear-speed/CS comparisons are approximate)")
 
     if facts["our_role"] != "JUNGLE":
         print(f"\nWARNING: you played {facts['champion']} {facts['our_role']}, but this analyzer "
               f"is built for JUNGLE. Clear/pathing/counter-jungle facts will be meaningless; "
               f"deaths, teamfights and objectives are still valid.")
-    if baseline and facts["champion"] != baseline.get("champion"):
-        print(f"(You played {facts['champion']}; baseline is {baseline.get('champion')}-specific - "
-              f"omitting per-champion stat comparisons)")
-        baseline = None
 
     fact_sheet = build_fact_sheet(facts, baseline)
 
