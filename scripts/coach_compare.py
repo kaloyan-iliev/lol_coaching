@@ -16,6 +16,7 @@ Output: knowledge/coach_disagreements.md
 
 import argparse
 import os
+import re
 import sys
 import time
 from datetime import date
@@ -59,6 +60,18 @@ RULES:
 TRANSCRIPTS:
 {transcript_block}
 """
+
+
+def strip_preamble(text: str) -> str:
+    """Drop any model reasoning leaked before the first expected ### header.
+    Reasoning models (e.g. nemotron) sometimes prepend 'We need to compare...'
+    The report always starts with '### Consensus'."""
+    m = re.search(r"^#{1,3}\s*Consensus", text, re.MULTILINE)
+    if m:
+        return text[m.start():].lstrip()
+    # Fallback: first markdown header of any kind
+    m = re.search(r"^#{1,3}\s", text, re.MULTILINE)
+    return text[m.start():].lstrip() if m else text.strip()
 
 
 def build_transcript_block(by_coach: dict[str, list[dict]], max_per_coach: int,
@@ -132,7 +145,7 @@ def main():
             sections.append(f"## {topic['title']}\n\n*Comparison failed: {e}*\n")
             continue
         calls += 1
-        sections.append(f"## {topic['title']}\n\n{result}\n")
+        sections.append(f"## {topic['title']}\n\n{strip_preamble(result)}\n")
 
     if args.dry_run:
         print("\n(dry run - no report written)")
