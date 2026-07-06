@@ -1,0 +1,146 @@
+{
+  "champion": "Sylas",
+  "role": "JUNGLE",
+  "n_games": 20,
+  "patches": [
+    "16.12",
+    "16.13"
+  ],
+  "win_rate": 0.45,
+  "cs_at_10": {
+    "p25": 61.0,
+    "median": 67.0,
+    "p75": 78.0,
+    "n": 20
+  },
+  "cs_at_15": {
+    "p25": 93.5,
+    "median": 102.0,
+    "p75": 114.0,
+    "n": 20
+  },
+  "first_gank_t_s": {
+    "p25": 181.5,
+    "median": 274.0,
+    "p75": 388.5,
+    "n": 20
+  },
+  "first_reset_s": {
+    "p25": 126.2,
+    "median": 160.5,
+    "p75": 206.5,
+    "n": 20
+  },
+  "full_clear_end_s": {
+    "p25": 345.0,
+    "median": 390.0,
+    "p75": 435.0,
+    "n": 10
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.8,
+    "n": 20
+  },
+  "deaths_total": {
+    "p25": 3.2,
+    "median": 6.0,
+    "p75": 8.0,
+    "n": 20
+  },
+  "gank_involvements": {
+    "p25": 5.2,
+    "median": 9.0,
+    "p75": 12.0,
+    "n": 20
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.8,
+    "n": 20
+  },
+  "wards_placed": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.8,
+    "n": 20
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 0.0,
+    "p75": 1.0,
+    "n": 20
+  },
+  "wards_killed": {
+    "p25": 2.2,
+    "median": 4.0,
+    "p75": 5.8,
+    "n": 20
+  },
+  "first_objective_participation_rate": 0.32,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 57.3,
+      "median": 65.4,
+      "p75": 71.1,
+      "n": 20
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -59.6,
+      "median": -54.3,
+      "p75": -42.3,
+      "n": 20
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 20
+    },
+    "scuttle_crab_kills": {
+      "p25": 3.0,
+      "median": 4.0,
+      "p75": 5.0,
+      "n": 20
+    },
+    "vision_score_per_minute": {
+      "p25": 0.7,
+      "median": 0.8,
+      "p75": 1.0,
+      "n": 20
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 1.0,
+      "n": 20
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.0,
+      "median": 2.0,
+      "p75": 3.0,
+      "n": 20
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 1.0,
+      "median": 1.5,
+      "p75": 2.8,
+      "n": 20
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.8,
+      "n": 20
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 526.3,
+      "median": 727.3,
+      "p75": 976.4,
+      "n": 17
+    }
+  },
+  "note": "Master+ EUW Sylas jungle. Quartiles over small n - treat as reference range, not law."
+}

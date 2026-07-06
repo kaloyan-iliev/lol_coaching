@@ -1,5 +1,20 @@
 # LoL AI Jungle Coach - Full Plan (End to Finish)
 
+> **STATUS (2026-07-05): historical vision document.** Kept for reference; do not
+> plan work from it. Current truth lives in [ROADMAP.md](ROADMAP.md) (build status),
+> [docs/HANDOVER.md](docs/HANDOVER.md) (how to resume), [docs/BUSINESS_PLAN.md](docs/BUSINESS_PLAN.md)
+> (monetization M-track) and [docs/KB_STRATEGY.md](docs/KB_STRATEGY.md) (KB curation).
+>
+> | Phase | Outcome |
+> |---|---|
+> | P0 Knowledge base | **Done, better than planned** — 93 videos / 3 coaches, incremental per-topic synthesis, per-coach subset bibles, disagreement report, video catalog + one-command ingestion |
+> | P1 Screenshot MVP | **Done** (Streamlit + consolidated llm_client) |
+> | P2 RAG | **Replaced** — flag-based section selection into reviews + `ask_transcripts.py` citations cover the need; real RAG deferred per KB_STRATEGY §6 |
+> | P3 Post-game analyst | **Done and exceeded** — deterministic facts, Master+ baselines (n=500, 22 champions), timestamp tripwires, momentum, pregame draft cards, 20-game account recap |
+> | P4 Live companion | Not started (Discord bot v2 = BUSINESS_PLAN M2) |
+> | P5 Personalization | Partial — account recap is v0; fine-tuning not started |
+> | P6 Monetization | Superseded by BUSINESS_PLAN.md (approved: Discord bot, $4.99/mo) |
+
 ## Vision
 
 An AI-powered League of Legends coaching tool that understands the game like a Diamond+ coach. It analyzes screenshots, post-game data, and live game state to give contextual, conversational coaching advice grounded in methodology from trusted coaches (@JungleGapGG, @KireiLoL, @PerryJG, Agurin).

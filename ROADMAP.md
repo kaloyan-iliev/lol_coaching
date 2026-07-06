@@ -6,15 +6,30 @@ Working notes on what's built, what's verified, and what comes next.
 ## Done (July 2026)
 
 ### Knowledge base (part 1)
-- 38 KireiLoL videos → transcripts → LLM tags → `knowledge/jungle_bible.md` (~31k tokens)
+- **93 videos across 3 coaches** (KireiLoL incl. VODs channel, JungleGapGG,
+  Thomas Yuen) → transcripts → LLM tags → `knowledge/jungle_bible.md`
+  (~34k words / ~45k tokens; per-topic synthesis capped at 24 transcripts
+  round-robin across coaches)
+- **Per-coach subset bibles** (`generate_jungle_bible.py --coaches X`) and a
+  **coach-disagreement report** (`scripts/coach_compare.py` →
+  `knowledge/coach_disagreements.md`, kept separate from the bible by design)
+- **Video catalog + ingestion tooling**: `data/video_catalog.csv` (2,052 rows,
+  7 channels/playlists incl. PerryJG and Veigarv2 scans, pipeline-status
+  columns) via `scripts/video_catalog.py`; one-command ingestion via
+  `scripts/ingest_videos.py ID... --coach X [--regen]`
 - Q&A with timestamped YouTube citations: `scripts/ask_transcripts.py`
-- All LLM calls consolidated in `app/llm_client.py` on the `google-genai` SDK
+- Curation policy: [docs/KB_STRATEGY.md](docs/KB_STRATEGY.md)
+- All LLM calls consolidated in `app/llm_client.py` — Gemini (3-flash-preview
+  default + fallback chain) or OpenRouter (`$env:LLM_PROVIDER='openrouter'`)
 
 ### High-elo baseline (part 3)
-- `scripts/riot_fetch_baseline.py` — Master+ Ekko-jungle discovery on EUW
-  (mastery-filtered ladder scan, resumable across daily dev-key expiry)
-- `scripts/riot_build_baseline.py` — per-game facts + quartile baseline stats,
-  with deterministic cross-checks (deaths & wards vs scoreboard: exact match)
+- `scripts/riot_fetch_baseline.py` — Master+ **all-jungler** discovery on EUW
+  (ladder scan, optional `--champion` filter, both junglers per match counted,
+  resumable across daily dev-key expiry). **n=500 jungler-games / 250 matches.**
+- `scripts/riot_build_baseline.py` — per-game facts + quartile stats →
+  `_GENERIC (n=500)` + **22 per-champion baselines** (Ekko 55, LeeSin 28,
+  Qiyana 25, Talon 22, Graves 22, ...), deterministic cross-checks
+  (deaths & wards vs scoreboard: exact match)
 
 ### Game analyzer (part 4, v1)
 - `analysis/` — clear-path reconstruction, deaths/ganks/objectives/counter-jungle/
@@ -43,17 +58,30 @@ Working notes on what's built, what's verified, and what comes next.
   lane-by-lane, gank targets, early/mid/teamfight plan).
 - **Data dictionary**: `docs/DATA_DICTIONARY.md` (+ `audit_data_dictionary.py
   --check` after each patch).
-- **Baseline: 50 Master+ EUW Ekko games**, all validated.
+
+### v3 additions (2026-07-04/05)
+- **Account recap** (`scripts/account_recap.py --riot-id "..." --games 20
+  --drafts 5`): multi-game pattern review — deterministic per-champion W/L
+  summary, G-labeled game citations, remake filtering, per-game timestamp
+  tripwire, retrospective draft analyses. First run on the user's 19 games:
+  zero grounding warnings. THE candidate flagship/paid feature.
+- **Any-jungler reviews**: generic + per-champion baselines mean strangers'
+  games are reviewable (validated on a smurf game, clean tripwire).
+- **LLM provider hardening**: model fallback chain, `--model` flags everywhere,
+  OpenRouter backup provider, quota reality documented (Gemini free tier on
+  this project = 20 req/day per model on ALL models; 250k input-tokens/min).
 
 ## Next steps (in rough priority order)
 
-1. **Use it for a week.** Pregame card before games, review after. Add house
-   rules whenever the AI's judgment differs from yours — that file is how the
-   coach learns YOUR philosophy.
-2. **Expand the coach roster.** JungleGapGG channel is already scanned
-   (`channel_scan.py --list JungleGapGG`); pick fundamentals videos, run the
-   chain, regenerate incrementally. Multi-coach input activates the bible's
-   "when coaches disagree" synthesis.
+1. **Curation pass (user).** Open `data/video_catalog.csv`, tier the PerryJG
+   (1,236 scanned) and Veigarv2 (8) videos per KB_STRATEGY §1, ingest picks
+   with `ingest_videos.py <ids> --coach PerryJG`.
+2. **Golden-question eval set** (~1h): 15–20 questions with approved answers in
+   `knowledge/eval_questions.md`; re-ask after each bible regen (KB_STRATEGY §3).
+   Plus: review 3–5 of your own games and turn every disagreement into a house
+   rule — that file is how the coach learns YOUR philosophy (still ~2 rules).
+2b. **VOD-validate one reconstructed clear** — still the hard gate before any
+   public demo (HANDOVER §7 open question #1).
 3. **Video citations in reviews** — for each Top-3 mistake, attach a
    "watch this" link (coach video + timestamp) for the underlying concept.
    The citation machinery already exists in `ask_transcripts.py`; needs a
@@ -64,7 +92,22 @@ Working notes on what's built, what's verified, and what comes next.
    every fight" and "present but did nothing" patterns.
 6. **Per-champion baselines** — the analyzer is champion-agnostic; run
    `riot_fetch_baseline.py` variants for Diana etc. when you play them.
-7. **Later / research:** RAG (only if the bible outgrows ~100k tokens),
+7. **Game-as-sequence / play-quality research** (user idea, designed 2026-07-04):
+   encode each game as a compact event sequence ("token string") per jungler —
+   e.g. `R3:15 gank_mid(+k, njgl_far) | 5:02 drake_setup(prio-, 2v3) | ...` built
+   from the existing facts extractor. Uses: (a) **outcome-independent play
+   grading** — judge each decision by its INPUTS (numbers, tempo, tracking,
+   spikes) not its result, so "won but bad play" and "lost but right fight" are
+   callable; deterministic input-features already exist (numbers_at_start,
+   level/gold diff, enemy-jgl position); (b) **anomaly mining** — with 200+
+   Master+ sequences, find what high-elo junglers do in state X vs what the
+   user did (nearest-neighbor on state features, no ML training needed at
+   first); (c) **good-in-loss / bad-in-win detection** — grade fights by input
+   quality vs outcome, surface disagreements. Path: v1 = sequence serializer +
+   LLM judging with grading rubric in the review prompt; v2 = statistical
+   state-matching against the games KB; v3 (research) = train a small
+   win-probability / decision model on thousands of games.
+8. **Later / research:** RAG (only if the bible outgrows ~100k tokens),
    personalization (recurring-mistake tracking across your reviews),
    HuggingFace gptilt Challenger dataset as a bigger offline baseline,
    patch-drift checks in `analysis/jungle_camps.py` each major patch.
@@ -88,4 +131,6 @@ What exists is single-user by design. To serve other players/champions:
   reconstruction approximate, gank *attempts* without kills invisible.
 - Dev key expires daily; all fetch jobs resume from `discovery_state.json`.
 - Baseline n is small → reviews cite quartiles + n, never absolutes.
-- Free Gemini tier → tagging runs sequentially with sleeps; reviews are 1 call.
+- Free Gemini tier = 20 req/day per model on this project (all models) →
+  batch work paces with sleeps, walks the fallback chain, or runs on
+  OpenRouter; reviews are 1 call.

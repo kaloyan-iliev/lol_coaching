@@ -1,0 +1,145 @@
+{
+  "champion": "Skarner",
+  "role": "JUNGLE",
+  "n_games": 8,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.75,
+  "cs_at_10": {
+    "p25": 61.0,
+    "median": 76.0,
+    "p75": 80.5,
+    "n": 8
+  },
+  "cs_at_15": {
+    "p25": 100.5,
+    "median": 116.5,
+    "p75": 124.2,
+    "n": 8
+  },
+  "first_gank_t_s": {
+    "p25": 195.0,
+    "median": 324.5,
+    "p75": 428.5,
+    "n": 8
+  },
+  "first_reset_s": {
+    "p25": 191.5,
+    "median": 213.0,
+    "p75": 237.8,
+    "n": 8
+  },
+  "full_clear_end_s": {
+    "p25": 240.0,
+    "median": 300,
+    "p75": 420.0,
+    "n": 7
+  },
+  "deaths_before_14min": {
+    "p25": 0.0,
+    "median": 1.5,
+    "p75": 3.8,
+    "n": 8
+  },
+  "deaths_total": {
+    "p25": 0.0,
+    "median": 2.5,
+    "p75": 6.0,
+    "n": 8
+  },
+  "gank_involvements": {
+    "p25": 5.5,
+    "median": 8.5,
+    "p75": 9.8,
+    "n": 8
+  },
+  "counter_jungle_episodes": {
+    "p25": 0.2,
+    "median": 2.5,
+    "p75": 3.8,
+    "n": 8
+  },
+  "wards_placed": {
+    "p25": 3.0,
+    "median": 6.0,
+    "p75": 8.8,
+    "n": 8
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 1.0,
+    "p75": 2.5,
+    "n": 8
+  },
+  "wards_killed": {
+    "p25": 1.2,
+    "median": 2.5,
+    "p75": 3.8,
+    "n": 8
+  },
+  "first_objective_participation_rate": 0.43,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 58.5,
+      "median": 73.0,
+      "p75": 78.4,
+      "n": 8
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -61.4,
+      "median": -54.8,
+      "p75": -45.0,
+      "n": 8
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 8
+    },
+    "scuttle_crab_kills": {
+      "p25": 2.2,
+      "median": 4.5,
+      "p75": 5.0,
+      "n": 8
+    },
+    "vision_score_per_minute": {
+      "p25": 0.8,
+      "median": 1.0,
+      "p75": 1.3,
+      "n": 8
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.5,
+      "n": 8
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.0,
+      "median": 1.5,
+      "p75": 2.0,
+      "n": 8
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.2,
+      "median": 1.0,
+      "p75": 2.0,
+      "n": 8
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.5,
+      "p75": 1.0,
+      "n": 8
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 348.5,
+      "median": 387.8,
+      "p75": 712.0,
+      "n": 5
+    }
+  },
+  "note": "Master+ EUW Skarner jungle. Quartiles over small n - treat as reference range, not law."
+}

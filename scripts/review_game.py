@@ -88,9 +88,8 @@ def list_recent(client: RiotClient, puuid: str, count: int = 10):
               f"({match['info']['gameDuration'] // 60}min)")
 
 
-def check_timestamps(review: str, facts: dict) -> list[str]:
-    """Hallucination tripwire: every mm:ss cited in the review must be within
-    90s of some fact timestamp and inside the game duration."""
+def collect_fact_times(facts: dict) -> set[int]:
+    """All timestamps (seconds) present in a game's extracted facts."""
     fact_times = set()
     for d in facts["deaths"]:
         fact_times.add(d["t"])
@@ -118,6 +117,13 @@ def check_timestamps(review: str, facts: dict) -> list[str]:
             fact_times.add(facts["economy"][key])
     if facts["clear"]["full_clear_end_s"]:
         fact_times.add(facts["clear"]["full_clear_end_s"])
+    return fact_times
+
+
+def check_timestamps(review: str, facts: dict) -> list[str]:
+    """Hallucination tripwire: every mm:ss cited in the review must be within
+    90s of some fact timestamp and inside the game duration."""
+    fact_times = collect_fact_times(facts)
 
     warnings = []
     for m in re.finditer(r"\b(\d{1,2}):([0-5]\d)\b", review):

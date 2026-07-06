@@ -62,7 +62,8 @@ def save_videos(videos: list[dict]):
 
 
 def add_video(url: str, coach: str = "", tags: list[str] = None,
-              title: str = "", champions: list[str] = None) -> dict | None:
+              title: str = "", champions: list[str] = None,
+              channel: str = "") -> dict | None:
     video_id = extract_video_id(url)
     videos = load_videos()
 
@@ -75,6 +76,7 @@ def add_video(url: str, coach: str = "", tags: list[str] = None,
         "url": url.strip(),
         "title": title or f"Video {video_id}",
         "coach": coach,
+        "channel": channel or coach,
         "tags": tags or [],
         "concepts": [],
         "champion_focus": champions or ["general"],

@@ -1,0 +1,146 @@
+{
+  "champion": "Nidalee",
+  "role": "JUNGLE",
+  "n_games": 10,
+  "patches": [
+    "16.12",
+    "16.13"
+  ],
+  "win_rate": 0.3,
+  "cs_at_10": {
+    "p25": 62.2,
+    "median": 71.0,
+    "p75": 82.2,
+    "n": 10
+  },
+  "cs_at_15": {
+    "p25": 102.8,
+    "median": 115.0,
+    "p75": 123.0,
+    "n": 10
+  },
+  "first_gank_t_s": {
+    "p25": 181.2,
+    "median": 245.5,
+    "p75": 404.5,
+    "n": 10
+  },
+  "first_reset_s": {
+    "p25": 174.2,
+    "median": 247.0,
+    "p75": 281.8,
+    "n": 10
+  },
+  "full_clear_end_s": {
+    "p25": 300.0,
+    "median": 360,
+    "p75": 480.0,
+    "n": 5
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 10
+  },
+  "deaths_total": {
+    "p25": 2.8,
+    "median": 5.5,
+    "p75": 8.0,
+    "n": 10
+  },
+  "gank_involvements": {
+    "p25": 5.0,
+    "median": 8.5,
+    "p75": 11.2,
+    "n": 10
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 1.5,
+    "p75": 3.0,
+    "n": 10
+  },
+  "wards_placed": {
+    "p25": 2.0,
+    "median": 5.0,
+    "p75": 5.2,
+    "n": 10
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 1.5,
+    "p75": 3.0,
+    "n": 10
+  },
+  "wards_killed": {
+    "p25": 3.2,
+    "median": 6.0,
+    "p75": 8.5,
+    "n": 10
+  },
+  "first_objective_participation_rate": 0.45,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 61.8,
+      "median": 67.0,
+      "p75": 78.9,
+      "n": 10
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -53.4,
+      "median": -43.2,
+      "p75": -28.5,
+      "n": 10
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "n": 10
+    },
+    "scuttle_crab_kills": {
+      "p25": 2.0,
+      "median": 4.0,
+      "p75": 6.0,
+      "n": 10
+    },
+    "vision_score_per_minute": {
+      "p25": 0.8,
+      "median": 1.0,
+      "p75": 1.2,
+      "n": 10
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 1.5,
+      "p75": 3.0,
+      "n": 10
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.8,
+      "median": 4.0,
+      "p75": 5.0,
+      "n": 10
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 1.5,
+      "p75": 3.0,
+      "n": 10
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 1.0,
+      "n": 10
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 467.7,
+      "median": 580.8,
+      "p75": 745.8,
+      "n": 8
+    }
+  },
+  "note": "Master+ EUW Nidalee jungle. Quartiles over small n - treat as reference range, not law."
+}

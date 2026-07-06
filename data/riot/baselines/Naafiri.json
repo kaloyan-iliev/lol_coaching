@@ -1,0 +1,145 @@
+{
+  "champion": "Naafiri",
+  "role": "JUNGLE",
+  "n_games": 16,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.5,
+  "cs_at_10": {
+    "p25": 67.2,
+    "median": 74.5,
+    "p75": 78.8,
+    "n": 16
+  },
+  "cs_at_15": {
+    "p25": 102.0,
+    "median": 116.0,
+    "p75": 127.0,
+    "n": 16
+  },
+  "first_gank_t_s": {
+    "p25": 231.8,
+    "median": 377.0,
+    "p75": 504.8,
+    "n": 16
+  },
+  "first_reset_s": {
+    "p25": 208.5,
+    "median": 248.0,
+    "p75": 284.2,
+    "n": 16
+  },
+  "full_clear_end_s": {
+    "p25": 180.0,
+    "median": 300,
+    "p75": 420.0,
+    "n": 9
+  },
+  "deaths_before_14min": {
+    "p25": 0.2,
+    "median": 2.0,
+    "p75": 2.8,
+    "n": 16
+  },
+  "deaths_total": {
+    "p25": 2.5,
+    "median": 5.0,
+    "p75": 6.8,
+    "n": 16
+  },
+  "gank_involvements": {
+    "p25": 4.2,
+    "median": 7.5,
+    "p75": 12.5,
+    "n": 16
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2.5,
+    "p75": 3.0,
+    "n": 16
+  },
+  "wards_placed": {
+    "p25": 2.0,
+    "median": 4.5,
+    "p75": 7.0,
+    "n": 16
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 1.0,
+    "p75": 3.0,
+    "n": 16
+  },
+  "wards_killed": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.8,
+    "n": 16
+  },
+  "first_objective_participation_rate": 0.33,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 64.1,
+      "median": 70.7,
+      "p75": 76.0,
+      "n": 16
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -55.5,
+      "median": -51.2,
+      "p75": -35.2,
+      "n": 16
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 16
+    },
+    "scuttle_crab_kills": {
+      "p25": 1.2,
+      "median": 4.0,
+      "p75": 4.8,
+      "n": 16
+    },
+    "vision_score_per_minute": {
+      "p25": 0.7,
+      "median": 0.9,
+      "p75": 1.0,
+      "n": 16
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 3.0,
+      "n": 16
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 0.0,
+      "median": 1.5,
+      "p75": 2.0,
+      "n": 16
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.2,
+      "median": 1.0,
+      "p75": 2.0,
+      "n": 16
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "n": 16
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 421.6,
+      "median": 585.4,
+      "p75": 747.6,
+      "n": 13
+    }
+  },
+  "note": "Master+ EUW Naafiri jungle. Quartiles over small n - treat as reference range, not law."
+}

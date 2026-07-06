@@ -1637,12 +1637,53 @@
   {
     "id": "Wa4MLBCndxI",
     "url": "https://www.youtube.com/watch?v=Wa4MLBCndxI",
-    "title": "Video Wa4MLBCndxI",
+    "title": "Jungle Gank Execution and Mid-Game Macro Fundamentals by KireiLoL",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
-    "champion_focus": [
-      "general"
+    "tags": [
+      "ganking",
+      "gank_timing",
+      "mid_game",
+      "macro",
+      "jungle_tracking",
+      "objectives",
+      "decision",
+      "fundamentals"
+    ],
+    "concepts": [
+      "Gank execution strategies (cutting off escape paths, waiting for laner proximity, avoiding warded paths)",
+      "Pre-game analysis (draft, volatile lanes, enemy jungler pathing, potential invades)",
+      "Wave state analysis for ganking opportunities and lane pressure",
+      "Decision-making after a kill (basing, playing for win condition, camp priority)",
+      "Jungle tracking for enemy jungler's location and intentions",
+      "Objective control (Drake, Baron, Herald) and related macro play (ambushing, vision denial)",
+      "Mid-game macro for closing out games (wave management, deep control, forcing fights)",
+      "Risk assessment (avoiding outnumbered fights, knowing when to give objectives)",
+      "Effective pinging for laner awareness and coordination"
+    ],
+    "champion_focus": "general",
+    "difficulty": "intermediate",
+    "summary": "This video by KireiLoL focuses on practical gank execution, emphasizing pre-game analysis of drafts and matchups, understanding wave states, and cutting off enemy escape paths. It also covers crucial mid-game fundamentals, including decision-making after kills, objective control, jungle tracking, and advanced macro strategies to close out games effectively. The coach highlights the importance of smart play, risk assessment, and proper communication over simply fighting.",
+    "key_timestamps": [
+      "0:09 - Introduction to gank execution and its importance",
+      "0:32 - Pre-game considerations: draft analysis, volatile lanes, enemy jungler pathing",
+      "1:16 - Gank execution tips: cutting off escape paths, focusing on enemy jungler/ADC",
+      "2:02 - Explaining wave states and their impact on ganking",
+      "3:02 - Rule for not ganking if enemy just flashed and survived",
+      "5:30 - Helping laners crash waves for tempo, even without a gank",
+      "8:08 - Ganking based on enemy wave state (close to tower)",
+      "8:52 - Post-kill decision-making: basing, playing for win condition, camp priority",
+      "11:48 - Jungle fundamentals: basing after kill, playing for win condition, tracking enemy jungler",
+      "12:38 - Proper gank pathing (from behind, avoiding wards)",
+      "14:41 - Basing for Drake: taking opposite side camps, defensive mindset",
+      "15:44 - Avoiding bad fights (e.g., 2v3) and knowing when to give objectives",
+      "17:32 - Recognizing team's deep positioning and adjusting pathing",
+      "18:48 - Jungle tracking and pinging laners for safety",
+      "22:20 - Pinging 'on the way' only when very close to the gank",
+      "23:35 - Mid-game strategy: how to close out games (farm, ping, wave pressure)",
+      "26:32 - Escalating the game by pushing waves and denying vision for Baron",
+      "27:50 - Ambushing enemies at objectives instead of hitting the objective immediately",
+      "28:38 - Not helping 'inters' if it means missing better opportunities",
+      "30:05 - Waiting for Baron to be low HP before fighting"
     ]
   },
   {
@@ -1825,12 +1866,52 @@
   {
     "id": "whqwo56bI94",
     "url": "https://youtu.be/whqwo56bI94",
-    "title": "21 June Bootcamp Session",
+    "title": "Mid-Game Bootcamp Master Class: Mentality & Macro for League of Legends Jungle",
     "coach": "Thomas Yuen",
-    "tags": [],
-    "concepts": [],
-    "champion_focus": [
-      "general"
+    "tags": [
+      "mindset",
+      "fundamentals",
+      "intermediate",
+      "advanced",
+      "mid_game",
+      "macro",
+      "objectives",
+      "champion",
+      "decision",
+      "jungle_tracking"
+    ],
+    "concepts": [
+      "winner's mentality",
+      "actionable steps for improvement",
+      "mid-game tempo (up, down, cheating)",
+      "counting numbers (for all roles)",
+      "tempo and wave management",
+      "creating edge on objectives",
+      "teamfight positioning",
+      "champion pool management (one-tricking)",
+      "daily goal setting",
+      "consistent game review and self-reflection",
+      "understanding wave states (midwave priority)",
+      "minimap awareness",
+      "one-minute rule before objectives"
+    ],
+    "champion_focus": "general",
+    "difficulty": "intermediate",
+    "summary": "This bootcamp master class focuses on mid-game macro and a winning mindset, targeting League of Legends players from Gold to Grandmaster. It teaches crucial concepts like mid-game tempo, counting numbers, wave management, and objective control, alongside personal improvement strategies such as champion pool optimization and daily goal setting. The coach emphasizes accountability and consistent game review as key drivers for climbing divisions.",
+    "key_timestamps": [
+      "00:29 - Target audience (Gold+ players)",
+      "01:13 - Introduction to Midgame Bootcamp Master Class",
+      "01:47 - Overview of topics: mentality, mid-game tempo, waves, objectives, teamfight positioning",
+      "03:42 - Deep dive into mentality and distractions",
+      "05:14 - Identifying habits holding players back (e.g., large champion pool, not reviewing games)",
+      "06:59 - Positive habits for consistent improvement",
+      "08:56 - Actionable steps: identifying and addressing personal barriers",
+      "15:12 - Goal setting, emphasizing focus on 'counting numbers'",
+      "17:20 - Analysis of why mid-game is challenging (teammates, faster waves)",
+      "19:29 - Explanation of tempo types: up, down, and cheating tempo",
+      "20:40 - Understanding laners and wave mechanics (midwave speed)",
+      "162:34 - Bonus tips: using a daily recap sheet, focusing on minimap, reviewing deaths",
+      "165:02 - Clarification: focusing on 1-6 core concepts is sufficient to reach Masters"
     ]
   },
   {
@@ -1838,43 +1919,202 @@
     "url": "https://www.youtube.com/watch?v=WxytId6zdO0",
     "title": "#1 Complete Jungle Guide on CARRYING 3 LOSING LANES (MUST WATCH)",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "adapting",
+      "decision",
+      "jungle_tracking",
+      "macro",
+      "mental",
+      "tempo"
+    ],
+    "concepts": [
+      "carrying_losing_lanes",
+      "abusing_tempo",
+      "objective_priority",
+      "jungle_tracking",
+      "sacrificing_laners_for_tempo",
+      "prioritizing_farm_over_bad_ganks",
+      "cross_mapping_when_behind",
+      "patient_ganking",
+      "using_baron_for_side_lane_pressure",
+      "choking_out_enemies",
+      "identifying_good_vs_bad_fights",
+      "base_timing_and_matching_laner_tempo"
+    ],
     "champion_focus": [
-      "general"
+      "Kha'Zix",
+      "assassin"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video provides a comprehensive guide for jungle players on how to carry games when all three lanes are losing. It emphasizes strategic decision-making, tempo management, jungle tracking, and objective play to recover from early deficits. Key takeaways include prioritizing farm over bad ganks, sacrificing laners for tempo, and using cross-map plays and Baron pressure to create win conditions.",
+    "key_timestamps": [
+      "0:00 - Introduction to carrying losing lanes and key topics",
+      "2:56 - Three core rules for playing with losing lanes",
+      "3:15 - Explanation of sacrificing laners for tempo",
+      "4:06 - When NOT to gank and why farming is crucial",
+      "5:45 - Strategy for cross-mapping when behind",
+      "6:25 - Detailed breakdown of patient ganking technique",
+      "8:19 - Prioritizing farm over helping laners when camps are up",
+      "13:10 - Giving objectives for tempo and gold/XP",
+      "14:04 - Focusing targets in teamfights",
+      "23:40 - How to use Baron buff for man advantage and side lane pressure",
+      "24:55 - Strategy for playing when ahead and waiting for second Baron",
+      "27:37 - Difference between first and second Baron usage",
+      "28:01 - How to end the game with second Baron"
     ]
   },
   {
     "id": "4wg0nAM8Lgg",
     "url": "https://www.youtube.com/watch?v=4wg0nAM8Lgg",
-    "title": "#1 COMPLETE Jungle Fundamentals Guide (1v9 after this video)",
+    "title": "Lee Sin Jungle Fundamentals: 3-Camp Base Strategy and Mid-Lane Synergy",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "pathing",
+      "3_camp",
+      "early_game",
+      "ganking",
+      "objectives",
+      "macro",
+      "jungle_tracking"
+    ],
+    "concepts": [
+      "3-camp into base strategy",
+      "long sword tech",
+      "tempo turns",
+      "mid-lane priority",
+      "objective pinging",
+      "champion mastery",
+      "grouping to end"
+    ],
     "champion_focus": [
-      "general"
+      "Lee Sin",
+      "Nocturne",
+      "Twisted Fate"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This guide demonstrates how to carry from the jungle by utilizing a 3-camp base strategy for an early item advantage and playing around mid-lane priority. It emphasizes the importance of tempo, objective control, and effective communication with teammates to maintain a lead and close out games.",
+    "key_timestamps": [
+      "01:51 - Explaining the 3-camp clear into long sword base strategy",
+      "03:24 - Breakdown of an early skirmish and Lee Sin mechanical tips",
+      "04:43 - Understanding tempo turns and the football analogy",
+      "06:13 - How to play with mid lane priority to dominate the map",
+      "08:48 - Proper pinging techniques for objectives and danger",
+      "12:04 - Lee Sin combo optimization (R-AA-Q)",
+      "27:06 - Decision-making: Grouping to end vs. basing for items"
     ]
   },
   {
     "id": "mYlvViM80j4",
     "url": "https://www.youtube.com/watch?v=mYlvViM80j4",
-    "title": "#1 Jungle Fundamentals Guide (Base timers, Tempo, Objectives, 1v9)",
+    "title": "Jungle Fundamentals Guide: Base Timers, Tempo, Objectives, and 1v9 Carrying",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "pathing",
+      "jungle_tracking",
+      "ganking",
+      "objectives",
+      "macro"
+    ],
+    "concepts": [
+      "lane_priority",
+      "mirror_pathing",
+      "base_timing_rule",
+      "tempo_management",
+      "gank_execution",
+      "objective_control",
+      "lead_snowballing",
+      "game_planning",
+      "adaptive_decision_making",
+      "baron_wave_management",
+      "vision_control",
+      "communication_pings"
+    ],
     "champion_focus": [
+      "Viego",
       "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video is a comprehensive jungle fundamentals guide by KireiLoL, demonstrating how to '1v9' games through strategic decision-making. It covers crucial concepts like optimal pathing based on lane priority, jungle tracking, abusing tempo with precise base timers, and effective ganking strategies. The guide also delves into mid-to-late game macro, including objective control, adapting game plans, and leveraging Baron buff for pushing leads and closing out games.",
+    "key_timestamps": [
+      "0:37 - Draft breakdown and initial pathing decision based on lane matchups.",
+      "1:43 - Abusing lane priority and jungle tracking for a successful bot lane flank.",
+      "3:34 - Explaining the '25-second rule' for optimal basing and tempo management.",
+      "7:16 - Transition to snowballing leads: generating, maintaining, and snowballing advantages.",
+      "10:47 - Strategies for playing from an even state after making a mistake.",
+      "11:36 - Viego W trick for predicting enemy movement during chases.",
+      "14:35 - Making correct and adaptive game plans based on objectives and enemy positions.",
+      "25:08 - Prioritizing Baron: objective control and top side pressure.",
+      "28:17 - Effective use of Baron buff with minion waves for pushing towers.",
+      "30:49 - Decision-making on taking Drake versus matching laner bases for teamfights.",
+      "32:42 - Recap of early game advantages and the continuous snowballing process."
     ]
   },
   {
     "id": "nXXBUehKD9s",
     "url": "https://www.youtube.com/watch?v=nXXBUehKD9s",
-    "title": "#1 COMPLETE Jungle Fundamentals Guide (How to 1v9)",
+    "title": "Complete Jungle Fundamentals Guide: How to 1v9 and Carry from Minute Zero",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "basics",
+      "clearing",
+      "pathing",
+      "full_clear",
+      "3_camp",
+      "early_game",
+      "first_clear",
+      "ganking",
+      "objectives",
+      "mid_game",
+      "macro",
+      "late_game",
+      "teamfight",
+      "vision",
+      "jungle_tracking",
+      "mental",
+      "decision",
+      "win_condition",
+      "adapting",
+      "champion"
+    ],
+    "concepts": [
+      "draft_analysis",
+      "first_clear_pathing",
+      "jungle_tracking",
+      "tempo_advantage",
+      "invading",
+      "snowballing",
+      "playing_with_losing_lanes",
+      "objective_prioritization",
+      "cross_mapping",
+      "wukong_combo",
+      "communication_pings",
+      "muting_chat",
+      "forcing_fights",
+      "flanking",
+      "skipping_camps"
+    ],
     "champion_focus": [
-      "general"
+      "Wukong"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video offers a comprehensive guide to jungle fundamentals, detailing strategies from draft to late-game to enable a 1v9 carry performance. It covers crucial aspects like optimal clear paths, jungle tracking, leveraging tempo for invades, and adapting playstyles when dealing with losing lanes or objective disadvantages. The coach emphasizes strategic decision-making, effective communication, and mental fortitude to consistently impact games.",
+    "key_timestamps": [
+      "0:00 - Introduction to the complete jungle fundamentals guide",
+      "1:01 - Draft analysis: How to identify gankable lanes and win skirmishes (Wukong example)",
+      "2:19 - Early game: First clear and jungle tracking (3-camp tracking, full clear, predicting enemy jungler)",
+      "4:46 - Second clear and tempo usage: Invading with item/level advantage",
+      "5:45 - Snowballing after gaining an advantage and managing losing lanes",
+      "8:31 - What to do after laners die and how to use tempo (cross-mapping, giving objectives)",
+      "10:01 - Wukong specific combo breakdown (E-Q-R, W-Q-R)",
+      "11:17 - How to carry losing lanes when you're the only one ahead (mental, muting chat, smart ganking)",
+      "13:17 - Giving objectives when losing to cross-map and gain tempo",
+      "15:31 - Example of giving Drake to secure kills on the cross-map",
+      "37:37 - Securing Baron and planning for next objectives",
+      "39:04 - Taking aggressive fights when significantly ahead (18 kills Wukong)",
+      "43:05 - Forcing fights around enemy camps and objectives for guaranteed engagements"
     ]
   },
   {
@@ -1882,32 +2122,137 @@
     "url": "https://www.youtube.com/watch?v=T7k-_XfAILA",
     "title": "Jungle Fundamentals You NEED to Master - Jungle Coaching",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "decision",
+      "mindset",
+      "jungle_tracking",
+      "macro",
+      "ganking"
+    ],
+    "concepts": [
+      "Player goal setting and identifying roadblocks",
+      "Consistency in gameplay and champion pool management",
+      "Understanding matchup dynamics (Lillia vs. Jarvan)",
+      "Ignoring unhelpful teammate pings and maintaining jungle tempo",
+      "League of Legends as a 'turn-based' game (enemy turn after your play)",
+      "Developing a game plan: playing for specific lanes and objectives",
+      "Conditional ganking of losing lanes ('if/else' logic)",
+      "Lillia specific kiting and clear optimization",
+      "PCA Framework: Plan, Communicate, Alive (for decision-making in fights/contests)",
+      "Structured VOD review and habit building for improvement"
+    ],
     "champion_focus": [
-      "general"
+      "Lillia"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This coaching session focuses on helping a Lilia jungle player overcome mental blocks and refine decision-making to climb to GM. The coach introduces key concepts like understanding the 'turn-based' nature of the jungle, the importance of having a clear game plan (PCA framework), and learning to trust one's own judgment over teammate pings. The video emphasizes building consistent habits and structured review to achieve long-term improvement.",
+    "key_timestamps": [
+      "0:28 - Discussion on player's current LP and goal (GM)",
+      "1:45 - Identifying what holds the player back (champion boredom, inconsistency, bad matchups, not trusting own calls, listening to teammates)",
+      "5:26 - Explanation of the 'turn-based' nature of jungle and understanding consequences",
+      "8:48 - Introduction of the 'enemy is on turn' concept after a play/objective",
+      "10:08 - Importance of having a game plan: which lane to play for and what objective",
+      "11:09 - Discussion on when to gank losing lanes ('if/else' conditions)",
+      "13:44 - Champion mastery example: Lillia crab kiting for tempo",
+      "49:26 - Introduction and explanation of the PCA (Plan, Communicate, Alive) framework",
+      "51:15 - How to review gameplay using the learned concepts",
+      "53:00 - Importance of tracking daily goals and reviewing both good and poor plays"
     ]
   },
   {
     "id": "K9bwO_LEyiw",
     "url": "https://www.youtube.com/watch?v=K9bwO_LEyiw",
-    "title": "HOW TO WIN WITH JUNGLE FUNDAMENTALS ONLY",
+    "title": "Jungle Fundamentals to Win in Emerald Elo: Macro, Decision-Making, and Carrying with Any Build",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "decision",
+      "macro",
+      "jungle_tracking",
+      "objectives",
+      "pathing",
+      "ganking",
+      "vision",
+      "win_condition",
+      "early_game",
+      "mid_game",
+      "late_game",
+      "mindset"
+    ],
+    "concepts": [
+      "jungle_tracking_by_wards",
+      "tempo_management",
+      "objective_prioritization",
+      "gank_pathing_and_execution",
+      "playing_for_win_condition",
+      "macro_for_baron",
+      "decision_making_in_fights",
+      "base_timer_fundamentals"
+    ],
     "champion_focus": [
-      "general"
+      "Rek'Sai",
+      "Fizz",
+      "Wukong"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video by KireiLoL demonstrates how to consistently win in Emerald Elo by focusing on jungle fundamentals, decision-making, and macro play, even with a suboptimal champion build. The coach, playing AP Rek'Sai, highlights key concepts such as jungle tracking, tempo management, objective prioritization, and playing for win conditions. He emphasizes that strong macro and consistent fundamental application are more crucial for climbing than perfect item builds or blaming teammates.",
+    "key_timestamps": [
+      "0:00 - Introduction to winning with fundamentals in Emerald Elo",
+      "1:29 - Explaining jungle tracking based on enemy ward placement",
+      "3:14 - Discussing full clear pathing and mid-lane priority for Fizz's level 6 spike",
+      "4:15 - Explaining tempo management and base timer fundamentals after a play",
+      "7:45 - Demonstrating gank pathing to cut off escape routes",
+      "8:27 - Prioritizing enemy camps over objectives when winning",
+      "12:51 - Teaching how to play from a winning condition (Fizz)",
+      "14:48 - Emphasizing playing in your vision for objectives",
+      "25:27 - Macro play: pushing side lanes before Baron for man advantage",
+      "27:43 - Highlighting the power of vision in objective fights",
+      "33:00 - Concluding remarks on macro and fundamentals over item builds"
     ]
   },
   {
     "id": "6n4tVSuiCl4",
     "url": "https://www.youtube.com/watch?v=6n4tVSuiCl4",
-    "title": "How To Unstuck At Each Rank",
+    "title": "How To Unstuck At Each Rank (League of Legends Jungle Coaching)",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
-    "champion_focus": [
-      "general"
+    "tags": [
+      "fundamentals",
+      "mindset",
+      "jungle_tracking",
+      "objectives",
+      "macro",
+      "adapting"
+    ],
+    "concepts": [
+      "champion_pool_selection",
+      "daily_goal_setting_and_review",
+      "consistent_play_schedule",
+      "mental_fortitude",
+      "process_over_results",
+      "applying_and_reviewing_knowledge",
+      "micro_review_objective_(MRO)",
+      "early_game_pathing_and_ganking",
+      "mid_game_objective_planning_and_jungle_tracking",
+      "objective_baiting_and_execution",
+      "late_game_lane_pressure_utilization",
+      "understanding_other_roles"
+    ],
+    "champion_focus": "general",
+    "difficulty": "intermediate",
+    "summary": "This video by Coach KireiLoL offers a comprehensive guide for League of Legends jungle players aiming to climb at any rank. It emphasizes crucial mental fortitude, consistent practice, and a process-oriented approach over immediate results. The coach breaks down specific in-game concepts, from early game pathing and ganking for lower elos to advanced objective control, jungle tracking, and lane pressure utilization for higher elos, stressing the importance of applying and reviewing knowledge.",
+    "key_timestamps": [
+      "1:30 - Importance of champion pool and selection",
+      "2:47 - Daily goal setting and review process",
+      "4:23 - Mental fortitude: muting chat and handling frustration",
+      "8:52 - Process-focused vs. result-focused approach to climbing",
+      "11:16 - The importance of applying and reviewing knowledge",
+      "13:02 - Micro Review Objective (MRO) for improving fights",
+      "14:50 - Early game concepts for Bronze-Gold players",
+      "20:00 - Mid game concepts for Platinum-Emerald players",
+      "31:12 - Objective execution and baiting strategies",
+      "32:24 - Late game concepts for Master-Challenger players",
+      "34:27 - Importance of understanding other roles as a jungler"
     ]
   },
   {
@@ -1915,54 +2260,243 @@
     "url": "https://www.youtube.com/watch?v=ygKgZi3TPkc",
     "title": "HOW TO JUNGLE FROM BEHIND AND 3 LOSING LANES? - Here is How.",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "adapting",
+      "mental",
+      "mindset",
+      "win_condition",
+      "decision",
+      "macro",
+      "farming",
+      "jungle_tracking",
+      "objectives",
+      "ganking",
+      "team_comp"
+    ],
+    "concepts": [
+      "playing_from_behind",
+      "comeback_strategy",
+      "lane_priority_for_objectives",
+      "jungle_pathing_flexibility",
+      "adaptive_itemization",
+      "vision_control",
+      "split_pushing",
+      "gank_selection",
+      "farming_priority",
+      "objective_trading",
+      "mental_fortitude"
+    ],
     "champion_focus": [
-      "general"
+      "Diana"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video features coach KireiLoL playing Diana from a severely disadvantaged position with multiple losing lanes. He demonstrates advanced strategies for playing from behind, focusing on adaptive pathing, smart farming, objective trading, and identifying win conditions like split pushing. The key takeaway is maintaining a strong mental (\"Never FF\") and making calculated decisions to turn around seemingly lost games.",
+    "key_timestamps": [
+      "0:28 - Discusses adaptive itemization choices (Liandry's vs Rocketbelt) based on enemy draft.",
+      "4:25 - Emphasizes farming priority for junglers: 'whenever your camps are up, you just got to farm.'",
+      "8:20 - Tip: Gank mid lane before an objective to secure lane priority.",
+      "17:50 - Discusses strategy of giving objectives and cross-mapping when severely behind.",
+      "24:00 - Reinforces the 'Never FF' mindset and the importance of scaling and mental fortitude.",
+      "28:17 - Demonstrates and explains split pushing as a win condition for Diana."
     ]
   },
   {
     "id": "tqrIiqO5jaE",
     "url": "https://www.youtube.com/watch?v=tqrIiqO5jaE",
-    "title": "#1 Fundamental - TEMPO IN JUNGLE (17k gold comeback in 11 min)",
+    "title": "Mastering Tempo in Jungle: Achieving Comebacks and Carrying Losing Lanes",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "tempo",
+      "macro",
+      "decision",
+      "adapting",
+      "jungle_tracking",
+      "win_condition",
+      "objectives",
+      "clearing",
+      "ganking",
+      "mindset"
+    ],
+    "concepts": [
+      "Tempo management (basing, staying, making plays)",
+      "Jungle tracking and prediction",
+      "Playing from behind and comeback strategies",
+      "Identifying and leveraging win conditions",
+      "Importance of communication (pinging)",
+      "Prioritizing tempo over immediate item power spikes",
+      "Lane ganking techniques",
+      "Objective control and sneaking",
+      "Adapting to team state (losing lanes)",
+      "Efficient clearing and camp management"
+    ],
     "champion_focus": [
-      "general"
+      "Amumu",
+      "Elise"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches how to master tempo in the jungle, focusing on making significant gold comebacks and carrying games with losing lanes. The coach demonstrates crucial decision-making regarding basing, clearing, and making plays, emphasizing the importance of jungle tracking and effective pinging. He illustrates these concepts by playing with self-imposed handicaps (one hand, no pings) to highlight the power of strong fundamentals and adapting to challenging game states.",
+    "key_timestamps": [
+      "0:03 - Introduction to mastering tempo and comeback potential",
+      "0:31 - Explaining tempo for basing and staying to carry losing lanes",
+      "2:41 - Emphasizing jungle tracking as a core fundamental",
+      "4:39 - Highlighting pinging as a crucial handicap when not used",
+      "7:54 - Explaining basing for objective timing (even if not contesting)",
+      "9:35 - Demonstrating a lane gank",
+      "11:16 - Deciding to use two hands and pinging to show the difference",
+      "14:08 - Abusing tempo when enemy jungler is dead",
+      "14:37 - Prioritizing tempo over item power spike for a play",
+      "15:51 - Adapting playstyle when behind (not just clearing)",
+      "16:16 - Sneaking an objective when enemy takes another",
+      "20:22 - Identifying Katarina as the win condition and playing with her",
+      "23:55 - Setting up for Baron by clearing camps and positioning",
+      "30:09 - Showing a 'loilo mistake' of farming instead of joining/pinging laners"
     ]
   },
   {
     "id": "LsB8BB6QfHE",
     "url": "https://www.youtube.com/watch?v=LsB8BB6QfHE",
-    "title": "How to CARRY 3 losing lanes GUIDE",
+    "title": "How to Carry Three Losing Lanes Guide (Jungle)",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "mental",
+      "decision",
+      "adapting",
+      "macro",
+      "jungle_tracking",
+      "objectives",
+      "cross_mapping",
+      "defensive_mindset",
+      "vision",
+      "pathing",
+      "ganking",
+      "counter_ganking",
+      "fundamentals",
+      "early_game",
+      "mid_game",
+      "late_game"
+    ],
+    "concepts": [
+      "lane volatility",
+      "cross-mapping for resources",
+      "defensive mindset",
+      "winners mentality",
+      "jungle tracking",
+      "objective trading",
+      "lane state awareness",
+      "threat assessment",
+      "wave control",
+      "vision control"
+    ],
     "champion_focus": [
-      "general"
+      "Lee Sin"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video teaches junglers how to carry games with three losing lanes by focusing on four core principles: understanding lane volatility, cross-mapping for resources, maintaining a defensive mindset, and having a winners mentality. It provides a detailed VOD review of a Lee Sin player, demonstrating strategic decision-making, jungle tracking, and objective trading to create comeback opportunities in seemingly doomed scenarios. The key takeaway is that even when behind, strategic play and resource management are crucial for turning games around.",
+    "key_timestamps": [
+      "0:32 - Introduction to the four core principles for carrying losing lanes",
+      "2:08 - Explaining lane volatility and identifying gank opportunities",
+      "3:17 - Correct pathing decision after a successful gank (play bot side)",
+      "4:44 - Importance of defensive mindset and jungle tracking before ganking",
+      "6:25 - Explanation of cross-mapping for resources and objective trading",
+      "7:12 - Decision-making during objective contests: knowing when to drop and fight",
+      "10:49 - Further examples of cross-mapping and denying enemy camps",
+      "13:09 - Maintaining jungle tracking and mental fortitude when laners are struggling",
+      "39:29 - Vision control and cheesing around Baron",
+      "41:40 - Mid-late game Baron setup and team fight considerations",
+      "45:30 - Recap of the four core principles for carrying"
     ]
   },
   {
     "id": "jpM0iOSrGg0",
     "url": "https://www.youtube.com/watch?v=jpM0iOSrGg0",
-    "title": "THE ONLY Jungle Guide you need to climb",
+    "title": "The Only Jungle Guide You Need to Climb: Big Picture, Champion Mastery, and Game Plans",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "intermediate",
+      "macro",
+      "ganking",
+      "objectives",
+      "team_comp"
+    ],
+    "concepts": [
+      "lane volatility",
+      "crowd control importance",
+      "lanes that win by default",
+      "resource allocation",
+      "team composition analysis",
+      "assassin playstyle (sidelane vs teamfight)",
+      "champion strengths and weaknesses",
+      "item power spikes",
+      "gank conditions",
+      "gank execution",
+      "optimal ward timing (2:20 mark)",
+      "game plans (objective prioritization)",
+      "optimal base timing",
+      "playing with numbers",
+      "laner tracking",
+      "information gathering",
+      "communication (pinging teammates)"
+    ],
     "champion_focus": [
-      "general"
+      "general",
+      "assassins"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video offers a comprehensive jungle guide to help players climb, focusing on three core pillars: 'Big Picture Understanding' (draft analysis, lane volatility, team composition), 'Champion Mastery' (knowing strengths, weaknesses, and item spikes), and 'Generating a Lead' (effective ganking conditions and execution). It emphasizes the critical role of game plans, optimal base timers around objectives, and consistent application of these fundamentals to secure advantages and win games.",
+    "key_timestamps": [
+      "00:44 - Introduction to the video's core concepts for climbing",
+      "00:55 - Explaining 'Big Picture Understanding' (lane volatility, draft analysis)",
+      "02:28 - Identifying lanes that win by default and resource allocation",
+      "04:44 - Analyzing team composition strengths and weaknesses",
+      "05:23 - Specific advice for playing assassins (sidelane picks vs teamfights)",
+      "08:01 - Explaining 'Champion Mastery' (strengths, weaknesses, item spikes)",
+      "08:41 - Explaining 'Generate a Lead' (gank conditions and execution)",
+      "09:50 - Detailed explanation of optimal ward timing (2:20 mark)",
+      "12:38 - Explaining 'Game Plans and Base Timers' (objective prioritization, item advantage)",
+      "38:02 - Emphasizing 'Laner Tracking' and communication for mid-game"
     ]
   },
   {
     "id": "0Skwr4YbT7w",
     "url": "https://www.youtube.com/watch?v=0Skwr4YbT7w",
-    "title": "PERMA Gank Playstyle - 1 Kill per minute",
+    "title": "Perma Gank Jungle Playstyle: Achieving 1 Kill Per Minute as Jarvan IV",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "ganking",
+      "mindset",
+      "early_game",
+      "mid_game",
+      "vision",
+      "decision",
+      "adapting",
+      "matchup"
+    ],
+    "concepts": [
+      "Perma ganking playstyle",
+      "Volatile lane identification",
+      "Gank setup (ward checking, wave state analysis)",
+      "Summoner spell timing",
+      "Jungle clear optimization (camp syncing)",
+      "Playing around item power spikes",
+      "Mid-game lane priority and strongest laner focus",
+      "Aggressive jungle mindset"
+    ],
     "champion_focus": [
-      "general"
+      "Jarvan IV"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video demonstrates an aggressive 'perma gank' jungle playstyle, aiming for one kill per minute as Jarvan IV. The coach explains how to identify volatile lanes, check for enemy wards, and leverage wave states and summoner spell cooldowns to create constant gank opportunities. While emphasizing an aggressive mindset, the video also touches on adapting to game states and playing around strong laners.",
+    "key_timestamps": [
+      "0:00 - Introduction to the 'perma gank' playstyle and the 'one kill per minute' challenge.",
+      "0:46 - Explaining how to recognize volatile lanes based on champion matchups and crowd control.",
+      "2:04 - Demonstrating how to check for enemy wards in bot lane before a gank.",
+      "3:22 - Explaining why he skips red buff to sync golems and raptors for faster clear.",
+      "6:02 - Detailed explanation of recognizing a 'bouncing wave' for gank setup.",
+      "11:05 - Discussing item power spikes (Youmuu's) and how they enable more kills.",
+      "14:51 - Mid-game strategy: playing with strongest laners and avoiding weak ones.",
+      "19:28 - Using lane priority and wave state to invade enemy jungle for kills."
     ]
   },
   {
@@ -1970,65 +2504,249 @@
     "url": "https://www.youtube.com/watch?v=Wi4W_YGJNZA",
     "title": "How to Escape LOW ELO as Jungle - Midgame Guide to Master",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "mid_game",
+      "macro",
+      "tracking",
+      "jungle_tracking",
+      "objectives",
+      "decision",
+      "adapting",
+      "mental",
+      "fundamentals"
+    ],
+    "concepts": [
+      "jungle_tracking",
+      "base_timers",
+      "numbers_advantage",
+      "objective_control",
+      "macro_decision_making",
+      "tempo",
+      "fishing"
+    ],
     "champion_focus": [
       "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video focuses on the mid-game jungle macro and decision-making required to climb from Gold/Emerald to Master. Key lessons include tracking the enemy jungler, managing base timers for map tempo, and the importance of counting numbers before committing to a fight.",
+    "key_timestamps": [
+      "02:45 - Explains early game warding and tracking based on wave states",
+      "04:23 - Discusses the importance of base timers over staying for extra camps",
+      "07:50 - How to decide whether to play for an objective or continue farming",
+      "11:40 - Punishing enemy bases by canceling them or taking towers",
+      "13:08 - The impact of base timers on map tempo and playmaking",
+      "17:13 - Mid-game fundamental: counting numbers before committing to a fight",
+      "21:36 - Explains 'fishing' (baiting) instead of rushing objectives",
+      "26:40 - Knowing when to give up an objective to secure resources and stay alive",
+      "33:30 - Understanding up-tempo and safe pathing in the late game"
     ]
   },
   {
     "id": "X33JxUfXd2k",
     "url": "https://www.youtube.com/watch?v=X33JxUfXd2k",
-    "title": "Fullclearing but losing? | APPLY These FUNDAMENTALS to WIN",
+    "title": "Full Clearing Fundamentals and Carrying with Losing Lanes",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "full_clear",
+      "pathing",
+      "jungle_tracking",
+      "ganking",
+      "mid_game",
+      "macro",
+      "mindset"
+    ],
+    "concepts": [
+      "full_clear",
+      "champion_mastery",
+      "jungle_tracking",
+      "base_timers",
+      "tempo",
+      "cross_map_play",
+      "communication"
+    ],
     "champion_focus": [
-      "general"
+      "Jarvan IV"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches how to maintain consistency through full clearing and fundamental jungle tracking even when teammates are falling behind. It emphasizes champion mastery, specifically holding abilities for the right moment, and using proactive communication to manage lane pressure and cross-map objectives.",
+    "key_timestamps": [
+      "01:36 - Developing the habit of looking at lanes while clearing camps",
+      "02:35 - Why you must warn laners of ganks in advance rather than reactively",
+      "04:25 - Applying jungle tracking to decide between ganking and clearing",
+      "05:20 - Champion mastery: holding combos to increase gank success rates",
+      "07:48 - Understanding when to give objectives based on base timers and gold",
+      "11:28 - Executing ganks by tracking enemy summoner spells and vision",
+      "19:30 - Communicating cross-map plays when you cannot contest a major objective",
+      "30:17 - Using wave pressure to force enemy rotations before a teamfight"
     ]
   },
   {
     "id": "56JarAH_S-I",
     "url": "https://www.youtube.com/watch?v=56JarAH_S-I",
-    "title": "How to Win From Behind as a Jungler (Never FF)",
+    "title": "How to Win From Behind as a Jungler",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "early_game",
+      "macro",
+      "decision",
+      "mindset",
+      "adapting"
+    ],
+    "concepts": [
+      "playing from behind",
+      "jungle pathing",
+      "objective control",
+      "adapting to game state",
+      "mental fortitude"
+    ],
     "champion_focus": [
-      "general"
+      "Ivern",
+      "Jinx",
+      "Garen",
+      "Nautilus",
+      "Valkos",
+      "Ari"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches junglers how to maintain a positive mental attitude and make effective decisions when behind in a League of Legends game. It emphasizes adapting to the game state, focusing on objectives, and not giving up even when facing significant deficits.",
+    "key_timestamps": [
+      "00:58 - Early game strategy against Ivern",
+      "03:30 - Continuing clear despite setbacks",
+      "05:48 - When to invade vs. farm",
+      "06:11 - Don't force plays without opportunities",
+      "09:16 - Adapting when teammates don't follow up",
+      "13:41 - Playing for Herald",
+      "16:27 - Contesting objectives when possible",
+      "18:09 - Questionable macro calls from teammates",
+      "22:29 - Winning through side lane picks",
+      "23:47 - Recognizing when a game might be lost",
+      "26:25 - Turning the game around with objectives",
+      "32:29 - The importance of never surrendering",
+      "38:15 - Winning a game from a significant deficit",
+      "40:11 - Realizing they were down 10k gold"
     ]
   },
   {
     "id": "DJfAx7OSE4Q",
     "url": "https://www.youtube.com/watch?v=DJfAx7OSE4Q",
-    "title": "How to Maintain a Jungle Lead (Challenger fundamental)",
+    "title": "How to Maintain and Snowball a Jungle Lead",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "intermediate",
+      "pathing",
+      "ganking",
+      "counter_ganking",
+      "tracking",
+      "jungle_tracking",
+      "macro",
+      "objectives",
+      "vision"
+    ],
+    "concepts": [
+      "maintaining_leads",
+      "jungle_tracking",
+      "tempo",
+      "base_timers",
+      "counter_ganking",
+      "turn_based_gameplay",
+      "snowballing",
+      "5_second_rule"
+    ],
     "champion_focus": [
-      "general"
+      "Diana",
+      "Lillia",
+      "Yasuo"
+    ],
+    "difficulty": "intermediate",
+    "summary": "Coach KireiLoL demonstrates how to maintain and snowball a lead by mastering jungle tracking and tempo. The video covers recovering from early deficits, the strategic difference between initiating and counter-ganking, and how to use vision to force favorable fights in the mid-to-late game.",
+    "key_timestamps": [
+      "00:18 - Explains jungle tracking and turn-based gameplay concepts",
+      "05:20 - Discusses why counter-ganking is safer than initiating when behind",
+      "08:42 - Breakdown of tempo and the fundamentals of maintaining a lead",
+      "14:44 - How to handle 'down tempo' and communicate safety to laners",
+      "25:00 - The importance of base timers before major objectives",
+      "30:10 - Using vision ('playing in your zone') to bait enemy mistakes"
     ]
   },
   {
     "id": "stLT4arGlKs",
     "url": "https://www.youtube.com/watch?v=stLT4arGlKs",
-    "title": "Top 3 Jungle Fundamentals to Climb",
+    "title": "Top 3 Jungle Fundamentals: Generating, Maintaining, and Snowballing a Lead",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "pathing",
+      "early_game",
+      "macro",
+      "jungle_tracking",
+      "mindset",
+      "objectives"
+    ],
+    "concepts": [
+      "generating_a_lead",
+      "maintaining_a_lead",
+      "snowballing_a_lead",
+      "tempo",
+      "punishing_mistakes",
+      "counter_jungling",
+      "base_timers",
+      "communication"
+    ],
     "champion_focus": [
-      "general"
+      "Jarvan IV",
+      "Kayn"
+    ],
+    "difficulty": "intermediate",
+    "summary": "Coach KireiLoL breaks down the three essential pillars for climbing: generating, maintaining, and snowballing a lead. Using Jarvan IV gameplay in an Emerald/Diamond lobby, he demonstrates how to punish enemy mistakes, manage tempo through efficient basing, and use communication to keep teammates safe while ahead.",
+    "key_timestamps": [
+      "00:15 - Introduction to the three pillars: generating, maintaining, and snowballing a lead",
+      "03:08 - Punishing an enemy jungler's failed gank via counter-jungling",
+      "04:18 - Understanding tempo and the importance of base timers",
+      "08:05 - How to maintain a lead by respecting item power spikes",
+      "10:21 - Snowballing through objective control and aggressive invading",
+      "21:40 - Exercising patience in teamfights and waiting for key cooldowns or allies"
     ]
   },
   {
     "id": "p_Hk7lp5KE4",
     "url": "https://www.youtube.com/watch?v=p_Hk7lp5KE4",
-    "title": "#1 Fundamental in Mid-Game for ALL RANKS",
+    "title": "Mid-Game Fundamentals: The Power of Counting Numbers and Tempo",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "mid_game",
+      "macro",
+      "pathing",
+      "early_game",
+      "objectives",
+      "grouping",
+      "decision"
+    ],
+    "concepts": [
+      "counting_numbers",
+      "numerical_advantage",
+      "tempo",
+      "clear_optimization",
+      "lane_priority",
+      "objective_setup",
+      "flash_prediction",
+      "side_lane_pressure"
+    ],
     "champion_focus": [
-      "general"
+      "Viego"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video focuses on the most critical mid-game fundamental: counting numbers to determine whether to take a fight. Coach KireiLoL demonstrates how to maintain tempo through efficient clearing and basing, while emphasizing the importance of side-lane pressure and grouping for objectives based on numerical advantages.",
+    "key_timestamps": [
+      "01:53 - Viego clear optimization and Q cooldown management",
+      "03:41 - Explaining the mistake of prioritizing scuttle over camp timers",
+      "05:20 - Importance of basing to match camp respawn cycles",
+      "13:05 - Timing bases to spend gold before major objectives",
+      "16:30 - Introduction to the 'counting numbers' fundamental for mid-game",
+      "31:11 - Using side-lane pressure to force enemy movement and create numerical advantages"
     ]
   },
   {
@@ -2036,98 +2754,440 @@
     "url": "https://www.youtube.com/watch?v=jkV__yT3Ik4",
     "title": "From Iron to Challenger: Jungle Guide to Climb Fast (2025)",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
-    "champion_focus": [
-      "general"
+    "tags": [
+      "fundamentals",
+      "beginner",
+      "intermediate",
+      "advanced",
+      "macro",
+      "mental",
+      "decision",
+      "champion",
+      "team_comp",
+      "objectives",
+      "jungle_tracking",
+      "ganking",
+      "early_game",
+      "mid_game",
+      "win_condition",
+      "mindset",
+      "vision"
+    ],
+    "concepts": [
+      "accountability",
+      "game review (micro/macro)",
+      "mentality (mute chat, alpha jungler)",
+      "champion pool optimization",
+      "settings optimization",
+      "build optimization",
+      "respawn timers (tool usage)",
+      "objective control",
+      "cutting losses",
+      "team composition analysis",
+      "communication",
+      "draft understanding",
+      "pressure transfer (ping-ponging)",
+      "enemy vision denial",
+      "snowballing leads",
+      "tempo management"
+    ],
+    "champion_focus": "general",
+    "difficulty": "advanced",
+    "summary": "This video provides a comprehensive guide for League of Legends jungle players to climb from Iron to Challenger, emphasizing crucial general principles like accountability, effective game review, and mental fortitude. It details ELO-specific strategies, from optimizing settings and champion pools for lower ranks to mastering objective control, draft understanding, and tempo management for higher ELOs. The coach stresses the importance of applying learned knowledge and focusing on a limited champion pool for consistent improvement.",
+    "key_timestamps": [
+      "00:32 - Importance of accountability and owning mistakes",
+      "01:48 - How to effectively review games (micro, macro, mid-game, fundamentals)",
+      "05:52 - Learning from the best and applying knowledge",
+      "07:56 - Mentality: muting chat and being an 'alpha' jungler",
+      "09:49 - Champion pool advice: maining 1-2 champions for mastery",
+      "13:19 - Iron ELO specific advice: settings, tools, and champion choice",
+      "38:51 - Diamond ELO advice: cutting losses and understanding team composition",
+      "41:05 - Master to GM advice: draft understanding, objective control, pressure transfer",
+      "43:08 - GM to Challenger advice: snowballing leads and tempo management"
     ]
   },
   {
     "id": "xX9lHB-5Qqc",
     "url": "https://www.youtube.com/watch?v=xX9lHB-5Qqc",
-    "title": "#1 Fundamental in Jungle To Rank up",
+    "title": "#1 Fundamental in Jungle: Mastering Objective Control and Mid-Game Macro",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "objectives",
+      "mid_game",
+      "macro",
+      "tracking",
+      "win_condition",
+      "early_game",
+      "pathing"
+    ],
+    "concepts": [
+      "objective_control",
+      "win_conditions",
+      "jungle_tracking",
+      "tempo",
+      "numbers_game",
+      "wave_management_for_objectives",
+      "base_timers",
+      "clearing_weak_side_to_strong_side"
+    ],
     "champion_focus": [
       "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches a consistent framework for carrying games by prioritizing objectives and playing around the team's strongest members. The coach explains a three-step process for objective control involving tempo identification, information gathering, and creating a 'numbers game' advantage through wave pressure and base timing.",
+    "key_timestamps": [
+      "01:00 - Identifying win conditions and volatile lanes before the game starts",
+      "02:12 - Building fundamental habits during the first clear and gathering information",
+      "04:55 - How to adjust your objective priority when playing from behind",
+      "09:28 - The three-step process for contesting and securing Dragons",
+      "10:08 - Using base cancels to create number advantages for objectives",
+      "15:37 - Transitioning to mid-game and identifying which towers to pressure",
+      "33:03 - Setting up vision control and denying enemy information for Baron",
+      "37:01 - Using mid-wave pressure to force enemy face-checks and create man advantages"
     ]
   },
   {
     "id": "OYNYBPTkPo0",
     "url": "https://www.youtube.com/watch?v=OYNYBPTkPo0",
-    "title": "NEW Course Fundamentals In Korean SoloQ",
+    "title": "League of Legends Jungle Fundamentals in Korean Solo Queue with KireiLoL",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "basics",
+      "beginner",
+      "early_game",
+      "ganking",
+      "macro",
+      "decision",
+      "win_condition"
+    ],
+    "concepts": [
+      "win conditions",
+      "gank conditions",
+      "gank execution",
+      "jungle pathing",
+      "objective control",
+      "wave management",
+      "vision control",
+      "tempo advantage",
+      "item power spikes",
+      "lane assignments",
+      "teamfight positioning"
+    ],
     "champion_focus": [
-      "general"
+      "general",
+      "Warwick",
+      "Zac",
+      "Aatrox",
+      "Ahri",
+      "Siloas"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video focuses on fundamental jungle concepts within Korean Solo Queue, emphasizing decision-making, win conditions, and gank execution. The coach highlights how understanding these core principles, even with imperfect teammates, is crucial for climbing and improving macro play.",
+    "key_timestamps": [
+      "00:32 - Explains the four key factors for jungle pathing decisions.",
+      "01:08 - Discusses warding and enemy jungle tracking.",
+      "01:31 - Defines and explains gank conditions and execution.",
+      "02:08 - Demonstrates a successful gank based on understanding conditions and execution.",
+      "02:53 - Identifies a mistake in jungle pathing and decision-making.",
+      "04:04 - Discusses support's role in gank execution.",
+      "05:06 - Explains lane ganking and when to apply pressure.",
+      "05:43 - Reinforces the importance of focusing on the team's win condition.",
+      "06:20 - Outlines the jungler's primary job: tracking and objective focus.",
+      "09:02 - Decision-making around objectives based on itemization and power spikes.",
+      "09:31 - Explains why not to invade without lane priority.",
+      "10:03 - Discusses diving bot lane based on wave control and enemy positioning.",
+      "11:03 - Briefly touches on mid-game lane assignments.",
+      "12:07 - Explains a Herald trick for faster objective taking.",
+      "12:25 - Planning for the next objective after securing one.",
+      "13:03 - Decision-making around contesting mid wave.",
+      "14:44 - Analyzing enemy jungle pathing and itemization for counter-play.",
+      "16:18 - Attempting to abuse tempo advantage.",
+      "16:27 - Playing for objectives and setting up for future plays.",
+      "19:37 - Emphasizes waiting for the jungler in teamfights.",
+      "20:28 - Discusses objective control and setting up for Baron.",
+      "21:06 - Planning item power spikes and jungle tracking.",
+      "21:36 - Ensuring laners don't make risky plays while jungler farms.",
+      "23:13 - Denying enemy vision and forcing plays.",
+      "25:09 - Calling off bad Baron attempts based on game state.",
+      "26:02 - Importance of mid-game macro in close games.",
+      "26:37 - Analyzing enemy decision-making and pushing lanes.",
+      "26:55 - Objective timers and pushing opposite side.",
+      "27:33 - Warning against face-checking and proper engagement.",
+      "28:32 - Denying enemy farm and securing buffs.",
+      "29:02 - Catching sidelane farm and understanding wave contestability.",
+      "29:41 - Power vision and initiating objectives.",
+      "30:30 - Identifying key threats and managing tempo.",
+      "30:44 - The impact of team coordination and fundamentals in close games."
     ]
   },
   {
     "id": "aDcd5B2hLP4",
     "url": "https://www.youtube.com/watch?v=aDcd5B2hLP4",
-    "title": "PRO Coach Live Coaching Fundamentals - Diamond ELO",
+    "title": "Fundamentals of Jungle Decision Making: Diamond ELO Live Coaching",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "intermediate",
+      "pathing",
+      "early_game",
+      "objectives",
+      "tracking",
+      "decision",
+      "win_condition"
+    ],
+    "concepts": [
+      "champion_mastery",
+      "game_planning",
+      "lane_priority",
+      "tempo_management",
+      "cross_mapping",
+      "lead_maintenance",
+      "jungle_tracking"
+    ],
     "champion_focus": [
-      "general"
+      "Bel'Veth"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This live coaching session focuses on the transition from mechanical mastery to fundamental decision-making in Diamond ELO. Key takeaways include the importance of proactive game planning, understanding lane priority before contesting objectives, and maintaining a lead through proper basing and tempo management.",
+    "key_timestamps": [
+      "01:22 - Discussion on the ratio of fundamentals vs. mechanics in Diamond ELO",
+      "07:32 - Analyzing the trade-off of a top gank versus losing bot-side camps",
+      "08:12 - The importance of having a specific game plan for lanes rather than just farming",
+      "10:18 - Why checking lane priority is essential before entering the river for objectives",
+      "12:41 - Recognizing which lane to play through based on wave states and bounce",
+      "15:13 - Mechanical tip: Holding key abilities during objective takes to prepare for skirmishes",
+      "16:35 - Identifying tempo mistakes and the need to track the enemy jungler after basing",
+      "49:25 - Reviewing the importance of gathering information before making a play",
+      "52:15 - Explaining the turn-based nature of League and how to maintain a lead"
     ]
   },
   {
     "id": "dWPk83RAhb8",
     "url": "https://www.youtube.com/watch?v=dWPk83RAhb8",
-    "title": "How to Jungle from behind and WIN",
+    "title": "How to Jungle from Behind and Carry on Kindred",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "early_game",
+      "mid_game",
+      "late_game",
+      "macro",
+      "win_condition",
+      "adapting",
+      "tracking",
+      "objectives"
+    ],
+    "concepts": [
+      "playing from behind",
+      "tempo management",
+      "item power spikes",
+      "objective trading",
+      "win condition identification",
+      "defensive tracking",
+      "team comp analysis"
+    ],
     "champion_focus": [
-      "general"
+      "Kindred",
+      "Lee Sin"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video demonstrates how to recover from an early game deficit by focusing on macro fundamentals, tracking the enemy jungler, and identifying team win conditions. Coach KireiLoL emphasizes the importance of playing defensively when down tempo, trading objectives effectively, and waiting for key item power spikes to turn the game around.",
+    "key_timestamps": [
+      "02:04 - Explains the 'big picture' and team comp analysis",
+      "03:42 - Discusses defensive thinking and tracking when behind",
+      "04:53 - Trading objectives and accepting losses to play the long game",
+      "11:34 - Checking item power spikes before committing to fights",
+      "16:00 - Understanding tempo and numbers for objective control",
+      "24:21 - Importance of not forcing fights for soul point if weaker",
+      "40:07 - Final push and ending the game"
     ]
   },
   {
     "id": "xfKZ5d30KhU",
     "url": "https://www.youtube.com/watch?v=xfKZ5d30KhU",
-    "title": "Complete 100% guide to Jungle",
+    "title": "Complete Guide to Jungle: Drakes, Snowballing, and Game Plans",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "objectives",
+      "dragon",
+      "baron",
+      "snowballing",
+      "jungle_tracking",
+      "win_condition",
+      "ganking",
+      "pathing",
+      "early_game",
+      "mid_game",
+      "macro",
+      "decision",
+      "intermediate"
+    ],
+    "concepts": [
+      "Drake priority and timing",
+      "Lane priority for objectives",
+      "Bulldog / Ball concept for objective fights",
+      "Efficient jungle pathing for win condition",
+      "Recognizing good gank opportunities",
+      "Post-gank decision making",
+      "Jungle tracking to deny enemy momentum",
+      "Identifying and playing for win conditions",
+      "Adapting Baron usage for SoloQ",
+      "Number advantage for skirmishes and teamfights",
+      "Invading enemy jungle for pressure and safety",
+      "Creating a game plan to avoid random plays"
+    ],
     "champion_focus": [
       "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video provides a comprehensive guide to jungle strategy, focusing on objective control, particularly Drakes and Baron, and efficient snowballing. It teaches players how to identify win conditions, track enemy junglers, make informed ganking decisions, and maintain game momentum through strategic pathing and team coordination. The coach emphasizes creating a game plan and adapting to team compositions to secure leads and close out games effectively.",
+    "key_timestamps": [
+      "1:06 - Explains when to take Drake and when not to",
+      "2:39 - Analyzes common Drake mistakes with pro play examples",
+      "5:21 - Introduces the 'Bulldog' or 'Ball' concept for objective fights",
+      "7:46 - Begins teaching how to snowball a lead step-by-step",
+      "9:07 - Details how to recognize a good gank opportunity",
+      "11:12 - Explains how to continue snowballing after a kill",
+      "13:36 - Emphasizes the importance of jungle tracking to maintain momentum",
+      "16:15 - Guides on accelerating the game from a lead",
+      "31:14 - Discusses the 'What and Win' concept for game planning",
+      "33:09 - Explains playing for Baron and invading enemy jungle",
+      "34:29 - Covers Baron usage in SoloQ versus professional play",
+      "37:45 - Summarizes why jungle tracking is crucial for momentum"
     ]
   },
   {
     "id": "8_bjkkY5AM4",
     "url": "https://www.youtube.com/watch?v=8_bjkkY5AM4",
-    "title": "Always be 1st to a fight! A no BS guide to Tempo",
+    "title": "A No BS Guide to Jungle Tempo and Map Pressure",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "intermediate",
+      "advanced",
+      "early_game",
+      "mid_game",
+      "macro",
+      "mindset",
+      "jungle_tracking"
+    ],
+    "concepts": [
+      "tempo",
+      "death_timers",
+      "aggressive_mindset",
+      "defensive_mindset",
+      "tempo_cheating",
+      "map_pressure",
+      "base_timers",
+      "trapping"
+    ],
     "champion_focus": [
-      "general"
+      "general",
+      "Bel'Veth",
+      "Elise",
+      "Kha'Zix"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video provides a comprehensive breakdown of 'Tempo' in the jungle, defining it as the ability to make plays first. Coach KireiLoL explains how to recognize tempo advantages through death timers and objectives, and how to toggle between aggressive and defensive mindsets to optimize map presence and set up traps.",
+    "key_timestamps": [
+      "00:38 - Definition of Tempo: the ability to make plays first",
+      "01:14 - How to recognize Tempo via death timers, objectives, and ganks",
+      "07:08 - Explaining the Defensive vs. Aggressive Mindset",
+      "12:11 - Tempo Cheating and the impact of Homeguards",
+      "13:40 - Understanding 'Tempo Sides' on the map",
+      "15:27 - Using Tempo for trapping and setting up picks",
+      "44:03 - Pro-play bonus: Analyzing T1's map pressure and base timers"
     ]
   },
   {
     "id": "fqU4bySpR2c",
     "url": "https://www.youtube.com/watch?v=fqU4bySpR2c",
-    "title": "No BS 1-Hour Guide To Actually Climbing With Jungle",
+    "title": "No BS Guide to Jungle Fundamentals and Climbing",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "macro",
+      "ganking",
+      "jungle_tracking",
+      "mental",
+      "decision",
+      "win_condition",
+      "pathing",
+      "farming",
+      "objectives"
+    ],
+    "concepts": [
+      "mentality",
+      "map_movement",
+      "full_clear_vs_ganking",
+      "champion_identity",
+      "wave_states",
+      "threat_assessment",
+      "jungle_tracking",
+      "void_grubs_priority",
+      "self_improvement_framework"
+    ],
     "champion_focus": [
-      "general"
+      "Rek'Sai",
+      "Elise",
+      "Zac",
+      "Karthus",
+      "Fiddlesticks",
+      "Lee Sin"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This comprehensive guide covers the essential pillars of jungling, from shifting mentality to mastering macro decision-making. Coach KireiLoL explains how to balance farming with ganking, how to track the enemy jungler using camp timers, and how to recognize high-percentage gank opportunities based on lane states.",
+    "key_timestamps": [
+      "00:19 - Mentality and focusing on self-improvement",
+      "01:02 - Map movement and macro decision-making",
+      "03:16 - Full clearing vs. ganking and champion identity",
+      "06:34 - Consequences of poorly timed ganks on lane states",
+      "10:30 - Threat assessment and spacing in skirmishes",
+      "11:43 - How to play for losing lanes (covering dives/slow pushes)",
+      "13:30 - Recognizing good gank opportunities and wave states",
+      "21:40 - Playing for win conditions and base timers",
+      "28:00 - Advanced jungle tracking using camp respawn timers",
+      "36:21 - Decision making: Void Grubs vs. covering bot lane dives",
+      "41:10 - Self-improvement framework and setting mini-goals"
     ]
   },
   {
     "id": "v3RUks__BKs",
     "url": "https://www.youtube.com/watch?v=v3RUks__BKs",
-    "title": "How to jungle class Lesson 1: GANKING!",
+    "title": "How to Jungle Lesson 1: Ganking Fundamentals and Lane Volatility",
     "coach": "KireiLoL",
-    "tags": [],
-    "concepts": [],
+    "tags": [
+      "fundamentals",
+      "basics",
+      "early_game",
+      "ganking",
+      "pathing",
+      "win_condition",
+      "decision"
+    ],
+    "concepts": [
+      "volatile_lanes",
+      "wave_states",
+      "champion_identities",
+      "skipping_camps",
+      "visualization",
+      "early_game_pressure"
+    ],
     "champion_focus": [
-      "general"
+      "Jarvan IV",
+      "Udyr"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video focuses on the fundamental logic of ganking, specifically how to identify volatile lanes and adjust pathing to secure early kills. Coach KireiLoL uses a pro VOD to demonstrate when to skip camps for high-impact ganks and emphasizes the importance of understanding champion identities and wave states to predict where kills will happen.",
+    "key_timestamps": [
+      "00:11 - Introduction to core jungling qualities: kills, efficiency, win conditions, and limits",
+      "03:51 - Identifying volatile lanes and wave states as the primary triggers for ganking",
+      "05:59 - Analysis of lane matchups (Irelia/Kled and Ezreal/Zyra) to determine pathing",
+      "09:12 - Discussion on when to skip camps to prioritize a volatile bot lane",
+      "14:22 - The importance of visualization and pausing VODs to improve decision-making",
+      "57:26 - Q&A: Handling weak bot lane matchups and counter-ganking logic"
     ]
   },
   {
@@ -2135,6 +3195,1787 @@
     "url": "https://www.youtube.com/watch?v=q6a6VefgkD8",
     "title": "HOW TO CARRY INTERS WITH GRAGAS IN ANY ELO!",
     "coach": "KireiLoL",
+    "tags": [
+      "win_condition",
+      "team_comp",
+      "pathing",
+      "jungle_tracking",
+      "macro",
+      "decision",
+      "objectives",
+      "early_game",
+      "mid_game",
+      "adapting",
+      "mental",
+      "teamfight"
+    ],
+    "concepts": [
+      "win_condition_analysis",
+      "team_composition_strategy",
+      "jungle_tracking",
+      "dynamic_pathing",
+      "objective_prioritization",
+      "game_state_adaptation",
+      "macro_decision_making",
+      "playing_around_lane_states",
+      "tempo_management"
+    ],
+    "champion_focus": [
+      "Gragas"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video by KireiLoL coaches Gragas jungle, emphasizing macro decision-making over mechanical skill to carry games in any ELO. It focuses on pre-game and dynamic win condition analysis, jungle tracking, and adapting pathing and objective priorities based on team compositions, lane states, and game tempo. The core takeaway is to consistently make informed decisions about where to play, who to play for, and when to engage, even with 'boosted' teammates.",
+    "key_timestamps": [
+      "0:00 - Pre-game analysis: identifying win conditions and team compositions.",
+      "1:42 - Gragas pathing strategy: initial plan based on lane volatility.",
+      "3:29 - Core jungle principles: tracking enemy jungler and managing wave states.",
+      "6:09 - Post-base decision-making: choosing which side of the map to prioritize.",
+      "11:02 - Mid-game objective strategy: tracking, playing for lanes, and Herald priority.",
+      "13:01 - Herald usage: timing Herald to open mid tower and gain control.",
+      "14:54 - Tempo management: playing defensively when team is at a disadvantage.",
+      "16:28 - Resource allocation: funneling gold to a carry (Vladimir).",
+      "27:23 - Objective trading: strategically giving up Drake for map control.",
+      "28:49 - Baron setup: preparing for Baron with wave control and vision.",
+      "36:55 - Video conclusion: reiterating the importance of decision-making."
+    ]
+  },
+  {
+    "id": "TPbwK8wy9LY",
+    "url": "https://www.youtube.com/watch?v=TPbwK8wy9LY",
+    "title": "How to Play RENGAR JUNGLE and PLAY FROM BEHIND",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "champion",
+      "adapting",
+      "jungle_tracking",
+      "clearing",
+      "objectives",
+      "macro"
+    ],
+    "concepts": [
+      "full_clear",
+      "playing_from_behind",
+      "Rengar_stacks_management",
+      "Rengar_ultimate_timing",
+      "pet_damage_optimization",
+      "lane_priority_assessment",
+      "playing_with_numbers",
+      "baiting_objectives",
+      "side_lane_picks"
+    ],
+    "champion_focus": [
+      "Rengar"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video by KireiLoL coaches Rengar jungle, focusing on how to play from a losing position. It emphasizes a core strategy of full clearing to level six, consistent jungle tracking, and then making calculated plays around Rengar's ultimate and team numbers. Key takeaways include optimizing clear speed, adapting objective priorities when behind, and making smart decisions based on lane state and enemy positions to facilitate a comeback.",
+    "key_timestamps": [
+      "0:33 - Rengar's early game plan: full clear to level 6",
+      "1:29 - Tip for optimizing clear speed using pet damage",
+      "3:58 - Emphasizing Rengar's early game goal: reach level 6 before ganking",
+      "5:37 - Comeback strategy: focus on feeding self to level 6, then look for ult plays",
+      "9:25 - Decision-making for taking Drake while behind and scaling",
+      "9:56 - Rengar's job when ultimate is on cooldown: full clear and jungle track",
+      "12:13 - Explaining why a gank was taken (camps down, bot lane priority)",
+      "15:38 - Playing with numbers and lane priority for teamfights",
+      "19:07 - Rengar's mid-game role: making side lane picks with ultimate",
+      "20:33 - Mental advice: focus on next steps after a mistake, continue jungle tracking",
+      "21:15 - \"Fishing\" strategy: baiting enemies at objectives by pushing a wave and hiding"
+    ]
+  },
+  {
+    "id": "AHLwKg1aWpw",
+    "url": "https://www.youtube.com/watch?v=AHLwKg1aWpw",
+    "title": "How to Play Sylas Jungle: Fundamentals, Skirmishing, and Objective Control",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "fundamentals",
+      "clearing",
+      "pathing",
+      "ganking",
+      "objectives",
+      "macro",
+      "jungle_tracking"
+    ],
+    "concepts": [
+      "ultimate_selection",
+      "skirmishing",
+      "gank_vs_farm",
+      "tempo",
+      "jungle_tracking",
+      "itemization",
+      "homeguards_usage"
+    ],
+    "champion_focus": [
+      "Sylas"
+    ],
+    "difficulty": "intermediate",
+    "summary": "Coach KireiLoL demonstrates how to pilot Sylas jungle by leveraging his skirmishing power and high-impact ultimate steals. The guide focuses on fundamental jungle concepts like tempo, tracking the enemy jungler, and making calculated decisions between farming and ganking to snowball the mid-game.",
+    "key_timestamps": [
+      "00:11 - Explains the importance of identifying high-value enemy ultimates",
+      "01:19 - Discusses the criteria for choosing between ganking and farming",
+      "03:23 - Demonstrates tempo management and resetting for camps",
+      "06:41 - Highlights the necessity of jungle tracking to protect laners",
+      "09:31 - Explains how to use Homeguards to maintain map pressure",
+      "11:18 - Explains why you should prioritize camps over low-probability ganks",
+      "17:55 - Discusses item power spikes (Zhonya's) before major objectives",
+      "24:50 - Summarizes the three-step plan: make a plan, communicate, and count numbers"
+    ]
+  },
+  {
+    "id": "-JjISBU-DxE",
+    "url": "https://www.youtube.com/watch?v=-JjISBU-DxE",
+    "title": "How to Snowball and Secure Objectives as Graves Jungle",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "clearing",
+      "clear_speed",
+      "pathing",
+      "objectives",
+      "macro",
+      "win_condition",
+      "jungle_tracking",
+      "champion"
+    ],
+    "concepts": [
+      "passive_stacking",
+      "tempo",
+      "lane_priority",
+      "objective_control",
+      "snowballing",
+      "punishing_overstays"
+    ],
+    "champion_focus": [
+      "Graves"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video demonstrates how to optimize Graves' clear speed and dueling potential by maintaining passive stacks throughout the jungle. Coach KireiLoL explains how to translate early leads into objective control through superior tempo, jungle tracking, and playing around winning lanes.",
+    "key_timestamps": [
+      "00:31 - Explains Graves passive stacking for damage and armor",
+      "01:22 - Tip: Put two points in Q for faster full clears",
+      "01:44 - Importance of entering the river with max passive stacks to win duels",
+      "03:15 - Punishing enemy jungler's poor tempo and overstaying",
+      "05:05 - Identifying win conditions against specific enemy comps like Kassadin",
+      "08:48 - Demonstrating how passive stacks significantly increase clear speed",
+      "12:50 - Pathing through lanes for movement speed efficiency",
+      "16:25 - Using 'rage baiting' to force favorable fights",
+      "20:05 - Tip: E towards enemies during objectives to stack passive twice as fast"
+    ]
+  },
+  {
+    "id": "Vyl0Ao8c2mM",
+    "url": "https://www.youtube.com/watch?v=Vyl0Ao8c2mM",
+    "title": "Kha'Zix Jungle Macro Guide: Winning Through Objective Control and Lane Pressure",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "macro",
+      "pathing",
+      "objectives",
+      "vision",
+      "tracking",
+      "mid_game",
+      "win_condition",
+      "champion"
+    ],
+    "concepts": [
+      "invading",
+      "camp_sequencing",
+      "25_second_rule",
+      "playing_around_winning_lanes",
+      "side_lane_pressure",
+      "objective_control",
+      "evolution_priority"
+    ],
+    "champion_focus": [
+      "Kha'Zix"
+    ],
+    "difficulty": "intermediate",
+    "summary": "KireiLoL demonstrates how to win as Kha'Zix by prioritizing macro-level decision-making over raw mechanics. The guide covers essential jungle concepts such as the 25-second rule for efficient basing, identifying win conditions through strong laners, and using side-lane pressure to force favorable objective fights.",
+    "key_timestamps": [
+      "00:00 - Level 1 baiting and early invade tactics",
+      "01:18 - Decision making during enemy jungle invades",
+      "02:04 - Pathing efficiency and the bot-to-top clear",
+      "04:27 - Choosing evolutions based on the enemy team composition",
+      "08:57 - Explaining the 25-second rule for basing and tempo",
+      "11:22 - Assessing objective priority based on team presence",
+      "19:07 - Using the ping-pong strategy to rotate around lane pressure",
+      "21:10 - Shadowing strong teammates to secure Baron",
+      "29:40 - Overloading side lanes to create map openings"
+    ]
+  },
+  {
+    "id": "deRVnADfZV8",
+    "url": "https://www.youtube.com/watch?v=deRVnADfZV8",
+    "title": "How to Play Lillia Jungle: The 15-Minute Rule and Aggressive Invading",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "intermediate",
+      "advanced",
+      "pathing",
+      "early_game",
+      "jungle_tracking",
+      "mental",
+      "mindset",
+      "ganking",
+      "objectives"
+    ],
+    "concepts": [
+      "invading",
+      "camp_denial",
+      "15_minute_rule",
+      "gank_timing",
+      "objective_priority",
+      "communication",
+      "mental_pressure"
+    ],
+    "champion_focus": [
+      "Lillia"
+    ],
+    "difficulty": "intermediate",
+    "summary": "KireiLoL demonstrates how to dominate as Lillia by aggressively invading the enemy jungle and applying the '15-minute rule' to force a mental collapse. The video emphasizes prioritizing enemy camps to deny resources and using proactive communication to ensure laner support during invades.",
+    "key_timestamps": [
+      "0:05 - Countering early wards and invading",
+      "1:20 - Post-invade macro: spending gold and re-invading",
+      "2:00 - Prioritizing camps over laners unless a high-value gank appears",
+      "2:57 - Identifying gank opportunities based on wave state",
+      "5:20 - Why taking enemy camps is better than taking your own",
+      "6:04 - Using communication to secure laner priority",
+      "9:27 - Decision making: when to take enemy camps vs. your own",
+      "10:23 - The result of the 15-minute rule (enemy ragequit)"
+    ]
+  },
+  {
+    "id": "RW7NLPPIvPE",
+    "url": "https://www.youtube.com/watch?v=RW7NLPPIvPE",
+    "title": "How to Play KHA'ZIX and MASTER TEMPO",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "tempo",
+      "jungle_tracking",
+      "macro",
+      "objectives",
+      "decision",
+      "champion"
+    ],
+    "concepts": [
+      "jungle tracking",
+      "tempo management",
+      "full clear strategy",
+      "25-second rule for basing and camp respawns",
+      "pinging laners for safety",
+      "maintaining lead",
+      "predicting enemy jungler movements",
+      "objective prioritization",
+      "flanking and positioning"
+    ],
+    "champion_focus": [
+      "Kha'Zix"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video, featuring Kha'Zix gameplay, focuses on mastering jungle tempo and tracking to secure and maintain a lead. The coach explains how to make strategic decisions regarding clearing, ganking, and objectives based on the enemy jungler's position and tempo. Key takeaways include the \"25-second rule\" for efficient basing and camp timing, the importance of communicating specific tempo advantages to laners, and predicting enemy movements in high-elo scenarios.",
+    "key_timestamps": [
+      "0:19 - Introduction to jungle tracking and early game tempo",
+      "2:25 - Emphasizing maintaining a lead by pinging laners to play safe",
+      "4:56 - Explanation of the \"25-second rule\" for basing and camp respawn timing",
+      "8:09 - Explaining the \"12-second window\" for laners to play safe when enemy jungler has tempo",
+      "9:21 - Importance of pinging laners before starting objectives like Grubbies",
+      "10:13 - Highlighting jungle tracking as key to consistency and snowballing",
+      "14:11 - Defining tempo understanding and making the first move",
+      "18:12 - Predicting enemy jungler's cross-map movement based on objective contestability",
+      "20:37 - Emphasizing pinging laners to play safe when preparing for Baron or basing",
+      "23:14 - Recap on jungle tracking, tempo, and communicating specific timings to laners"
+    ]
+  },
+  {
+    "id": "s7UJd01YxRM",
+    "url": "https://www.youtube.com/watch?v=s7UJd01YxRM",
+    "title": "How to Play LEE SIN and FULL CLEAR FOR WINS",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "fundamentals",
+      "clearing",
+      "camps",
+      "farming",
+      "pathing",
+      "routing",
+      "full_clear",
+      "3_camp",
+      "early_game",
+      "first_clear",
+      "objectives",
+      "dragon",
+      "rift_herald",
+      "mid_game",
+      "macro",
+      "tracking",
+      "jungle_tracking",
+      "decision",
+      "win_condition",
+      "adapting"
+    ],
+    "concepts": [
+      "full_clear",
+      "3_camp_base_for_item_advantage",
+      "jungle_tracking",
+      "win_condition_identification",
+      "adapting_game_plan",
+      "tempo_management",
+      "objective_control",
+      "invading_based_on_enemy_jungler_tempo",
+      "item_power_spikes"
+    ],
+    "champion_focus": [
+      "Lee Sin"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video demonstrates effective Lee Sin jungle play, focusing on a full clear strategy and leveraging early game item advantages like a long sword. The coach emphasizes crucial concepts such as jungle tracking, adapting win conditions based on lane states, and managing tempo to secure objectives and snowball leads. It illustrates how to make informed decisions throughout the early and mid-game to maintain pressure and secure victory.",
+    "key_timestamps": [
+      "0:00 - Introduction to Lee Sin full clear fundamentals",
+      "0:24 - Strategy: 3 camps base for early long sword advantage",
+      "0:31 - Initial game plan: Playing around Twisted Fate mid lane",
+      "1:26 - Discussing item advantage over enemy jungler",
+      "3:02 - Explaining the 'long sword gap' win in an early skirmish",
+      "3:35 - Invading enemy raptors after enemy gank to gain tempo",
+      "5:41 - Reaffirming game plan around mid lane's level 6 power spike",
+      "8:33 - Emphasizing jungle tracking as a core jungler skill",
+      "9:55 - Decision-making for taking Drake when enemy jungler has ultimate",
+      "14:47 - Importance of jungle tracking while farming to prevent laner deaths",
+      "18:01 - Adapting game plan: Switching focus from Twisted Fate to Caitlyn/Amumu",
+      "21:11 - Prioritizing AFK farming for item power spike before an objective fight",
+      "25:17 - Decision to stay for a fight despite having gold for an item, to match laner tempo",
+      "27:06 - Conclusion: Understanding tempo is crucial for playing with laners and winning games"
+    ]
+  },
+  {
+    "id": "fFyVzhanasw",
+    "url": "https://www.youtube.com/watch?v=fFyVzhanasw",
+    "title": "How to Play WUKONG JUNGLE and Play From Behind (15MIN RULE GONE WRONG)",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "clearing",
+      "farming",
+      "pathing",
+      "full_clear",
+      "early_game",
+      "ganking",
+      "dive",
+      "objectives",
+      "dragon",
+      "baron",
+      "rift_herald",
+      "mid_game",
+      "macro",
+      "late_game",
+      "teamfight",
+      "vision",
+      "tracking",
+      "decision",
+      "win_condition",
+      "adapting",
+      "matchup",
+      "champion",
+      "team_comp"
+    ],
+    "concepts": [
+      "Wukong level one invade",
+      "Playing from behind",
+      "Prioritizing scaling carries (Vladimir)",
+      "Camp synchronization",
+      "Wukong power spikes (level 6, ultimate, item spikes)",
+      "Jungle tempo and turns",
+      "\"Bulldozing\" strategy",
+      "Objective prioritization (concede vs. contest)",
+      "Playing around ultimate cooldowns",
+      "Vision control (entrance wards)",
+      "Identifying win conditions",
+      "Countering specific champions (Anivia CC)",
+      "Itemization (Serpent's Fang, Black Cleaver)",
+      "Pathing for objectives (top side before bot side for Drake)"
+    ],
+    "champion_focus": [
+      "Wukong",
+      "Vladimir",
+      "Anivia",
+      "Xin Zhao"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video coaches Wukong jungle, demonstrating how to recover and win from a difficult early game after a failed level one invade. It emphasizes adapting pathing, prioritizing scaling allies like Vladimir, and making strategic decisions around objectives, ultimate cooldowns, and identifying win conditions. The coach provides insights into jungle tempo, vision control, and itemization to overcome counter-matchups and secure victory.",
+    "key_timestamps": [
+      "00:01 - Wukong's level one invade strategy",
+      "01:09 - Adapting to being behind and prioritizing scaling laners",
+      "01:56 - Wukong's early game goal: farm to level 6 for skirmishes",
+      "08:16 - Explaining \"bulldozing\" for quick fights with lane priority",
+      "08:47 - Decision-making: conceding Drake for item spike without ultimate",
+      "09:46 - Using enemy objective take (Drake) to gain tempo for a top dive",
+      "13:35 - Wukong's reliance on ultimate for effective fighting",
+      "17:23 - Discussing Wukong's counter-matchup against Anivia's CC",
+      "18:27 - Identifying win conditions and playing with strongest team members",
+      "24:00 - Strategic pathing: playing top side before bot side for Drake",
+      "24:39 - Itemization choice: Serpent's Fang against enemy shields",
+      "31:19 - Vladimir's scaling becoming the primary win condition"
+    ]
+  },
+  {
+    "id": "jLk0Ha0zxJ0",
+    "url": "https://www.youtube.com/watch?v=jLk0Ha0zxJ0",
+    "title": "How to Play LILLIA JUNGLE and CARRY 3 LOSING LANES",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "pathing",
+      "clearing",
+      "jungle_tracking",
+      "early_game",
+      "macro",
+      "adapting",
+      "mindset",
+      "win_condition"
+    ],
+    "concepts": [
+      "Lillia specific invade pathing",
+      "Perma full clear strategy",
+      "Jungle tracking for advantage",
+      "Playing for yourself when lanes are losing",
+      "Prioritizing objectives (Baron, Drake)",
+      "Muting chat for mental fortitude",
+      "PCA (Planning, Communicate, Alive) decision-making"
+    ],
+    "champion_focus": [
+      "Lillia"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video demonstrates how to play Lillia jungle, focusing on an aggressive early game invade pathing to gain a significant lead. The coach then explains how to adapt and carry a game with three losing lanes by consistently power farming, invading the enemy jungle, making strong macro decisions, and maintaining a positive mindset by muting chat.",
+    "key_timestamps": [
+      "0:12 - Explains an \"OP\" Lillia invade pathing (raptors -> gromp -> enemy blue)",
+      "0:51 - Details the unexpected nature and benefits of the early invade",
+      "2:21 - Introduces the \"Narnia strategy\" of perma full clearing and invading top side",
+      "5:16 - Discusses how to carry three losing lanes through jungle tracking and self-focus",
+      "10:11 - Emphasizes muting chat for mental fortitude and game focus",
+      "19:25 - Mentions \"PCA\" (Planning, Communicate, Alive) for strategic decision-making",
+      "30:29 - Reveals muting chat as a key turning point for the game's comeback"
+    ]
+  },
+  {
+    "id": "RpArke-b3fM",
+    "url": "https://www.youtube.com/watch?v=RpArke-b3fM",
+    "title": "How to Play LEE SIN JUNGLE and Use THE 15 MIN RULE",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "clearing",
+      "camps",
+      "pathing",
+      "early_game",
+      "ganking",
+      "objectives",
+      "mid_game",
+      "macro",
+      "tracking",
+      "mental",
+      "decision",
+      "adapting",
+      "teamfighting"
+    ],
+    "concepts": [
+      "jungle_tracking",
+      "tempo",
+      "camp_management",
+      "objective_control",
+      "lane_ganking",
+      "flanking",
+      "item_power_spikes",
+      "vision_control",
+      "communicating_with_laners",
+      "playing_from_behind"
+    ],
+    "champion_focus": [
+      "Lee Sin"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video features KireiLoL coaching a Lee Sin jungle game, demonstrating how to adapt and win after a disastrous early game. He emphasizes crucial concepts like jungle tracking, managing tempo, prioritizing camp clears, and strategic objective control (Grubs, Drake, Baron). The coach also highlights the importance of communicating with laners, understanding item power spikes, and executing effective flanks in teamfights, even when teammates are struggling.",
+    "key_timestamps": [
+      "0:31 - Adapting after a bad early game (\"15-minute rule went wrong\").",
+      "1:04 - Explaining \"jungle track\" and playing \"down tempo\".",
+      "1:32 - Communicating with laners about enemy jungler tempo.",
+      "3:47 - Prioritizing camp farming over ganking when camps are up.",
+      "4:33 - Demonstrating a lane gank to relieve lane pressure.",
+      "8:03 - Optimal smite timing for Grubs for fastest clear.",
+      "8:39 - Decision-making: item power spike vs. clearing camps.",
+      "13:54 - Objective strategy: playing around ultimate cooldowns for Rift Herald.",
+      "16:58 - Rule: laners dying ruins objective plans, emphasizing jungle tracking.",
+      "23:43 - Lee Sin teamfight strategy: looking for flanks.",
+      "27:25 - Macro play: pushing side lanes to create pressure for other objectives.",
+      "29:41 - Importance of pinging teammates to disengage before objectives.",
+      "37:30 - Final lesson: consistency and accepting unwinnable games."
+    ]
+  },
+  {
+    "id": "79gr0FLgL4s",
+    "url": "https://www.youtube.com/watch?v=79gr0FLgL4s",
+    "title": "How to Play ELISE JUNGLE and Play by FUNDAMENTALS",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "fundamentals",
+      "jungle_tracking",
+      "macro",
+      "objectives",
+      "clearing",
+      "ganking",
+      "decision",
+      "early_game",
+      "mid_game",
+      "champion",
+      "pathing",
+      "vision",
+      "camps"
+    ],
+    "concepts": [
+      "15-minute rule (early invade)",
+      "Denying enemy resources (camps, objectives)",
+      "Full clearing and camp syncing",
+      "Prioritizing objectives (Drake, Herald, Baron) over camps",
+      "Playing for lane priority before objectives/invades",
+      "Jungle tracking enemy movements and camp timers",
+      "Adapting itemization based on enemy team composition",
+      "Punishing overextended enemies and dives",
+      "Invading enemy jungle when safe and advantageous",
+      "Matching laner tempo for coordinated plays",
+      "Securing kills before taking major objectives if enemies facecheck"
+    ],
+    "champion_focus": [
+      "Elise"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video coaches players on how to master Elise jungle by focusing on core fundamentals. It emphasizes aggressive jungle tracking, strategic invading to deny enemy resources, and intelligent objective prioritization based on lane states and enemy movements. The coach demonstrates how to maintain tempo and snowball games through calculated macro decisions, even in high-elo lobbies.",
+    "key_timestamps": [
+      "0:07 - Explains the '15-minute rule' for early blue buff invade.",
+      "0:20 - Demonstrates vision denial and blue buff steal attempt.",
+      "1:47 - Discusses full clearing and exploiting enemy camp desync.",
+      "3:53 - Explains adapting itemization (Liandry's) against tanky champions like Ornn.",
+      "7:10 - Decision-making: Prioritizing an 'OP Drake' over clearing own camps.",
+      "8:07 - Importance of checking top lane priority before contesting Grubbies.",
+      "15:37 - Emphasizes securing lane priority before attempting objectives like Rift Herald.",
+      "18:30 - Illustrates 'living in the enemy jungle' to pressure and deny resources.",
+      "27:43 - Strategic decision to kill face-checking enemies before taking Baron.",
+      "29:20 - Highlights the importance of pinging laners in advance to prevent deaths."
+    ]
+  },
+  {
+    "id": "RITSSTmJqGY",
+    "url": "https://www.youtube.com/watch?v=RITSSTmJqGY",
+    "title": "How to Play RENGAR JUNGLE and Play the MID GAME",
+    "coach": "KireiLoL",
+    "channel": "KireiVODs",
+    "tags": [
+      "pathing",
+      "early_game",
+      "mid_game",
+      "ganking",
+      "jungle_tracking",
+      "objectives",
+      "macro",
+      "decision",
+      "win_condition",
+      "champion"
+    ],
+    "concepts": [
+      "Rengar_ferocity_management",
+      "optimal_pathing",
+      "jungle_tracking",
+      "lane_ganking",
+      "ultimate_timing",
+      "playing_to_strengths",
+      "wave_management_for_ganks",
+      "capitalizing_on_enemy_mistakes",
+      "objective_prioritization",
+      "making_picks",
+      "tempo_management"
+    ],
+    "champion_focus": [
+      "Rengar"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video, coached by KireiLoL, focuses on playing Rengar jungle, particularly in the mid-game. It emphasizes optimal pathing, jungle tracking, and capitalizing on enemy mistakes like overextension or missing summoner spells. Key takeaways include timing Rengar's ultimate with camp clears and objectives, understanding lane states for effective ganks, and prioritizing picks and macro plays to secure a win, even with losing lanes.",
+    "key_timestamps": [
+      "0:25 - Initial game plan and pathing mistake analysis",
+      "2:08 - Rengar ferocity stacking explanation",
+      "3:07 - Importance of jungle tracking and full clearing",
+      "5:33 - Lane gank strategy based on enemy laner's mindset",
+      "6:31 - Capitalizing on enemy flash timers with Rengar ultimate",
+      "8:31 - Objective prioritization (giving Drake for top side value)",
+      "11:16 - Timing Rengar ultimate with camp clears for ganks",
+      "17:23 - Using picks to create tempo and push lanes",
+      "19:51 - Playing to Rengar's strengths (side lane picks) and avoiding weaknesses",
+      "24:03 - Macro decision: prioritizing a pick over basing for items before objective",
+      "32:18 - Winning through macro and tempo despite losing lanes"
+    ]
+  },
+  {
+    "id": "GBKVIehiRKA",
+    "url": "https://www.youtube.com/watch?v=GBKVIehiRKA",
+    "title": "Why 'Losers Q' Mentality Keeps You Hardstuck In League of Legends",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "mental",
+      "mindset",
+      "fundamentals",
+      "basics",
+      "decision",
+      "adapting"
+    ],
+    "concepts": [
+      "Debunking Losers Queue",
+      "Exam Analogy for Performance",
+      "Curiosity-Driven Improvement",
+      "Distinguishing 15% Losses from Winnable Games",
+      "Impact of Emotions on Decision Making"
+    ],
+    "champion_focus": "general",
+    "difficulty": "intermediate",
+    "summary": "This video debunks the 'Losers Queue' myth, explaining that a player's rank is determined by their consistent individual performance over a large sample size of games. It introduces an 'exam' analogy, encouraging players to focus on making correct decisions regardless of the game's outcome and to be curiosity-driven rather than pain-driven to improve.",
+    "key_timestamps": [
+      "0:00 - Introduction to the 'Losers Queue' problem",
+      "0:08 - Coach begins explaining why 'Losers Queue' thinking is flawed",
+      "0:27 - Introduces the 'treat the game like an exam' analogy for performance",
+      "1:19 - Explains the mathematics of why 'Losers Queue' doesn't exist over a large sample size",
+      "1:48 - How emotions during a loss streak lead to worse decisions and perpetuate the streak",
+      "3:10 - Emphasizes that even in losses, there is always room for individual improvement",
+      "3:33 - How to prevent '15% losses' from affecting winnable games",
+      "4:19 - Introduces the 'curiosity-driven rather than pain-driven' mentality hack"
+    ]
+  },
+  {
+    "id": "Nzd24hYQDRo",
+    "url": "https://www.youtube.com/watch?v=Nzd24hYQDRo",
+    "title": "How To GAP Low Elo Junglers With ONE Fundamental | Educational Guide",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "clear_speed",
+      "pathing",
+      "ganking",
+      "jungle_tracking",
+      "macro"
+    ],
+    "concepts": [
+      "tempo",
+      "clear_speed",
+      "kiting",
+      "jungle_tracking",
+      "gank_timing",
+      "objective_control",
+      "pathing_efficiency",
+      "decision_making"
+    ],
+    "champion_focus": [
+      "Jax",
+      "Shyvana"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video analyzes a low-elo Jax jungle gameplay to highlight the critical importance of 'tempo' as the core fundamental for junglers. Coach Leo demonstrates how efficient clear speed, smart pathing, high-percentage gank decisions, and effective jungle tracking contribute to maintaining tempo and gaining significant leads. The key takeaway is to develop a framework for decision-making that prioritizes consistent gains over risky plays to avoid falling into 'tempo debt'.",
+    "key_timestamps": [
+      "0:28 - Coach Leo introduces himself as a challenger jungler and ex-pro player.",
+      "1:26 - First advice for Jax: improve clear speed by kiting camps efficiently.",
+      "3:15 - Comparison of clear speed and tempo difference between high and low-ranked junglers.",
+      "3:43 - Importance of jungle tracking and using vision to predict enemy movements.",
+      "4:40 - Decision-making after losing an objective: gank a lane instead of looking for a dead camp.",
+      "5:27 - Framework for ganking: only commit to ganks with a 90% guaranteed kill chance.",
+      "7:39 - Recap of Jax's early game mistakes and how to improve full clear and objective timing.",
+      "9:08 - Analyzing Jax's error in repeat ganking mid without adapting to the lane state.",
+      "10:02 - How better junglers punish inefficient habits, leading to camp steals (e.g., Krugs).",
+      "11:30 - Defining 'good tempo' as being at your first spawning camps when they come up.",
+      "12:18 - Importance of gank timing relative to wave state and enemy options.",
+      "14:10 - Proper technique for taking Grubs (pulling out of pit) to maintain awareness and escape.",
+      "16:22 - Applying weak side/strong side fundamentals to camp clearing and ganking decisions."
+    ]
+  },
+  {
+    "id": "f610UsYj5r4",
+    "url": "https://www.youtube.com/watch?v=f610UsYj5r4",
+    "title": "Jungle Fundamentals Like You've NEVER Seen Before (Carry Losing Games)",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "clearing",
+      "pathing",
+      "jungle_tracking",
+      "ganking",
+      "objectives",
+      "decision",
+      "adapting",
+      "win_condition",
+      "mental",
+      "early_game",
+      "macro",
+      "teamfighting",
+      "vision",
+      "clear_speed",
+      "matchup",
+      "dragon"
+    ],
+    "concepts": [
+      "structured_tempo",
+      "fast_clearing",
+      "spare_time_management",
+      "jungle_tracking",
+      "camp_mirroring",
+      "dragon_stacking",
+      "decision_making_based_on_summoners",
+      "playing_from_behind",
+      "objective_trading",
+      "vision_control",
+      "teamfight_positioning",
+      "matching_vs_trading_junglers"
+    ],
+    "champion_focus": [
+      "Shyvana"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video by ex-pro challenger jungler Coach Leo demonstrates advanced jungle fundamentals to carry seemingly losing games, using a Shyvana gameplay example. It covers structured tempo, efficient clearing, detailed jungle tracking, and adaptive decision-making based on enemy summoner spells and map state. The core teaching emphasizes maintaining composure, identifying win conditions, and making smart objective trades to turn around difficult matches.",
+    "key_timestamps": [
+      "0:07 - Introduction to carrying losing games and the importance of decision-making.",
+      "1:37 - Core jungle fundamentals: structured tempo, fast clearing, spare time management, jungle tracking, camp mirroring, and dragon stacking.",
+      "3:09 - Decision to give up pressure and base after full clear, using spare tempo for top side.",
+      "5:54 - Adapting to bad situations by tracking and pinging enemy summoner spells (e.g., Jinx flash/barrier/ghost).",
+      "6:48 - Identifying a win condition based on enemy summoner cooldowns (Jinx no flash) for a guaranteed kill.",
+      "7:09 - Strategic decision not to take dragon, explaining why trading blue side for it against Hecarim is disadvantageous.",
+      "11:11 - Principle of matching enemy jungler when stronger and trading when weaker.",
+      "12:56 - Translating a lead into objective stacking (dragons) and avoiding wasted time on low-impact plays.",
+      "15:29 - Adapting to enemy overcommitment (e.g., using Teleport) and trading objectives/towers effectively.",
+      "29:06 - Key takeaway: maintaining composure and farming to play from behind, waiting for high-percentage winnable fights.",
+      "32:18 - Effective teamfight positioning, demonstrated by ulting over walls to surprise enemies."
+    ]
+  },
+  {
+    "id": "QQku-iYEQ6k",
+    "url": "https://www.youtube.com/watch?v=QQku-iYEQ6k",
+    "title": "High Elo Jungle Thought Process: Adaptability, Tracking, and Objective Priority in Chaotic Games",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "advanced",
+      "mental",
+      "decision",
+      "pathing",
+      "jungle_tracking",
+      "adapting",
+      "counter_ganking",
+      "macro",
+      "objectives"
+    ],
+    "concepts": [
+      "adaptability",
+      "jungle_tracking",
+      "objective_priority",
+      "counter_ganking_proximity",
+      "fake_pressure",
+      "matching_enemy_tempo",
+      "decision_making_under_chaos",
+      "Nidalee_mechanics"
+    ],
+    "champion_focus": [
+      "Nidalee",
+      "Lee Sin"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video provides a detailed high-elo jungle thought process, emphasizing adaptability and calm decision-making in chaotic games. The coach demonstrates advanced jungle tracking, strategic pathing, and objective prioritization, such as choosing counter-ganking over counter-jungling and understanding when to contest or concede objectives like Drake and Rift Herald. It also covers specific Nidalee mechanics and the importance of patience.",
+    "key_timestamps": [
+      "1:02 - Emphasizes adaptability and calm decision-making in chaotic games.",
+      "2:04 - Explains the decision to ditch bot lane due to wave state and summoner spell information.",
+      "3:38 - Demonstrates tracking the enemy jungler's (Lee Sin) pathing based on camp status.",
+      "6:30 - Discusses prioritizing counter-ganking bot lane over counter-jungling top side for better map control.",
+      "10:45 - Explains creating 'fake pressure' by clearing a ward and recalling to manipulate enemy perception.",
+      "13:05 - Decision-making around contesting or conceding Drake based on team state and enemy resources.",
+      "16:28 - Self-reflection on Nidalee's jump timing and the importance of patience in engagements.",
+      "18:40 - Explains why taking Rift Herald can be a 'giga troll' move when ahead, advocating for matching enemy tempo and basing instead."
+    ]
+  },
+  {
+    "id": "4APtz4zDbGo",
+    "url": "https://www.youtube.com/watch?v=4APtz4zDbGo",
+    "title": "The ULTIMATE (In-Depth) Jungle Guide For PERFECT Fundamentals",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "jungle_tracking",
+      "decision",
+      "pathing",
+      "farming",
+      "macro"
+    ],
+    "concepts": [
+      "enemy_jungler_tracking",
+      "gank_priority",
+      "tempo_management",
+      "camps_up_down_concept",
+      "high_percentage_plays",
+      "post_clear_planning",
+      "objective_windows",
+      "death_tempo",
+      "vision_control",
+      "side_lane_recall",
+      "int_check_ganking",
+      "recall_tempo_hack",
+      "slow_bleed_game_closing",
+      "baron_clear_management",
+      "win_condition_identification"
+    ],
+    "champion_focus": [
+      "Udyr",
+      "Graves"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This in-depth guide covers essential jungle fundamentals for consistent climbing, targeting players from Platinum to Master. It teaches how to track the enemy jungler's pathing and options, manage tempo using \"camps up/down\" and \"uptime/downtime\" concepts, and prioritize high-percentage ganks and objectives. The video emphasizes making informed decisions after each play, adapting to team state, and effectively transitioning through mid and late game to secure win conditions.",
+    "key_timestamps": [
+      "0:00 - Introduction to jungle fundamentals for climbing.",
+      "1:16 - Fundamental 1: Downloading enemy jungler's pathing.",
+      "2:17 - Fundamental 2: Prioritizing ganks over scuttle crab.",
+      "3:28 - Fundamental 3: Mastering tempo with \"camps up vs camps down\" concept.",
+      "4:34 - Fundamental 4: Gathering information and pinging enemy jungler's options.",
+      "7:11 - Fundamental 5: Planning actions after your last camp and identifying objective windows.",
+      "8:28 - Importance of vision control (sweeper) for objective takes.",
+      "11:00 - Decision-making: \"Int check\" ganks and the \"recall tempo hack\".",
+      "13:44 - Fundamental 6: Recalling to a side lane after a play.",
+      "35:00 - Mid-game strategy: Uptime/downtime and playing around team's tempo.",
+      "40:19 - Late-game strategy: Using Baron to pressure and close out the game.",
+      "42:11 - Closing the game as a \"slow bleed\" by taking objectives in layers."
+    ]
+  },
+  {
+    "id": "CXv1fuU7tc8",
+    "url": "https://www.youtube.com/watch?v=CXv1fuU7tc8",
+    "title": "How to Outplay and Dominate the Enemy Jungler in League of Legends",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "tracking",
+      "jungle_tracking",
+      "macro",
+      "decision",
+      "mindset"
+    ],
+    "concepts": [
+      "enemy jungle tracking",
+      "punishing enemy mistakes",
+      "map awareness",
+      "objective trading",
+      "tempo management",
+      "counter-jungling",
+      "wave management",
+      "vision control"
+    ],
+    "champion_focus": [
+      "Graves",
+      "Kha'Zix"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches junglers how to gain a significant advantage by focusing on the enemy jungler's actions. Key strategies include 'map hacks' through vision and tracking, acting as the enemy jungler's 'biggest fan' to anticipate and punish their moves, and taking everything the enemy jungler leaves behind.",
+    "key_timestamps": [
+      "00:04 - Introduction to three key ways to impact the game by focusing on the enemy jungler.",
+      "01:50 - The importance of warding enemy camps for early map hacks.",
+      "02:46 - Using enemy jungle location to warn laners and prevent ganks.",
+      "04:07 - Punishing enemy jungler plays by being their 'biggest fan'.",
+      "06:08 - Camp mirroring and tracking spawn timers.",
+      "06:24 - Using process of elimination to determine enemy jungler's location.",
+      "08:04 - Trading objectives when the enemy jungler commits to one.",
+      "11:15 - Challenges in tracking when enemy jungler's path is unknown.",
+      "13:04 - Using enemy jungle sightings as a tempo advantage.",
+      "14:07 - Example of a successful trade after enemy commits to an objective.",
+      "22:42 - Inability to punish despite enemy death due to positioning.",
+      "23:35 - Incorporating the idea of reciprocal taking (you take from them, they take from you).",
+      "24:28 - The third concept: taking everything the enemy jungler has.",
+      "25:54 - Up time vs. down time and picking objectives.",
+      "26:39 - Being greedy and reacting to plays rather than initiating.",
+      "28:28 - Slow bleeding the enemy by pushing waves and focusing objectives.",
+      "29:30 - Playing safe when the team is elsewhere.",
+      "30:19 - Conclusion: Mogging the enemy jungler is possible even with losing lanes."
+    ]
+  },
+  {
+    "id": "H-HS7uHNoXE",
+    "url": "https://www.youtube.com/watch?v=H-HS7uHNoXE",
+    "title": "The #1 Rule To Improving At Jungle | Educational Gameplay Guide",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "decision",
+      "mindset",
+      "macro",
+      "ganking",
+      "objectives",
+      "jungle_tracking",
+      "pathing",
+      "tempo",
+      "win_condition"
+    ],
+    "concepts": [
+      "Don't blindly follow team pings",
+      "Tempo and downtime management",
+      "Process of elimination for jungle tracking",
+      "Flash tracking",
+      "Win condition identification and stacking",
+      "Translating early lead into victory",
+      "Objective prioritization (Drake, Baron, Grubs)",
+      "Turn-based tempo",
+      "Creating 'in check' situations (distraction ganks)",
+      "Efficient basing (empowered recall)",
+      "Lethality Jarvan build strategy",
+      "Splitting push with Baron buff",
+      "Not compensating for teammates' mistakes"
+    ],
+    "champion_focus": [
+      "Jarvan IV",
+      "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches junglers the paramount rule of not blindly following team pings, instead emphasizing independent decision-making based on game state, jungle tracking, and tempo. Coach Leo demonstrates how to identify and stack win conditions, prioritize objectives like Drake and Baron, and efficiently translate an early lead into a clean victory, even when teammates make mistakes. The core message revolves around understanding your 'turn' to make plays and maintaining a strong macro perspective.",
+    "key_timestamps": [
+      "0:00 - Introduction to the #1 rule: don't listen to Ivern's pings for a top dive.",
+      "0:03 - Explains why not to dive top: Cassiopeia's flash burned mid, creating a better gank opportunity.",
+      "0:31 - Coach Leo introduces himself as an ex-pro and challenger jungler.",
+      "0:54 - Discusses early game plan: enemy outscales, need to progress game, watch for Quinn invade.",
+      "1:43 - First mid gank attempt, burning Cassiopeia's flash.",
+      "2:02 - Tracking Quinn's location using process of elimination.",
+      "3:45 - Successful mid gank on Cassiopeia, reinforcing the 'don't dive top' rule.",
+      "4:45 - Tracking Quinn at scuttle, securing it and basing for tempo.",
+      "5:27 - Explains why an earlier Drake timer was bad (too risky, no smite).",
+      "6:18 - Demonstrates efficient basing after a successful gank and item spike.",
+      "7:16 - Discusses the decision-making process for taking Drake (can enemy make it back?).",
+      "9:14 - Explains a wasted move chasing instead of taking grubs/scuttle.",
+      "10:11 - Transition to mid-game: 'obliterate the game' by invading and fighting.",
+      "10:54 - Explains 'turn-based tempo' by not contesting grubs to make a play elsewhere.",
+      "11:36 - After enemy dies, immediately look for what to take in enemy jungle.",
+      "11:53 - Planning for next objective (Drake) and efficient base timing.",
+      "12:42 - How to translate lead: be involved in plays, create 'in check' situations.",
+      "13:09 - Taking Drake after a successful mid play, stacking win condition.",
+      "13:54 - Emphasizes farming quickly and utilizing downtime.",
+      "14:17 - Basing at the same time as Katarina to maintain tempo.",
+      "14:40 - Playing on the same side as strong teammates (Katarina) to push objectives.",
+      "15:44 - Playing lethality Jarvan and not blindly sending into fights.",
+      "18:47 - Prioritizing item buy over immediate Drake, then taking Drake and Baron.",
+      "19:02 - Step-by-step guide to closing out the game cleanly (objectives, towers, inhibs).",
+      "20:18 - Don't int with dying teammates; farm camps and maintain bounty.",
+      "21:57 - Securing Baron after Kale shows bot, demonstrating objective prioritization.",
+      "22:22 - How to translate lead and not throw: focus on objectives, not just kills.",
+      "23:26 - Splitting push with Baron buff to force enemy decisions.",
+      "24:26 - Skipping camps when ahead to push for game end.",
+      "25:53 - Not compensating for team dying, staying calm.",
+      "26:26 - Recognizing the strongest point of your champion to end the game."
+    ]
+  },
+  {
+    "id": "btOjeZ5Acsk",
+    "url": "https://www.youtube.com/watch?v=btOjeZ5Acsk",
+    "title": "How to Outplay Enemy Junglers with Fundamentals",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "tracking",
+      "jungle_tracking",
+      "macro",
+      "decision",
+      "adapting"
+    ],
+    "concepts": [
+      "tracking enemy jungler",
+      "responding to enemy jungler's actions",
+      "tempo management",
+      "decision making based on information",
+      "counter jungling",
+      "objective control",
+      "wave management",
+      "fight assessment"
+    ],
+    "champion_focus": [
+      "Nidalee",
+      "Nocturne",
+      "general"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video teaches junglers how to gain an advantage over their opponents by focusing on tracking the enemy jungler's movements and making informed decisions. Key takeaways include understanding tempo, reacting to map information, and adapting your strategy based on the enemy's actions to create a lead.",
+    "key_timestamps": [
+      "00:15 - Introduction to tracking and playing around the enemy jungler",
+      "01:31 - Using vision to gather information about enemy jungler's start",
+      "02:33 - Playing for bot crab and counter-ganking",
+      "03:05 - Tempo and base timing in response to enemy actions",
+      "05:35 - Tempo as a fundamental concept in jungling",
+      "07:10 - Tracking enemy jungler through move-base game analogy",
+      "08:03 - Making educated guesses about enemy jungler's location",
+      "09:36 - The importance of decisiveness even after a mistake",
+      "10:38 - Thinking about the next move on the last camp of a clear",
+      "13:37 - Checking enemy camps after a kill",
+      "19:00 - Assessing fight conditions (numbers, items, levels)",
+      "21:14 - Judging good vs. bad fights in the mid-game",
+      "23:30 - Entering enemy territory when the enemy jungler is dead",
+      "24:17 - Common mistakes: not grouping, overstaying",
+      "24:42 - Greeding to hit power spikes",
+      "25:36 - Closing out games with a slow choke",
+      "27:03 - Entering enemy camps during siege",
+      "29:51 - Reacting to map information and enemy jungler's actions"
+    ]
+  },
+  {
+    "id": "gUVtr--F2hM",
+    "url": "https://www.youtube.com/watch?v=gUVtr--F2hM",
+    "title": "Free Coaching From A Challenger Jungler: Most Common Mistakes Below Diamond",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "intermediate",
+      "ganking",
+      "decision",
+      "mindset",
+      "macro"
+    ],
+    "concepts": [
+      "decisive action",
+      "value of basing",
+      "tempo",
+      "map awareness",
+      "summoner spell tracking",
+      "rigid vs flexible pathing",
+      "risk assessment",
+      "farming efficiency",
+      "playing around enemy mistakes",
+      "mental fortitude",
+      "understanding win conditions"
+    ],
+    "champion_focus": [
+      "Rengar",
+      "Viego"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video provides free coaching to a League of Legends jungler, focusing on common mistakes made by players below Diamond. The coach emphasizes the importance of decisive decision-making, adapting pathing based on game state and gold, and maintaining strong map awareness. Key takeaways include understanding tempo, tracking summoner spells, and developing a flexible mindset rather than adhering to rigid strategies.",
+    "key_timestamps": [
+      "00:00 - Importance of making the most of bad situations and staying locked in.",
+      "01:18 - Decisiveness in plays, even if the choice is suboptimal.",
+      "02:02 - Value of basing when holding significant gold.",
+      "03:07 - Tempo and risk assessment when contesting objectives.",
+      "04:04 - Importance of tracking summoner spells (flash, exhaust) for gank opportunities.",
+      "05:31 - Chat is only relevant for summoner spell information.",
+      "06:06 - Avoiding rigid game plans and adapting Rengar's playstyle.",
+      "08:37 - Assessing strength relative to the enemy jungler for aggressive plays.",
+      "10:08 - Squeezing more value out of the game through efficient farming and map control.",
+      "11:32 - Prioritizing gold and XP over rigid pathing.",
+      "13:39 - Understanding when you are stronger than the enemy and can take aggressive fights.",
+      "14:46 - Recognizing when you are the predator, not the prey.",
+      "21:11 - Sometimes doing nothing and full clearing is the correct play.",
+      "23:21 - Sitting in a bush to wait for enemy mistakes as an assassin.",
+      "24:24 - Creative freedom and judgment are key for assassins like Rengar.",
+      "25:50 - Knowing when to be aggressive and when to play safe based on map state.",
+      "26:38 - Looking at the map and understanding numbers advantage is crucial.",
+      "27:58 - Ignoring toxic teammates and focusing on your own climb.",
+      "28:15 - Smurfing effectively means handicapping yourself by not caring about team flaming."
+    ]
+  },
+  {
+    "id": "G_fUH6xp2As",
+    "url": "https://www.youtube.com/watch?v=G_fUH6xp2As",
+    "title": "League of Legends Jungle Fundamentals for Winning Doomed Games",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "decision",
+      "mindset",
+      "macro",
+      "adapting",
+      "intermediate"
+    ],
+    "concepts": [
+      "playing from behind",
+      "minimizing losses",
+      "trading objectives",
+      "recognizing enemy mistakes",
+      "not compensating",
+      "taking small wins",
+      "jungle pathing when behind",
+      "mental fortitude"
+    ],
+    "champion_focus": [
+      "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches essential jungle fundamentals for turning around seemingly lost games. It emphasizes adapting your playstyle when behind, focusing on minimizing losses, trading objectives, waiting for enemy mistakes, and maintaining a strong mental game to capitalize on opportunities.",
+    "key_timestamps": [
+      "00:00 - Introduction to playing from behind in a losing game.",
+      "01:17 - Importance of knowing how to play from behind.",
+      "01:43 - The 70/15/15 rule of ranked games.",
+      "03:38 - Example of a misplay and dying early.",
+      "05:05 - Key fundamentals: minimizing habits, trading, playing with numbers advantage, waiting for mistakes.",
+      "06:01 - Difference between playing from ahead and behind: fewer opportunities.",
+      "07:13 - Minimizing: avoiding risky plays like contesting scuttle when behind.",
+      "08:06 - Careful camp clearing and pulling camps away from potential invades.",
+      "09:09 - Playing with a numbers advantage and making calculated risks.",
+      "10:09 - Taking objectives like grubs even when behind, based on enemy tempo.",
+      "11:33 - Embracing punishment of bad habits by good players as a learning opportunity.",
+      "12:42 - Taking small wins instead of forcing big plays.",
+      "13:06 - Capitalizing on an enemy mistake (Nidalee flash).",
+      "14:00 - Trading objectives: giving up a tower to gain map control elsewhere.",
+      "16:12 - Importance of maintaining tempo and farming even when behind.",
+      "16:33 - Enemy overconfidence as an opportunity to punish.",
+      "17:33 - Not chasing kills and basing to buy items after securing a lead.",
+      "19:41 - The three pillars of decision-making: Trade, Minimize, Match.",
+      "20:31 - Chilling and waiting for enemy mistakes instead of forcing plays.",
+      "20:46 - Trading objectives again: giving Drake for a kill.",
+      "21:18 - Losing the game but emphasizing the importance of having a chance to win.",
+      "21:41 - The ultimate comeback play with a numbers advantage.",
+      "22:24 - Acknowledging that you can still lose games despite playing well."
+    ]
+  },
+  {
+    "id": "OVE0qFs7PS0",
+    "url": "https://www.youtube.com/watch?v=OVE0qFs7PS0",
+    "title": "3 Core Jungle Principles for Easy Climbing: Tempo, Information, Execution",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "basics",
+      "early_game",
+      "macro",
+      "decision",
+      "mindset"
+    ],
+    "concepts": [
+      "tempo",
+      "information_gathering",
+      "execution",
+      "clear_speed",
+      "base_timers",
+      "minimap_awareness",
+      "click_and_pan",
+      "decision_making",
+      "adapting",
+      "win_condition",
+      "closing_out_games"
+    ],
+    "champion_focus": [
+      "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video breaks down jungling into three core principles: tempo (how you use your time), information gathering (how you make decisions), and execution (how you fight or gank). The coach emphasizes that mastering these fundamentals is key to consistent climbing, regardless of your current rank or win/loss streak.",
+    "key_timestamps": [
+      "00:25 - Defines tempo as how we use our time.",
+      "00:29 - Defines information gathering as how we make decisions.",
+      "00:33 - Defines execution as how we fight or gank.",
+      "01:22 - Discusses tempo and clear speed.",
+      "02:05 - Explains camps up vs. camps down in relation to tempo.",
+      "02:24 - Discusses base timers and maximizing tempo.",
+      "02:41 - Explains information gathering through minimap, panning, and chat.",
+      "03:03 - Introduces execution as the final key principle.",
+      "03:36 - Demonstrates information gathering and adaptation.",
+      "05:30 - Introduces the 'click and pan' concept for information gathering.",
+      "06:23 - Discusses 'spare time' or downtime between camps.",
+      "07:48 - Emphasizes farming when in doubt.",
+      "08:15 - Moves from tempo fundamentals to information gathering.",
+      "08:47 - Explains why not to force plays if not 100% certain.",
+      "10:15 - Stresses being decisive in decision-making.",
+      "10:38 - Discusses decision-making after clearing camps.",
+      "11:00 - Warns against pathing straight to objectives without proper setup.",
+      "11:11 - Explains weak side vs. strong side fundamentals.",
+      "12:18 - Mentions testing limits and adapting.",
+      "13:15 - Discusses how to approach fights when ahead.",
+      "15:00 - Explains how to track the enemy jungler.",
+      "16:00 - Discusses jungle pathing and adapting to enemy jungler.",
+      "17:00 - Explains how to use vision to track the enemy jungler.",
+      "18:00 - Discusses counter-jungling and invading.",
+      "19:00 - Explains how to play around objectives.",
+      "20:00 - Discusses objective control and trading.",
+      "21:00 - Explains how to play mid-game macro.",
+      "22:00 - Discusses grouping and wave management.",
+      "23:00 - Explains how to play around power spikes.",
+      "24:00 - Discusses teamfighting fundamentals.",
+      "25:00 - Explains how to position in teamfights.",
+      "26:00 - Discusses closing out games.",
+      "27:31 - Admits to a misplay in execution.",
+      "28:03 - Discusses closing out games and objectives.",
+      "29:02 - Emphasizes clearing vision before objectives.",
+      "30:09 - Describes a standoff situation.",
+      "31:18 - Advises to let towers drop if necessary and farm camps.",
+      "32:00 - Discusses the nature of League of Legends and unwinnable games.",
+      "33:05 - Playing off of a fed carry (Draven).",
+      "34:05 - Quality over quantity in pings.",
+      "34:49 - Don't compensate for allies' mistakes.",
+      "35:04 - Encourages viewers to learn and engage."
+    ]
+  },
+  {
+    "id": "dJvCEuOb9cU",
+    "url": "https://www.youtube.com/watch?v=dJvCEuOb9cU",
+    "title": "League of Legends Jungle Coaching: Mastering Tempo and Decision Making to Reach Diamond",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "intermediate",
+      "early_game",
+      "macro",
+      "decision",
+      "mental"
+    ],
+    "concepts": [
+      "efficient basing",
+      "tempo management",
+      "mental stack optimization",
+      "information gathering",
+      "maximizing time",
+      "objective prioritization",
+      "int check",
+      "up time vs down time",
+      "objective contesting",
+      "wave management for objectives"
+    ],
+    "champion_focus": [
+      "Skarner",
+      "Akali",
+      "Yone",
+      "Aatrox",
+      "Nefari",
+      "Jinx",
+      "Lulu",
+      "Malphite"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This jungle coaching session focuses on fundamental concepts crucial for climbing, emphasizing efficient basing, tempo management, and optimizing mental capacity. The coach teaches how to maximize time by making better decisions around camps, objectives, and recalls, ultimately aiming to improve macro play and decision-making skills.",
+    "key_timestamps": [
+      "00:07 - Explains efficient basing and tempo.",
+      "00:34 - Discusses matching enemy tempo when ahead.",
+      "01:51 - Stresses the importance of mental stack and focus.",
+      "04:01 - Identifies missing critical information (enemy jungler's pathing).",
+      "05:01 - Links mental stack to decision-making and thinking ahead.",
+      "06:11 - Learning objective: maximizing time.",
+      "06:41 - Fundamental of basing when efficient.",
+      "07:54 - Never sit on two charges of smite.",
+      "08:13 - Suggests focused learning over playing many games.",
+      "09:31 - Discusses what to do when there's no objective play.",
+      "10:34 - Introduces the 'int check' for optimal recall timing and positioning.",
+      "12:22 - Learning objective: maximizing time (recall timer, location).",
+      "13:06 - Thinking bigger when recalling.",
+      "33:53 - Discusses up time vs down time and matching enemy movements.",
+      "34:35 - Playing 'up time' and having something to play for.",
+      "35:22 - Objective assessment: strength vs enemy before starting.",
+      "35:49 - Up time vs down time revisited.",
+      "37:33 - Better way to handle objective commitment: pushing a lane.",
+      "38:31 - Up time begins when everyone is present.",
+      "39:31 - Focus on improvement over LP.",
+      "40:04 - Focus on how well specific concepts were executed, not just the result."
+    ]
+  },
+  {
+    "id": "a6UyD-hZZgY",
+    "url": "https://www.youtube.com/watch?v=a6UyD-hZZgY",
+    "title": "Climbing as a Jungler with God-Like Decision Making",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "decision",
+      "macro",
+      "mindset",
+      "early_game",
+      "mid_game"
+    ],
+    "concepts": [
+      "decision-making",
+      "information_gathering",
+      "minimap_awareness",
+      "summoner_spell_tracking",
+      "processing_information",
+      "judgement",
+      "decisiveness",
+      "objectivity",
+      "empty_mental_stack",
+      "match_trade_minimize",
+      "uptime_downtime",
+      "objective_play",
+      "mini_objectives",
+      "click_and_pan_habit"
+    ],
+    "champion_focus": [
+      "zac",
+      "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches junglers how to improve their decision-making by focusing on information gathering and processing. Key takeaways include maximizing minimap awareness, tracking summoner spells, maintaining an empty mental stack, and applying the match, trade, and minimize principles.",
+    "key_timestamps": [
+      "00:05 - Introduction to climbing with god-like decision making",
+      "00:14 - Three pillars of jungling: tempo, decision-making, execution",
+      "00:35 - Decision-making relies on judgement and repetition",
+      "01:01 - Importance of decision-making for Plat/Emerald/Diamond players",
+      "02:20 - Decision-making comes down to information gathering and processing",
+      "02:29 - Minimap awareness is crucial (70% of information)",
+      "03:29 - Importance of tracking chat and summoner spells",
+      "04:27 - Processing information into decisions: judgement, decisiveness, objectivity",
+      "05:02 - Empty mental stack: freeing up processing power",
+      "06:14 - Match, trade, and minimize principles",
+      "09:49 - The 'click and pan' habit for information gathering while moving",
+      "11:17 - Example of Kha'Zix invade and reacting",
+      "12:00 - Applying match, trade, or minimize to scuttle crab decision",
+      "13:00 - Reiteration of chat and summoner spell importance",
+      "27:29 - Thinking about uptime",
+      "27:51 - Switching to objectives after winning a fight",
+      "28:10 - Playing downtime",
+      "29:17 - Uptime: when the team is pushing",
+      "30:00 - Breaking fundamentals with information",
+      "30:52 - Nuances and lull phases in the game",
+      "31:35 - Click and pan still relevant in mid-game",
+      "32:01 - Making a mistake by not being objective",
+      "32:26 - Matching the Baron objective",
+      "33:18 - What to do after winning a fight: objectives, camps, downtime",
+      "34:07 - Focus on improvement, not LP"
+    ]
+  },
+  {
+    "id": "0Avxo9bDMHM",
+    "url": "https://www.youtube.com/watch?v=0Avxo9bDMHM",
+    "title": "Mastering Jungle Tempo and Information Gathering for Consistent Climbing",
+    "coach": "JungleGapGG",
+    "channel": "JungleGapGG",
+    "tags": [
+      "fundamentals",
+      "macro",
+      "decision",
+      "mid_game",
+      "late_game",
+      "clearing",
+      "ganking"
+    ],
+    "concepts": [
+      "tempo",
+      "information_gathering",
+      "click_and_pan",
+      "decision_making",
+      "objective_control",
+      "map_awareness",
+      "resource_management",
+      "up_time_vs_down_time"
+    ],
+    "champion_focus": [
+      "general",
+      "Nocturne",
+      "Shyvana",
+      "Briar",
+      "Ahri",
+      "Ezreal",
+      "Sona",
+      "Xerath",
+      "Yorick",
+      "Caitlyn",
+      "Fiora",
+      "Jhin"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches that the two core pillars of successful jungling are tempo and information gathering. By mastering how to use your time effectively and constantly gathering information through map awareness and camera panning, you can make better decisions and climb consistently.",
+    "key_timestamps": [
+      "00:10 - Introduces tempo and information gathering as the two key pillars.",
+      "01:26 - Explains mini-map prompts and health bars as information sources.",
+      "02:03 - Defines 'click and pan' for efficient camera usage while moving.",
+      "02:53 - Discusses using 'spare time' for advantageous plays like ganks.",
+      "04:45 - Emphasizes practicing information gathering as a core skill.",
+      "06:30 - Illustrates the flow of the game using tempo and spare time.",
+      "07:00 - Links information gathering to making decisive calls.",
+      "10:27 - Highlights reacting quickly to information.",
+      "13:11 - Enemy team abuses a false sense of security.",
+      "16:46 - Discusses closing out games with tempo and information.",
+      "17:15 - Click and pan for team fights and objective control.",
+      "21:46 - Closing the game is about up time, down time, and knowing when to 'sink'.",
+      "23:39 - Fundamentals apply to every game for consistency."
+    ]
+  },
+  {
+    "id": "EITHK7DaAoc",
+    "url": "https://www.youtube.com/watch?v=EITHK7DaAoc",
+    "title": "Retired Pro Explains Key Jungle Fundamentals",
+    "coach": "PerryJG",
+    "channel": "PerryJG",
+    "tags": [
+      "fundamentals",
+      "basics",
+      "mental",
+      "mindset",
+      "tracking",
+      "vision"
+    ],
+    "concepts": [
+      "one_tricking",
+      "mmr_vs_lp",
+      "dodging",
+      "skill_development",
+      "tilt_management",
+      "growth_mindset",
+      "death_reduction"
+    ],
+    "champion_focus": [
+      "Ekko",
+      "Viego",
+      "Hecarim",
+      "Bel'Veth",
+      "Jarvan IV"
+    ],
+    "difficulty": "intermediate",
+    "summary": "A comprehensive guide to jungle fundamentals and climbing solo queue, taught by a retired pro coach. The video covers the importance of one-tricking, how to manage MMR through dodging, focusing on specific skill development, and maintaining a practical, tilt-free mindset when dealing with teammates."
+  },
+  {
+    "id": "3838W8osA8Q",
+    "url": "https://www.youtube.com/watch?v=3838W8osA8Q",
+    "title": "Advanced Jungle Fundamentals: Tracking, Pathing, and Mid-Game Macro with PerryJG",
+    "coach": "PerryJG",
+    "channel": "PerryJG",
+    "tags": [
+      "fundamentals",
+      "advanced",
+      "pathing",
+      "jungle_tracking",
+      "objectives",
+      "mid_game",
+      "macro",
+      "mindset"
+    ],
+    "concepts": [
+      "fog_of_war_tracking",
+      "cs_tracking",
+      "bot_lane_pathing_priority",
+      "objective_trading",
+      "mid_game_macro",
+      "dragon_soul_tier_list"
+    ],
+    "champion_focus": [
+      "Jarvan IV",
+      "Xin Zhao",
+      "Evelyn",
+      "Brand",
+      "Nidalee",
+      "Viego",
+      "Hecarim"
+    ],
+    "difficulty": "advanced",
+    "summary": "In this advanced coaching session, retired pro PerryJG explains high-level jungle tracking, optimal pathing strategies, and mid-game macro. He details how to read enemy movement in fog of war, track CS to determine camp clears, and prioritize bot-side pathing for dragon control, concluding with a community Q&A."
+  },
+  {
+    "id": "Hrm5aO3bkUM",
+    "url": "https://www.youtube.com/watch?v=Hrm5aO3bkUM",
+    "title": "Retired Pro's Jungle Course: Mid Game Macro & Fighting",
+    "coach": "PerryJG",
+    "channel": "PerryJG",
+    "tags": [
+      "fundamentals",
+      "mid_game",
+      "macro",
+      "teamfighting",
+      "objectives",
+      "tracking",
+      "decision"
+    ],
+    "concepts": [
+      "number_tracking",
+      "holding_cooldowns",
+      "mid_game_transition",
+      "objective_prioritization",
+      "minimizing_deaths"
+    ],
+    "champion_focus": [
+      "Diana",
+      "Graves",
+      "Kayn",
+      "Viego"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video focuses on mid-game macro, skirmishing, and teamfighting fundamentals for junglers. Coach Perry explains how to leverage early-game leads, track numbers on the map, hold key cooldowns during invades, and make disciplined decisions to minimize deaths."
+  },
+  {
+    "id": "XxsO-qhRzt0",
+    "url": "https://www.youtube.com/watch?v=XxsO-qhRzt0",
+    "title": "Retired Pro's Jungle Course: Pings Guide & Analyzing Teammates",
+    "coach": "PerryJG",
+    "channel": "PerryJG",
+    "tags": [
+      "fundamentals",
+      "mental",
+      "mindset",
+      "tracking",
+      "objectives",
+      "decision"
+    ],
+    "concepts": [
+      "ping_communication",
+      "teammate_analysis",
+      "jungle_tracking",
+      "objective_coordination",
+      "mental_management"
+    ],
+    "champion_focus": [
+      "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video covers the essential fundamentals of using pings effectively to communicate and coordinate with teammates without using chat. Coach PerryJG explains which pings to use (and which to avoid), how to guide teammates' movements on the map, and how to analyze teammate behavior to make better macro decisions."
+  },
+  {
+    "id": "eGAo2xy8Yh8",
+    "url": "https://www.youtube.com/watch?v=eGAo2xy8Yh8",
+    "title": "Retired Pro's Jungle Course: How to VOD Review & Train your Mental",
+    "coach": "PerryJG",
+    "channel": "PerryJG",
+    "tags": [
+      "fundamentals",
+      "mental",
+      "mindset",
+      "decision",
+      "macro"
+    ],
+    "concepts": [
+      "vod_review",
+      "mental_discipline",
+      "death_analysis",
+      "decision_making",
+      "lp_detachment",
+      "pattern_recognition"
+    ],
+    "champion_focus": [
+      "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video teaches players how to effectively VOD review their games and develop a disciplined 'monk mental' to climb the ranks. Coach PerryJG explains how to perform death reviews by asking critical questions about risk and positioning, and how to use note-taking to identify gameplay patterns rather than focusing on LP or rank."
+  },
+  {
+    "id": "X-3sHPnDSVM",
+    "url": "https://www.youtube.com/watch?v=X-3sHPnDSVM",
+    "title": "The Ultimate Jungle Fundamentals Cheatsheet (Rank-by-Rank Guide)",
+    "coach": "PerryJG",
+    "channel": "PerryJG",
+    "tags": [
+      "fundamentals",
+      "basics",
+      "mindset",
+      "pathing",
+      "objectives",
+      "macro",
+      "ganking"
+    ],
+    "concepts": [
+      "weak_side_to_strong_side",
+      "jungle_thought_process",
+      "character_control",
+      "wave_manipulation",
+      "tempo",
+      "objective_setup",
+      "resource_management"
+    ],
+    "champion_focus": [
+      "general"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video provides a comprehensive overview of Coach Perry's jungle fundamentals cheatsheet, broken down by rank from Iron to Masters+. It teaches players how to develop a structured thought process, optimize clear speeds, understand wave states, manage tempo, and secure objectives without coin-flipping."
+  },
+  {
+    "id": "vgO0qtIMLxI",
+    "url": "https://www.youtube.com/watch?v=vgO0qtIMLxI",
+    "title": "Free In-Depth Ganking Guide - Ganking 101",
+    "coach": "PerryJG",
+    "channel": "PerryJG",
+    "tags": [
+      "fundamentals",
+      "pathing",
+      "early_game",
+      "ganking",
+      "dive",
+      "vision",
+      "tracking"
+    ],
+    "concepts": [
+      "wave_state_ganking",
+      "vision_dodging",
+      "fog_of_war_patience",
+      "tower_diving",
+      "information_gathering",
+      "gank_positioning"
+    ],
+    "champion_focus": [
+      "general",
+      "Kindred",
+      "Warwick",
+      "Wukong"
+    ],
+    "difficulty": "intermediate",
+    "summary": "This video provides an in-depth guide to ganking, focusing on how to use wave states, vision dodging, and positioning to execute successful plays. Coach PerryJG explains how to gather crucial information before a gank, how to path around common ward locations, and the fundamentals of executing patient tower dives to deny the enemy team waves of gold and experience."
+  },
+  {
+    "id": "DsrE9FjG4CI",
+    "url": "https://www.youtube.com/watch?v=DsrE9FjG4CI",
+    "title": "How to Snowball Correctly and Maintain Tempo as Jarvan IV",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
+    "tags": [
+      "early_game",
+      "pathing",
+      "macro",
+      "objectives",
+      "dragon",
+      "matchup",
+      "decision"
+    ],
+    "concepts": [
+      "tempo_management",
+      "snowballing",
+      "skipping_objectives_for_tempo",
+      "invading",
+      "punishing_weak_clears"
+    ],
+    "champion_focus": [
+      "Jarvan IV",
+      "Rengar",
+      "Lillia"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video teaches players how to properly snowball an early lead by prioritizing tempo and map pressure over slow objective takes like early dragons. Coach Veigarv2 analyzes a Jarvan IV vs. Rengar matchup, demonstrating how stopping to solo a dragon allows a shut-down enemy jungler to recover and get back into the game."
+  },
+  {
+    "id": "nUj5jTffVHY",
+    "url": "https://www.youtube.com/watch?v=nUj5jTffVHY",
+    "title": "Nocturne vs Jarvan IV Jungle Coaching: Mental Management, Pathing, and Punishing Tempo",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
+    "tags": [
+      "mental",
+      "pathing",
+      "early_game",
+      "matchups",
+      "macro",
+      "tracking"
+    ],
+    "concepts": [
+      "mental_management",
+      "level_1_invading",
+      "level_6_rush",
+      "tempo_punishment",
+      "vertical_jungling"
+    ],
+    "champion_focus": [
+      "Nocturne",
+      "Jarvan IV",
+      "Viego"
+    ],
+    "difficulty": "advanced",
+    "summary": "This coaching session for a high-Master/Grandmaster player begins with an in-depth discussion on mental health, burnout, and how to break the cycle of tilting in solo queue. Coach Veigarv2 then breaks down early-game pathing, explaining how to optimize Nocturne's clear to reach level 6 quickly, execute level 1 raptor invades, and aggressively punish the enemy jungler's bad tempo rather than autopiloting back to friendly camps."
+  },
+  {
+    "id": "k9oVRFFB0KI",
+    "url": "https://www.youtube.com/watch?v=k9oVRFFB0KI",
+    "title": "How to Review Your Own Games & Disrupt Enemy Tempo | Challenger Coaching with Veigarv2",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
+    "tags": [
+      "advanced",
+      "pathing",
+      "early_game",
+      "macro",
+      "mindset",
+      "adapting",
+      "matchups",
+      "jungle_tracking"
+    ],
+    "concepts": [
+      "self_review",
+      "tempo_disruption",
+      "level_1_invade",
+      "loading_screen_analysis",
+      "lane_matchup_assessment"
+    ],
+    "champion_focus": [
+      "Udyr",
+      "Elise",
+      "Trundle"
+    ],
+    "difficulty": "advanced",
+    "summary": "This video guides players on how to effectively self-review their games, focusing on formulating early game plans during the loading screen and adapting pathing to match lane volatility. It also introduces the advanced concept of tempo disruption, demonstrating how to delay enemy recalls and stall their map pressure to create opportunities for your team."
+  },
+  {
+    "id": "udRQpsM9C1M",
+    "url": "https://www.youtube.com/watch?v=udRQpsM9C1M",
+    "title": "Coaching to Challenger: How to Deal with Invades & Adapt Pathing (Lillia vs Shaco)",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
+    "tags": [
+      "advanced",
+      "pathing",
+      "early_game",
+      "jungle_tracking",
+      "mindset",
+      "adapting",
+      "matchups"
+    ],
+    "concepts": [
+      "invade_defense",
+      "level_1_strategy",
+      "tempo_management",
+      "camp_kiting",
+      "limit_testing",
+      "vod_review"
+    ],
+    "champion_focus": [
+      "Lillia",
+      "Shaco"
+    ],
+    "difficulty": "advanced",
+    "summary": "This coaching session focuses on how to handle early-game invades and adapt your pathing when playing as Lillia against an aggressive Shaco. Coach Veigarv2 explains the importance of level 1 box-clearing strategies, kiting camps to safety, and maintaining tempo even after losing flash. Additionally, they discuss high-elo mindset, efficient VOD review habits, and limit-testing with tankier item builds."
+  },
+  {
+    "id": "02zAEPZFnlM",
+    "url": "https://www.youtube.com/watch?v=02zAEPZFnlM",
+    "title": "COACHING TO CHALLENGER w/ @veigarv2 – Part 4 | Early Game Mistakes | Jarvan/Dianna – Master Elo",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
+    "tags": [],
+    "concepts": [],
+    "champion_focus": [
+      "general"
+    ]
+  },
+  {
+    "id": "CZzzvi-MT_M",
+    "url": "https://www.youtube.com/watch?v=CZzzvi-MT_M",
+    "title": "COACHING TO CHALLENGER w/  @veigarv2 – Part 3 | Finding Patterns TO FIX | Kha Zix – Master Elo",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
+    "tags": [],
+    "concepts": [],
+    "champion_focus": [
+      "general"
+    ]
+  },
+  {
+    "id": "EzobGuCUDl4",
+    "url": "https://www.youtube.com/watch?v=EzobGuCUDl4",
+    "title": "COACHING TO CHALLENGER w/ @veigarv2  – Part 2 | Fixing My Biggest Mistakes",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
+    "tags": [],
+    "concepts": [],
+    "champion_focus": [
+      "general"
+    ]
+  },
+  {
+    "id": "QMPOEhDpi5s",
+    "url": "https://www.youtube.com/watch?v=QMPOEhDpi5s",
+    "title": "Challenger Coach EXPOSES My Mistakes – @veigarv2 Coaching",
+    "coach": "Veigarv2",
+    "channel": "Veigarv2_Coaching",
     "tags": [],
     "concepts": [],
     "champion_focus": [

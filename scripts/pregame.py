@@ -22,10 +22,17 @@ def main():
     parser.add_argument("--enemy", required=True, help="Enemy 5 champions, comma-separated (Top,Jgl,Mid,Bot,Sup)")
     parser.add_argument("--notes", default=None, help="Optional context (e.g. 'enemy top is a one-trick')")
     parser.add_argument("--no-save", action="store_true", help="Print only, don't save to data/pregame/")
+    parser.add_argument("--show-prompt", action="store_true",
+                        help="Print the assembled prompt and exit (no LLM call)")
     args = parser.parse_args()
 
     ours = args.ours.split(",")
     enemy = args.enemy.split(",")
+
+    if args.show_prompt:
+        from app.pregame import build_pregame_prompt
+        print(build_pregame_prompt(ours, enemy, args.notes))
+        return
 
     print("Generating game plan (1 LLM call)...")
     card = run_pregame(ours, enemy, args.notes)

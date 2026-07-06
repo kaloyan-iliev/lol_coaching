@@ -4,6 +4,11 @@
 [README](../README.md) (usage hub) · [BUSINESS_PLAN](BUSINESS_PLAN.md) (monetization) ·
 [ROADMAP](../ROADMAP.md) · [DATA_DICTIONARY](DATA_DICTIONARY.md) · [CSV_TABLES_GUIDE](CSV_TABLES_GUIDE.md)*
 
+> **Update 2026-07-04:** multi-coach KB (per-coach bible subsets, disagreement
+> report), account-recap feature, yt-dlp transcript fallback, promo playbook —
+> see [SESSION_2026-07-04.md](SESSION_2026-07-04.md) for state, blockers
+> (Riot key expired, YouTube 429) and the exact next commands.
+
 ---
 
 ## 1. What this project is, in one paragraph
@@ -29,18 +34,25 @@ expires every 24h (regenerate at developer.riotgames.com; all fetch jobs resume)
 | Browse a game's raw data as spreadsheets | `... scripts\export_game_csv.py --match EUW1_xxx` → `data/csv/{id}/` (8 tables) |
 | Ask the knowledge base a question (with YouTube citations) | `... scripts\ask_transcripts.py "when do I invade?"` |
 | Web UI (screenshot coach / Q&A / pregame) | `.venv\Scripts\python.exe -m streamlit run app\streamlit_app.py` |
+| **Recap my last N games (patterns + drafts)** | `... scripts\account_recap.py --riot-id "..." --games 20 --drafts 5` |
+| Review the whole video library + pipeline status | `... scripts\video_catalog.py` → `data/video_catalog.csv` |
+| Ingest picked videos end-to-end | `... scripts\ingest_videos.py ID1 ID2 --coach X [--regen]` |
+| Per-coach bible / disagreement report | `... generate_jungle_bible.py --coaches X` / `... scripts\coach_compare.py` |
 | Grow the baseline | `... scripts\riot_fetch_baseline.py --target N` then `riot_build_baseline.py` |
-| Add a new coach's channel | `channel_scan.py <url> --coach X` → `--list X` → `--select ids --coach X` → extract → tag → `generate_jungle_bible.py --incremental` |
+| Add a new coach's channel | `channel_scan.py <url> --coach X` → `--list X` → `--select ids --coach X` (or use `ingest_videos.py`) |
 | Teach the AI my principles | edit `knowledge/house_rules.md` (HR ids; overrides everything) |
 | Sanity-check data after a patch | `... scripts\audit_data_dictionary.py --check` and `riot_build_baseline.py --validate` |
 
 Three data layers per game: raw (`data/riot/matches|timelines/`), parsed facts
 (`data/riot/facts/`), readable (fact sheet embedded in `data/reviews/{id}.md`).
 
-**Assets on disk:** 50 validated Master+ EUW Ekko-jungle games (16 Chall/19 GM/15 Master,
-patches 16.12–13) + `baseline_ekko.json` quartiles · Jungle Bible ~31k tokens from 38
-KireiLoL videos · JungleGapGG channel scanned (256 videos, none selected yet) · reviews of
-2 of the user's games · git remote: github.com/kaloyan-iliev/lol_coaching (up to date).
+**Assets on disk (2026-07-05):** 500 Master+ EUW jungler-games (250 matches, patches
+16.12–13) → `baselines/_generic.json` (n=500) + 22 per-champion baselines (Ekko n=55) ·
+Jungle Bible ~34k words from **93 videos / 3 coaches** + per-coach subset bibles +
+`coach_disagreements.md` · video catalog `data/video_catalog.csv` (2,052 rows, 7
+channels/playlists incl. PerryJG 1,236 + Veigarv2 8, unselected) · 20-game account recap
++ smurf review validated · KB curation policy in `docs/KB_STRATEGY.md` · git remote:
+github.com/kaloyan-iliev/lol_coaching (**local work uncommitted — commit next session**).
 
 ## 3. Key insights from Riot game data (hard-won; don't rediscover)
 
@@ -53,7 +65,7 @@ damage arrays, items, wards, plates, objectives, skill-ups). Full map: DATA_DICT
 **What we exploit:** clear-path reconstruction (respawn-guarded camp inference), deaths with
 numbers/zone/enemy-jungler-position/unspent-gold context, gank + counter-jungle heuristics,
 teamfight clustering with numbers per side, team-gold momentum swings with event drivers,
-exact challenge stats, draft comps, per-champion baselines (Ekko n=50).
+exact challenge stats, draft comps, per-champion baselines (generic n=500; Ekko n=55).
 
 **What the API can NOT give (hard limits):** positions only every 60s (no kiting/micro);
 no smite, no camp-kill, no summoner-spell events; no ward positions; no wave states; no
@@ -104,9 +116,9 @@ attribution / rev-share) BEFORE public launch.**
    noisy at tails; patch drift will silently skew it — needs a freshness policy.
 4. **Numbers-at-fight from 60s snapshots** can misstate a fight's true numbers (players
    move a lot in 60s). Labeled heuristic, but users will quote it as fact.
-5. **The knowledge base is one coach deep.** 38/38 videos are KireiLoL; "when coaches
-   disagree" synthesis never fires; JungleGapGG is scanned but not ingested. The moat is
-   shallow until 2–3 coach perspectives are in.
+5. ~~The knowledge base is one coach deep~~ **FIXED 2026-07-05**: 3 coaches ingested,
+   per-coach subset bibles + disagreement report exist. Still KireiLoL-heavy (78/93) —
+   the curation pass on PerryJG/Veigarv2 rebalances it (see docs/KB_STRATEGY.md).
 6. **house_rules.md has 2 rules.** The whole grounding architecture leans on a file the
    user hasn't invested in yet. Every review disagreement should become a rule.
 7. **No automated tests** beyond the `--validate` cross-checks; no CI. The service
@@ -115,13 +127,17 @@ attribution / rev-share) BEFORE public launch.**
    all 3 modes never done. `discord_bot.py` is the stale single-user version.
 9. **sys.path.insert hacks everywhere** instead of a proper package — works, but will bite
    during the service extraction; fix as part of M1, not before.
-10. **LLM single-dependency**: `gemini-2.5-flash` hardcoded as default; deprecation or
-    price change is a real 2026 risk. The provider abstraction exists — keep it honest.
+10. ~~LLM single-dependency~~ **FIXED 2026-07-05**: default `gemini-3-flash-preview`
+    with a fallback chain, `--model` flags everywhere, and OpenRouter as a second
+    provider (`$env:LLM_PROVIDER='openrouter'`). Quota reality on this project:
+    **20 req/day per model on ALL Gemini models** + 250k input-tokens/min; OpenRouter
+    free = 50 req/day. `GEMINI_PAID_API_KEY` exists in .env, deliberately unwired.
 11. **Prioritization quality is unmeasured.** The tripwire proves reviews don't invent
     facts, but nothing measures whether the Top-3 mistakes are the RIGHT top-3. Only the
     user's VOD judgment can calibrate this — do it for 5 games and log disagreements.
-12. **Free-tier fetch throughput** makes baseline growth slow (1 day/50 games); fine
-    personally, needs the two-junglers-per-match trick (planned M7) for product scale.
+12. ~~Free-tier fetch throughput~~ **DONE 2026-07-05**: two-junglers-per-match trick
+    delivered n=500 + 22 per-champion baselines in one overnight fetch (M7 gate
+    effectively met).
 
 ## 7. Open questions / things to verify next session
 
@@ -143,11 +159,14 @@ attribution / rev-share) BEFORE public launch.**
 4. Review 3–5 of your own games with the tool and turn every disagreement into a house rule.
 
 **Technical (in order):**
+0. **KB curation pass + golden-question eval set** (see docs/KB_STRATEGY.md §1/§3 and
+   ROADMAP next-steps 1–2) — cheap, unblocks quality measurement before more scale.
 1. **M1 service extraction** (started conceptually, no code yet): `service/` package —
    db.py (SQLite WAL + migrations), quota.py, riot_pool.py (shared per-host limiters),
    review_service.py (extracted from scripts/review_game.py), jobs.py. Schema is designed
    (see BUSINESS_PLAN.md §Architecture). Add pytest here.
 2. M2 Discord bot v2 → M3 quotas/multi-region → M4 Hetzner deploy → M5 beta (see milestones).
+   The **account recap** (`scripts/account_recap.py`) is the paid-tier anchor feature.
 3. Feature queue (independent of SaaS track): power-spike windows, ingest JungleGapGG
    selections, video citations in reviews, trend dashboard.
 

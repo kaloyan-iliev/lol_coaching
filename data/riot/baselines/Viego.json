@@ -1,0 +1,145 @@
+{
+  "champion": "Viego",
+  "role": "JUNGLE",
+  "n_games": 16,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.44,
+  "cs_at_10": {
+    "p25": 64.0,
+    "median": 71.5,
+    "p75": 77.8,
+    "n": 16
+  },
+  "cs_at_15": {
+    "p25": 95.2,
+    "median": 111.0,
+    "p75": 116.8,
+    "n": 16
+  },
+  "first_gank_t_s": {
+    "p25": 304.5,
+    "median": 561.0,
+    "p75": 816.0,
+    "n": 16
+  },
+  "first_reset_s": {
+    "p25": 210.2,
+    "median": 231.0,
+    "p75": 275.0,
+    "n": 16
+  },
+  "full_clear_end_s": {
+    "p25": 240.0,
+    "median": 330.0,
+    "p75": 420.0,
+    "n": 12
+  },
+  "deaths_before_14min": {
+    "p25": 2.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 16
+  },
+  "deaths_total": {
+    "p25": 4.0,
+    "median": 5.0,
+    "p75": 9.0,
+    "n": 16
+  },
+  "gank_involvements": {
+    "p25": 2.2,
+    "median": 7.0,
+    "p75": 9.2,
+    "n": 16
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 1.0,
+    "p75": 2.8,
+    "n": 16
+  },
+  "wards_placed": {
+    "p25": 3.0,
+    "median": 5.0,
+    "p75": 5.0,
+    "n": 16
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 1.0,
+    "p75": 2.8,
+    "n": 16
+  },
+  "wards_killed": {
+    "p25": 1.2,
+    "median": 4.5,
+    "p75": 6.0,
+    "n": 16
+  },
+  "first_objective_participation_rate": 0.32,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 62.5,
+      "median": 70.0,
+      "p75": 75.0,
+      "n": 16
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -56.4,
+      "median": -47.5,
+      "p75": -40.3,
+      "n": 16
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 16
+    },
+    "scuttle_crab_kills": {
+      "p25": 2.0,
+      "median": 3.0,
+      "p75": 4.8,
+      "n": 16
+    },
+    "vision_score_per_minute": {
+      "p25": 0.8,
+      "median": 0.9,
+      "p75": 1.2,
+      "n": 16
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.8,
+      "n": 16
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.0,
+      "median": 2.0,
+      "p75": 4.0,
+      "n": 16
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 0.5,
+      "p75": 1.0,
+      "n": 16
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "n": 16
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 384.4,
+      "median": 593.0,
+      "p75": 773.1,
+      "n": 11
+    }
+  },
+  "note": "Master+ EUW Viego jungle. Quartiles over small n - treat as reference range, not law."
+}

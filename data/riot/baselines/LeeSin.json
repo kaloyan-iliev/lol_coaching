@@ -1,0 +1,146 @@
+{
+  "champion": "LeeSin",
+  "role": "JUNGLE",
+  "n_games": 28,
+  "patches": [
+    "16.12",
+    "16.13"
+  ],
+  "win_rate": 0.46,
+  "cs_at_10": {
+    "p25": 62.0,
+    "median": 68.0,
+    "p75": 75.8,
+    "n": 28
+  },
+  "cs_at_15": {
+    "p25": 95.2,
+    "median": 104.0,
+    "p75": 117.2,
+    "n": 28
+  },
+  "first_gank_t_s": {
+    "p25": 167.0,
+    "median": 258,
+    "p75": 415.0,
+    "n": 27
+  },
+  "first_reset_s": {
+    "p25": 202.2,
+    "median": 236.5,
+    "p75": 283.5,
+    "n": 28
+  },
+  "full_clear_end_s": {
+    "p25": 180.0,
+    "median": 420,
+    "p75": 480.0,
+    "n": 13
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 2.8,
+    "n": 28
+  },
+  "deaths_total": {
+    "p25": 4.0,
+    "median": 5.5,
+    "p75": 6.0,
+    "n": 28
+  },
+  "gank_involvements": {
+    "p25": 5.2,
+    "median": 7.5,
+    "p75": 10.8,
+    "n": 28
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 28
+  },
+  "wards_placed": {
+    "p25": 10.2,
+    "median": 14.0,
+    "p75": 18.0,
+    "n": 28
+  },
+  "control_wards": {
+    "p25": 3.0,
+    "median": 3.0,
+    "p75": 5.0,
+    "n": 28
+  },
+  "wards_killed": {
+    "p25": 1.0,
+    "median": 2.5,
+    "p75": 4.8,
+    "n": 28
+  },
+  "first_objective_participation_rate": 0.34,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 58.5,
+      "median": 67.0,
+      "p75": 73.8,
+      "n": 28
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -61.4,
+      "median": -50.0,
+      "p75": -39.2,
+      "n": 28
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 28
+    },
+    "scuttle_crab_kills": {
+      "p25": 2.0,
+      "median": 4.0,
+      "p75": 4.8,
+      "n": 28
+    },
+    "vision_score_per_minute": {
+      "p25": 0.9,
+      "median": 1.2,
+      "p75": 1.4,
+      "n": 28
+    },
+    "control_wards_placed": {
+      "p25": 3.0,
+      "median": 3.0,
+      "p75": 4.8,
+      "n": 28
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.8,
+      "n": 28
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "n": 28
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "n": 28
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 399.5,
+      "median": 777.1,
+      "p75": 1030.4,
+      "n": 21
+    }
+  },
+  "note": "Master+ EUW LeeSin jungle. Quartiles over small n - treat as reference range, not law."
+}

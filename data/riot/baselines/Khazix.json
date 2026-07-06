@@ -1,0 +1,145 @@
+{
+  "champion": "Khazix",
+  "role": "JUNGLE",
+  "n_games": 21,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.52,
+  "cs_at_10": {
+    "p25": 74.5,
+    "median": 77,
+    "p75": 82.5,
+    "n": 21
+  },
+  "cs_at_15": {
+    "p25": 107.0,
+    "median": 120,
+    "p75": 131.0,
+    "n": 21
+  },
+  "first_gank_t_s": {
+    "p25": 211.5,
+    "median": 248.0,
+    "p75": 437.2,
+    "n": 20
+  },
+  "first_reset_s": {
+    "p25": 222.0,
+    "median": 237,
+    "p75": 252.0,
+    "n": 21
+  },
+  "full_clear_end_s": {
+    "p25": 240.0,
+    "median": 360,
+    "p75": 480.0,
+    "n": 11
+  },
+  "deaths_before_14min": {
+    "p25": 0.0,
+    "median": 1,
+    "p75": 3.0,
+    "n": 21
+  },
+  "deaths_total": {
+    "p25": 2.0,
+    "median": 4,
+    "p75": 8.0,
+    "n": 21
+  },
+  "gank_involvements": {
+    "p25": 3.5,
+    "median": 6,
+    "p75": 8.0,
+    "n": 21
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 4.0,
+    "n": 21
+  },
+  "wards_placed": {
+    "p25": 2.0,
+    "median": 3,
+    "p75": 5.0,
+    "n": 21
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 0,
+    "p75": 1.0,
+    "n": 21
+  },
+  "wards_killed": {
+    "p25": 4.0,
+    "median": 6,
+    "p75": 7.5,
+    "n": 21
+  },
+  "first_objective_participation_rate": 0.44,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 70.8,
+      "median": 76.0,
+      "p75": 80.2,
+      "n": 21
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -59.5,
+      "median": -55.5,
+      "p75": -49.1,
+      "n": 21
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1,
+      "p75": 1.0,
+      "n": 21
+    },
+    "scuttle_crab_kills": {
+      "p25": 3.0,
+      "median": 5,
+      "p75": 6.0,
+      "n": 21
+    },
+    "vision_score_per_minute": {
+      "p25": 0.9,
+      "median": 1.0,
+      "p75": 1.1,
+      "n": 21
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 1.0,
+      "n": 21
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 2.0,
+      "median": 3,
+      "p75": 5.0,
+      "n": 21
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 2,
+      "p75": 2.0,
+      "n": 21
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 1.0,
+      "n": 21
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 386.6,
+      "median": 433.4,
+      "p75": 565.7,
+      "n": 17
+    }
+  },
+  "note": "Master+ EUW Khazix jungle. Quartiles over small n - treat as reference range, not law."
+}

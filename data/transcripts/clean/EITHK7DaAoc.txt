@@ -1,0 +1,3623 @@
+# Retired Pro Explains Key Jungle Fundamentals In 2 hours
+# Coach: PerryJG
+# Tags: 
+# URL: https://www.youtube.com/watch?v=EITHK7DaAoc
+# Video ID: EITHK7DaAoc
+
+[00:00] hey guys it's Barry here uh today we're
+[00:02] going to be doing something different
+[00:03] it's sort of an event going on in my
+[00:05] Discord uh if you guys want to join it's
+[00:07] always in the Discord um but in the
+[00:09] description but pretty much we're going
+[00:10] to be talking about all the jungle
+[00:11] fundamentals all of the um you know the
+[00:15] basics of what I takes to become a good
+[00:16] jungler um here's a list of the things
+[00:18] we'll be talking about today um might
+[00:20] take a while might not we'll see uh but
+[00:22] the first thing I want to just go over
+[00:24] for my own Journey at as to becoming a
+[00:27] challenger player becoming a consistent
+[00:28] Challenger player because getting
+[00:29] challeng once you know it's a cool thing
+[00:32] but being a consistent Challenger player
+[00:33] that's another thing um so back in the
+[00:35] day when champin was a thing um I
+[00:38] reviewed every game um Champions Q is
+[00:41] something bigger I guess it's like more
+[00:43] intense than solo q but just for context
+[00:46] like I reviewed every single game um
+[00:49] okay I got I got sometimes lazy towards
+[00:51] like the 100 Mark um I got some I got
+[00:53] lazy a little bit some losses against
+[00:55] Aro I got sad um but you can see like
+[00:57] there's a lot of brainstorming to this
+[00:58] game uh uh League of Legends is very
+[01:02] complicated there's so many things going
+[01:04] on in every single game you know five
+[01:07] like 10 different Champions and in one
+[01:08] game every Champion has like five unique
+[01:10] things to their Champion spells passives
+[01:13] then you got items then you got you know
+[01:15] the just interactions and everything and
+[01:16] it just it just goes deeper and deeper
+[01:18] and deeper so kind of breaking it down
+[01:20] for yourself so you can understand how
+[01:23] everything works
+[01:25] is almost essential if you're trying to
+[01:28] climb and not just be
+[01:30] naturally good some people are just
+[01:32] really good okay like if you're just
+[01:33] really good you're really talented and
+[01:35] you can just climb you can just
+[01:36] Skyrocket good for you man but this is
+[01:39] what it took for me to actually get good
+[01:41] at League like actually grind to the pro
+[01:43] scene actually get good enough to
+[01:45] compete against these Titans to beat
+[01:47] these LCS players to you know actually
+[01:50] get a job essentially in the Pro scene
+[01:52] it takes a lot of work if you guys
+[01:54] haven't already seen the jungle cheat
+[01:55] sheet um please take a look at this it
+[01:58] covers a lot of these fundamental that I
+[02:00] will be talking about but a lot of the
+[02:02] things I'm talking about here are just
+[02:03] going more in depth but this is a free
+[02:05] resource it'll be in the description and
+[02:07] everything but yeah I'm sure a lot of
+[02:08] you guys who are in the Discord already
+[02:10] know of this uh just for more you know
+[02:13] context like I tried breaking down as
+[02:15] much as I could um you have you know
+[02:17] early I break down early game looks like
+[02:18] evaluation I mean I I feel like over
+[02:20] time like I'm I'm able to break things
+[02:21] down a little better but you kind of get
+[02:23] the idea of like I just want to make
+[02:25] everything in my head make sense every
+[02:27] sort of like concept that I'm not sure
+[02:30] about I need to break it down so spacing
+[02:34] for example is when where spacing you
+[02:35] think spacing is more like you know
+[02:37] Dodge the enemy um enemy abilities Dodge
+[02:40] enemies ranges but I broke it down and
+[02:42] okay I want to kite towards my teammates
+[02:44] that's the way I want to space so
+[02:46] everything about league is unique to you
+[02:49] uh that's why league is so like
+[02:50] addicting as well I feel like is because
+[02:51] just like it's so unique every player
+[02:53] can do something different everyone
+[02:55] could be an like every person could be
+[02:56] an assassin a tank Mage whatever like
+[02:59] and and it's just so different you know
+[03:01] and and you can play however you want
+[03:02] you can play the same champion in like
+[03:03] 10 different ways it's insane um league
+[03:06] is such a fun game in that sense but
+[03:08] that's also what makes it overwhelming
+[03:09] if you have so many choices what do you
+[03:11] choose I mean here's the joke guys what
+[03:13] do you buy in Vio okay it doesn't matter
+[03:16] okay buy the same item every single game
+[03:19] I promise you is nothing wrong with that
+[03:21] for some reason people people like
+[03:23] really need to figure that [ __ ] out but
+[03:24] like no there's other things you need to
+[03:26] figure out there's just so much to do
+[03:27] with League um and I know here's another
+[03:29] one where I try to break down this is
+[03:30] more competitive wise like um you know
+[03:33] I'm I'm I'm confirming like plans I'm uh
+[03:36] I'm talking to to my teammates
+[03:37] communicate with voice a lot of this is
+[03:40] for competitive um but here's the idea
+[03:42] this all be I could also share this
+[03:44] later on um but anyway let's get into
+[03:47] the good stuff so that's just a
+[03:48] preference of how you know kind of what
+[03:50] it takes um but okay what it takes for
+[03:52] you guys to actually climb in Solo qu
+[03:54] you guys aren't trying to go pro I get
+[03:55] it it's chill um you know I don't expect
+[03:59] anyone to just want to be a [ __ ] Pro
+[04:00] all of a sudden um but if you do I'm
+[04:02] also here to help to get you there um
+[04:05] but let's take a look at some Ops and
+[04:08] just break down what you need to do to
+[04:09] climb so first thing I'm seeing when I
+[04:11] look at opgg like this is what's going
+[04:14] on right here why do we have three
+[04:16] separate Champions Okay so let's go to
+[04:18] the next one right here awesome we have
+[04:21] two Champions but now there's a third
+[04:23] there a Garen okay let's go right here
+[04:26] okay we're not even playing you know
+[04:28] Jungle which is Chill um I know if you
+[04:30] want to learn you you could be here but
+[04:31] even then if you're trying to play one
+[04:33] lane you're trying to play support then
+[04:34] you should just play two Champions so
+[04:36] you going you kind kind of see the trend
+[04:37] here where I just want you to play one
+[04:39] or two Champions so here's a little
+[04:40] better we we're straying off into Top
+[04:42] Lane or not maybe this guy a Top Lane
+[04:44] May we're straying off to another
+[04:45] Champions here we have uh majority on
+[04:48] Kane but you know we Branch
+[04:49] off this is a good better op from what
+[04:53] I've seen Ekko as the main Champion so
+[04:56] pretty much in League because there's so
+[04:58] much to do because there's so many
+[05:00] champions and so many different things
+[05:02] you can do in League essentially like
+[05:04] let's say we I'll give you like 100
+[05:06] points um let me go let me go to an
+[05:08] easier screen to write on let's say I
+[05:09] give you 100 points okay and you can
+[05:12] distribute these points however you'd
+[05:14] like but you have over a 100 skills you
+[05:18] can distribute these points into 100
+[05:21] unique skills okay this includes
+[05:23] champion and everything else and blah
+[05:25] item like what whatever there's there so
+[05:26] many things you can into macro Tempo Etc
+[05:29] so when you already breaking it down to
+[05:32] two
+[05:33] Champions now you have a
+[05:35] 50/50 Point distribution with only 100
+[05:38] points or 50/50 like skills you have to
+[05:40] like tap into essentially as you break
+[05:43] it down and go separate pass separate
+[05:45] pass separate Champions and you keep on
+[05:47] going separate ways you only have enough
+[05:50] energy we'll call it points we call it
+[05:51] skill points to you know learn and get
+[05:54] good at these Champions so as you try to
+[05:57] learn Ekko and then Bel and then heam
+[06:00] and then udir you're going to start
+[06:02] losing your mind a little bit everyone
+[06:04] plays differently everyone builds
+[06:05] differently everyone does things
+[06:07] differently the best way for you to
+[06:08] climb is to one trick I'm sorry it's
+[06:11] boring but yeah that's what it takes to
+[06:13] one trick maybe to trick if your
+[06:15] Champion gets banned often but okay what
+[06:18] else does it take to climb well I want
+[06:20] you to dodge okay dodging essentially
+[06:23] feels not great because you're going to
+[06:25] do a minus five and then like a minus 10
+[06:27] okay so one Dodge isus five second Dodge
+[06:29] is understand doesn't feel great okay
+[06:31] but we're playing our one trick so we
+[06:32] want to get our one trick Champion so we
+[06:34] will sacrifice some LP to play our
+[06:36] champion for two reasons one practice
+[06:39] more practical wins like it's better
+[06:41] because just your main champion and two
+[06:44] losing LP actually doesn't matter what
+[06:47] matters is losing MMR let's say I'm at
+[06:50] 95 LP and I dodge five times okay and
+[06:54] we'll just average we'll just go minus
+[06:56] 45 LP so I'm going to be at quick maths
+[07:00] uh I'm going to be at 50 LP okay my MMR
+[07:04] is still at
+[07:05] 95 so I will still gain a shitload of LP
+[07:09] the next time I win I haven't lost games
+[07:12] losing games makes you lose mm I haven't
+[07:14] won games winning games makes you it
+[07:15] kind of evens out your MMR it really it
+[07:17] really like the back end of League it
+[07:19] kind of it kind of gets trippy but the
+[07:20] general idea is dodging actually was a
+[07:23] principle before
+[07:25] to essentially hack your MMR before when
+[07:28] promos were a thing
+[07:30] best out of three promos best out of
+[07:32] five promos when you go from Diamond one
+[07:34] to Masters what you would do is you
+[07:36] would get into promos and you would
+[07:37] Dodge you would win two games okay so
+[07:39] that's bumping MMR and then Dodge three
+[07:41] times and restart the whole cycle and
+[07:44] this still applies so people are afraid
+[07:46] of dodging what what sucks is if you
+[07:48] play your second Champion okay you're
+[07:51] going to take a minus 20 likely minus 25
+[07:53] whatever it is nowadays and then not
+[07:55] only that you're going to lose your MMR
+[07:56] and okay hidden Factor you're going to
+[07:59] Lo your [ __ ] mind when you lose and
+[08:01] you lose off your second Champion it
+[08:03] [ __ ] sucks okay so what do you need
+[08:05] to do if you want to climb in Solo
+[08:06] please please please one trick and focus
+[08:09] up and it's okay to be bored it's okay
+[08:12] to be bored why because you want to win
+[08:14] you know what's more fun then losing
+[08:17] [ __ ] winning you know how you win you
+[08:19] one trick okay like it's I get it it can
+[08:21] be boring if you if you're bored go on a
+[08:23] Smurf go play aam go play Norms if you
+[08:27] want to climb okay so so now we need to
+[08:30] talk about what actual skills like what
+[08:32] do you need to develop as a player to
+[08:35] climb so we talked about we had 100
+[08:36] points and we talked about you know I
+[08:38] could probably explain this a little
+[08:39] better but this is the way I understand
+[08:40] it we talked about you know we can we
+[08:41] can give it into so many different like
+[08:43] things we can give to macro we can give
+[08:44] into micro we can give into you know
+[08:45] temp like what tempo means all these
+[08:47] other skills mean you know there's
+[08:49] there's like a thousand different things
+[08:50] you can tap into so like let's just say
+[08:51] we only have 100 you know skill points
+[08:54] but there's a thousand things to work on
+[08:56] where do we even begin are we trying to
+[08:58] you know look like this like really
+[09:00] consistent player where every single bar
+[09:01] is like evenly filled out are we trying
+[09:04] to um you know make make two of these
+[09:06] really really tall and the rest of these
+[09:08] really small where do we build where do
+[09:10] we start well League shouldn't be
+[09:14] complicated so the way you make League
+[09:16] less complicated is you put all of your
+[09:20] points into one
+[09:22] skill it sounds kind of
+[09:24] weird but one one or two skills the same
+[09:27] reason why you one trick that's what you
+[09:29] need to get good at okay so let's say
+[09:31] you want to be really really really
+[09:33] really really good at jungle tracking
+[09:35] sure let's say you want to be really
+[09:37] really good at full clearing sure let's
+[09:40] say you want to be exceptionally good at
+[09:42] dodging warts sure that will give you a
+[09:46] foundation a baseline to build other
+[09:49] skills off of because you have an idea
+[09:51] of what this one skill is you can start
+[09:54] building into other things these skill
+[09:56] points refresh as you get really good at
+[09:59] this idea at this skill so if this skill
+[10:02] is okay we're going to give an example
+[10:04] of um playing off Vision so if you if if
+[10:07] we were to to to bring this from a scale
+[10:10] from 1 to 100 let's say you put in 100
+[10:12] points into this okay and you just
+[10:13] become really really insane at this once
+[10:15] you get a vision to 100 points okay
+[10:18] pretty much your brain will start
+[10:20] recognizing this without needing to
+[10:22] think about it it becomes a habit you
+[10:24] can start recognizing what it's like to
+[10:26] dodge Vision what it's like to place
+[10:27] Vision what it's like to play around
+[10:29] vision
+[10:29] and now okay we might not be at 100
+[10:33] Vision points we be 100 Vision skill we
+[10:35] might go down because our Baseline is
+[10:36] going to drop to like maybe 75 but now
+[10:39] that means we have 25 more points to
+[10:40] distribute somewhere else and our
+[10:42] Baseline will not change it'll stay at
+[10:44] 75 maybe go down a little more to like
+[10:46] 50 okay but now we have a baseline of
+[10:48] what vision is so you want to all in on
+[10:51] one or two skills learn these skills and
+[10:53] then learn other skills but the point of
+[10:56] all of it is you don't ever drop this
+[10:58] skill what happens is when I'm teaching
+[11:00] people okay I give them a complete
+[11:02] rundown of what tempo is a complete
+[11:04] rundown on how to full clear a complete
+[11:05] rundown on how to play for objectives
+[11:07] and okay five five days later they're
+[11:09] climbing they're doing great and they
+[11:11] think you know what Perry I understand
+[11:13] it so clearly now I can work on the next
+[11:16] skill that's where you're wrong you need
+[11:18] to keep working on this thing the moment
+[11:21] you think let's say you climb from
+[11:22] Emerald 4 to Diamond four Emerald 4 to
+[11:26] Emerald 3 even Emerald 2 and you think
+[11:28] okay I understand this concept now
+[11:30] that's where you're hurting yourself
+[11:33] even at the highest level you don't
+[11:35] understand the concept even even like a
+[11:37] challenger player even like a pro like
+[11:39] there's just too much depth to League of
+[11:41] Legends where it's like okay let's say
+[11:44] LCS players understand Tempo map play
+[11:46] objectives team fighting what about the
+[11:48] Koreans what about the the Chinese
+[11:50] players what about the other Pros what
+[11:52] about the Europeans what about all these
+[11:53] other guys the the this game has so much
+[11:56] depth that if you think as an emerald
+[11:58] player or Diamond Player player that you
+[12:00] understand something you need to wake up
+[12:02] there is so much more to the game and
+[12:05] you can never convince yourself that you
+[12:07] understand it you always want to expand
+[12:08] on it more so you want to make sure you
+[12:10] expand on this concept you're good at
+[12:14] and what happens is okay once people
+[12:16] think they are really good at vision and
+[12:18] they think they're like they're the
+[12:18] goats awesome I have Vision understood
+[12:20] they want to learn a skill they're weak
+[12:22] at their weak point which is let's say
+[12:24] your vision is junk tracking okay if you
+[12:27] work on your weak skill makes sense kind
+[12:29] of you're actually making your growth
+[12:33] slower okay after Vision after you get
+[12:36] Vision down you want to go to your next
+[12:39] strongest you know strength what's
+[12:41] what's your next strength okay which
+[12:43] maybe is um we'll say jungle clear
+[12:47] efficiency you want to get better at
+[12:49] jungle clear efficiency that's it you
+[12:51] don't want to actually go too far deep
+[12:53] into the loophole of what are my
+[12:54] weaknesses what are my weaknesses what
+[12:55] are my weaknesses you actually the more
+[12:57] confidence you give yourself the more
+[12:59] illusion you give yourself in a sense at
+[13:01] you're so good at everything will be a
+[13:03] positive effect on you but that'll tie
+[13:04] into our next thing so hopefully you
+[13:06] guys get the idea of the skills you
+[13:08] actually need to learn are not that deep
+[13:10] it's literally it's whatever you want to
+[13:12] learn don't stress over this other
+[13:14] jungle coach or this other guy says yeah
+[13:16] man you need to learn this you need to
+[13:17] learn that you need to learn this to get
+[13:18] good it's really not that deep it it it
+[13:20] really shouldn't feel that intimidating
+[13:22] that hard um but okay let's take a look
+[13:25] at the next thing which is going to be
+[13:28] uh a second it's going to be tilting
+[13:30] okay so tilting judging teammates and
+[13:32] grth mindset that all kind of go
+[13:33] together um but what it's like to tilt
+[13:35] is let's say okay let's say teammate is
+[13:41] 06 okay what happens is when someone
+[13:44] says teammate 06 or teammate dies two
+[13:46] times in a
+[13:48] row people's instant response to this is
+[13:51] is like [ __ ] we lost or like oh my God
+[13:54] the game is going to be so hard or the
+[13:56] game is just miserable and I get it it's
+[14:00] frustrating seeing your teammates die
+[14:02] and like oh my God there's so much to
+[14:03] [ __ ] about and complain about what if I
+[14:06] told you that it literally does not
+[14:08] change no matter what ELO you're in I'm
+[14:10] in my Pro [ __ ] scrim matches and my
+[14:14] [ __ ] mid laner is is zero10 all of a
+[14:15] sudden and and I'm just like wow that's
+[14:17] awesome like okay I'm in my Challenger
+[14:20] game and my both of my Sol laners are
+[14:22] combin 020 or like 5 and 20 and I just
+[14:26] like okay so what happens is the people
+[14:28] who actually make it through the you
+[14:31] know the ranks and climb they care a lot
+[14:34] less about what happens when your
+[14:36] teammates are 06 010 020 and they care
+[14:39] more about the practical sense of this
+[14:41] so instead of getting emotional around
+[14:44] your teammate being 06 they get
+[14:46] realistic am their around their teamate
+[14:48] being 06 so an example is okay here's an
+[14:51] emotional
+[14:53] example I am not going to win this game
+[14:57] because my teammate sucks
+[14:59] here's a practical sense of think about
+[15:00] it I will not play around this
+[15:03] idiot because he sucks I will go play
+[15:07] with other
+[15:09] lane that's a practical way of viewing
+[15:11] this you know idea where you're going to
+[15:14] actually work around this teammate
+[15:16] sucking versus trying to you know get
+[15:20] really upset at what's happening um
+[15:23] pretty much I feel like Tarzan does this
+[15:24] very well in a sense where he seems very
+[15:27] emotional but but he's not stupid when
+[15:30] he sees a teammate in or his teammate's
+[15:32] not helping him he will not work around
+[15:34] them he will not play around them he
+[15:35] will not do anything with them but a lot
+[15:37] of people think he's just getting
+[15:38] emotional Tarzan is not stupid he's very
+[15:40] smart okay there's a reason why he's
+[15:41] been able to get rank one consistently
+[15:43] Challenger and he's just a good player
+[15:45] right he doesn't get emotional about it
+[15:47] I mean maybe on stream maybe because
+[15:48] that's the way he gets um sometimes but
+[15:51] realistically when he's thinking about
+[15:52] things he will actually turn this into
+[15:54] something practical um so for more
+[15:58] context emotions in League are around
+[16:01] 50% of the
+[16:02] game
+[16:05] um if you can't control your emotions
+[16:08] you can't like do anything essentially
+[16:11] like it's it's like if you're upset at
+[16:13] everyone if you're upset at the enemy if
+[16:15] you're of yourself you're of everything
+[16:17] that's going on you cannot tap into good
+[16:19] fighting or good macro you can't make
+[16:21] good decisions you can't fight well so
+[16:23] the rest of the py graph which I'll just
+[16:25] draw real quick if this is it that's
+[16:28] emotions okay we'll name that as e this
+[16:30] is this is macro and this is fighting
+[16:32] okay so if you cannot do any of this
+[16:35] here because you're so upset that means
+[16:37] you like half of the time like you're
+[16:39] just coin flipping essentially half the
+[16:41] time if you're emotional you're just
+[16:42] coin flipping we want to control our
+[16:44] emotions so we can actually focus on
+[16:47] what good fighting is and good macro is
+[16:51] but people get so upset at the fact that
+[16:53] they see their teammates like you know
+[16:54] how many times I've coached someone and
+[16:55] I see them typing I see them just you
+[16:59] know just crying about how sad their
+[17:01] life is because their teammates suck and
+[17:03] I'm just like wake up bro it's not that
+[17:06] like not that serious it it happens in
+[17:08] every single ELO so don't feel like
+[17:09] you're so special because your teammates
+[17:11] are you it's really really really normal
+[17:14] um but also okay you know your teammates
+[17:18] are you're never going to see them again
+[17:20] okay like like realistically you never
+[17:21] see them again they they don't really
+[17:23] matter so focus on yourself what this
+[17:26] means is okay you can try absolute your
+[17:29] absolute hardest to win this game where
+[17:31] your teammates are just
+[17:32] ining but the real goal should not even
+[17:35] be to win and this is what the growth
+[17:36] mindset is you don't care about winning
+[17:38] necessarily what you care about is how
+[17:40] can you get the most value out of the
+[17:42] time you're spending playing the game so
+[17:45] the growth mindset essentially means you
+[17:48] only care about getting better okay so
+[17:51] win/loss does not matter who
+[17:54] cares so a win okay what does a win mean
+[17:57] then how do we EV valuate that well a
+[18:00] win is if you've played a good game of
+[18:02] League of Legends if you farmed 8 CS per
+[18:05] minute you played fights as best you
+[18:07] could and you still lose the game that's
+[18:10] a win for
+[18:11] you it's hard to grasp but when you can
+[18:14] see League of Legends like that it won't
+[18:16] be as stressful I mean because okay
+[18:19] because in other sports other you know
+[18:22] like basketball and and you whatever
+[18:24] whatever other sport you think about
+[18:26] even chess chess is a good chess is okay
+[18:28] sorry with other sports it gets very
+[18:30] confusing um because you don't actually
+[18:33] see your insta win loss like LP go up or
+[18:36] down it's not that like clear you don't
+[18:38] see your your skill increase or decrease
+[18:41] as you win or lose so you need to take a
+[18:44] step back from LP and look at your skill
+[18:47] level and look at how you can increase
+[18:49] your skill level over increasing your LP
+[18:52] and you know just getting all worried
+[18:55] about that um and last thing just just
+[18:58] to close off you know the idea about
+[19:00] teammates is look at them as chest
+[19:02] pieces um okay if you have a 06 chest
+[19:06] piece this guy's pretty useless but they
+[19:09] can still be moved at some point they
+[19:11] can still be a sacrificed Pawn they can
+[19:13] still turn into a queen and they can
+[19:15] still be useful on the other side of the
+[19:18] map if let's say your ball Lane is 06
+[19:20] well guess what there's probably still
+[19:22] an active piece up top and that you can
+[19:23] play around um so instead of getting
+[19:25] emotional and getting so tied into what
+[19:27] your teammates are doing just try and
+[19:29] you know take a step back um but overall
+[19:33] just to wrap things up um we are pretty
+[19:37] much we talked about what it's like to
+[19:39] be disciplined and how that's going to
+[19:40] translate into wins what it's like to be
+[19:43] consistent and how okay even if the
+[19:46] skill is not ideal con being consistent
+[19:49] will mean we can learn okay and what
+[19:52] it's like to you know one have one skill
+[19:54] SL one
+[19:55] trick you know that that kind of
+[19:57] encompasses what being and discipline is
+[20:00] and then the last thing would be just
+[20:01] control your
+[20:03] emotions ultimately if you have this set
+[20:06] of skills well I add growth mindset um
+[20:08] if you have these sets of skills coming
+[20:10] into a league game every day you just
+[20:13] odds of winning will be much higher like
+[20:15] you'll feel much better you feel like
+[20:16] you know league is amazing um and you
+[20:18] won't be so upset um and when I mean
+[20:21] control your emotions I play with chat
+[20:22] off I track sums and I play with chat
+[20:25] off like people have told me in chat
+[20:26] like hey man like your chat is off and
+[20:28] you're timing sums I time sums for
+[20:30] myself and only myself I don't care um
+[20:32] playing with chadon is like probably the
+[20:34] worst thing you can do to yourself okay
+[20:36] if your teammate starts pinging you I
+[20:37] insta mute them and I report them on the
+[20:39] spot like I have I have no I don't care
+[20:42] I would just mute them and P and and
+[20:43] report them I'm so glad they had to
+[20:44] report in game because like it literally
+[20:46] helps me control myself just reporting
+[20:48] them and I'm done with you that's it and
+[20:50] I'll play the game as if nothing
+[20:52] happened but all
+[20:54] right that's what you the skills you
+[20:56] need to come into every game game not
+[20:58] even think about jungle this could be
+[20:59] any single role it doesn't matter okay
+[21:03] now let's tap
+[21:05] into League of Legends jungling okay
+[21:09] this is where things get good because
+[21:11] jungling is give me one second
+[21:15] actually ah sorry okay jungling
+[21:19] is jungling is complex man you have so
+[21:22] many options um and and I'll just give a
+[21:24] rundown as as to you know you you guys
+[21:26] know why jungling is complex but I'll
+[21:27] give you give you an a quick idea as to
+[21:30] why jungling is so you know confusing in
+[21:34] a sense waves spawn every 30 seconds
+[21:37] okay bum bum bum bu bummm and they spawn
+[21:40] at the same time so laners have a static
+[21:44] thing to play around every single time
+[21:46] it's like they get fed no matter what uh
+[21:49] junglers you have a choice to feed
+[21:52] yourself or to help your teammates who
+[21:56] think they're starving so you feel
+[21:59] pressure to go help your starving
+[22:01] teammates they're not actually starving
+[22:02] because they have their own waves coming
+[22:04] for them they're just idiots um but you
+[22:06] feel the pressure and you feel they need
+[22:07] to help them you feel bad I I I video on
+[22:09] this called feels bad syndrome um to
+[22:11] help them on top of that well now you're
+[22:14] you're conflicting of well do I farm my
+[22:16] own camps do I invade do I go do
+[22:19] objectives what the hell do I do um when
+[22:22] do my camps respawn you know what's the
+[22:24] best play should I gank top should I
+[22:27] gank mid should I gank bot who do I help
+[22:30] jungling is so [ __ ] difficult you
+[22:31] know what Lan has to do they last at
+[22:33] their [ __ ] minions they trade in the
+[22:35] lane they get good at trading they get
+[22:37] good at fighting they maybe roam you
+[22:39] don't even have to they just recall
+[22:41] literally three things kill minions
+[22:43] awesome trade awesome recall okay
+[22:47] awesome that's all you need to
+[22:48] do roaming helps and Etc helps but like
+[22:51] jungling holy [ __ ] man you have so many
+[22:53] options what I'm going to do for you
+[22:54] guys I'm going to break it down into
+[22:56] okay here's my style of what I think
+[22:58] Jung should be played towards played
+[22:59] like here's my consistent way of seeing
+[23:02] the the jungle um other people for
+[23:04] example I'll just reference EES for
+[23:07] example he thinks invading is key to
+[23:10] winning uh a simar a similar style would
+[23:13] be like tarant Tarzan wants to invade
+[23:16] okay other people in the community like
+[23:18] invading I think it's completely fine to
+[23:21] invade and completely fine to get good
+[23:22] at this skill again I'm not here to say
+[23:25] one version of the game is better than
+[23:27] another there is no one right answer
+[23:29] like that's that's why league is so hard
+[23:31] because there is no one right answer you
+[23:33] need to find what works for yourself if
+[23:35] invading is working invade don't listen
+[23:38] to me listen to them if invading is not
+[23:40] working okay let's try something else
+[23:42] and even if it's not my way of playing
+[23:44] it could be someone else's but overall
+[23:46] from what I've seen this is the best way
+[23:48] to climb this is how I hit rank two peak
+[23:50] this is how a hit rank one it's the same
+[23:52] it's the same idea um that's where I map
+[23:54] my play style myu play style from aurin
+[23:56] so ran auran Korea Europe you you get
+[23:59] the idea that's what I think is very
+[24:01] consistent that's why I think will work
+[24:02] for a lot of people work for me um so
+[24:06] yeah just making sure you guys
+[24:07] understand that it doesn't actually
+[24:08] matter if you want to listen to me or
+[24:09] not you need to find your own way your
+[24:11] own identity in the game and what I call
+[24:13] is you need you need to find identity
+[24:15] you can't just blindly listen to people
+[24:18] um unless you're trying to become them
+[24:19] if you're trying to become them that's
+[24:20] fine but overall find yourself find your
+[24:23] own way um but
+[24:25] okay let's look at um what it's actually
+[24:29] like
+[24:29] to um be a good jungler
+[24:33] so what I'm going to do is give me one
+[24:35] second I'm going to load a game um so I
+[24:39] can um make this easier for you guys to
+[24:43] visualize and myself to visualize I'm
+[24:45] going to
+[24:47] use one of my students games
+[24:53] here me one second let's see what what
+[24:56] does he have 7 perfect so we're going to
+[25:00] use a lot of reference points here and
+[25:02] we're going to talk about you know a lot
+[25:04] of what what how say like um just like
+[25:07] time stamps oh [ __ ] my my replays have
+[25:11] been [ __ ] okay
+[25:13] um [ __ ] that's actually really sad okay
+[25:16] let me try and find a VOD for this
+[25:17] actually okay um let me
+[25:23] see um
+[25:30] all
+[25:34] right okay this is what I've gone
+[25:36] through already a sec a while ago but
+[25:38] we'll take a look at it again actually
+[25:40] we'll take a look at we'll take a look
+[25:42] at Russ's
+[25:43] game this is an emerald game this this
+[25:46] this is one of my longterm in my patreon
+[25:49] which by the way group patreon is only
+[25:51] $15 um you can come every week and just
+[25:53] get your vods reviewed so I've reviewed
+[25:55] many many many of Russ's vods
+[25:58] um and he just shows up every time like
+[26:00] it's on you to show up but um it's
+[26:03] pretty pretty pretty value I'd say um
+[26:08] the only downside is the quality is not
+[26:10] that high but all right we we'll we'll
+[26:11] make deal with it okay so let's think
+[26:15] about um what it's like to be a gun
+[26:18] jungler okay so first thing you can see
+[26:20] here is this is the the the adaptation
+[26:22] of what it's like to play for objectives
+[26:25] 5:30 into the game and Russ is on um
+[26:29] Dragon okay so right off the bat he's
+[26:32] focusing objectives over anything he has
+[26:34] two assist and that's great but he's
+[26:35] getting an objective around five minutes
+[26:37] so to start off what it's like to be a
+[26:39] good jungler you need to get objectives
+[26:41] okay specifically dragons So at around 5
+[26:44] minutes to uh six minutes you need to
+[26:47] have one Dragon that's what it's like to
+[26:49] be a good Jung if if you possibly can
+[26:52] some games it will not be possible then
+[26:53] if it's not possible do one grub or
+[26:55] three grubs um
+[26:58] do objectives is essentially what I'm
+[27:00] I'm trying to get at here objectives are
+[27:02] what it takes to to be good um
+[27:05] objectives over kills mean a lot so I
+[27:07] just this is just the general idea you
+[27:09] want to have dragons or grubs okay at
+[27:12] around six around seven minutes you
+[27:14] should have either um latest okay if you
+[27:18] have let's say you have four
+[27:21] kills which is 1,200
+[27:24] gold okay that must feel amazing that
+[27:28] must feel great but let's say it's 7
+[27:29] minutes into the game and you don't have
+[27:31] either objective but you have four kills
+[27:34] so let's say the enemy jungler has zero
+[27:36] kills so if we go to a Tab screen zero
+[27:38] kills so you're up
+[27:41] 1,200
+[27:44] gold you're going to hit your first item
+[27:46] faster you're going to win a fight
+[27:47] faster let's say that means that okay at
+[27:50] around 10 minutes you're going to have
+[27:53] first item so I'm going to erase this
+[27:55] just so you guys get the idea around 10
+[27:57] minutes
+[27:58] he'll have 0.75 an item and you'll have
+[28:02] one item right or maybe it'll be like
+[28:05] 0.5 in an item um so you're you're
+[28:08] really happy right because you have
+[28:10] first item because you got four kills
+[28:12] does this one item Gap mean you always
+[28:16] win against this guy so you got to
+[28:19] evaluate essentially does this does this
+[28:22] item that you have mean that you can now
+[28:26] just win every fight win everything
+[28:28] whenn no matter what sometimes it does
+[28:30] if you're really really strong you're
+[28:31] heck room for example and you can just
+[28:32] you know Stomp the game you know okay
+[28:35] playing for gold sometimes makes sense
+[28:36] if you're great if you're an amazing
+[28:37] team fighter playing for gold makes
+[28:39] sense playing for kills can make sense
+[28:42] it's not necessarily a wrong way to play
+[28:44] but here's the problem let's say you at
+[28:46] three items now okay and you've been
+[28:47] playing for kills the whole time so
+[28:49] you're you're maybe like 11 and like one
+[28:52] okay this guy's like zero and [ __ ]
+[28:53] seven okay you're very very strong this
+[28:57] guy is one item let's let's just make
+[28:58] him super weak does this mean you're
+[29:01] going to win the
+[29:03] game I mean nothing really means you're
+[29:05] ever going to win right you know it
+[29:07] still really depends on everything but
+[29:11] what sucks about this is you're forced
+[29:13] to carry you're forced to play fights
+[29:15] perfectly and if you [ __ ] up in a single
+[29:18] fight and you die
+[29:19] once 700 gold to someone game backing
+[29:22] really really hard now okay when you
+[29:24] play for kills and only kills and you
+[29:26] play for gold and only gold you actually
+[29:29] put yourself you put you put so much
+[29:31] pressure on yourself to you have to
+[29:33] carry now I don't mean be selfless and
+[29:36] just drop all your camps and you know
+[29:38] you know give up everything give up the
+[29:39] world and that's what I'm trying to say
+[29:42] what I'm trying to say though is as a
+[29:43] baseline as a a good way of you playing
+[29:46] for yourself um getting objectives
+[29:50] actually does a lot to win games um so
+[29:55] another way to break this down for you
+[29:56] guys is a dragon is 5% stats to armor
+[30:01] and Mr okay and let's say we we were to
+[30:04] get average out stats being like 50 40
+[30:06] okay let's say we average out it to be
+[30:08] 50 50 per character or like we'll say 40
+[30:10] per character so if we give ourselves
+[30:12] five stats 5% of that per per character
+[30:15] you get four because it's two * two
+[30:18] armor and Mr we multiply that across
+[30:20] five teammates 20 armor 20 Mr okay so
+[30:23] that's that's like let's let's say
+[30:24] that's you know around 600 700 gold okay
+[30:27] Dragon are actually worth gold the thing
+[30:29] about dragons is they scale they scale
+[30:31] into a soul point they scale into as you
+[30:36] level up it gets more gold value but the
+[30:38] big thing about dragons and I I I mean
+[30:40] it's not that deep because Soul isn't
+[30:43] that op not necessarily but the think
+[30:45] about what dragons do for people in
+[30:46] lower elos and even up until I would say
+[30:48] like Grandmaster Challenger um unless
+[30:51] you getting the most broken Souls which
+[30:53] are hextech or um ocean um pretty much
+[30:58] people think it's the end of the world
+[31:00] so what's going to happen is if you got
+[31:01] two dragons Okay so you got a dragon at
+[31:03] six minutes wonderful and you got a
+[31:05] dragon at 11:30 wonderful what's going
+[31:07] to happen is on this third dragon that
+[31:08] spawns at 17 minutes and
+[31:10] 16:30 they're going to freak the [ __ ]
+[31:12] out and they're going to want to fight
+[31:14] this really really badly and they're
+[31:15] going to try to like do everything they
+[31:17] can to fight this dragon and that gives
+[31:18] you an opportunity to either go in the
+[31:21] top side trade camps or fight them and
+[31:23] win the fight and put them in a weak
+[31:25] position to fight the objective um
+[31:29] pretty much objectives are always going
+[31:32] to be a Avenue to win games I don't
+[31:35] think it's always 100% the right thing
+[31:37] to do I've seen people give away you
+[31:39] know five six camps to do an objective
+[31:42] and I don't mean you should just give
+[31:44] everything to do objectives right like
+[31:45] that's not what I'm trying to say but
+[31:47] the goal and the game plan should never
+[31:49] be kill someone the goal should never be
+[31:52] I want to gank mid lane I want to gank
+[31:54] bot Lane I want to gank Top Lane the
+[31:56] goal should be how do I as a jungler
+[31:59] play for an objective either one that's
+[32:02] what it's like to be a good jungler
+[32:04] that's the mindset you need how as a
+[32:06] jungler am I going to get this Dragon
+[32:09] okay and as you play the game I have an
+[32:11] idea of if I'm playing for Dragon I want
+[32:13] to play around bot Lane okay if I want
+[32:14] to play around ball Lane I need to watch
+[32:16] the ball Lane and I need to see if they
+[32:17] I can gank them if I can help them if I
+[32:20] can do something in the bot Lane so for
+[32:22] example let me uh move my camera real
+[32:24] quick for example if we are looking at
+[32:26] ball Lane
+[32:28] okay and and we see like okay like the
+[32:30] ballin's pushing in I can go do the
+[32:32] dragon that's wonderful that's the L
+[32:34] you're playing for let's say the
+[32:35] ballin's pushed in and you have a choice
+[32:36] to dragon or gank them you can still
+[32:38] gank balling and play for kills um it
+[32:40] doesn't mean like don't play for kills
+[32:42] ever like for example here and Russ his
+[32:44] game after he does the crab well these
+[32:46] guys are inting there's no dragon up
+[32:47] there's nothing to do yeah go [ __ ]
+[32:49] kill them um but the idea is again after
+[32:52] we kill them our goal is get the
+[32:55] objective okay so that's how you make
+[32:57] your game consistent that's how you know
+[32:59] as a jungler you make your game play
+[33:02] static and stable like a laner again
+[33:04] they have waves that spawn every 30
+[33:05] seconds well guess what as a as a
+[33:07] jungler you have you know camps that
+[33:09] spawn but also objectives that you can
+[33:10] play for okay so think about objectives
+[33:13] more actively if you can okay that's how
+[33:15] that's how you're going to help your
+[33:16] gameplay by Lots um the the big the big
+[33:20] big big thing again about dragons is the
+[33:23] soulle point pressure the security it
+[33:25] gives you and how dragons sort
+[33:29] of just have underlying value that
+[33:32] people don't see but it starts hitting
+[33:34] at some point like it like there a break
+[33:36] point I don't know I don't know the math
+[33:37] I'm not a [ __ ] mathematician but
+[33:39] dragons are good okay just just trust me
+[33:41] okay trust me okay and then grubs okay
+[33:45] are less ideal than dragons because
+[33:47] grubs let's say on average give you two
+[33:51] plates per tur let's say you get three
+[33:53] grubs or even six grubs and it gives you
+[33:55] on average two plates per tur okay
+[33:59] you could get more you can get less
+[34:01] every play It's Worth 125 gold so we're
+[34:03] going to give 250 gold time three which
+[34:05] is 750 gold and again if we did the math
+[34:08] on one Dragon that's roughly the same
+[34:11] amount of gold for grubs the thing about
+[34:15] grubs though is it puts you in the top
+[34:18] side of the map the reason why putting
+[34:19] yourself in the top side of the map kind
+[34:21] of sucks because look at these Champions
+[34:24] you got [ __ ] choth and who what's the
+[34:26] other guy choth and [ __ ] gang blank
+[34:29] okay gang blank yeah you kind of want to
+[34:30] kill a little bit but Cho who gives a
+[34:33] [ __ ] whether we kill him whether we we
+[34:34] get him fed or not who cares normally in
+[34:37] League ball Lane is just the lane to go
+[34:38] towards I'd say around 85% of the time
+[34:41] you want to path towards ball Lane you
+[34:42] want to play towards ball Lane not just
+[34:44] because of the Dragon but because MF is
+[34:47] going to be a lot more useful than chth
+[34:50] okay and even this gin will be a lot
+[34:52] more useful than Gangplank um and
+[34:55] Gangplank as a champion will be useful
+[34:57] later on no matter what so let's say
+[34:59] you're trying to play towards Fiora or
+[35:00] Jax or whoever and you're like man I
+[35:02] want to play Top Lane because you know
+[35:03] it's it's so so much better
+[35:05] realistically those Champions are going
+[35:06] to be useful even if they're like weak
+[35:08] if an MF is
+[35:10] 05 dude like they're just useless like
+[35:13] play towards ball Ling essentially so
+[35:15] that's where Dragon that's where Dragon
+[35:16] is okay and the the next thing I want to
+[35:19] break down for us is okay let's say
+[35:21] we've played a good early game look at
+[35:22] Russ's early game amazing he's very very
+[35:24] fed okay look at the tap screen this
+[35:27] this is you know he supplied all the
+[35:29] fundamentals I've given him he's you
+[35:31] know he could he this Dragon got stolen
+[35:33] from him a second ago so it kind of
+[35:34] sucks he he should have too um he didn't
+[35:36] pull the dragon out far enough which
+[35:38] we'll touch on in a second but okay let
+[35:41] me ask you guys okay in this game State
+[35:42] you have Raptors wolves gromp red buff
+[35:46] you have this situation this situation
+[35:47] this situation where do you go what's
+[35:50] the thing to play for here okay and I'll
+[35:53] give you guys a second to
+[35:54] think um it's somewhere on the screen
+[35:58] um but ultimately if you broken down
+[36:03] what like to play for objectives you
+[36:04] should come to the conclusion that
+[36:06] herold's up and we should play for
+[36:08] Herold okay and the reason why Harold's
+[36:10] so op is it's 200 gold for you and
+[36:14] that's two camps of exp right so it's
+[36:16] already like worth wolves and gromp
+[36:18] combined if someone you know enemy
+[36:20] jungler Dives balling goes too far
+[36:22] balling goes too deep you can now break
+[36:24] turrets break two turrets pop quiz for
+[36:27] you guys guys okay how much is one of
+[36:29] these outer turrets worth top Lan or
+[36:31] balling if you don't know it's okay you
+[36:34] should know it's a lot okay it's worth
+[36:36] 675 gold local times 25 * 5 this is
+[36:42] global five Champions it's worth 800
+[36:45] gold one outer is worth 800 gold um
+[36:49] let's let's dig into the inners the
+[36:51] inners are also if you don't know some
+[36:54] number um you just search it up and then
+[36:57] L get afterwards and I don't know the
+[36:59] exact number off the top of my head for
+[37:01] an inner for an outer turrets um it's
+[37:03] 250 local and then 550 50 Global so
+[37:06] that's going to be um that's going to be
+[37:09] 500 gold so even these turrets are with
+[37:10] 500 gold uh and then we go to towards
+[37:13] mid lane mid Lane's a little different
+[37:15] uh mid lane turrets is um where does it
+[37:19] say mid lane um dist plates hold
+[37:22] on a [ __ ] I know mid lane is different
+[37:24] no maybe the mid outer is the same it's
+[37:26] just the in it's just the mid outer yeah
+[37:27] it's just the mid outer so actually
+[37:29] actually all the outer are are worth
+[37:30] five 500 gold okay that's cool I I don't
+[37:32] even know that actually like stats you
+[37:34] learn every now and then um but okay
+[37:37] let's say you know again they go bot and
+[37:38] you can push in Top Lane but let's say
+[37:40] in a normal game where it's just like we
+[37:41] got Herald and like they didn't into
+[37:43] anything which turret creates the most
+[37:46] amount of pressure in any game no matter
+[37:48] what okay this a simple mac question you
+[37:51] should come to the conclusion that mid
+[37:52] lanane is the turret to break okay
+[37:55] normally speaking if you're playing
+[37:56] against Victor or in this in the enemy
+[37:58] case or in our case we're playing
+[38:00] against um brand how do we or Jin or or
+[38:03] gang play actually how the [ __ ] do we
+[38:06] break the enemy mid if they're there and
+[38:08] they're not completely griefing how do
+[38:11] we break that turr it's literally
+[38:12] impossible they're just one tap the wave
+[38:14] we need like we need a lot of work to
+[38:15] break that turret you know what Harold
+[38:17] does Harold says [ __ ] you I'm breaking
+[38:19] your turret and I'm cashing in 500 gold
+[38:21] I don't give a [ __ ] so if you're ever
+[38:23] ahead in a game please please please
+[38:25] please please play for Harold please
+[38:26] please please please app it's so so so
+[38:29] important
+[38:31] okay all right give me second I need
+[38:33] some
+[38:41] water all right so the next thing how to
+[38:45] play for objectives and why objectives
+[38:47] are so key to play
+[38:49] for
+[38:52] um let me see
+[38:55] um let's go to this last dragon right
+[38:57] here um okay we we'll talk about this
+[38:59] for a sec okay right
+[39:01] here every time you pull Dragon Herold
+[39:04] or grubs most of the time depending on
+[39:06] which side you're in I would say again
+[39:08] 85% of the time you pull it out not here
+[39:11] but all the way to here okay all the way
+[39:13] out all the way out okay you always want
+[39:16] to do that for two reasons one
+[39:19] you're you you you avoid a lot of like
+[39:21] steel potential Le can Q over Zach can e
+[39:25] over whatever okay and you make your
+[39:28] your laners your range Champions be in a
+[39:31] much safer position because they have so
+[39:32] much space if they're hitting it in the
+[39:34] pit they have to hit it from here or
+[39:36] here that's not a lot of space to to cut
+[39:38] around and then they get trapped in here
+[39:40] they get looped around by enemy team and
+[39:42] you're just dead if your teammates are
+[39:44] out here they have a lot of space to
+[39:45] Zone them off they have a lot of space
+[39:47] to Zone them off okay so whole objectiv
+[39:49] is
+[39:50] out what happens here is because we
+[39:52] didn't pull the objective out far enough
+[39:54] well here comes uh Superman here
+[39:58] and um you know we we just naturally
+[40:01] miss this SM which is chill but the the
+[40:03] the sconner you know if the objective is
+[40:05] out here he has to go put put himself in
+[40:07] a further position and he might even
+[40:09] have a harder time getting the objective
+[40:10] it still comes down to Smite fighting
+[40:12] but for principal please please please
+[40:14] pull your objectives out it's super
+[40:15] super important okay now we're go to
+[40:17] talk about the next thing what it's like
+[40:19] to actually play for objectives then
+[40:21] well okay we just killed Gangplank we're
+[40:23] on grubs okay awesome we have around a
+[40:26] minute and a half left on grubs so when
+[40:28] we see this [ __ ] happen should you go
+[40:31] kill scarner or should you do the grubs
+[40:33] what do you guys think I give you guys a
+[40:34] second I think about should you go kill
+[40:36] scarner here or do the
+[40:40] grubs you do the grubs this kill does
+[40:43] not matter if TR Dies who cares I don't
+[40:46] care let him die like actually just let
+[40:48] him die okay on top of that if I'm going
+[40:50] to stop this Scar from killing my choth
+[40:53] I'm never expending My ultimate okay
+[40:56] I'll give you guys make this even more
+[40:58] interactive why am I never using my
+[41:00] ultimate so I am never I am never using
+[41:02] knock R here option
+[41:04] A save for Mid kill slight B save for uh
+[41:11] save for um Herald c um not worth one
+[41:16] kill okay I'll give you guys a second to
+[41:19] think all
+[41:22] right which one should I save it to to
+[41:24] try and fight ball Lane mid lane Top
+[41:26] Lane maybe maybe get two kills should I
+[41:28] it's just not worth it a kill in general
+[41:30] um so in this case there are two right
+[41:34] answers okay if you chose a please
+[41:37] rethink everything okay re the whole I'm
+[41:39] telling you it's B or C essentially one
+[41:42] one ultimate is never worth one kill if
+[41:44] you can already get an objective okay
+[41:47] but the optimal answer is save it for
+[41:49] the damn Herald okay so whenever you use
+[41:53] ultimates and it's not going to be up
+[41:56] when the objective spawn you're [ __ ]
+[41:58] up that's how you can break down your
+[42:00] game play and actually assess every
+[42:03] point of Time how you actually can get
+[42:05] better and improve if you're using your
+[42:06] ultimates HEC
+[42:08] malt hecm Diana
+[42:12] nocturn scarner whatever and you're
+[42:15] using it before a objective is spawning
+[42:18] well you need to rethink life it's not
+[42:21] it's not proper to
+[42:23] to um to do to do that um so we actually
+[42:27] end up killing scarner which is amazing
+[42:29] but not only have we you know expended
+[42:32] flash by the way Herald's coming up soon
+[42:34] we have no ultimates and we've delayed
+[42:36] our grubs pole by around 30 seconds
+[42:38] which means we've delayed our Raptors
+[42:40] wolves and gr pole by another 30 seconds
+[42:44] okay which means we're going to be even
+[42:45] later to Herald so all of it you know
+[42:48] really really affects everything as you
+[42:50] can see here Heralds up at at 14 minutes
+[42:53] we ran to our Grump where we supposed to
+[42:56] go we're supposed to go straight to Top
+[42:57] Lane here and sit at the objective 30
+[43:01] seconds to a minute before every time
+[43:05] please go to the objective before it
+[43:08] spawns what's going to happen is you're
+[43:09] either going to catch them off guard and
+[43:11] you're going to chunk them out you're
+[43:13] either going to be able to pull the
+[43:14] objective on spawn which is amazing
+[43:15] which is awesome or you'll just you know
+[43:18] be in a better position because you're
+[43:20] there you don't need to do camps I'm
+[43:22] going to give you guys another great
+[43:24] example as to why you should go to the
+[43:27] objectives on spawn one second
+[43:34] um okay give me one second so
+[43:38] here in a in a live game I reviewed just
+[43:42] the other day um give me one second let
+[43:45] me find the time
+[43:53] stamp okay so right here in this in this
+[43:55] EVN game the not that strong
+[43:58] um but we're not weak at all our
+[44:00] teammates are pretty strong so here the
+[44:02] dragon's coming up in again we'll just
+[44:04] we'll just make this really clear the
+[44:06] dragon's coming in 48 seconds okay so
+[44:08] you have enough time to do your wolves
+[44:10] and gromp and then go for the dragon but
+[44:12] then this live game I'm yelling at my my
+[44:14] student here please please please you
+[44:16] can see his character he's actually he's
+[44:18] actually ready to go do these wolves
+[44:20] here you look at in a second he's so set
+[44:22] to going on these wolves and I'm just
+[44:24] yelling at him please please please go
+[44:26] into the jungle go to the Jungle going
+[44:27] into the jungle going into the jungle so
+[44:29] since you're playing a champion like
+[44:30] Evelyn you don't get seen But even if it
+[44:31] gets seen then you want to Clear Vision
+[44:33] with your with your sweeper
+[44:35] okay hello there's an enemy here okay
+[44:38] and even if this Victor doesn't you know
+[44:40] int and grief his path a lot of people a
+[44:43] lot of times you know the enemy enemy
+[44:44] jungler will come someone will come or
+[44:46] like you can go connect with your
+[44:47] balling you can establish Wards with
+[44:49] your support or you can kill someone on
+[44:51] mid lane if you're playing Evelyn in the
+[44:52] same position these camps do not
+[44:54] translate into this objective so again
+[44:57] the mindset swap here is you play for
+[45:01] the objective however you can obviously
+[45:03] this guy dies here blah blah blah blah
+[45:05] but you know student here was so set on
+[45:07] going to wolves and going to gromp
+[45:08] because he needs camps okay so wake up
+[45:11] guys after you get your first item or
+[45:13] even second item you do not need camps
+[45:15] anymore okay stop eating camps it's so
+[45:16] pointless go play for objectives and if
+[45:19] there's no objectives to play for well
+[45:22] you're wrong because you can play for
+[45:23] turrets now so okay let's say there's no
+[45:25] dragon here well guess what you can play
+[45:26] for top you can play for B you can play
+[45:28] for Mid mider normally is really hard to
+[45:30] play for so play for the top play for
+[45:31] the bot what that means is yeah we're
+[45:33] playing for kills in a sense but no
+[45:35] we're playing for when they when your
+[45:36] teammates push in a wave or when your
+[45:38] teammates come shift down you're you're
+[45:40] you know 2 be oneing them or 3v oneing
+[45:42] them and you're trying to apply pressure
+[45:43] that way so there's always objectives to
+[45:45] play for now let's say you're behind in
+[45:47] a game okay if you're behind you don't
+[45:50] have to play for objectives okay that's
+[45:52] that's like ultimately if if you're weak
+[45:54] don't play for objectives play to come
+[45:56] back in the game however you can can but
+[45:58] if you follow the other set of
+[45:59] fundamentals I've given in the jungle
+[46:00] cheat sheet if you watch any of my other
+[46:02] videos your early game should be
+[46:04] consistent and can should be standard
+[46:06] example Russ's early game almost every
+[46:07] game he walks out with a really clean
+[46:10] like 5-0 and like five score line like
+[46:12] he's on average just like up a lot of
+[46:15] gold in the early game okay because he's
+[46:17] followed fundamentals so fundamentals
+[46:19] you can get through and get better at um
+[46:22] as you um you know just get good at your
+[46:25] early game and now we trans what it's
+[46:27] like to have a good early game into
+[46:28] having a good mid game into having a
+[46:30] good jungle game and again guys please
+[46:33] please please please catch your
+[46:34] objectives okay so this is where the the
+[46:37] the the more in-depth concept comes
+[46:38] where I'm not just trying to change you
+[46:40] guys and and actually like make you guys
+[46:42] be better in like a change of play style
+[46:45] um actually
+[46:47] sorry this is actually even a fun fact u
+[46:50] a fun thing to think about okay in
+[46:52] shooter games valerant Apex fortnite
+[46:55] what okay I don't's fortnite but like
+[46:56] you get the idea like this this games
+[46:58] where like shoo most of the shooters
+[47:00] what a Apex CSO R six all these um you
+[47:05] need to kill them like you actually have
+[47:07] to kill them um I don't see any world
+[47:10] where like if you're playing those
+[47:11] shooter games like you you can't maybe
+[47:12] valerant the kind of but like n you
+[47:14] you'll get [ __ ] your goal is like
+[47:17] realistically majority of time is you
+[47:19] need to kill them in League that is not
+[47:22] the case at all in League your goal
+[47:26] shouldn't be to kill
+[47:27] your goal should be something else which
+[47:29] is play for objectives and if kills come
+[47:32] into your pocket that's wonderful but
+[47:35] your goal should never be I want to kill
+[47:38] Mr brand or Mr jyn or whoever else
+[47:41] because okay even in valerant if you can
+[47:43] plant the bomb safely and defend the
+[47:45] bomb you should do that that that's it
+[47:48] like you don't need to go and Hunt
+[47:49] everyone you should just sit on the bomb
+[47:50] and just chill so if you can take the
+[47:53] grubs for example we go back here
+[47:58] without trying to kill scarner then just
+[48:01] take the grubs there's no there's no
+[48:03] threat to this guy here right now so
+[48:04] this is chasing for kills essentially
+[48:06] stop chasing for kills please please
+[48:07] please stop chasing for kills okay so if
+[48:10] you have like a feeling of like I I I I
+[48:12] I just play for kills that's like
+[48:13] naturally gameplay it's it's because in
+[48:15] every other game almost every other game
+[48:16] like that's that's like design that's
+[48:18] the design like in whatever game you're
+[48:20] playing most of the time you need to
+[48:21] kill them but in a more strategic game
+[48:24] where CH like like like chess like your
+[48:26] goal not to
+[48:28] like kill every single piece you know
+[48:30] like you can strategically win with
+[48:32] pieces being
+[48:33] alive that's the fun part of leag all
+[48:36] right so now that we have a breakdown of
+[48:40] okay what do we play how to play for
+[48:41] objectives objective objective okay
+[48:43] that's how we're going to break down our
+[48:43] games what do we do to now win um while
+[48:47] we're playing for objectives and you
+[48:49] know how like how does this work because
+[48:51] okay let's say let's say this Dragon
+[48:52] let's say this scrubs let's say my
+[48:54] balling is really really weak
+[48:57] so if you're ball in Z 10
+[49:01] combined okay and this guy is um you
+[49:05] know two
+[49:09] and0 and you've been paing up the whole
+[49:11] game but you're like man I need to play
+[49:13] for
+[49:14] Dragons right here's where it gets
+[49:16] tricky because your goal is no longer to
+[49:18] play for
+[49:22] Dragons your goal is to play for your
+[49:25] chogath your top laner and to play for
+[49:29] grubs and to play for Herold so if you
+[49:32] can't interact with the lane because
+[49:33] they're too
+[49:37] weak then don't play with them play with
+[49:40] your strong laners it's the same same
+[49:42] idea as we talked about earlier how you
+[49:44] want to tap into strong skills as a
+[49:46] player you don't want to tap into your
+[49:48] weak laners because what happens is if
+[49:51] these guys are 010 and these guys are
+[49:54] 100 and let's say you're the same score
+[49:56] line 404 you've been playing a really
+[49:58] good game cuz you've been capitalizing
+[49:59] top
+[50:00] kills if you 3v3 ball Lane like you
+[50:06] winning right if scunner comes toop
+[50:08] playing you guys 2v2 you're hard
+[50:11] winning so what you actually want to
+[50:13] happen is you want your top laner and
+[50:16] you to fight their strong
+[50:19] champion and that's how you'd shut down
+[50:22] the enemy you know fed Champion or you
+[50:25] want their the enemy top L enemy top
+[50:28] enemy jungler to keep fighting you guys
+[50:29] so you guys can keep winning 2v tws and
+[50:31] capitalize or you want scunner to over
+[50:33] index resources into ball Lane where the
+[50:35] 10 or0 ball Lane they don't need any
+[50:36] help at all like they're 10 or0 and that
+[50:39] way you get a 2v one Top Lane and you
+[50:41] got to just keep killing this guy over
+[50:42] and over again either either one is
+[50:44] completely fine but the idea is okay
+[50:46] let's say your ball's winning oh okay
+[50:48] let's say your to's winning again we're
+[50:49] going to continue with this let's say
+[50:50] top is winning you get the grubs you get
+[50:52] the Heralds you get top thirds that's it
+[50:55] that's how you win
+[50:57] get as much as you can in the top side
+[50:59] until an opportunity shows up where you
+[51:00] can maybe kill their bot Lan but your
+[51:03] goal should never ever ever ever ever be
+[51:05] to play with your weak teammates you
+[51:08] always want to play around your strong
+[51:09] teammates this will tie into the next uh
+[51:11] into um another concept of fighting um
+[51:14] but we'll get there in a second
+[51:17] so let's say we are playing you know for
+[51:21] balling okay because this is in this
+[51:22] game we're playing for balling let's
+[51:24] we're playing for balling we get this
+[51:25] bot kill here okay and you know we can
+[51:29] you know we can do a few things we can
+[51:31] like overt the map here oh scunner Top
+[51:32] Lane I can go do his Raptors or maybe
+[51:35] maybe his kugs are up I could go for his
+[51:37] kugs and go for his
+[51:38] Raptors okay but following the rule of
+[51:41] tempo call this Tempo
+[51:44] 101 Tempo
+[51:46] 101 we followed a simple game plan of
+[51:51] raptors kugs Red Wolves blue grp or
+[51:57] Grump
+[51:59] blue and then afterwards we
+[52:02] inputed gang bot lane and then um or do
+[52:06] the crab the G ball our game plan still
+[52:10] stays the same from here but the next
+[52:13] things we need to do is Scuttle crab
+[52:15] then
+[52:16] recall that's still in our function
+[52:19] still in our
+[52:20] formula we just added so I'll put as to
+[52:25] the side gank buet
+[52:27] but in our formula we still need to add
+[52:30] recall and okay if I were to ask you
+[52:32] guys what's our next sequence after we
+[52:34] recall obviously it's going to be kugs
+[52:37] Raptors or or maybe it's Raptors kugs
+[52:39] whichever one interchangeable um wolves
+[52:42] grum and then recall it's the same
+[52:47] [ __ ] okay and okay let's say after
+[52:49] wolves or let's say before wolves we can
+[52:51] add take Dragon awesome but we still
+[52:55] need to
+[52:58] it it it hasn't changed so you can't
+[53:01] just
+[53:03] add do enemy
+[53:07] Raptors do enemy kugs gank mid gank
+[53:13] B what about
+[53:15] recalling so if you want to break it
+[53:18] down this way this is a clear way from
+[53:20] me know like kind of explain I think um
+[53:23] in a sense of like you are obligated as
+[53:25] a jungler to farm camps and you need to
+[53:27] farm your camps it's the same thing as a
+[53:29] laner doing their camps so for example
+[53:33] if you're laner
+[53:35] okay look at the map here if your laner
+[53:38] had um three waves under his turret okay
+[53:42] not a great position three waves under
+[53:44] his turret and he just decided sorry he
+[53:46] just decided
+[53:48] to I want to go balling I want to make a
+[53:52] play You' call him insane you You' say
+[53:55] what the [ __ ] are you doing are you
+[53:56] stupid like you want to lose all that
+[53:58] resources that's the equivalent of us
+[54:00] just Perma skipping recall and not going
+[54:03] to the next set of the next set of the
+[54:04] function that's the
+[54:06] equivalent this laner losing two to
+[54:08] three waves and and roaming like an
+[54:11] idiot so when I see you guys play and I
+[54:14] see you guys just drop all your camps
+[54:15] like an absolute psychopath hey man this
+[54:18] Victor who is going to go down towards
+[54:19] ball line he might get one or two
+[54:21] kills
+[54:23] awesome you're still going to be like
+[54:25] what the [ __ ] is wrong with you because
+[54:26] like these kills might have not been
+[54:28] given towards you these kills might not
+[54:30] have even like happened like it's
+[54:33] completely coin flip that's the
+[54:36] equivalent of a l of a jungler just
+[54:38] dropping everything all his camps and
+[54:40] just saying yeah man I'm GNA go [ __ ]
+[54:41] to I'm going to go [ __ ] with this Lane
+[54:43] and I'm going see what I can
+[54:44] do keep your game really simple keep
+[54:47] your game really standard and what's
+[54:48] going to happen is while you're making a
+[54:51] standard game there will be
+[54:54] opportunities like take Dragon there
+[54:56] will be opportunities like gank balling
+[54:58] but you're not forcing these
+[54:59] opportunities these opportunities come
+[55:01] to you naturally because you have
+[55:03] structure you need structure when you
+[55:05] play if you don't have structure then
+[55:07] you end up being a absolute psychopath
+[55:10] and it's just you can't climb really
+[55:12] like it's like really hard to climb you
+[55:13] need to like I mean it's hard to climb
+[55:16] for most people but again here's the
+[55:18] [ __ ] irony of all this if you're a
+[55:20] really good psychopath you can make it
+[55:23] work right so if you really really
+[55:25] really want to just be the best ganker
+[55:26] ever and just not do camps you can make
+[55:29] it work uh but again I'm trying to
+[55:31] emphasize structure consistency
+[55:33] discipline and what it actually takes
+[55:34] for for me to get to Challenger and what
+[55:37] I think you guys can do to get to
+[55:38] Challenger as well um so that's the idea
+[55:42] of like recalling at least Tempo but to
+[55:45] make things more clear you just play
+[55:48] towards your strong side I'll name this
+[55:51] here strong side equal bot Lane So the
+[55:55] faster we recall
+[55:58] the
+[55:59] faster get to butling because we get to
+[56:03] our kugs faster and then we get to our
+[56:05] Raptors faster and instead of this being
+[56:06] take dragon now we can input this into
+[56:08] gank bot
+[56:11] awesome and then instead of playing for
+[56:13] our wolves and Grump afterwards what if
+[56:15] we just recalled okay and then we
+[56:18] reseted the entire process and went back
+[56:20] to kugs Raptors gank B and then bada
+[56:23] bing we're in a great cycle
+[56:27] Tempo makes it so you can actually win
+[56:29] the game and Snowball the game and work
+[56:31] with your strong teammates faster okay
+[56:33] if you want to Snowball the game you
+[56:34] work with your strong teammates okay the
+[56:37] faster you recall and spend your gold
+[56:38] and finish your camps the faster you can
+[56:41] work with your strong teammates without
+[56:43] giving so much so the problem with
+[56:44] people in snowballing is they think they
+[56:46] need to drop all their camps because
+[56:48] they need to end the game now no that's
+[56:49] not how the works you need a recall
+[56:51] right away you need to clear your what
+[56:53] was called weak side camps right away to
+[56:55] work with your strong side as fast as
+[56:56] you can that's proper Tempo play okay
+[57:01] what is weak side what is strong side if
+[57:02] you path towards ball Lane you going to
+[57:04] call this your strong side you're going
+[57:05] to call this your strong side camps if
+[57:06] you path towards Top Lane you're going
+[57:08] to call that your strong side you're
+[57:09] going to call that your strong side
+[57:10] camps in this case we're pathing ball
+[57:11] Lan so ballings are strong side camps
+[57:15] and balling strong side now top LS are
+[57:17] weak side and our top camps are weak
+[57:18] side so in principle if we are trying to
+[57:22] be as proactive as possibly can cuz why
+[57:24] not we want to clear our weak side camps
+[57:28] 100% of the time no matter what before
+[57:30] we make any plays any plays and if
+[57:33] there's a play to gank Top Lane we don't
+[57:36] give a flying [ __ ] unless it's defending
+[57:38] a dive or a very very very secure top
+[57:42] dive that's the only time we go Top Lane
+[57:44] otherwise don't give a [ __ ] if you're
+[57:46] getting Frozen on don't give a [ __ ] if
+[57:48] if if you're if you're like your lane is
+[57:49] unplayable don't give a [ __ ] I'm going
+[57:51] to balling where my strong side is to
+[57:53] win the game to get dragon to kill again
+[57:56] to dive them to do whatever so in this
+[58:00] game for Russ he instant recalls it's
+[58:03] kind of you know blurry to see he goes
+[58:05] straight through kug Straight to Raptors
+[58:07] and he sees an opportunity here to skip
+[58:09] his strong side camps and go play for
+[58:12] Dragon that's his proper play of what
+[58:14] early game playing through Tempo looks
+[58:16] like and as you can see Russ follows all
+[58:18] these rules and he walks out of these
+[58:19] games [ __ ] 40 whatever and he's just
+[58:22] [ __ ] on them okay next step is for
+[58:23] him to get good at his mid game which he
+[58:25] needs a lot of work on but this is how
+[58:27] you're able to get consistent at your
+[58:28] early game when it comes to
+[58:30] Tempo okay again if you guys are
+[58:32] interested in you know coming into these
+[58:34] group meetings group sessions um in the
+[58:37] patreon it's only $15 it's pretty chill
+[58:40] 15 a month which is really really chill
+[58:42] um and then you just get a send me vods
+[58:43] and we you get to show up and we just
+[58:46] [ __ ] review um we do the exact same
+[58:48] thing we're doing here you get like a 10
+[58:49] to 15 minute review depending on how
+[58:51] many people show up and
+[58:53] then uh we just discuss everything but
+[58:56] anyway get back what we're saying you
+[58:58] want to get to Ballin as fast as you can
+[59:00] because you're strong side So the faster
+[59:02] you recall the faster you get to Ballin
+[59:03] that's why you want to recall okay you
+[59:05] don't want to oversay on the map some
+[59:06] you might say okay well let's say let's
+[59:08] say we we we we erased all this it's a
+[59:11] lot of lot of oh [ __ ] it's a lot of
+[59:13] blurry stuff to see let me just
+[59:14] backtrack a lot let's
+[59:17] say that's all I can go [ __ ] okay let's
+[59:20] say okay let's say uh I want to add
+[59:24] right um right here in right right here
+[59:26] okay we'll say right here uh not not
+[59:27] here actually right here before recall
+[59:29] let's say let's say before recall let's
+[59:30] say I want to add like a reg gank reg
+[59:33] gank because that's playing to our
+[59:35] strong side so here's where things get
+[59:37] confusing because okay yeah I'm playing
+[59:38] to my strong side right this is like
+[59:39] where like okay well hey Perry like uh
+[59:41] they came back to Lane and the Lane's
+[59:43] pushing into us and I can reg gank them
+[59:46] well let me ask what are the what is the
+[59:48] likeliness of you guaranteeing getting
+[59:51] kills or getting an objective afterwards
+[59:54] what happens is let's say you make a
+[59:55] play at 4 minutes
+[59:57] okay and afterwards you kill them at 430
+[59:59] again so you get one kill and then one
+[60:02] kill here what do you have to do after
+[60:04] you kill them you still need to
+[60:07] recall so that means you can't make a
+[60:09] play after you kill them ballan but
+[60:11] let's say after four minutes you
+[60:13] recall okay and once you recall you got
+[60:16] to come back on the map and make a play
+[60:17] ball Lane and after you make the play
+[60:19] ball Lane you got to invade you get to
+[60:22] do dragon you get to hostage them
+[60:25] between the turrets you're going to do
+[60:26] so much more than if you just regain so
+[60:29] regaining works sometimes and it's
+[60:31] completely fine if you're going to
+[60:33] guaranteed get something and ideally you
+[60:35] get an objective so if somehow you can
+[60:38] guarantee get an objective afterwards
+[60:40] then of course it's chill but the reason
+[60:41] why you recall is so you can spend gold
+[60:43] so you stronger and the stronger you are
+[60:46] the easier plays are to make that's the
+[60:47] truth to it if you're strong with items
+[60:51] you can miss like five abilities and
+[60:52] like you'll be able to kill them so
+[60:54] that's the idea of what tempo like is
+[60:55] like
+[60:58] okay okay so that's a lot of [ __ ] um
+[61:01] there's a lot of [ __ ] that we're talking
+[61:04] about um oh okay to recap real quick
+[61:08] before we go to the final last concept
+[61:09] because I I want to just go to the
+[61:10] questions here because i' I've been
+[61:11] talking for an hour straight
+[61:14] um we're going to recap and it's going
+[61:16] to be one stop playing for kills or we
+[61:19] just say stop playing for kills stop
+[61:20] playing for kills think about
+[61:24] objectives change
+[61:26] mindset to object to to thinking about
+[61:31] objectives okay and
+[61:34] then oh [ __ ] that changes the size okay
+[61:36] and then
+[61:39] um how Tempo works with objectives how
+[61:43] strong
+[61:45] side
+[61:50] objectives why playing for kills and
+[61:54] getting uh and then okay quick I just
+[61:56] I'll just give you guys the reference
+[61:57] that's say you're level
+[61:58] seven two and0 this guy's level
+[62:03] six zero and
+[62:05] one but this guy is one
+[62:08] Dragon if you're a laner I know it's
+[62:10] really messy if you're if you're a laner
+[62:12] like who do you like
+[62:15] more it's like okay this looks more
+[62:18] appealing but
+[62:20] like as a laner as a teammate I actually
+[62:24] care more about this because this guy's
+[62:26] a
+[62:27] dragon and it actually puts so much
+[62:30] pressure on you to where let's say
+[62:32] you're level eight three and0 you die
+[62:35] one time now your teammates are like
+[62:38] what the [ __ ] bro this guy spent all of
+[62:39] his time playing for himself greedy ass
+[62:42] and and then he's going to die into the
+[62:43] game and then he they they just say
+[62:45] stupid [ __ ] or whatever you can actually
+[62:47] just be level six one and0 because
+[62:50] you're not a bad player okay and have
+[62:51] one
+[62:53] dragon and everyone Everyone likes you
+[62:55] and you like yourself and you now have
+[62:58] teammates to work with and you can carry
+[62:59] the game with with everyone essentially
+[63:01] like what also matters in a game where
+[63:03] you know league has so much emotions
+[63:05] attached to it making your teammates
+[63:07] happy in a way where you also are
+[63:10] succeeding and you're also playing good
+[63:12] game is important because I don't I
+[63:14] don't want you to just give your game
+[63:16] away to play for your teammates but
+[63:18] overall like it's a win-win when you
+[63:20] play for objectives you make everyone
+[63:21] happy and you don't overemphasize on
+[63:23] kills or trying to carry the game you
+[63:24] can still carry the is still to carry
+[63:27] but you don't carry by getting th000
+[63:29] kills okay and then the last thing um is
+[63:34] um yeah so the this is pretty much the
+[63:35] main the main ideas here
+[63:39] um and then the last thing is going to
+[63:42] be um fighting so we had our fight chart
+[63:46] here this was um
+[63:49] emotions this was
+[63:51] fighting this is macro so we T we talked
+[63:55] about a lot of the macro here right so
+[63:57] let's say we're good at macro now we
+[63:58] play for objectives let's say we don't
+[64:00] get emotional anymore okay there's still
+[64:02] 25% left of okay I need to get good at
+[64:05] this skill I need to get good at what
+[64:07] what this
+[64:09] means one second sorry
+[64:13] um fighting is a hard thing to get good
+[64:16] at I'm not going to lie it there's a
+[64:17] there's a lot to it um there's a lot of
+[64:19] things you can do
+[64:21] there's a lot of ways you can fight and
+[64:24] just like anything else it's like the
+[64:25] background motions how the [ __ ] do we
+[64:27] get kid at fighting well I got a trick
+[64:29] for you
+[64:30] guys all right I got a
+[64:32] trick it's not complex you hold tab
+[64:36] right here look at your teammates and
+[64:39] also you can base it off who's been
+[64:40] useful or not who do you want to play
+[64:42] around okay most people will say Victor
+[64:45] here some might say MF some might play
+[64:47] say Zara let's say
+[64:49] Victor how does Victor want to play
+[64:52] fights oh you know he wants to use
+[64:54] spells and out and um you know just like
+[64:57] if someone like steps into his W he
+[64:59] wants to play range he wants to get like
+[65:00] two or three sequences of
+[65:02] spells okay I'm playing nocturn how can
+[65:05] I work around you Victor to help you
+[65:10] fight oh maybe I shouldn't Al in and go
+[65:12] for the backline like a psychopath if my
+[65:15] Victor is full
+[65:17] HP has all his spells ready to fight
+[65:20] let's front the back awesome okay let's
+[65:25] you know
+[65:26] say that this guy was a z and it was the
+[65:29] same person same same same score same
+[65:31] manif fed how the [ __ ] does I want to
+[65:34] play oh oh it's really clear let's jump
+[65:36] the Jin
+[65:38] together but what happens is this guy
+[65:41] sees the game differently this guy sees
+[65:42] the game differently this guy this guy
+[65:44] this guy no one's on the same
+[65:47] page so the least you can do to get good
+[65:51] at fighting to win is just put yourself
+[65:54] on the same page as one one person let's
+[65:57] say you just think this this guy is good
+[65:58] he's playing well he's really fed too
+[66:00] he's really strong how can you play
+[66:01] around chogath it's not that easy as as
+[66:03] knockdown you don't really have any
+[66:04] options but you know you can you can
+[66:06] just work off the the targets he's
+[66:08] hitting so let's say shath like is
+[66:10] really only focusing bran then kill
+[66:12] brand with
+[66:13] him so this can kind of get confusing as
+[66:15] a nocturn some Champions it can get
+[66:17] really confusing but what really makes
+[66:18] sense is don't Al in on their backline
+[66:21] if your Victor is not in range so you
+[66:22] only use your Champion abilities if
+[66:24] Victor can hit I don't care if MF can it
+[66:26] I don't care if TR can it and on top of
+[66:28] that I'm never going to fight 2v2 Top
+[66:30] Lane never goingon to fight 2v2 never
+[66:33] goingon to fight 3v3 I'm only fighting
+[66:34] 2v2 or if Victor shows up in the fight
+[66:38] that's how fighting works with your
+[66:39] strong teammates you work around the
+[66:41] people who are exceptionally strong and
+[66:43] you can play Team fights around these
+[66:45] people to make your life much much
+[66:46] easier and again if you're the only one
+[66:48] F fed you're only one
+[66:51] fed you still want to work around the
+[66:54] second person who's strong there's
+[66:55] always going to be someone who's strong
+[66:57] and even if that means your teammate is
+[66:59] like like this this Jep here who's seven
+[67:01] and N I'm not basing any of my judgments
+[67:04] on who's seven or nine I'm basing off
+[67:06] these items right now like these items
+[67:08] are like I think weaker than these so
+[67:11] right now the enemy team obviously jyn's
+[67:13] pretty strong too so scunner has a lot
+[67:14] of choices but let's say jyn's not as
+[67:16] strong JY only has two items and you
+[67:19] know GP seven and N but I can still play
+[67:21] with GP this guyy is fat as [ __ ] that's
+[67:23] how scarner would want to like play Team
+[67:25] fights he' want to work around GP how
+[67:27] does GP want to play okay uses barrels
+[67:30] how can I set a barrels for him best I
+[67:32] can oh well guess what I'm playing SC
+[67:35] wonderful so that's how fighting sort of
+[67:37] works and you know everyone fights
+[67:39] differently and everyone you know can
+[67:41] learn it differently there's also other
+[67:43] skills like let me tap
+[67:45] into um some of one of those other
+[67:47] discussions I we went through a while
+[67:49] back um we have um how to my mechanics
+[67:54] and there's a few games here if you guys
+[67:56] it's just in discussion chat right here
+[67:57] if you guys go there there's a few
+[67:59] things you can look at um all of these
+[68:01] are pretty pretty useful um mobile
+[68:04] battle is you just [ __ ] play and you
+[68:06] fight people and it's just like League
+[68:07] of Legends Dodge game I'm sure you guys
+[68:09] have seen this dodge shows again on our
+[68:11] similar game like that but um all these
+[68:13] is just is just getting good at right
+[68:15] clicking and getting good at you know
+[68:18] just
+[68:20] just clicking and and and mechanics and
+[68:23] and the best way to get really good at
+[68:24] fighting is to play consistently every
+[68:28] single game so what I mean by
+[68:29] consistently is um let me move this out
+[68:32] of the way what I mean by consistently
+[68:34] is I mean you need to play with
+[68:39] um
+[68:41] intention um every single fight so if my
+[68:43] intention in in this game is to play
+[68:45] around Victor I need to fight that way
+[68:49] um and so not only do you want to work
+[68:50] around your your teammates you want to
+[68:52] have like a set like two to three ways
+[68:55] of playing fights so as nocturn it's
+[68:57] really clear either go in on their
+[68:58] backline or go in as late as possible
+[69:01] after I use my ALT or you know maybe
+[69:03] there's a few more options you have like
+[69:05] just save your all to the end or it's
+[69:06] use it really early don't even alt in
+[69:08] but you want to give yourself set plays
+[69:10] um you know in basketball football and
+[69:12] these other games like they they have
+[69:14] set plays you want to give yourself set
+[69:15] plays with how you team fight and you
+[69:17] want to perfect those set plays so the
+[69:21] problem with set plays or fundamentals
+[69:23] or baselines of how people fight
+[69:26] is some people are psychopaths and their
+[69:28] way of fighting is I must go in that's
+[69:30] the only option well that's why I'm
+[69:33] trying to wake you guys up and say hey
+[69:34] man you there's there's a team game it's
+[69:36] still a team game even though your
+[69:37] teammates are useless there like it's
+[69:38] still really important to work around
+[69:40] your queen your queen piece to win the
+[69:42] game you can't just do everything by
+[69:43] yourself your Rook piece or your knight
+[69:45] piece if you're the queen you still have
+[69:47] to work on your
+[69:48] teammate but um because people just only
+[69:52] think about themselves and only focus on
+[69:53] themselves and don't care about anyone
+[69:54] else they see the game onedimensional
+[69:56] I'm going to kill the
+[69:58] AC I'm going to kill the FED character I
+[70:00] don't care about anyone else I don't
+[70:01] care about anything else and then they
+[70:02] start killing themselves they start
+[70:03] dying a lot they start fighting like an
+[70:05] idiot um so there's two things there one
+[70:08] you know give yourself a few options
+[70:09] don't just play in one specific way like
+[70:12] one or two ways of playing that are like
+[70:14] either go really deep in or go really
+[70:15] slow like that's like two options either
+[70:17] really slow or really fast like those
+[70:20] are the two options and then the last
+[70:22] thing is work around a teammate but that
+[70:24] will fill in your your entire pie chart
+[70:26] of what I think League of Legends you
+[70:27] know it takes to kind of climb in League
+[70:29] you got
+[70:30] fighting you got emotions you got
+[70:32] fighting and then you got macro uh and
+[70:34] then I I think you
+[70:36] know there's way more to macro and
+[70:39] there's way more to the psychology of
+[70:41] you know controlling your own emotions
+[70:43] and you know tapping into not dealing
+[70:46] with pressure not dealing with or or
+[70:48] dealing with pressure dealing with
+[70:50] stress dealing with your teammates ining
+[70:52] um even dealing with um um you're you're
+[70:56] like like you know you're bad days or if
+[70:58] you're you know you're you're not
+[71:00] climbing or whatever um there's a lot
+[71:01] more to emotions and you know the
+[71:04] psychology behind things uh to dive in
+[71:06] deeper you know you can dig into how
+[71:08] people play in a sense of like uh their
+[71:11] clicks and what that shows and how
+[71:13] they're playing or you can dive into um
+[71:15] what's the correct way to Ping people
+[71:17] because there is a correct way to Ping
+[71:18] people there's a lot more going on into
+[71:21] the psyche of like when you're playing
+[71:22] league but the easiest Baseline for
+[71:24] everyone to do is even if you did 33 33
+[71:27] 33 33 we spit into thirds it's just
+[71:30] don't be a tilter don't judge your
+[71:32] teammates play the game don't FF turn
+[71:34] chat off never FF actually uh you know
+[71:38] become a better jungler focusing on
+[71:39] objectives focusing on giving yourself a
+[71:41] standard stable game and to fight better
+[71:44] not going to be an easy one but you know
+[71:46] one tricking and applying all these
+[71:47] other skills will help you and
+[71:49] ultimately just play around one teammate
+[71:52] in fights and it'll make your life so
+[71:54] much better
+[71:56] and then if we want to dig really deep
+[71:58] into everything um ultimately the best
+[72:01] thing I can coach you guys on um is
+[72:03] going to be uh the micro behind you're
+[72:06] fighting and the macro behind you know
+[72:09] there's way more there's Wave Control
+[72:10] there was you know information gathering
+[72:12] jungle tracking etc etc there's so much
+[72:15] more to it not enough to just go over uh
+[72:17] in just short amount of time but if you
+[72:21] guys are you know interested in hearing
+[72:23] more or understanding more I'm coaching
+[72:26] if you're if you're first-time student
+[72:27] $20 off right now um it'll only go for
+[72:30] one session but that'll give you the
+[72:31] idea like okay if you want to work with
+[72:32] me here or you know there's bundles for
+[72:34] other people too um we're going to be
+[72:37] making more content soon I'm going to be
+[72:38] doing scripted content there's cool
+[72:40] things happening cool things going on um
+[72:42] but all right enough of that [ __ ]
+[72:44] patreon as well but enough of that [ __ ]
+[72:45] let's answer some questions and let's
+[72:48] answer
+[72:50] um yeah anyone have any questions
+[72:52] overall for the whole thing
+[73:15] I can invite you to speak let's do that
+[73:18] oh you want to do oh [ __ ] did that
+[73:21] work we have a guest speaker
+[73:29] hello hello hello can you hear me yeah
+[73:33] we can hear
+[73:34] you okay so how do I team fight as bth
+[73:39] or like other car champions when my
+[73:42] support is like a Milo and my top Lan is
+[73:44] a queen for example because like when no
+[73:46] one is else is going in first I have a
+[73:49] lot of trouble fighting right so if
+[73:51] you're playing belet the champion is
+[73:53] like squishy and you know not much stats
+[73:56] what's going to happen is someone on the
+[73:57] enemy team is going to start the fight
+[74:00] someone on the enemy team Mal fight
+[74:03] scarner whatever else they're going to
+[74:04] jump in on your Quinn ormo and then
+[74:07] they're going to start the fight that
+[74:10] way or your Quinn or Mele or whoever
+[74:12] else like even even a mage mid laner
+[74:15] they might use a spell back to them and
+[74:17] that's how the fight breaks out um
+[74:19] because as belth you don't necessarily
+[74:20] want to start the fight by yourself
+[74:22] because you're just too squishy so the
+[74:24] best advice I have there is let someone
+[74:27] else get engaged on like do not get
+[74:29] engaged on stand behind them that's the
+[74:31] way I played vgo for a long time as
+[74:35] well I see thanks
+[74:37] awesome all right let's see move to
+[74:41] audience okay
+[74:43] um if your team spam pings you to gank
+[74:46] but you finish your C clear they get
+[74:47] tilted what you do from this position I
+[74:48] mean bro like they're going to get
+[74:50] tilted so what there's literally like
+[74:52] that's literally like such a small
+[74:54] percent percentage
+[74:56] of things to worry about I'd say um
+[75:00] they'll get tilted by anything they'll
+[75:02] get tilted
+[75:03] from like they're like a spider showing
+[75:05] up you know like you can't control that
+[75:07] so don't control it and just try to play
+[75:09] your game better don't focus on what
+[75:11] they're
+[75:12] doing at the moment one of my teammates
+[75:15] starts pinging me I mute them because
+[75:17] they're being
+[75:18] stupid okay or they see something and I
+[75:21] just ping them away I tell them what I'm
+[75:22] doing essentially like you've were your
+[75:25] own game not their game okay you play
+[75:28] your own game and if they get tilted and
+[75:29] they in the game bro who cares the goal
+[75:32] is again growth mindset we don't care
+[75:34] about LP we don't care about win loss we
+[75:36] care about getting better so how can you
+[75:38] be better in that
+[75:40] way what do you think about this
+[75:41] excluding Stacks per Drake you get you
+[75:44] get exactly 1850 gold I mean that's a
+[75:47] lot of [ __ ] gold if that's like the
+[75:48] the right stat like I don't know I know
+[75:50] hex is [ __ ] op but like oh it is CDR
+[75:53] I mean dude it's I mean actually it is
+[75:55] CDR huh it is CDR um hex Drake L Wiki I
+[76:00] mean I think that might be right
+[76:01] actually hex Drake is op what does it
+[76:03] give it gives
+[76:10] um ability haste and a
+[76:13] daxi yeah it's worth a lot it it's it's
+[76:16] worth a lot like you're you're right
+[76:18] it's definitely worth a lot um so Dragon
+[76:21] doie Ops [ __ ] um does top Tower to still
+[76:25] have more HP than the bot Tower if
+[76:27] so when so right now top tur does not
+[76:30] have more HP than bot tur I think what
+[76:32] you might be referencing is at five
+[76:34] minutes or before five sorry yeah before
+[76:36] five minutes the top turrets and the mid
+[76:39] turrets have a bonus stat to force oh so
+[76:44] the top turret and the mid turret before
+[76:46] five minutes has bonus stats um and then
+[76:50] the botur does not have this at 5
+[76:52] minutes it's lifted the reason why they
+[76:54] added this was because before in Pro
+[76:57] play the bot laners would just go Top
+[77:00] Lane and and 2v one and then it would
+[77:01] just be like this weird [ __ ] like
+[77:03] Lane swap game and R did not [ __ ]
+[77:05] want that they said [ __ ] no we're adding
+[77:07] this rule [ __ ] you guys I don't know I
+[77:09] don't know why right did honestly that
+[77:10] was like such a good time so fun but um
+[77:14] that's like that doesn't really exist
+[77:16] anymore what should do I'm getting PR
+[77:18] invaded by anyy jungler with a support
+[77:19] or my mid laner doesn't come hey man you
+[77:22] Le I camp bro
+[77:24] it's not it's not that it's not that bad
+[77:26] bro if you lose one camp or two camps
+[77:28] like let's let's map this out for a sec
+[77:30] if you lose one or two
+[77:33] camps give me one second if you lose one
+[77:35] or two camps okay let me put this over
+[77:40] here let's say where's my Rift kit let's
+[77:44] say you are blue side okay you're trying
+[77:46] to your Camp bada boom bada bing holy
+[77:48] [ __ ] I gotta leave my leave I gotta I
+[77:50] gotta go right I have to drop my Raptors
+[77:53] just leave bro you can make a play Top
+[77:56] Lane you can make a play mid lane you
+[77:57] can even go all the way around and do
+[77:59] your Crux it's okay it's okay to lose
+[78:02] camps that's the problem man I get it
+[78:05] losing camps [ __ ] sucks but that's
+[78:07] the problem with people they just can't
+[78:09] handle losing camps the same way laners
+[78:11] can't handle losing one wave or Canon it
+[78:13] just [ __ ] sucks no I canot have to
+[78:17] die there yes that's what people think
+[78:19] they need a fight for the camp ah they
+[78:21] need a [ __ ] fight [ __ ] no man just
+[78:24] [ __ ] walk away it's completely chill no
+[78:27] one cares about this dumbass Camp okay
+[78:30] you it's literally 100
+[78:33] gold and some some exp you could
+[78:36] probably invade him back you could
+[78:37] probably make a top play you could
+[78:39] probably get an objective you could
+[78:40] probably actually wait for your
+[78:41] teammates to come and if they don't come
+[78:44] guess what if they don't come that means
+[78:45] they're pushing their wave that's even
+[78:48] better because guess what if they push
+[78:50] the wave in then you get an opportunity
+[78:51] to go back into the jungle
+[78:55] they can't force you off every Camp
+[78:57] right because that means you have
+[78:58] cleared your top side camps and if they
+[79:00] force you off this Camp the the enemy
+[79:02] support if the enemy support's up Top
+[79:04] Lane and you're worried about that
+[79:06] that's on you because you have plenty of
+[79:08] things you can do when the enemy support
+[79:10] is in your top Lane you actually can you
+[79:13] request to speak so we can actually like
+[79:14] talk about it instead you having to type
+[79:16] I think it' be easier to to to
+[79:17] communicate like that yeah yeah that's
+[79:20] perfect
+[79:22] cool all right
+[79:25] so what I'm trying to explain here is
+[79:27] okay let's say the enemy strle on
+[79:28] support go into your top side right just
+[79:31] leave and go into their bot side or go
+[79:32] into you know dive bot go to
+[79:36] Dragon yeah so sorry I was talking about
+[79:39] like like so I was like this happened
+[79:42] like multiple games in a row a few days
+[79:44] ago okay where the enemy like I so I'd
+[79:47] start top side and ideally I would pass
+[79:49] down but then the enemy jungler like he
+[79:53] he started on my he on my red and so I
+[79:58] was going to go to his red but then the
+[80:01] mid laner cut me off and dropped three
+[80:03] waves or not three like he he just
+[80:06] dropped his waves and then so I leave to
+[80:09] go back to like my blue side and then
+[80:11] like I just had nothing up cuz enemy
+[80:14] jungler like ran straight from there to
+[80:16] his red side and then they they just
+[80:19] like like stayed on no didn't like I
+[80:22] Tred to go to the blue and then and we
+[80:25] just had like no prior so gank
+[80:28] them if the enemy jungler does three bot
+[80:31] camps and goes into his top side then
+[80:33] gank their bot Lane if they're pushing
+[80:35] and if you're b as PR invade okay
+[80:37] nothing you can do ball Lane because
+[80:38] nothing you can do Top Lane nothing you
+[80:39] can do here then gank Top
+[80:41] Lane then gank mid
+[80:44] lane okay there like it's not that
+[80:47] linear you don't need to just play for
+[80:48] camps if you lose three camps it's okay
+[80:51] man cuz again dude if this guy like
+[80:53] imagine this guy's level seven you're
+[80:54] level level six is it that big of a deal
+[80:57] I mean at least to the general people
+[80:58] who see League of Legends from Jungle P
+[81:01] Bro people freak out at the fact that
+[81:02] you're level six and this guy's level
+[81:03] eight it's not that big of a
+[81:06] deal it sucks yeah but like okay if this
+[81:09] guy did a good invade then he did a good
+[81:11] invade so what you need to do is you
+[81:13] need to find a good good play in
+[81:15] response which often is okay if this guy
+[81:18] does this crosses this guy defends mid
+[81:21] Lane's dropping something so that's good
+[81:22] that means your m is going to be winning
+[81:24] you can either gank Top Lane go straight
+[81:26] to ball Lane gank ball lane or use ball
+[81:28] pryo to invade if ball Lane has no pry
+[81:30] you can gank them if ballan has pry you
+[81:32] can
+[81:33] invade if you can't do anything balling
+[81:35] because the enemy General is diving them
+[81:37] you can invade a toop side you can gank
+[81:39] top Lan there's many options you have to
+[81:40] evaluate that for yourself
+[81:42] right okay yeah it's just like it felt
+[81:44] like in those games like the the laners
+[81:48] were like like they're just like
+[81:50] dropping a lot to stop me from like
+[81:52] doing anything like invade
+[81:55] or gank so I guess I just let my laners
+[81:58] get ahead and it just sucks that's
+[82:01] that's great right then then your laners
+[82:03] get ahead and now now guess what there's
+[82:04] a next sequence of the game where these
+[82:07] guys hit B they okay that was trying to
+[82:10] R these guys recall and when they come
+[82:12] back they're stronger so now you can
+[82:14] come and invade him and he can't do
+[82:16] anything because your laners now have
+[82:18] complete
+[82:22] prior so think about the second sequence
+[82:24] right right like there's there's more to
+[82:25] the game than just like oh my God right
+[82:27] at the start of the game I lost three
+[82:28] camps it's chill
+[82:30] man it feels like [ __ ] I get it but like
+[82:33] it's not the end of the
+[82:36] world yeah I think it was just mental
+[82:38] boomed I like
+[82:39] dropped that
+[82:42] day I get it that that'll happen to you
+[82:44] right like the emotions emotions get to
+[82:46] you
+[82:48] um bro does that sort of answer
+[82:50] everything for you yeah yeah thank you
+[82:52] yeah I mean the biggest thing is if you
+[82:54] C yourself already like you know it's
+[82:55] emotions you know you're getting upset
+[82:56] at like everything that's
+[82:59] happening you know you know where to you
+[83:01] know where to go with that so do you
+[83:03] believe in losers Q winners Q I do not I
+[83:05] think that's just like okay even if it
+[83:07] exists in the underlying fact of League
+[83:09] like it's just so stupid to think about
+[83:11] who gives a [ __ ] like actually who gives
+[83:13] a [ __ ] just [ __ ] I don't care if I'm
+[83:17] winning or losing because what I care
+[83:18] about is playing League of Legends
+[83:20] better and improving my skill so if my
+[83:22] rank is well okay if I I I can't listen
+[83:26] Challenger it's too confusing if my rank
+[83:28] is Emerald 4 and I go down to to
+[83:31] platinum one but I my my my skill is
+[83:33] increasing to Emerald 3 because I know
+[83:35] I'm actually practicing things it's very
+[83:38] hard as a human to see this distinction
+[83:40] it's very hard right but if I'm just so
+[83:43] focused on just improving my skill
+[83:45] improving my skill improving my skill
+[83:46] this rank will go up as a human it's
+[83:49] hard we're not robots and we are
+[83:50] emotional but the moment you can detach
+[83:53] yourself from this stupid ass rank the
+[83:56] moment that's the moment where you can
+[83:57] actually get a good at league and
+[83:58] actually climb okay um some people
+[84:01] wanted to speak um and then I'm going to
+[84:03] go through when you when when coaching
+[84:06] what is one of the most common mistakes
+[84:07] you see in low ELO this is a question
+[84:08] for em for below
+[84:10] um just ganking so much I think like the
+[84:14] biggest problem in the advice everyone
+[84:17] gives now is like everyone needs to gank
+[84:19] a thousand times to be a good jungler um
+[84:22] and and what that that also ties into is
+[84:24] not farming enough these people just
+[84:26] gank gank gank g g gank and they don't
+[84:27] farm farm farm farm at all and then
+[84:30] they're like level [ __ ] five to level
+[84:31] seven actually no in Emerald you're
+[84:34] actually level five to level five
+[84:35] because the enemy jungler has also been
+[84:37] ganking the whole time but against a
+[84:38] good jungler you'll be level five with
+[84:40] the level seven and some of the plays
+[84:41] you've made are like stupid so the
+[84:43] advice I give to this happens all up to
+[84:45] Masters is please focus on your farming
+[84:48] that is the fundamental of laning so if
+[84:50] you ask a laner well what's the
+[84:52] fundamental of laning they say Las
+[84:53] hitting minions and trading okay trading
+[84:56] is a little more advanced but that's
+[84:58] like trading is the equivalent of jungle
+[85:00] pathing but the Baseline of jungling and
+[85:02] the Baseline of laning is last sit your
+[85:05] minions and clear your camps be in your
+[85:08] camps the moment it spawns so the
+[85:09] problem I see is this Camp spawns at 420
+[85:13] and in emerald and Below people don't
+[85:15] touch this Camp until 5 minutes or
+[85:17] something insane like that that's insane
+[85:19] to me that's actually crazy get to this
+[85:23] camp at 4 [ __ ] 20 man
+[85:24] you're not Canyon you're not [ __ ]
+[85:28] Conor oh not Conor is a top ler but
+[85:29] Canyon what's the other guy with a K
+[85:32] [ __ ] oh [ __ ] anyway you're not [ __ ]
+[85:34] Canyon you're not owner you're not
+[85:35] you're not these guys you know how to
+[85:36] overstay you're not in a 5v5 standpoint
+[85:39] where like you can communicate with
+[85:40] everyone play solo Q like solo Q is
+[85:42] supposed to be played Tempo what do you
+[85:45] do if my balling is getting fourman do
+[85:46] under Tower should I counter G or play
+[85:47] top invade well it depends if you're
+[85:49] there if you're under the turret can you
+[85:51] make an impact let's say you're let's
+[85:52] say you're like here and you have to run
+[85:54] all the way from here to say save bot
+[85:56] Lane well hell no you're not going to
+[85:57] make it so yeah just just go go top L
+[85:59] take an L but if you're like here and
+[86:02] like they're collapsing on you like this
+[86:03] if you go on the turret and you can 3v4
+[86:05] it like maybe it's hard you're down
+[86:07] numbers alternatively yeah you can go
+[86:09] Top Lane let those guys die and like you
+[86:11] can make top play which is fine it just
+[86:12] depends it's it's a hard question to
+[86:15] answer it's so it's so relative to
+[86:18] Champions if both top and balling and
+[86:20] losing do you f f yeah you exact that's
+[86:22] yes that question is amazing if both top
+[86:26] balling and middling are losing you
+[86:28] [ __ ] Farm okay you don't force [ __ ]
+[86:30] you farm because what happens when
+[86:31] League of Legends players get excited
+[86:33] they get bored they're winning too hard
+[86:35] they [ __ ] run it down okay honest
+[86:38] question for all of you guys how many
+[86:39] times have you guys thrown games where
+[86:40] you're up still points or you're up you
+[86:42] know 5,000 gold 6,000 gold you're up
+[86:44] like you're up 10 kills 15 kills or the
+[86:46] enemy team is up the same amount it's
+[86:49] literally just like like people in
+[86:50] League of Legends get so bored because
+[86:52] all they care about is like having fun
+[86:53] in a sense that like you can win at any
+[86:56] position ever so just keep your game
+[86:59] stable play off fundamentals play off
+[87:01] Basics and then you will have a really
+[87:02] good opportunity to come back in the
+[87:03] game because someone on H Team I promise
+[87:05] you will get bored that's happen so many
+[87:07] times so many times what is the K with
+[87:09] climb for low master what do you think
+[87:13] um
+[87:17] Masters it's been a while since I've
+[87:19] been a masters but I think it's it's
+[87:20] like I and I and I still fully believe
+[87:23] it's the same concept
+[87:27] of I okay actually I think for Masters
+[87:30] players it's actually even more
+[87:31] important to focus on objectives and not
+[87:32] kills because Master players can
+[87:34] actually know they actually have more
+[87:37] information okay never mind sorry I'm
+[87:39] giving too much credit to master players
+[87:41] I've seen I've reviewed a lot of like
+[87:42] even some people in this car right now
+[87:43] I've reviewed a lot of your games and
+[87:44] their information gathering is terrible
+[87:46] so no what Master players need to do is
+[87:48] wake the [ __ ] up you're not good okay do
+[87:50] the same Basics you've been working on
+[87:52] that got you from Emerald to master that
+[87:54] actually from Diamond Masters which are
+[87:56] guess what farm efficiently gather
+[87:58] information play off Tempo the game
+[88:00] hasn't changed the problem with people
+[88:02] is when they hit rank up they think that
+[88:05] the game is like so deep and complex and
+[88:07] oh my God everyone's so different it's
+[88:09] the same game exact same game nothing's
+[88:11] changed no one's nothing's changed no
+[88:13] one not not even the players around you
+[88:14] they're literally the same
+[88:16] people so as a master player the key is
+[88:19] for you to keep working on what you've
+[88:20] been working on that got you to Masters
+[88:22] and if that means you were really good
+[88:23] at invading get really good at invading
+[88:25] and get even better so when I got the
+[88:27] Challenger the first time grandmas 60%
+[88:29] win rate 65% win rate what I did was I
+[88:31] perfected the cane [ __ ] invade I
+[88:34] perfected this from base I always been I
+[88:36] would pee right before the game I would
+[88:38] run as fast as I can I would queue over
+[88:39] the swall I would be a [ __ ] like mad
+[88:42] scientist every single game to the point
+[88:44] where if someone saw the name ghostly
+[88:46] cats they would [ __ ] fiveman stack
+[88:48] here and I would K Over the one I had to
+[88:49] flash out so sometimes I would have to I
+[88:51] have to recognize if I've seen the names
+[88:53] in my Lobby to make make sure that or I
+[88:54] would just wouldn't do it but that got
+[88:56] me over like 300 ELO 400 ELO because I
+[88:59] perfected that and at that time
+[89:00] Challenger was like 450 um LP so like
+[89:04] that that was challenge like it's insane
+[89:05] how much more LP you need to get
+[89:06] Challenger now um but I perfected the
+[89:08] style so don't worry about learning a
+[89:10] bunch of other these minor things again
+[89:13] get good at what you're really good
+[89:14] at what do you think separates a low mid
+[89:16] Mass player to a low g n GM player
+[89:20] um just habits and how how practical
+[89:24] they are I I think
+[89:29] like how fast they get something so
+[89:32] again like like if I were to look at a
+[89:33] wave
+[89:35] state like for example I instantly know
+[89:37] what's going to happen to the wave state
+[89:38] if no one touches it if people touch it
+[89:40] what's going on like I know what's going
+[89:41] to happen I can predict the next 30
+[89:43] seconds of what's going to happen from
+[89:44] 0.5 seconds of looking at that wave for
+[89:46] the position for everything right a gr
+[89:49] player can do it a little bit faster a
+[89:50] master players can do it much slower
+[89:51] right and it goes slower and slower
+[89:52] slower as you get worse and worse and
+[89:53] worse
+[89:54] um but like even this position here like
+[89:55] I know what's going to happen I see BR
+[89:56] using spells so it's like the efficiency
+[89:59] to everything it just gets faster and
+[90:01] faster as you as you rank up um but
+[90:04] again it's not like a master player
+[90:05] Grandmaster player or a challenger
+[90:07] player they it's not like they have like
+[90:09] a [ __ ] cheat code guys there's no
+[90:10] [ __ ] cheat code you know what I did
+[90:12] to get to a [ __ ] Pro play I [ __ ]
+[90:14] wrote standards essentially these are
+[90:16] [ __ ] standards okay bad discipline
+[90:19] bad discipline invade okay invade is bad
+[90:21] invade bad discipline discipline
+[90:23] discipline what like discipline
+[90:25] discipline discipline like it's l
+[90:28] like it's not like it's not like it's a
+[90:31] [ __ ] magic one and I can just [ __ ]
+[90:33] make you good like I can emphasize how
+[90:35] important it is fundamentals are like
+[90:37] that's literally the best thing I can do
+[90:38] now there are are there are there some
+[90:39] cheese tactics like I did 100% bro if
+[90:43] you're playing B Beth [ __ ] start the
+[90:45] Raptors if you're playing Kane start the
+[90:46] [ __ ] Raptors if you're playing um UD
+[90:50] level one you want to start Q invade
+[90:51] every game and just [ __ ] Q them yeah
+[90:54] there are strategies that can help you
+[90:56] climb but overall being a better player
+[90:58] is what matters um okay Josh if you're
+[91:02] still here here you go here's your
+[91:05] chance hello hello can you hear me yeah
+[91:08] what's up uh I have a question about
+[91:10] Herold usage so I mean I know most of
+[91:13] the time I'm trying to break mid to get
+[91:14] you know the pressure out of here but I
+[91:17] feel like it's a lot harder to find
+[91:19] Opportunities to drop like get that mid
+[91:21] turret compared to Outer turrets cuz
+[91:23] it's like okay they just Dove bot Lan or
+[91:25] something so I can just heral top or
+[91:27] vice versa but I feel like I'm I
+[91:30] struggle to find a lot of opportunities
+[91:32] to get a good Herald usage mid without
+[91:34] them just like instantly grouping and
+[91:36] then just destroying the herald before
+[91:38] we can even take the tower so do you
+[91:40] have any like uh kind of methods or
+[91:42] plays that you do before you try to
+[91:44] Herald M like do you maybe try to like
+[91:45] get your teammates involved with that
+[91:48] beforehand or you know what do you kind
+[91:50] of do there well that's like unexpected
+[91:53] at all points if you're making a play
+[91:54] you ping at least until right starts
+[91:57] flaming you for pinging too much so that
+[91:59] that's like a you have to be pinging if
+[92:02] you're not that that that goes deeper
+[92:04] into fundamentals you have to be ping um
+[92:06] but okay some some standard plays is
+[92:08] okay yeah if they if they if they let's
+[92:10] say we're in this exact same position we
+[92:11] have Herald you can Herald mid right
+[92:13] there's four balling let's say that you
+[92:14] don't know where they are and it's just
+[92:15] like everyone's just laning or whatever
+[92:17] or actually we'll be more realistic and
+[92:19] we'll say okay these guys are swapped so
+[92:21] we're in the mid game now and it's like
+[92:23] okay we don't know where they are can
+[92:24] drop Herald normally what happens is is
+[92:26] you don't drop Herald unless you see
+[92:27] them do something or unless you have a a
+[92:29] shift so for example let's say youve
+[92:31] broken the Bots already because you guys
+[92:32] are winning you got heral you're winning
+[92:33] then after this guy shifts like pushes
+[92:36] The Wave in you start peing him to come
+[92:37] you can even escort him and you walk
+[92:39] together and you go Herold mid together
+[92:40] now you have a numbers Advantage because
+[92:41] this guy's catching a wave and he'll be
+[92:43] late to the mid plate okay alternatively
+[92:45] I often save Harold to fight the Third
+[92:48] Dragon okay that's why that's how it all
+[92:50] ties together 6 minutes Dragon 1 11:30
+[92:53] Dragon 2 17 minutes Dragon 3 right and
+[92:55] by 17 minutes I should have a Herald at
+[92:57] 14 minutes so I summon a Herald the
+[92:59] moment Dragon spawns or let's say they
+[93:02] they over index five people here I
+[93:04] Herald mid for two turs or I Herald top
+[93:06] for two
+[93:07] turs so I'm I'm almost always waiting
+[93:10] for them to do something or for a dragon
+[93:12] to be up with Herold gotcha and on that
+[93:14] third drag if it's just a drag that I
+[93:16] don't know like you're really behind you
+[93:17] can't even contest I mean you just full
+[93:19] on go for the heral and try to get as
+[93:20] many towers as possible M exactly
+[93:24] okay even even through mid and the idea
+[93:25] is if if they come contest you after
+[93:27] after going through mid then you can
+[93:28] still go Top Lane afterwards and then go
+[93:30] back to Dragon like you just slow them
+[93:31] down there's there's so many options but
+[93:33] also if you Herald mid and you don't
+[93:35] pick the turret let's say the turret's
+[93:36] 50% and you Herald it and you get to I
+[93:38] think it puts it down to like 15% it
+[93:41] does like 25 or something um that's like
+[93:43] it's like like at one timer if they [ __ ]
+[93:45] up you can still break it at any time so
+[93:47] don't feel too bad if you don't break it
+[93:49] um the point is like normally you can't
+[93:51] even drop this from 50% to to to to
+[93:53] death because they have Champions that
+[93:54] will just wave clear it so the point of
+[93:56] of Herold is to always just like get it
+[93:58] to like a 20% 15% threshold and that
+[94:01] takes like five autos and it's just dead
+[94:03] yeah I mean it makes a lot scarier to
+[94:05] defend a tower with 25% HP too yeah
+[94:08] exactly so if you were ahead and let's
+[94:10] say um the the third drag example you
+[94:12] just said uh if you had two those
+[94:15] dragons and like your team is just
+[94:16] stronger are you still playing for those
+[94:18] Towers there and cuz they're kind of
+[94:20] forced to go fight that Dragon um to get
+[94:23] you off a soul Point are you still just
+[94:24] going to prioritize getting the towers
+[94:25] there or you just dropping the herald
+[94:27] letting it do its thing and then going
+[94:28] for the drag um if I'm behind so if you
+[94:33] say you're head and we're getting two
+[94:34] dragons we're all head I wouldn't even
+[94:35] use her I would just win the fight okay
+[94:37] I I would set up 30 seconds to a minute
+[94:39] in advance I would be here so so like
+[94:41] again I I would be pushing this guy out
+[94:43] we I would get balling pressure we
+[94:44] pushing them out we're getting Vision
+[94:45] we're getting Vision we're getting mid
+[94:46] Lanes clearing the wave and then we just
+[94:48] have full setup right here and okay if
+[94:49] they're starting to push us back because
+[94:51] you know their top Wier comes then
+[94:52] that's where okay I I decide heral but
+[94:54] if they're like they're just this is our
+[94:56] position I don't need to use Herold
+[94:58] right but in a more even game where
+[94:59] we're not hella ahead then yeah I'm
+[95:00] using heral someone will likely want to
+[95:03] address heral or let's say they over
+[95:05] index on Dragon yeah I would just run
+[95:06] down mid and just break turrets in an
+[95:08] even States you always take the easy way
+[95:11] out which is Herold mid break turrets in
+[95:14] a game where you're ahead fight the
+[95:15] dragon in a game where you're behind
+[95:17] don't fight the
+[95:18] metal gotcha Goa and what I mean by if
+[95:20] you're ahead this is a position where
+[95:22] you're ahead if you're able to
+[95:24] hold this position yeah but if you if
+[95:27] you can't then it's just a even River
+[95:28] position then heralding mid is your is
+[95:31] your answer gotcha cool appreciate it
+[95:37] uhhuh all right um I see
+[95:41] Gabriel invite
+[95:45] you hello Perry hello
+[95:48] Gabriel uh so recently
+[95:52] I I found I find I found out that as
+[95:55] well I can basically play as need and
+[95:57] stop the enemy jungler from playing the
+[95:59] game
+[96:00] yeah so like this this play style always
+[96:04] almost always gets me ahead but the
+[96:06] problem is since I'm focusing on like
+[96:08] stopping the enemy jungler half the time
+[96:11] my teammates win half the time my
+[96:12] teammates lose yeah and so like the half
+[96:16] the time they lose it's very hard to
+[96:18] play the game so what I'm trying to
+[96:20] discover is what is the situation that I
+[96:23] should focus on ganking and helping my
+[96:25] lanes and what is the situation that I
+[96:27] should focus on stopping the enemy
+[96:28] jungler from interfering with my lanes
+[96:31] and let my Lanes play solo I think
+[96:34] there's a third option you're missing
+[96:35] here which is just Farm your own
+[96:38] camps then just play a normal game that
+[96:40] that where your focus on objectives you
+[96:42] your focus should not be ganking your
+[96:43] focus should not be [ __ ] up with the
+[96:44] Enemy jungler your focus should be how
+[96:46] can I get objectives
+[96:50] so as belth I understand it's easy to
+[96:52] invade so they're will be opportunity
+[96:54] where you can't invade the time where
+[96:56] you want to invade is let's say you have
+[96:57] Caitlyn Lux against
+[97:01] um we'll say like Alistar and Ezreal
+[97:05] just some someone really weak you have
+[97:07] really strong balling okay if you have
+[97:08] really strong ball linge you can go
+[97:10] invade and apply all the pressure you
+[97:12] want that's a good that's a good win if
+[97:14] you have no pressure in any Lane then
+[97:17] you want to just farm and full clear and
+[97:19] gank lanes and and try and win that way
+[97:22] so if you the the the the so to answer
+[97:23] your question and not to not like just
+[97:25] ignore your question if you have strong
+[97:27] teammates you invade if you have weak
+[97:29] teammates you
+[97:30] gank and I see overall though I just
+[97:33] think you have the wrong idea here you
+[97:35] should be playing for objectives not to
+[97:36] disrupt enemy Jung lead not to gank your
+[97:38] teammates you should be playing for the
+[97:39] objectives first and if that means you
+[97:42] invade them to you know chunk the enemy
+[97:43] jungler so they're low so you can do the
+[97:45] objective then do that or that means to
+[97:47] gank someone so you can gank them and
+[97:48] then do the objective that means to do
+[97:49] that but the the goal should be
+[97:52] objectives
+[97:54] I see yeah but to get an objective like
+[97:56] I need to get a g call not always
+[97:59] though I mean unless I have pry right
+[98:02] yeah right but like often if the enemy
+[98:04] jungler is there to counter gank your
+[98:06] your your play where the 3v3 balling and
+[98:08] you have no pry then you're going to
+[98:10] lose the fight so if if you can't do
+[98:12] this objective then do the other
+[98:14] one I see so there's always something
+[98:17] you can play for and that has to do with
+[98:19] some sort of objective and if there's no
+[98:21] objectives on the map then yeah you can
+[98:22] gank you can invade you can do other
+[98:23] things but again keeping a standard
+[98:25] simple game is is is is much more
+[98:26] important to
+[98:29] me cool I see thanks a lot
+[98:34] yep um okay you said when you are
+[98:38] focusing on when you are focusing on
+[98:40] improving one skill how do you respond
+[98:42] to unrelated mistakes your loaring
+[98:43] objective is map awareness but you
+[98:45] completely butcher a favorable level
+[98:47] four fight in the
+[98:49] river uh you can ignore it just ignore
+[98:51] it like just focus on what you're what
+[98:52] you're working on like don't don't waste
+[98:54] your mental energy on that and also like
+[98:56] if I'm focusing on just map
+[98:58] awareness I mean it's a favorable level
+[99:00] four fight so okay yeah it's chill I I
+[99:02] would ignore if if I'm working on Purely
+[99:03] just map awareness I'd ignore it
+[99:06] ultimately it's like it's so
+[99:09] chill is full calculation pretty
+[99:12] important um for hex that's but that's
+[99:16] shared across
+[99:18] timates it's really important to know
+[99:26] yeah yeah Dr I mean I mean honestly like
+[99:29] digging deep into it is important for
+[99:31] sure but just like I like you just need
+[99:33] you just need to know that Drakes are
+[99:35] [ __ ] good like that's it like DRS are
+[99:36] good all the Drakes not just one Drake
+[99:39] and not just denying a Drake it's just
+[99:40] like play for every Drake and gets
+[99:42] soulle
+[99:44] Point what should I do if my lers rotate
+[99:46] to objectives what what should my lers
+[99:47] don't enemies do invade when enemies on
+[99:50] objective and look for yeah yeah you can
+[99:53] do that but honestly like that that
+[99:54] comes from a problem of like what are
+[99:55] you doing like are you pcking them are
+[99:57] you communicating like why the [ __ ]
+[99:59] aren't they moving I I I actually I
+[100:01] actually have a single time in the last
+[100:03] like 100 games where my lers don't move
+[100:06] to my to my play unless it's like a bad
+[100:08] play if it's a bad play then they're not
+[100:10] going to move at all I understand that
+[100:11] or they need a recall but if it's a good
+[100:12] play the reason why they're not moving
+[100:14] is because you didn't [ __ ] ping them
+[100:16] so ping them wake up like that's
+[100:18] something you can do you know and okay
+[100:20] if you ping them hundred hundred 100
+[100:21] times and they don't want to leave that
+[100:23] probably means that they're really low
+[100:24] on Mana they have 1,000 gold they have
+[100:26] 1,500 gold their Lane position is bad
+[100:28] they can't do it like they can't come so
+[100:30] it's then therefore a bad
+[100:32] play But to answer your question yeah go
+[100:35] invade go look on the other side of the
+[100:36] map go play for CS play for kills
+[100:38] somewhere else play for not not
+[100:39] necessarily kills but if they're on this
+[100:42] Dragon let's say it's 10 minutes on a
+[100:43] dragon and I can't fight it then I'm
+[100:45] going to go Top Lane and try to to get
+[100:46] plates and in while getting plates I'm
+[100:49] going to get a kill awesome I don't
+[100:52] cover but for they will cry all game
+[100:55] it's fine man just try and carry the
+[100:57] game they will cry but you can still try
+[100:59] and
+[101:00] carry FF you not against Pro players
+[101:02] yeah exactly how hard should I play for
+[101:03] skitt crabs early so first skitt crab
+[101:05] doesn't [ __ ] matter free kills are
+[101:07] worth so much more second crab is where
+[101:08] things really matter first crab kind of
+[101:10] a bait it's worth gold but not exp it's
+[101:12] kind of it's kind of good you exp what
+[101:14] the benefits are benefits in early
+[101:16] invading are U I think you were
+[101:17] referencing when I was talking about
+[101:18] like level one Champions invading it's
+[101:20] just like you just play to your Champion
+[101:21] strength otherwise there are just like
+[101:23] very few benefits to invading personally
+[101:26] um I'll touch more on it in a second I'm
+[101:28] going to use a restroom um I'll be right
+[101:52] back
+[102:22] e
+[102:52] e
+[103:22] e e
+[104:08] you're
+[104:10] muted thank you this whole time [ __ ]
+[104:14] thank you okay [ __ ] me okay a [ __ ] okay
+[104:17] what do we start off we start with
+[104:18] invading okay invading you only invade
+[104:20] if you if you're playing with your
+[104:21] strong Side Lane okay otherwise invading
+[104:24] is really [ __ ] so you never want to
+[104:25] interact with your weak Side Lane so
+[104:26] let's say I'm invading up here that's
+[104:28] because let's say balling is not that
+[104:30] strong otherwise you always work with
+[104:32] this wrong lane okay otherwise ining is
+[104:34] pretty [ __ ] the other question I was
+[104:36] answering was okay if you're bronze
+[104:38] you're trying to get better yeah just um
+[104:40] just keep playing the game a lot more
+[104:41] you got to play the game a lot you not
+[104:43] you three months not a lot of time and
+[104:45] then and then what um I don't I don't
+[104:46] know your IGN is but what the Tomato
+[104:48] said yeah this tomato saying is really
+[104:50] good stuff farm full clear um and then
+[104:53] um strong side strong side weak side Vin
+[104:55] to strong side top laner okay path to
+[104:58] the Lane do not path away from the lane
+[105:00] if you start Top Lane you path away do
+[105:03] not do that if you're pathing to the
+[105:04] vein that if if you want to work with
+[105:06] the vein you pass to
+[105:07] them um so that I can full clear into
+[105:10] bot gank wait let's say have a vein top
+[105:12] should I start top knowing she will have
+[105:13] pry well if you have vein top you want
+[105:15] to work with vein top you path to them
+[105:16] you don't you don't path to bot Lane
+[105:17] unless you're that question is kind of
+[105:19] confusing me um if you have a strong top
+[105:22] laner pass to them play with them if you
+[105:24] have a strong ball ler pass to them play
+[105:26] with them um I wouldn't get too
+[105:28] complicated like that um if you have a
+[105:30] strong mid lane and Bot can you can can
+[105:33] you actually leave your top
+[105:42] side so
+[105:44] again L SEC this is weak side to strong
+[105:49] side okay mid and Bot are strong I'm I'm
+[105:52] going to I'm going to make is really
+[105:53] easy for us all to digest mid and B are
+[105:55] strong so this is our
+[105:58] position you always want to clear these
+[106:01] top camps
+[106:03] first and then go play into strong
+[106:07] side you do not want to give these camps
+[106:10] unless there's a crucial timer out of
+[106:12] Base where you have to just run botland
+[106:13] right away that's fine you can give
+[106:15] these camps it doesn't
+[106:18] matter um
+[106:23] I to be an a jungler if are
+[106:35] so that makes
+[106:44] sense if I tank top is tank shouldn't I
+[106:47] path top no you should not path to your
+[106:50] tank top wait most of the wait my top is
+[106:53] tank should
+[106:57] what I don't know what's going on you
+[106:59] guys having a conversation I'm not I'm
+[107:00] not really all
+[107:07] that okay I'm not reading all that sorry
+[107:10] if if you guys can like for minutes to
+[107:11] uh one question I I'll I'll answer
+[107:13] otherwise okay what's the game plan if
+[107:14] you have double week slide comp sign top
+[107:16] smolder bar balling yeah so who do you
+[107:18] want Matthew who do you want to scale
+[107:20] who do you want to like do better Top
+[107:22] Lane or bot Lane right they're not
+[107:24] winning right so the position is like
+[107:25] this let's say we have three losing
+[107:26] Lanes okay oh my God we have three
+[107:28] scaling Champions not not not great okay
+[107:30] bot for sure right Pat the balling
+[107:32] defend them do blue Grump wolves and Pat
+[107:34] the balling that means if their jungler
+[107:36] goes and invades one of your camps
+[107:37] that's that's how you're doing Raptors
+[107:38] okay and if you find him on on red buff
+[107:41] you give the red buff up he does the red
+[107:43] buff and you eat this and now you're
+[107:46] still at he's at 16 you're at 20 and now
+[107:48] you defend B dive and you sit balling
+[107:50] you help them given that they're their
+[107:51] balling is let's say they're kalista and
+[107:53] let's say they're um let's say they're
+[107:56] kalista and like [ __ ] I don't know
+[107:57] like Renata and you're playing smolder
+[107:59] Bard like so weak right they can get
+[108:01] Dove so you actually want the enemy
+[108:03] jungler to eat your camps and you want
+[108:04] to not die in safe condition so you can
+[108:06] just defend them and that's how you win
+[108:08] essentially and if the enemy jungler
+[108:09] just full clear as well you full clear
+[108:11] as well you're happy you just don't
+[108:12] don't get crab you sit here you protect
+[108:13] them on their dive you restart and you
+[108:15] just defend them over and over and over
+[108:16] again and you there will be opportunity
+[108:18] these guys will scale either they're
+[108:20] either everyone's going to scale so if
+[108:21] the game is 50/50 not 5050 if the game
+[108:25] is even we'll say that even not not 5050
+[108:27] the game is even then you're in a good
+[108:28] State because you will scale but if you
+[108:30] are um even down 1,000 2000 gold it's
+[108:33] completely chill because you have
+[108:35] scaling Champions normally if the lane
+[108:37] position looks like this it's because
+[108:38] your Lan is are scaling cast it in mid s
+[108:40] on top these guys are going to be Thanos
+[108:42] and and one or two items that that's
+[108:44] where you really want us to get going so
+[108:45] the way you can do you what what you can
+[108:47] do to stay you know relevant is you need
+[108:50] to keep farming as well
+[108:57] yeah it depends too like let's say the
+[108:58] enemy jungler is also pathing top or you
+[109:01] know it's it's
+[109:02] like Evelyn you you can three camp and
+[109:05] like force a gank ball Ling if you're
+[109:07] playing by you can three you can also do
+[109:08] like Raptor's red kugs and just like
+[109:11] [ __ ] send it like there's many
+[109:12] options but the standard option is just
+[109:14] P down and
+[109:16] chill um if enemy ler is fed is okay to
+[109:19] my ler knowing will get to yeah 100% do
+[109:21] not work with your in teammates ever
+[109:24] it's very really
+[109:26] bad oh [ __ ] my I [ __ ] my camera up the
+[109:29] whole
+[109:29] time for the OBS it's all chill it's all
+[109:32] good
+[109:38] um the question was realistically for
+[109:41] the earlier conversation how the thought
+[109:43] press is to wear a path and I was saying
+[109:46] uh try to not path towards a
+[109:49] tank yeah that's right that's that's the
+[109:51] right advice so if you have tank
+[109:54] top let's say you both have tanks tank
+[109:56] tank okay you path balling
+[110:01] because likely there's going to be more
+[110:03] stuff for you to do ball linge let's say
+[110:04] your ball Lane is also just like useless
+[110:07] that means you can p either side and
+[110:09] that's just up to you where where do you
+[110:10] like playing towards what objective do
+[110:11] you want like it's it's just like who
+[110:13] who is better for you to play towards
+[110:14] like sa on Top Lane okay you have CC
+[110:17] let's say your CC Champion can kill them
+[110:18] and you can get some kills that's a way
+[110:19] to play too um but overall if you have
+[110:23] if you have thaned to and it's really
+[110:24] obvious you should path towards balling
+[110:32] um all
+[110:34] right um anything
+[110:37] else Summoners who are trying to get to
+[110:40] better
+[110:55] if you guys want to talk as well feel
+[110:57] free you can just request I don't even
+[110:58] know how it [ __ ] works man but that's
+[111:01] cool unmute music oh [ __ ] okay the
+[111:05] fu leave the stage
+[111:11] invite yeah if you guys want to talk
+[111:13] about it it's might be easier um there a
+[111:17] button for the request yeah if you guys
+[111:18] want to you have three losing Landes
+[111:20] andem junglers ahead and invading you
+[111:22] all the time with should I do okay let's
+[111:25] break it down so if you are
+[111:29] um getting invaded so your path down
+[111:32] invades you just again drop the
+[111:35] camp and go look for a place of Mer so
+[111:38] eat this Camp recall go to Top Lane this
+[111:42] guy okay let me make it easier one two 3
+[111:45] one two
+[111:47] 3
+[111:48] four five this is while you're doing
+[111:51] four and you leave this and you go do
+[111:53] five he still has wolves blue and gromp
+[111:56] to do so he has to go back and do those
+[111:59] you recall and boom now the top ler
+[112:02] who's winning you can gank him holy [ __ ]
+[112:05] really Tempo or while the enemy Jer is
+[112:07] farming his camps down here you can also
+[112:09] gank mid lane holy [ __ ] or while this
+[112:11] guy's farming his camps you now have a
+[112:13] chance to invade him back wow the
+[112:16] problem is when you get innovated like
+[112:17] this there's a [ __ ] fist fight but if
+[112:20] you have three losing lanes and they eny
+[112:22] jungler stronger than you you just need
+[112:24] to give it the camp up bro he made a
+[112:25] good play let him be what happens is
+[112:27] people make it an even better play for
+[112:29] the Enemy jungler by killing himself
+[112:31] into them all right bye-bye tomato
+[112:33] tomato man I don't like it's like
+[112:35] streamer only streamer only mode so I
+[112:37] don't know what what your name
+[112:38] is question for you do you have a
+[112:40] pregame ritual that you do for start
+[112:42] session game I do
+[112:44] not um when I was going like Pro I like
+[112:49] and the games were intense I listened to
+[112:51] the parasit OST or or Tokyo Go song
+[112:58] K I'll show you guys the parasite os2 so
+[113:01] if if it was like a best out of five and
+[113:03] we're two to two I like we're like we're
+[113:06] like one two and we like trying to
+[113:07] reverse or something I had to listen I
+[113:09] listen to this and I just it just zones
+[113:11] me in like it it gets me [ __ ]
+[113:15] focused next to
+[113:18] [Music]
+[113:21] you unra
+[113:23] yeah unravel is [ __ ] good are you
+[113:24] able to listen to music well in you you
+[113:26] actually can but like normally people
+[113:29] don't you could people do in scrims but
+[113:31] in the actual game like it like
+[113:32] distracts you when you play Vio what are
+[113:35] they Banning Ivan Kindred Graves [ __ ]
+[113:37] those
+[113:38] Champions scarner now probably actually
+[113:41] scunner seems so dude actually ban
+[113:43] scarner if you're not playing scarner
+[113:44] ban that [ __ ] the Champions [ __ ] up
+[113:47] guys that time's actually [ __ ] up I
+[113:48] just want to give a general tip for
+[113:50] fellow Summoners the pinging the gank
+[113:53] and your team dying to it is your fault
+[113:58] and you ping consider L aware don't off
+[114:00] yeah yeah exactly yeah ping on them yeah
+[114:02] yeah exactly know yeah exactly that's
+[114:03] that's that's a good like that's good
+[114:04] advice like again pinging matters I mean
+[114:06] hopefully once I get more scripted
+[114:08] videos going guys like I'm I'm really
+[114:09] starting to try to make more content and
+[114:10] be interactive with you guys and just
+[114:12] keep doing more of this [ __ ] I mean
+[114:13] hopefully you guys buy more coaching and
+[114:15] get you know guys you can climb like
+[114:18] I'll help you guys 15 days left to the
+[114:20] season I'll help you get anyway okay
+[114:21] that's enough I I'm I don't I don't
+[114:23] overdo in this I really just want to
+[114:24] help you guys but hopefully some of
+[114:26] these videos I'll be making shortly will
+[114:27] be
+[114:29] um better because I I'll dig I'll dig
+[114:32] deeper into these Concepts
+[114:35] um so if you're the Invader and you have
+[114:37] three winning Lanes do I base G after
+[114:39] enemy Red to counter ganks slash no so
+[114:43] if you have three winning Lanes the you
+[114:46] don't invade okay it's so
+[114:51] silly I mean you
+[114:53] can okay let me explain if you have
+[114:56] three winning lanes and you farm and
+[114:58] they Farm the enemy jungler cannot gank
+[115:01] anywhere why because they don't know
+[115:03] where the [ __ ] you are so if you show up
+[115:05] top L they make a Gamble and you're
+[115:06] actually here G [ __ ] G because you
+[115:09] could have Pat Top Lane too and G
+[115:11] [ __ ] G for him now let's say he did
+[115:12] this he did this came back G [ __ ] G
+[115:14] 2v2 dead okay so if you're ahead
+[115:18] everywhere the worst thing you can do is
+[115:21] show yourself unless you're getting a
+[115:23] kill you're diving or getting an
+[115:25] objective that's the irony that's the
+[115:27] joke of it all so you full clear down
+[115:29] one time full clear you get this crab he
+[115:31] gets the top crab you recall you restart
+[115:34] you're still winning Lanes you go to
+[115:35] Dragon now that's it you go to Dragon
+[115:37] you go back to camps you you're still
+[115:39] winning because your laners are winning
+[115:40] you go back and you play for for grubs
+[115:43] that's
+[115:45] it lot of lines but again you f clear
+[115:48] down do this do that like recall back
+[115:50] here
+[115:53] so with winning Lanes your goal is not
+[115:54] to invade it's never to invade it's
+[115:56] never to kill it's never to kill enemy
+[115:57] jungler it's never to do any of that to
+[115:58] farm the objectives Farm the the
+[116:02] the the Windon okay it's kind
+[116:06] of kind of kind of weird but yeah don't
+[116:10] vgo good against Kinder graes so Vio is
+[116:12] okay against Graves it's fine Graves is
+[116:14] just really annoying and the high elow
+[116:15] there's really good Graves players
+[116:16] Kindred is really annoying for youo you
+[116:19] can't even kill Kindred if Kindred uses
+[116:20] Al correctly you can't kill her so how
+[116:22] do play into Kane as Vio um that's kind
+[116:25] of spec honestly let's think
+[116:30] like here B I want you to try and
+[116:32] rephrase that question into how do I
+[116:35] want to play Vigo period no matter which
+[116:38] Champ What Champion I'm playing
+[116:40] against that's like the better way like
+[116:42] that's like a better way to answer
+[116:43] because people are so concerned about
+[116:46] the matchup but the jungle matchup
+[116:48] doesn't matter you don't even see the
+[116:50] enimy jungler man you just [ __ ] Farm
+[116:53] camps it is kind of you are kind of
+[116:55] getting mental blocked as as a as a
+[116:58] later the the match up matters because
+[117:00] you see them at every single point of
+[117:02] time but like okay if you really have
+[117:05] mental blocking against G just just B um
+[117:08] the the answer to that all honestly is
+[117:11] just like focus on your own game as Vigo
+[117:12] whatever you want to do which I like
+[117:14] playing vgo to full clear get the first
+[117:15] item and make calculated plays around
+[117:17] objectives and getting first item and
+[117:19] once I get first item I play like a
+[117:20] psychopath a little bit
+[117:22] listening to L music during games has
+[117:24] made my mental indestructible yeah yeah
+[117:25] that that's good like as as a solo CU
+[117:27] player like listen to music please it's
+[117:28] so good in any apparently you are
+[117:30] supposed to ban K twitch besides scarner
+[117:33] I just PR twitch and scarner Bann when I
+[117:35] ask yeah that's
+[117:37] fair that's a weird stat that's a weird
+[117:40] statistic to look at bro like just ban
+[117:42] whatever you don't want to play against
+[117:43] honestly that's the way I would do it
+[117:44] how do you play V into a team on top
+[117:46] Jack
+[117:49] jungle okay if they have a team on top
+[117:52] useless champ like unly pretty useless
+[117:54] they have a jack jungle also pretty
+[117:57] [ __ ] think about those Champions as
+[118:01] five no it's not draft l oh [ __ ] what's
+[118:04] the L LS drafting
+[118:08] tool
+[118:11] bro Jack
+[118:14] jungle Teo
+[118:17] top nla ADC who's killing you guys let's
+[118:22] give them like a like a AR mid and like
+[118:25] a a nautilus
+[118:28] balling who the [ __ ] is killing you guys
+[118:30] what is our team comp what the [ __ ] is
+[118:32] going
+[118:33] on okay and if you're Vio well I'm I'mma
+[118:36] Be I'm just going to tell you here it
+[118:38] doesn't matter if this guy directly
+[118:40] counters Z this guy directly counters Z
+[118:41] this guy directly counters here because
+[118:43] who is this champion who is this
+[118:44] champion who is this Champion who's this
+[118:45] Champion that's what matters so this you
+[118:48] guys need to stop focusing so hard on
+[118:50] like oh my God this guy's scary this guy
+[118:51] scary this guy scary
+[118:52] bro he only has one Q one e and one W
+[118:55] and you have five
+[118:59] teammates yeah have five teammates so
+[119:01] hopefully they like four teammates sorry
+[119:03] four what the [ __ ] not five four
+[119:04] teammates so hopefully you can't do
+[119:06] something me 8 Champs can Auto okay but
+[119:11] you guys have AP Champion right who can
+[119:14] use spells on them and they only have
+[119:17] one [ __ ] spell again one blind one
+[119:20] Counter Strike and one w on Nyla dude
+[119:23] this seems like such a [ __ ] bait
+[119:25] question what the
+[119:29] [ __ ] what the
+[119:32] [ __ ] now that 2 E bro her e is not even
+[119:35] the Dodge ability her e her e is the
+[119:37] whip it goes through minions and
+[119:39] [ __ ] okay okay
+[119:44] okay [ __ ] you [ __ ] you guys they
+[119:47] trolling
+[119:49] me I don't [ __ ] I don't [ __ ] know
+[119:51] that's a real question question anymore
+[119:53] I'm getting tripped
+[119:56] out uh what do you think a good
+[119:58] difference between a good SL jungler and
+[119:59] a good Pro Player jungler
+[120:07] is um it's hard that's a hard question
+[120:11] like there's just so much I'll just give
+[120:13] a few examples like if if you're really
+[120:15] good at at like solo Q team fighting and
+[120:17] solo q jungling and solo Q invading like
+[120:20] that does not transfer into Pro play
+[120:22] if you're really good at you
+[120:25] know just one v9 in your games while
+[120:28] listening hard style that is not
+[120:29] transferred to Pro Player um you need to
+[120:31] be able to communicate a lot you need to
+[120:33] be able to talk a lot you need able to
+[120:34] communicate your conditions um you need
+[120:36] to be able to communicate literally
+[120:38] everything and if you you don't do that
+[120:40] like like a good jungler in soloq can't
+[120:42] necessarily do that in Ro play
+[120:45] um to view the game as not just camps
+[120:49] and as a whole it's really hard to do
+[120:51] that from playing solu for so
+[120:54] long in Pro Play It's So Different it's
+[121:00] like it's like well not just Pro play
+[121:03] but like it like in the in League of
+[121:05] Legends when you get to that
+[121:07] level it's never about camps there
+[121:10] there's always like a bigger picture and
+[121:12] this applies to solo Q too but it's
+[121:13] easier to just see camps that's why
+[121:16] everyone does it cuz like they just see
+[121:17] CS um but it
+[121:19] just does just macro and stuff stuff
+[121:22] like I don't know like
+[121:25] communication think kale jungle is D no
+[121:28] it is not what do you think the best way
+[121:30] to climb with cart is full clear seven
+[121:32] times and then hit alt actually just
+[121:35] full clear
+[121:37] like b c this champ still broken it is
+[121:39] pretty broken but yeah actually just
+[121:41] full clear like you don't need to you
+[121:42] don't need to stress too hard full clear
+[121:44] Farm objectives it's the same thing on
+[121:46] every single Champion guys it's not that
+[121:48] deep the lore is not that deep okay on
+[121:50] every single Champion Farm some camps a
+[121:51] awesome okay think you farm some camps
+[121:54] think about making a play oh wait but we
+[121:56] got to go back to our first Camp respawn
+[121:58] 420 boom hit B go to that first
+[122:02] camp and you restart the
+[122:09] cycle all right guys
+[122:13] um I'll answer questions to the next
+[122:15] like if you guys have anything else I'll
+[122:17] answer the question for the next 5
+[122:17] minutes till 3:10 and then we'll
+[122:19] probably wrap it wrap it all up
+[122:22] um because we've been here for [ __ ]
+[122:24] two
+[122:25] hours yeah so pretty sure you guys all
+[122:27] sticking
+[122:28] around and getting the Spiel um I'm
+[122:31] looking to do one of these once a week
+[122:34] um so we'll dig into more Concepts later
+[122:36] on um for example I me I'll ask you guys
+[122:40] what you what you would really prefer to
+[122:41] see there's plenty of discussions of
+[122:45] like you know
+[122:47] Tempo
+[122:49] macro fighting waves tempo Tempo Tempo
+[122:53] Tempo Tempo um like what what else like
+[122:54] what are some ideas we could talk
+[122:59] about planning info
+[123:02] engaging conditions cursor placement
+[123:05] tilting
+[123:07] pinging yeah I'll give like a list and
+[123:09] then we can just talk about whichever
+[123:10] one mid game yeah mid game
+[123:13] fighting there's so much
+[123:17] um do you think if wait how important
+[123:20] what is this
+[123:23] what the [ __ ] is
+[123:25] this what the hell is
+[123:28] this where do we start
+[123:31] okay
+[123:35] attack
+[123:40] split Siege or
+[123:44] protect after they protect you attack or
+[123:47] you
+[123:48] catch you catch you holy [ __ ] sh dude
+[123:52] this is the type of [ __ ] that
+[123:56] like makes the game way too [ __ ] hard
+[124:00] man what the [ __ ] is
+[124:02] this oh my
+[124:07] God yeah I would I would say this is not
+[124:09] relevant at all like I've never seen
+[124:11] this in my whole life and it's like not
+[124:13] relevant looks like a ster Sons yeah
+[124:15] that's how Canyon sees the game I don't
+[124:17] think so
+[124:20] man um do you think you should hover for
+[124:22] a lane gank if you think Lan is going to
+[124:24] get ganked or just peeing your lane keep
+[124:27] depends if it's like really good for
+[124:28] your game to counter gank and you know
+[124:30] he's coming then you can counter gank
+[124:31] 100% but if it's like a 50-50 whether it
+[124:33] counter gank or not I would just ping
+[124:34] ping him to be careful and keep
+[124:36] farming you need help with objective
+[124:38] timers not going to lie what do you mean
+[124:40] by that object you need to help out with
+[124:41] objective
+[124:43] timers like when they spawn when you're
+[124:46] when your Camp spawn or
+[124:48] what yeah arur I wouldn't worry about
+[124:50] that at all like that's like that's like
+[124:52] it's like cool to think about but I
+[124:54] wouldn't r that at all like when it's
+[124:56] worth to go for them bro oh I see what
+[124:58] you mean oh
+[125:03] ah I I'll give you the general rule book
+[125:05] The General the general rule of thumb
+[125:06] what the objectiv is is if you can do it
+[125:08] do it that's literally it if it's a
+[125:11] dragon do
+[125:12] it if you can do a dragon do it your
+[125:15] teammates are strong you push the wave
+[125:17] or you you clear all the you cleared
+[125:19] everything properly you do it um okay um
+[125:24] real quick though um yeah I'm going to
+[125:26] look to do one of these every week um
+[125:29] the patreon
+[125:32] is just
+[125:34] freaking it's a it's a it's nice it's a
+[125:36] nice group it's a nice Community that's
+[125:38] why I I really want I really want I
+[125:39] would really like to see more people
+[125:40] there and then also we have a sale of
+[125:42] course so if you want actual coaching
+[125:43] there's there's that
+[125:45] um and then um the Cal is getting the
+[125:48] Cal is all set up the calendar so you
+[125:50] guys can book for through there but um
+[125:54] the other thing I want to quickly
+[125:55] mention is
+[126:03] um no I think that's it okay yeah just
+[126:06] just we're going to do this once once a
+[126:07] week we'll see if there's other stuff we
+[126:09] can do and then more content and then
+[126:12] I'll send the patreon link if you guys
+[126:14] want to [ __ ] join the group it's
+[126:16] pretty [ __ ] cool otherwise um don't
+[126:19] worry it's chill and I'll answer some
+[126:21] questions and then we'll go through some
+[126:22] some opgs which is fun yeah can look at
+[126:24] bananas opgg
+[126:27] um the thing I'm concerned about Lely
+[126:30] relates to this no I I wouldn't worry
+[126:32] about that at all bro if you if you're
+[126:33] good at your Champion you're good at
+[126:34] your AP Champion just pick it like it's
+[126:36] so chill don't stress it at
+[126:40] all do you think you should get in first
+[126:42] or Baron it just depends on the timing
+[126:44] but Baron Baron almost always will
+[126:46] secure you more Baron is like super
+[126:48] secure
+[126:52] what your thoughts on Evelyn Nerfs thank
+[126:55] God I I don't play the game so I mean
+[126:57] I'm play the game enough like I still
+[126:59] like I haven't played the game in like
+[127:00] two weeks so I'm like I'm chilling man
+[127:04] that doesn't affect
+[127:08] me all right Mr P man man what the [ __ ]
+[127:11] are we looking at here [ __ ] 1,000
+[127:13] games
+[127:15] okay Jesus that's a lot that's good
+[127:18] that's that's not a bad thing
+[127:19] necessarily right I say that like it's
+[127:20] just surprising cuz a lot of the other
+[127:22] opgs we looked at did not have that many
+[127:24] games okay what are you doing wrong
+[127:26] right away what the [ __ ] why do you only
+[127:28] have let's do some math
+[127:31] 1,100
+[127:33] 1,100 you only have 40% of your games on
+[127:36] your main
+[127:37] Champion why play your main Champion
+[127:41] okay scarner doesn't seem to be doing
+[127:44] well drop that [ __ ] also the [ __ ]
+[127:46] useless play your main Champion useless
+[127:49] [ __ ] going on right now
+[127:58] diamond for last season what' you play
+[127:59] last season Vio keep playing Vio bro you
+[128:02] like that champ keep playing it you're
+[128:04] like like you're only hurting yourself
+[128:05] by playing so many oh my unique
+[128:08] Champions you're only hurting
+[128:11] yourself if you have this much time to
+[128:13] play the game Focus up on actually
+[128:15] climbing on on your main Champion okay
+[128:18] what are some stats that look
+[128:19] funky well your dial a lot it's a lot of
+[128:22] [ __ ] deaths well your CS is this like
+[128:25] could be a little hard CS is actually
+[128:27] fine you die a lot though so okay you
+[128:29] can you can you can change that
+[128:31] otherwise like there's not really much
+[128:32] more I can deal with an OPG review right
+[128:33] it's just yeah the Champions are playing
+[128:36] looks funky as [ __ ] uh your build looks
+[128:39] fine again I again if you like this
+[128:42] style of stride breaker dude I'm all for
+[128:44] it go for it
+[128:52] you were so close and then you lost it
+[128:54] all yeah man I mean you're just so
+[128:56] worried about rank like you need to
+[128:58] detach yourself from your
+[129:00] rank you were one I was one game off
+[129:02] Masters oh my gosh I'm about to hit
+[129:04] Masters yeah oh my God every single
+[129:06] thing that happens when okay this
+[129:08] happened to me like seven times in a row
+[129:09] when I was one game off Challenger in
+[129:11] the Challenger game that I needed to win
+[129:13] to get the Challenger I would be like
+[129:15] freaking out about every single mistake
+[129:18] every single thing that went wrong was
+[129:20] the end of the world like it was like my
+[129:21] house was getting exploded or something
+[129:23] like like my like the [ __ ] there's a
+[129:25] fire in the house bro one person lost a
+[129:28] single trade and I saw that and I
+[129:29] started freaking out just calm down bro
+[129:32] like if you're a good enough player you
+[129:33] you can get the Masters cuz you're good
+[129:35] enough you got there just play the game
+[129:37] chill up get
+[129:39] soill the moment you start freaking
+[129:41] about how close you are to a rank the
+[129:43] moment you start freaking about your
+[129:44] rank in general you're going to start
+[129:46] you know just making your game worse
+[129:48] overall worse V for 38 games go then I
+[129:51] lost a lot then play lot champs yeah I
+[129:53] mean you lost confidence because you
+[129:55] lost a lot like I've done that too but
+[129:56] it's just like no the problem is not the
+[129:58] champion man the problem is you as a
+[129:59] player prob was never the champion you
+[130:01] want to blame another champion and you
+[130:03] want to say yeah man these other
+[130:04] Champions are so much easier to play oh
+[130:06] my gosh why not play these other
+[130:07] Champions it's so much better better
+[130:08] than vgo vgo sucks nope play you can
+[130:10] play vgo better that's what I learned
+[130:12] that's what stopped me from getting that
+[130:14] when I when I was stuck at around
+[130:17] maybe I was like rank 20 during my
+[130:19] during my push to rank two rank one push
+[130:22] to rank one I didn't get there cuz
+[130:24] [ __ ] Bob Jenkins that's 2,100 LP and
+[130:26] I had 1900 like 1870 like insane bro uh
+[130:31] but on my push I was stuck around maybe
+[130:32] 20 25 R 25 20 25 so this was like, 1600
+[130:35] LP and I started playing Leon Lilia and
+[130:38] what there was like Graves and something
+[130:40] else cuz I was like man jvin is not good
+[130:42] jvin sucks and guess what I lost two
+[130:43] dvin games in a row three dvin games in
+[130:45] a row like driv is a weak champ I
+[130:46] shouldn't play D I shouldn't play
+[130:48] Vio and then like I woke the [ __ ] up I
+[130:50] was like wait
+[130:53] it feels okay to blame the champion but
+[130:56] the Champion's not the problem in the
+[130:58] moment I just trust in myself I trusted
+[131:00] my ability on dvin I trust in my ability
+[131:01] on Vio and I knew how to like I just
+[131:04] fully believed in
+[131:06] myself
+[131:08] then I pushed to rank two okay I got Bob
+[131:11] like technically in my head that that's
+[131:12] rank one in my head that's rank one okay
+[131:14] rank two is is a great one to me because
+[131:16] Bob Dickens had 300 LP Gap like that's
+[131:19] [ __ ] up
+[131:22] it was 200 but that's actually [ __ ] up
+[131:25] and actually I regret I regret because
+[131:27] there was one day where I was maybe like
+[131:29] three games off rank one I was like 17
+[131:33] like 70 LP Jenkins was like 18850
+[131:37] because he stayed like 1850 for a while
+[131:39] and I was like three games off but I was
+[131:41] like no no no I'm going to chill I think
+[131:43] Jenkins will lose some games and then I
+[131:44] can win like one or two and I'll get
+[131:45] rank one and he just didn't lose dude he
+[131:48] just didn't [ __ ] lose it was [ __ ]
+[131:53] up you think sh was just T yeah you're
+[131:56] just tilted so bro like like honestly
+[131:57] like if you play the game this much
+[131:59] you're motivated to climb You're
+[131:59] motivated to win like you need to get
+[132:01] you need to put your you need to get
+[132:03] yourself checked because you're just
+[132:04] tilting and it's evident like you liter
+[132:06] talked to me earlier you're like yeah
+[132:07] man I think I'm getting emotional and
+[132:08] she's like yeah all the [ __ ] you're
+[132:09] making up in your own head is because
+[132:10] you're getting
+[132:16] tilted I'm getting
+[132:19] emotional all right this you I can't do
+[132:21] much like you you you've got it down
+[132:23] already like you're playing you're
+[132:24] playing your Champion you're playing
+[132:25] echo which is amazing I think one thing
+[132:27] I mean one thing on your CS is really
+[132:28] good too one thing on on on on your on
+[132:31] on your Champion is is the games is
+[132:35] these recent games at least you've just
+[132:36] been dying so much what's going oh my
+[132:38] God what's going on you're dying so
+[132:45] much so you need to stop dying bro
+[132:48] what's going on what kind of plays are
+[132:49] you making why you dying this much
+[132:55] Jesus that's all I can really tell man
+[132:57] you're just dying a [ __ ] ton and guess
+[133:00] what I mean obviously the times where
+[133:01] you're doing all right and you're
+[133:02] winning you're dying less it's not like
+[133:04] a joke and honestly when I was talking
+[133:05] to Viper when Viper got rank one I was
+[133:07] like hey man you got any advice for me
+[133:08] I'm trying to get rank one too he said
+[133:10] like if you really want to climb and
+[133:12] carry games and get good and make it
+[133:14] well he gave me some other advice but
+[133:16] the advice to get rank one was you need
+[133:17] to die no more than four times that's
+[133:20] your cut off
+[133:22] and I want to give all you guys a
+[133:24] challenge try to play three games in a
+[133:26] row without dying a single time you'll
+[133:28] find it so impossible and you'll think
+[133:30] that like it's so out of your control to
+[133:32] not die but that's where you're wrong
+[133:35] it's all in your
+[133:37] control how I find these guys opgg I'm
+[133:40] going to share share your opgg but I'm
+[133:42] not I'm not I'm not going to be here in
+[133:43] OPG riew for the next 20 [ __ ] minutes
+[133:45] like I'm I'm I'm I got to go get some
+[133:47] food um so I'll maybe I'll do like one
+[133:49] more um
+[133:53] there's a there's a guy on us that got
+[133:56] Jam both being H your
+[133:59] jle yeah yeah no you can do anything man
+[134:03] like like you can L do anything if
+[134:04] you're good at what you do you can do
+[134:10] anything all right
+[134:13] um I I probably will try to do this on
+[134:16] the weekends so more people can show up
+[134:18] um and then time zone wise I'm trying
+[134:20] I'll probably do this similar
+[134:23] time if there's anyone
+[134:27] with final thoughts questions or
+[134:29] anything you can feel free and message
+[134:31] and then I I just overall real quick I
+[134:34] just want to give you guys a tour of of
+[134:35] the of the Discord um if you're going to
+[134:37] go here or if you just you know you're
+[134:39] not sure if you where to be active or
+[134:41] whatnot like ultimately like in this
+[134:43] open Ral I don't respond but you have
+[134:46] people who are who are high elow who
+[134:47] will respond if they have time that's
+[134:49] cool chat room awesome I'm gonna try and
+[134:52] just say stupid [ __ ] in here all the
+[134:53] time this is where you can ask me
+[134:55] questions I'm going to do my absolute
+[134:57] best to start responding much quicker so
+[134:59] feel free to ask me more if you want um
+[135:01] one thing I really prefer to not answer
+[135:05] if you want to make my life easier
+[135:08] is like these really long texts like
+[135:11] with a bunch of examples because I think
+[135:13] thinking about examples is helpful but
+[135:16] also like it's so different every game I
+[135:19] want you to think about the game from
+[135:20] not like a game to game idea I know some
+[135:23] people coach like that but I don't I
+[135:24] don't coach that way and then vent bro
+[135:27] League [ __ ]
+[135:29] sucks actually just kidding league is
+[135:31] such a cool game but my teammates
+[135:34] teammates
+[135:36] suck okay this is where you can vent and
+[135:38] cry and then I will [ __ ] flame you
+[135:40] for crying and saying this um but yeah
+[135:44] rest is just chill if you guys ever
+[135:45] [ __ ] get some some cool achievement I
+[135:47] would like honestly one thing I really
+[135:49] want you guys to do if you guys have
+[135:50] actually climbed I've helped you climb
+[135:52] like either write it in the achievements
+[135:54] or put in the testimonials for me
+[135:56] because you guys don't understand like
+[135:57] it makes it makes me want to make you
+[135:58] guys more content it makes me want to
+[136:00] like actually help you guys more if I
+[136:02] possibly can if I actually am like it's
+[136:04] a great feedback for me to like know
+[136:06] that I'm actually helping people
+[136:09] versus like I just hear nothing like
+[136:12] okay yeah it's chill but all right is
+[136:14] there any last things before I hop off
+[136:17] um wait can you I died zero times
+[136:21] what are you
+[136:25] saying 908 you died zero times you're
+[136:29] damage lacking bro you're you're fine
+[136:32] what are you talking about
+[136:35] bro you're chilling this is great good
+[136:37] job okay you want you want me to say
+[136:39] good job for you good job
+[136:42] buddy bro this is good
+[136:47] okay I don't know what else to say
+[136:54] what Ed should I pick up if I play Eko
+[136:57] um whatever you want man peum vgo
+[137:03] belth
+[137:07] jarvin Zed
+[137:11] Talon EO yeah time is good for you
+[137:14] people okay cool
+[137:21] thanks I feel
+[137:23] great such a troll
+[137:27] bro all right guys I'm going to call it
+[137:30] here I would love to talk to you guys
+[137:31] for [ __ ] hours and forever which is
+[137:33] why I'm trying to do more of these
+[137:34] little event things
+[137:36] um appreciate you all showing up again
+[137:40] patreon YouTube Just You guys probably
+[137:43] found me from YouTube so okay but if you
+[137:45] guys aren't like followed or sub or
+[137:47] whatever like it does it does a lot for
+[137:50] me and again if you guys want to just
+[137:52] like write a testimony or just like
+[137:54] write something in the achievements that
+[137:55] like hey man like I climb like you
+[137:57] helped it really gives me good feedback
+[137:59] to know that hey like the method I'm
+[138:01] using to teach is actually helpful um
+[138:04] because you know there's things that I
+[138:05] want to improve on too I love the
+[138:07] improving mindset and I love getting
+[138:08] better at things so okay if like if all
+[138:10] these people are getting to Masters and
+[138:11] they're stuck at Masters maybe there's
+[138:13] something I'm missing but I want to get
+[138:15] you to Masters and so on so you need to
+[138:17] tell me essentially I'm stuck Masters
+[138:19] bro like maybe it's maybe it's maybe
+[138:20] it's on me
+[138:21] um but yeah I I I appreciate you guys
+[138:22] all being here and I will see you
+[138:25] guys next week ideally um and
+[138:31] then yes yeah pela you blame me for I
+[138:33] know that's that's that's the thing I'm
+[138:35] getting a lot of people to Masters or
+[138:37] I'm helping a lot of people but they're
+[138:38] stuck there I don't know all right
+[138:41] guys I'll see you guys
+[138:43] around and
+[138:47] um yeah I guess I'll just end it
+[138:52] I'll see you guys byebye disconnect
+[138:55] quiet late wait disconnect an end
+[138:57] bye-bye everyone everyone's gonna go bye
+[138:59] bye bye bye bye
+[139:02] bye all right

@@ -1,0 +1,783 @@
+# Jungle Fundamentals That Make DOOMED Games Winnable (In-Depth Guide)
+# Coach: JungleGapGG
+# Tags: 
+# URL: https://www.youtube.com/watch?v=G_fUH6xp2As
+# Video ID: G_fUH6xp2As
+
+[00:00] And another disaster. And I'm dead
+[00:01] again. Right, start of the game, 4-0.
+[00:03] Oh, no. But let me fast forward, guys.
+[00:05] And I want to show you guys with some
+[00:07] good playing from behind fundamentals,
+[00:08] these kinds of games are actually
+[00:10] winnable. So, I'm just going to fast
+[00:11] forward here. Before we get into the 20
+[00:13] minutes that led up to this point, this
+[00:15] can be the turning point of the game.
+[00:16] And again, once again, guys, we didn't
+[00:17] win this game. But I just want to show
+[00:19] you guys that like the game is not over
+[00:21] there. Playing from behind is
+[00:22] essentially, if you don't know who I am,
+[00:24] my name is Coach Leo. I am an ex-pro
+[00:26] player and challenger jungler. And for
+[00:27] the past year, I've been helping
+[00:29] hundreds of players just like you
+[00:30] achieve their rank goals. If reaching
+[00:32] your potential is something you are
+[00:33] interested in, you can check the links
+[00:34] in the description below. What is up,
+[00:36] guys? Coach Leo here. Little bit of a
+[00:38] laid-back video today. I'm going to be
+[00:39] discussing the jungle fundamentals that
+[00:41] can make doom games winnable. And we're
+[00:44] going to be talking about specifically a
+[00:45] question I get actually asked a lot,
+[00:47] which is, you know, the idea of like,
+[00:49] why do we only ever why why do content
+[00:50] creators and coaches and stuff like that
+[00:52] only ever upload games that we're
+[00:53] winning? You know, someone someone going
+[00:55] to comment like this, which, you know,
+[00:56] has some validity to to be to be fair.
+[00:59] And I think that the reason, which I'm
+[01:01] going to be yeah, I'm going to be trying
+[01:02] to clear up some things, as well as
+[01:04] actually show you guys how to actually,
+[01:06] you know, fundamentals that are really,
+[01:07] really important when playing from
+[01:09] behind. Uh this is going to be looking
+[01:11] at a game that I played. And again, the
+[01:12] the result of that game that I played
+[01:14] was actually a loss. We actually ended
+[01:15] up not winning the game. Uh but I think
+[01:17] just firstly to get into things is like
+[01:19] it's important to know how to play from
+[01:20] behind. But the reason why most, you
+[01:23] know, like myself, we focus on like
+[01:24] early game, we focus on how to actually
+[01:26] snowball and and and these kinds of
+[01:28] things is because why we get behind is
+[01:30] more important, right? Like why we fall
+[01:32] behind in a game um is more important
+[01:34] than well, what do we do now that we're
+[01:36] actually behind? Okay, it's still
+[01:37] important to to actually know what to do
+[01:38] from behind. It's going to change some
+[01:40] losses to wins. Then we have to talk
+[01:41] about the whole idea of about bad teams.
+[01:43] You know, bad teams are not every game.
+[01:45] So, recently I've been, you know, I've
+[01:46] been playing, I've been, you know,
+[01:47] grinding a bit of ranked. And you know,
+[01:48] I always have the rule, right? In 100
+[01:50] games, 15 of them or 15, 20, whatever
+[01:52] you want to say, are wins, 15 of them
+[01:55] are losses, and then 70% kind of your
+[01:58] control games where if you play really
+[02:00] well in your main champion and you you
+[02:02] know you're locked in, you should be
+[02:03] able to win most of the 70 control games
+[02:06] and you know 15 wins, 15 losses. Of
+[02:08] course, we always think about the games
+[02:10] that we have the inters. We always think
+[02:12] about the games where you know people
+[02:14] are running it down or you know you know
+[02:16] we have like useless lanes. We always
+[02:18] think about those games, but we rarely
+[02:19] think about games where like we just
+[02:20] have a full kind of team that's just
+[02:22] smurfing, right? And and that's the
+[02:24] funny thing that I that I also noticed
+[02:25] while coaching. You got to recognize
+[02:26] when you get free wins even though it
+[02:28] looks like you popped off, okay? So yes,
+[02:30] if I look at anyone's match history, I I
+[02:32] promise you guys, yeah you can go
+[02:34] through unlucky streaks, but it is a
+[02:36] mathematical equation. Climbing is a
+[02:38] mathematical equation. You're not trying
+[02:40] to get 100% win rate. You are trying to
+[02:42] take something from each game and even
+[02:44] if you just get 1% better from these
+[02:47] instant losses. Let's just call these
+[02:48] games instant losses. Even if you just
+[02:50] learn 1% all this round I should have
+[02:52] done this. I should have had better
+[02:53] tempo. Yeah, blah blah blah blah blah.
+[02:54] The end result is you're looking for you
+[02:57] know a 55% win rate, 54% win rate, 60%
+[02:59] win rate, right? So that's something we
+[03:01] really have to be aware of when it comes
+[03:02] to mentality. And then of course to
+[03:04] improve like I just said, you need to
+[03:05] stop focusing on the result. So it
+[03:07] doesn't matter if it's a loss or a win.
+[03:08] Today we're going to be looking at a
+[03:09] loss. Um there is a bunch of really
+[03:11] really good things for myself that I can
+[03:13] review and I can take. And yeah, let's
+[03:15] get straight into it. So in this game,
+[03:16] right? I just want to show you guys
+[03:18] firstly how it started, okay? The game
+[03:20] didn't start out too good. Let's just
+[03:21] say that much, okay? We cleared the top
+[03:22] side. We look for the top gank. Jayce
+[03:24] respects. Again, this is like high elo
+[03:26] and versing this nearly was actually
+[03:28] really really good. I think he was on
+[03:30] like some Chinese booster which I had
+[03:31] played against a lot which is good for
+[03:32] me, good practice, okay? Again, you want
+[03:34] to verse players that are good cuz
+[03:36] they're going to punish you for your bad
+[03:37] habits.
+[03:38] We go for a skirmish here. I misplay it.
+[03:41] Some things I could have done
+[03:42] differently which is just you know flash
+[03:43] the spear. But yeah, we die, right? We
+[03:45] try and play it. This is going to happen
+[03:47] to you, right? Not every game is going
+[03:48] to be like you see in the YouTube,
+[03:50] right? Everything goes smoothly,
+[03:51] everything works, everything's great,
+[03:52] right? Not every game is going to go
+[03:53] like that and that's what we're trying
+[03:55] to do in this video and what can you
+[03:56] take from these kinds of games where it
+[03:58] doesn't So, as we keep watching, we die
+[04:00] again here.
+[04:01] Okay, I'm like, "Oh, Nidalee's crossing
+[04:03] to the bot side. I have double long
+[04:04] sword. I want to contest his because I
+[04:06] have enough tempo to and she can't
+[04:07] finish it on time." And I missed my EQ
+[04:09] and she again, bad habit. I throw my EQ
+[04:11] and she had a good habit here which was
+[04:13] expecting me to be here, warding, side
+[04:15] stepping, letting me have a spear, just
+[04:16] pretty much smurfing over
+[04:18] Unk, Coach Leo's mate. Mechanics here.
+[04:20] He fights me. He has conqueror. He knows
+[04:22] his limits. His bot lane moves. I wasn't
+[04:23] paying attention to that. And another
+[04:25] disaster. And I'm dead again. Right,
+[04:27] start of the game, 4-0. Oh, no. But let
+[04:30] me fast forward, guys. Let me fast
+[04:32] forward to 20 minutes. And I want to
+[04:33] show you guys with some good playing
+[04:36] from behind fundamentals, these kinds of
+[04:38] games are actually winnable. Okay?
+[04:41] So, I'm just going to fast forward here.
+[04:42] Before we get into the 20 minutes that
+[04:44] led up to this point,
+[04:46] this can be the turning point of the
+[04:47] game. And again, once again, guys, we
+[04:48] didn't win this game. But I just want to
+[04:50] show you guys that like the game is not
+[04:52] over there. Okay?
+[04:54] Playing from behind is essentially
+[04:57] well, the way I think about it is if the
+[04:58] enemy team plays perfectly, you're going
+[05:00] to lose. So, one of the main things that
+[05:02] we're going to be talking about all
+[05:03] these are the main fundamentals we're
+[05:04] going to be talking about in this video,
+[05:05] which is our minimizing habits and
+[05:08] trading, making plays with numbers
+[05:09] advantage, waiting for enemy mistakes,
+[05:12] and not compensating and over forcing,
+[05:13] which I actually did do in this game,
+[05:16] which is something for me to review.
+[05:17] Okay, so let's go back.
+[05:19] So, we died twice.
+[05:20] All right.
+[05:21] Sucks, okay? The number one thing when
+[05:24] you die, by the way,
+[05:25] is you need to think about what's next.
+[05:27] Okay, I always say this to my to my to
+[05:29] to the students that I coach, the
+[05:31] players that I coach, I always say,
+[05:32] "Okay, you die, you need to not think
+[05:35] about what you did wrong." And it's very
+[05:36] hard to do that, you know?
+[05:38] Uh but you know, if Nidalee used flash
+[05:40] here, ping Nidalee's flash. Top side
+[05:42] when I die to to to Jace, I didn't
+[05:44] actually ping his flash. So, I I didn't
+[05:46] actually And I knew he used flash and I
+[05:47] know he flashed at the same time as
+[05:48] mine. So the thing that I'm thinking
+[05:50] about this round is okay game is normal
+[05:51] okay there's no difference between
+[05:53] playing from behind and playing from
+[05:56] ahead. Well there is a difference the
+[05:57] main the difference is you don't play
+[05:59] any differently is what I'm saying.
+[06:01] The difference is that you're going to
+[06:02] have less opportunities when you're
+[06:04] behind okay. So in a game where you're
+[06:06] doing really good and everything's going
+[06:07] great maybe seven or eight out of the 10
+[06:10] potential plays will work will be you
+[06:13] know the gang will work two v two will
+[06:15] work the dragon will everything will
+[06:17] work. But when you're playing from
+[06:18] behind or even even
+[06:20] maybe two out of 10 plays you know
+[06:23] you'll only have two out of 10 chances
+[06:25] is the way I like to see it.
+[06:26] So there will still be chances but they
+[06:28] will be slimmer chances. Okay so the
+[06:30] main thing in this round I'm looking at
+[06:31] is I want to punish Jason no flash. So
+[06:34] yeah I'm just playing the game out okay
+[06:35] and that's all you can do like again if
+[06:38] the enemy team from this point onwards
+[06:40] play absolutely perfectly which by the
+[06:42] way spoiler alert they probably never
+[06:45] will unless you're versing T1 in their
+[06:47] prime you will have chances. So that is
+[06:50] what your mentality should be there will
+[06:51] be chances but I need to make sure I'm
+[06:53] not forcing something because I'm
+[06:55] behind. I need to make sure I'm not
+[06:57] doing this because otherwise I'm going
+[06:58] to lose and otherwise I'm going to
+[06:59] demote and otherwise I'm going to do
+[07:00] this.
+[07:01] And even if you still lose
+[07:02] some of these games
+[07:04] playing like this will be winnable. Okay
+[07:06] so nothing happens in this round.
+[07:08] We recall going to be speed running
+[07:09] through the through the vod cuz I just
+[07:10] want to show you guys like the main
+[07:11] points. So this is the main point of
+[07:13] like minimizing right? So how many of
+[07:15] you guys may be tilted here and go for
+[07:18] the scuttle crab that's spawning in two
+[07:19] seconds right?
+[07:21] I know that I was thinking about it as
+[07:22] you can see here from my
+[07:24] >> [laughter]
+[07:24] >> from my clicks. I was thinking I'm kind
+[07:26] of like you know let's just flip it
+[07:28] right let's just flip it let's just go
+[07:29] for the scuttle.
+[07:30] But this is the point about minimizing
+[07:32] okay you need to minimize
+[07:35] or trade when you are behind you have to
+[07:37] accept the reality of your game. And
+[07:39] Nami is just going to up if I EQ on the
+[07:41] scuttle here if she's here if anything
+[07:42] like that. Okay, cool. I scuttle and I
+[07:44] turn around. I I change my mind. And
+[07:46] Nidalee is that, right?
+[07:48] So, the next thing here is just like
+[07:49] simply just like pulling camps, right?
+[07:51] Like this is this is like habits, okay?
+[07:54] Versus a gold player here,
+[07:56] if I kill this blue buff, maybe he
+[07:57] doesn't invade. Versus a higher
+[08:00] uh someone with better habits, they may
+[08:02] look to invade here and I want the best
+[08:03] chance I possibly can to just smite this
+[08:05] and leave. So, as you can see, I'm
+[08:06] pulling camps away. I'm really being
+[08:08] careful with the way I take uh camps
+[08:11] here. And this is something that you
+[08:12] need to learn when you're the one on the
+[08:14] back foot. Okay? Like something that I
+[08:17] that that is really really telling about
+[08:18] a good player or a good jungler
+[08:21] is how they play when they're actually
+[08:23] on the defense.
+[08:24] Simple things like this, right? Pulling
+[08:26] the Gromp into the bush. If I pull if I
+[08:28] was just hitting the Gromp here, I'm
+[08:29] probably just losing half my health
+[08:32] or maybe dying if I already used my EQ,
+[08:34] right?
+[08:35] So, minimizing. Okay, this is all
+[08:36] minimizing. I'm minimizing Nidalee here.
+[08:38] I'm making her really have to work for
+[08:40] it, okay?
+[08:42] So, here the main the main goal is get
+[08:43] get the Gromp. I don't care about
+[08:44] killing Nidalee. I don't care about
+[08:45] falling on my on my Nami. I care about
+[08:48] minimizing her and getting my Gromp.
+[08:50] Okay, cool. So, some stuff happens here.
+[08:53] I use a little bit of time here just to
+[08:54] defend on this wave. The game looks
+[08:56] absolutely doomed. This guy is
+[08:57] absolutely aim botting me with every
+[08:59] single spear. And so, here comes my next
+[09:01] thing. So, we actually make a play here.
+[09:03] We actively went for something.
+[09:06] And the enemy weren't necessarily making
+[09:07] a mistake, but this is the next point.
+[09:09] You can play with a numbers advantage.
+[09:12] So, my Azir roaming here
+[09:13] is maybe one of those two out of 10
+[09:16] uh decisions that you could potentially
+[09:18] make in a game like this, right? That
+[09:20] could be a good play. Now, obviously
+[09:21] again, like playing from behind is way
+[09:23] harder. You need better judgment. Uh you
+[09:25] need better awareness, right? It
+[09:28] Everything is harder when you play from
+[09:29] behind. This is why most uh you know,
+[09:32] content creators and and educational
+[09:34] people in the space like myself, we
+[09:35] focus on how to not be in this position
+[09:37] as number one priority. But of course,
+[09:39] you can be in this and this is natural.
+[09:40] You will be in this situation. So So
+[09:42] anyway, we we make a play here.
+[09:44] Um you know, I'm just getting hit by if
+[09:46] if I didn't get hit by both these spears
+[09:47] by the way, I'm pretty sure we just hard
+[09:48] smurf this. But you know, this guy's
+[09:50] just
+[09:51] aim putting me with the spears. But
+[09:52] overall, it's like not too bad. There we
+[09:54] go. I I die again, right? And yeah, team
+[09:56] cleans up. Ezreal gets some kills.
+[09:58] Overall, it's not amazing. Could have
+[10:00] been a lot better. Okay, another kind of
+[10:02] like disaster ish kind of play when it
+[10:05] should have been like really really
+[10:06] good. So Nidalee is dead here.
+[10:09] Right? And even though I'm 03,
+[10:13] I'm going for the grub set. Okay? And
+[10:15] this is also something to important
+[10:16] understand. The amount of players that I
+[10:17] coach that will just shut down after
+[10:19] just being having a 03 score line
+[10:22] is a lot. A lot of players here will
+[10:24] autopilot and just Oh, I just got to go
+[10:26] back. But Nidalee is dead. Her tempo, I
+[10:29] have I have tempo on her. Even though
+[10:30] I'm 03, I could be 010 here. And these
+[10:32] grubs are still mine, right? So
+[10:35] something to think about is stay locked
+[10:36] in. What's next? King of the storms. Who
+[10:39] used flash bot? I didn't do that again.
+[10:41] You know, bad habit.
+[10:43] I'm not thinking Oh, I'm not my mental
+[10:44] stack is somewhere else.
+[10:46] Um so we actually go for grubs here. We
+[10:48] think about Nidalee's tempo. Okay, we're
+[10:50] we're we're going for them. We're like,
+[10:51] all right. Now I'm like, okay, Nidalee
+[10:53] can show up here now. So I'm going to
+[10:54] save my E. I'm going to use my smite.
+[10:56] And this is also kind of a form of
+[10:58] minimizing here still. Okay, we are
+[11:00] minimizing
+[11:02] by not, you know, like that's it. Ward
+[11:04] leave. Cuz Nidalee can be here now and I
+[11:07] don't want to, you know. The thing is
+[11:08] here as well, like if you stay for more
+[11:10] grubs, the problem is that if Nidalee
+[11:11] chunks you, she'll also know where
+[11:13] you're going. Oh, Jarvan's now going to
+[11:15] go to his red side. I can reinvade him.
+[11:17] And it can be really annoying.
+[11:19] Okay, this Nidalee play was very good.
+[11:20] And these players that you verse that
+[11:23] are very good sometimes
+[11:24] are going to
+[11:26] improve your habits. And this is a
+[11:27] chance for you. It's a great chance.
+[11:29] When you verse a good player, it is an
+[11:31] amazing chance to actually
+[11:33] improve. Right? When your bad habits get
+[11:36] punished, that is a direct like
+[11:39] improvement, right? Like you should
+[11:40] embrace that.
+[11:42] Okay, so here we're looking top side and
+[11:44] we're like, "Nah, too risky. Nidalee
+[11:45] might be on the gromp." And we see her,
+[11:46] we check we cuz we warded, we see that
+[11:48] it's gone. So, we're not going to go for
+[11:50] the top play even though it's 10 and 3,
+[11:52] guys. Oh, I must I need to do a play
+[11:54] here. I need to do something. No, you
+[11:56] don't. You just need to keep playing the
+[11:57] game out.
+[11:58] Just normal. But, you have less chances.
+[12:01] That's just is what it is. Okay, Nidalee
+[12:03] gets the bot crab.
+[12:04] Nidalee's going for a bot play. Look
+[12:05] what I do here. Flag the bush.
+[12:08] Don't face check the bush. Don't EQ on
+[12:10] the gromp because we know Nidalee could
+[12:11] be could be doing something.
+[12:13] Okay.
+[12:14] So, Jinx dies. Guess what I have to do
+[12:16] here. I have to give my gromp. I just
+[12:18] leave.
+[12:21] It is what it is. Okay, it's okay to
+[12:22] give the gromp, but this is where you
+[12:23] can also do
+[12:25] Okay, I'm giving my gromp, so let's just
+[12:27] go look for something else.
+[12:29] Right? So, this is kind of like I'm
+[12:30] trading my gromp to circle around and
+[12:34] burn an Nidalee's flash. Um another
+[12:35] thing that I haven't actually
+[12:37] said here, which is actually really
+[12:38] really important, which I'm going to add
+[12:39] right now,
+[12:41] is
+[12:42] taking small wins.
+[12:43] Okay, I always say this in my coaching
+[12:44] sessions. Rome was not built in a day.
+[12:46] When you're behind, you cannot just win
+[12:49] the game off of one play. So, I don't
+[12:52] even ult the Nidalee here, right?
+[12:53] Because
+[12:54] she has egg and we're just going to take
+[12:56] a flash. And because her team is coming,
+[12:58] right? So, we just take a small win.
+[12:59] Cool.
+[13:00] Boom, we leave.
+[13:02] And then something happens here. The
+[13:03] enemy Nidalee flashes in.
+[13:06] Okay, this is her. This is one of my two
+[13:09] out of 10 chances here. This is her
+[13:11] making a mistake.
+[13:13] We ult here, we save EQ.
+[13:15] And just like that, comeback play,
+[13:17] right?
+[13:19] Again, we didn't win this game. But, how
+[13:21] much will this matter in a different
+[13:23] game where I don't die here for my
+[13:24] gromp? Where I circle and get the
+[13:26] Inivius Flash, where I
+[13:29] am paying attention even though I'm so
+[13:31] behind and Nidalee is killing my support
+[13:32] here, where I'm actually paying
+[13:34] attention like, "Ooh, is she going to
+[13:35] in?" Oh, she she flashes in. In a
+[13:37] different game, this scores me
+[13:40] potentially the win, okay?
+[13:42] So cool, we kill.
+[13:44] We chase Nidalee.
+[13:45] We get another kill here.
+[13:47] And look at that, my game at least is
+[13:49] back on track. My game is
+[13:53] decent. Honestly, like two shots down
+[13:55] like the game also, you got to remember
+[13:56] that the game gives you uh catching up
+[13:59] mechanics, which is you know, bounties.
+[14:02] Um
+[14:03] Okay, so I'm feeling pretty strong here.
+[14:05] I'm now I'm now profane hydra and
+[14:07] pickaxe.
+[14:09] Um Nidalee hasn't bought yet, but let me
+[14:10] just check her items. So, look at the
+[14:12] look at the jungle, right? Level eight,
+[14:14] level eight. 77 CS, 71 CS.
+[14:17] One item, she's probably going to have
+[14:19] one So, me and Nidalee almost even here,
+[14:20] but if I check like gold graphs here,
+[14:22] she's probably still a little bit ahead,
+[14:23] but you can see you can even things up.
+[14:26] Okay, that's the that's the main point.
+[14:28] Okay, next play.
+[14:30] We just took posture.
+[14:32] Ooh, my top lane gets a solo kill.
+[14:33] Looking good.
+[14:35] Okay. Taking things carefully.
+[14:38] Thought that Nidalee may have got tower
+[14:39] aggro here, but he did not.
+[14:42] Unfortunate.
+[14:44] We get out straight away.
+[14:46] We're paying attention to the mini map
+[14:47] here. Oh, so so this is a common thing
+[14:49] as well, like we have all of our bot
+[14:50] side camps up here, but they are just
+[14:52] like invading our side. And
+[14:55] in these situations, the most important
+[14:56] thing for you to do is just make sure
+[14:58] that you take them kind of before like
+[15:01] being on tempo or just like farming
+[15:04] um
+[15:05] will will make you not get invaded if
+[15:07] that makes sense. So, like if you go for
+[15:08] like all these compensating plays, yeah,
+[15:10] then you will I'll I'll show you an an a
+[15:12] direct example of this actually later
+[15:14] on. But if you go for all these plays,
+[15:16] like the one I'm about to show you
+[15:17] actually, this is where it actually
+[15:18] happens.
+[15:19] If you go for plays like this, so so
+[15:21] again, this is judgment call, right?
+[15:23] Exactly what I'm talking about. I have
+[15:24] camps up bot side, but I've decided that
+[15:26] I think that mid play is good. Okay?
+[15:28] We'll just watch it out.
+[15:30] Okay, we'll just simply watch it out.
+[15:32] Flash is Flash is thing. Try and kill
+[15:34] him. He doesn't die. And
+[15:37] the play is bad. Okay? The play once
+[15:39] again, very, very bad miscalculation.
+[15:43] Um so, this was kind of me, I feel like,
+[15:46] compensating a little bit, or it was
+[15:47] just misjudgment. So, as long as you
+[15:49] make these kinds of plays, and it is not
+[15:51] based on like, "I if I don't do this,
+[15:53] I'm going to lose the game."
+[15:55] It is okay. Right? It is okay to go for
+[15:57] a play that you just think is
+[16:00] you know, you just win that. Like, you
+[16:01] you kill, you flash, you kill Demilio,
+[16:03] and maybe you win uh the 2v2 against
+[16:05] them. Um but yeah, this is what I mean.
+[16:07] When you make a play like that, now my
+[16:09] camps are gone. You see this? So, if I'm
+[16:12] just staying on tempo, even when I'm
+[16:13] playing from behind, and if I maybe have
+[16:16] to give one gromp, but I get my other
+[16:17] four camps, that's really important when
+[16:19] you play from behind.
+[16:21] Okay.
+[16:22] So, so, you can see here these
+[16:24] fundamentals um
+[16:26] Yeah, these are the main ones. Like,
+[16:27] literally these these five things here
+[16:29] is literally playing from behind uh the
+[16:31] bread and butter in a in a nutshell.
+[16:33] Okay, so, once again, the enemy team's
+[16:34] doing something weird here.
+[16:36] Okay, they're getting overconfident.
+[16:37] They're getting cocky. And that's what
+[16:39] you're waiting for. And the fact that
+[16:40] I'm even like kind of strong here,
+[16:43] even though the start of the game was a
+[16:44] dis- disaster, and I was really far
+[16:46] behind,
+[16:47] the point of you
+[16:49] not compensating, the point of you
+[16:51] staying strong and keeping your agency
+[16:53] is so when the enemy team does
+[16:56] messes like messes up, makes mistakes,
+[16:58] starts inting, starts getting
+[16:59] overconfident, the point of me staying
+[17:01] strong is so I can actually punish them
+[17:03] when that happens. If I'm like not even
+[17:06] one item here, maybe Caitlyn just kills
+[17:08] me, right? Like, cuz I've just been
+[17:10] compensating and dwelling and inting and
+[17:12] and thinking that it's all doom and
+[17:13] gloom, right? Maybe that Maybe we just
+[17:15] don't win that fight, or the next fight
+[17:17] that happens, the fight that actually is
+[17:18] winnable.
+[17:19] So,
+[17:21] yeah. So, we we just we just keep
+[17:23] farming here. Top lane dies. We look for
+[17:25] a little int check on Jayce. Doesn't
+[17:26] happen. Again, Anivia looks like she's,
+[17:29] you know, inting now. So, then we'll go
+[17:30] for another kill here. Cool.
+[17:32] Then,
+[17:33] Rome wasn't built in a day, so we don't
+[17:34] look to instantly chase. We don't really
+[17:36] look for more straight away here. You
+[17:38] can see that, right? We don't look to
+[17:39] like over You know, it's not just one
+[17:41] now, just cuz we killed Anivia.
+[17:43] We base. We buy items.
+[17:45] And again,
+[17:47] yeah, you guys can't tell me that the
+[17:48] enemy team are T1 in their prime, right?
+[17:51] They're going to make mistakes. But, if
+[17:53] you are not strong here because of
+[17:56] inting, because you you were
+[17:57] compensating previously, you will not be
+[17:59] able to
+[18:00] carry the situation. Yeah?
+[18:03] So, Jinx thought Rome Jinx didn't
+[18:05] realize Rome was not built in a day. She
+[18:06] tried to chase. The enemy is still
+[18:08] actually really strong. So, that's it.
+[18:11] One last play here, right? A little bit
+[18:13] of creativity. Once again, the enemy
+[18:15] team. So, once they make the mistake,
+[18:17] like this Anivia, that's when you
+[18:18] strike, right? That's when you look for
+[18:20] the play.
+[18:21] Now, Nidalee actually tries to
+[18:23] compensate here a little bit.
+[18:25] You know, we do some we do some flag and
+[18:26] drags. I remember this. I completely
+[18:29] into this. Stopwatch check.
+[18:31] So, if this
+[18:32] if there's something that you can learn
+[18:33] from the game, right? It can just be as
+[18:34] simple as, "Okay, I need to actually
+[18:36] track Zhonya's. I need to track
+[18:38] stopwatch. I need to track it better."
+[18:40] You know, a small habit. I could see
+[18:42] this game is like, "Okay, I need to just
+[18:44] play around Nidalee uh speed better and
+[18:46] I and I need to play around like
+[18:47] stopwatch better." So, in the next fight
+[18:49] that you see, which is the fight that I
+[18:50] showed at the start,
+[18:51] I I did uh immediately learn from that
+[18:53] fight
+[18:55] about that. And you know, you know, we
+[18:56] we again, this is another thing about
+[18:58] trading, right? Like, I'm in her jungle
+[19:01] here, right? And this is another way you
+[19:02] can look So, let's just take a look at
+[19:04] the map from this point, right? Just
+[19:05] going to speed it up a little bit.
+[19:08] Put it on two times. Okay, Nidalee's
+[19:10] bot. So, I'm already understanding here
+[19:13] that most likely this is all gone. It
+[19:15] just is what it is. Like that's just the
+[19:17] reality. And Drake, too. And Scuttle.
+[19:19] Everything here is exploding, no matter
+[19:21] what. So, I need to look to trade
+[19:23] something. So, you'll you'll only again,
+[19:25] you'll have these options. You can match
+[19:27] Drake. Okay, that's obviously bad
+[19:28] because as I just said, it's exploding.
+[19:30] And it is Azir died and we're way far
+[19:32] behind. We can minimize, we just try and
+[19:33] take our camps while they take Drake or
+[19:35] whatever. But it's already, you know,
+[19:37] we're already on the opposite side of
+[19:38] the map and
+[19:40] of course, she could also take our camps
+[19:41] first. Or we trade. Okay? These are the
+[19:43] three
+[19:45] pillars of your decisions in League of
+[19:47] Legends in general. Trade, minimize, or
+[19:49] match. Match when you're stronger,
+[19:50] minimize when you're on the same side,
+[19:52] and you're weaker. [snorts]
+[19:53] Trade when you're weaker and you're on
+[19:54] the opposite side.
+[19:56] So, that's what we do here. We trade. I
+[19:58] just back ping my team and I say, "You
+[19:59] know what? Good luck."
+[20:01] We lose that tower. Cool. Good luck. My
+[20:03] Azir now spawns. So, we want to quickly
+[20:05] kill this camp and then base.
+[20:07] Okay? And you'll see here even even
+[20:09] here, my team trolls,
+[20:11] dies, engages, looks for a play, doesn't
+[20:13] work. What do we do? Do we EQ in here
+[20:15] right now? Do we compensate? Do we alt?
+[20:17] Do we Do we do anything? No, we just
+[20:18] chill.
+[20:19] We chill. We chill. And because we
+[20:22] chill,
+[20:23] guess what happens because we chill.
+[20:26] If you guys can guess,
+[20:28] you win a prize.
+[20:29] >> [laughter]
+[20:31] >> Because we chill and we don't do
+[20:33] anything stupid and we still have our
+[20:34] alt here, we then catch the Anivia being
+[20:37] stupid again. All right? Like they go on
+[20:39] Drake. So, we can almost see again. Same
+[20:41] kind of fundamental. I have to give my
+[20:43] Gromp. We kill Anivia on the on the
+[20:44] first the first play when we got his
+[20:46] flash. We give Drake, but we trade
+[20:49] Anivia's life for it.
+[20:50] Okay? The enemy team are also going to
+[20:52] get bored.
+[20:53] Okay? You got to You got to remember
+[20:54] that. They're going to get bored. And
+[20:56] here again, right? We're going to take
+[20:57] the Scuttle first. We're actually
+[20:58] getting some control of Baron, which is
+[21:00] going to help in this play because we
+[21:01] have a control of Baron. And we again,
+[21:03] we just kill the Jace. They're just
+[21:04] inting. We're just looking for picks.
+[21:05] Once again,
+[21:07] look at my items sheet. Like, can you
+[21:08] guys even believe it? Like, just based
+[21:10] on
+[21:12] us having basically three losing lanes,
+[21:15] and I'm actually still strong in this
+[21:16] game. All right.
+[21:18] Once again, we lose this game. Um but I
+[21:20] want to show you guys like, "Hey, it
+[21:22] happens to me, too." But the thing is
+[21:24] I will win way more games than maybe you
+[21:26] will because I actually have a chance to
+[21:29] win this game. Whereas if we just think
+[21:31] it's all doom and gloom cuz we're 0 - 2
+[21:32] at the start, then we will never win.
+[21:34] We'll never win any of these games.
+[21:36] You know, even if you win like five out
+[21:37] of 10 of games like this, or even four,
+[21:39] or even three, um that's good. And then
+[21:41] we get back to this last play, which is
+[21:44] you know, the ultimate like, "Okay, this
+[21:46] is the time where
+[21:48] the game can get completely swung on its
+[21:50] head." We have numbers advantage here.
+[21:52] The enemy go too fast. We actually wait
+[21:54] for the the Zonyas this time. We land a
+[21:56] big EQ. We do a lot of damage because
+[21:58] we're actually really strong.
+[22:00] Um
+[22:01] and yeah, we don't actually get anything
+[22:02] from this.
+[22:05] This is the next play that happens. That
+[22:06] was a bit unfortunate. I EQ, he flashes,
+[22:09] Anivia OP, I'm stuck.
+[22:13] And yeah, I'm not going to really going
+[22:15] to review the rest of the game because I
+[22:17] believe that we just kind of we probably
+[22:19] lose. Yeah, we just we just get caught.
+[22:22] I go for the top play.
+[22:24] And so you can still lose games like
+[22:25] this, right, guys? Like, you can still
+[22:27] just lose.
+[22:29] That's that's that's that's just League
+[22:30] of Legends. Unfortunately, that's what
+[22:32] you've signed up for. Your Jinx can
+[22:33] still just randomly get caught. Your
+[22:35] ambassador can get caught. You can, you
+[22:37] know, get outplayed from the Anivia and
+[22:39] and all those great things that you've
+[22:40] done. It feels like, "Wow,
+[22:42] what's the point? But why did I even try
+[22:44] this hard?" But I can guarantee you,
+[22:47] yeah? Go back to that match history. I
+[22:50] can guarantee you
+[22:51] you will win more games
+[22:53] that you're behind. Or you just win more
+[22:55] games in general, right? Like, obviously
+[22:57] these fundamentals also apply if you're
+[22:58] even winning. Like, if I'm like 10 and 0
+[23:00] this game,
+[23:01] uh the the are still the same. Like you
+[23:02] have to
+[23:03] adapt to your team and and and play with
+[23:05] the cards you've been dealt.
+[23:06] Um
+[23:08] Yeah, we lose. Right? We lose. And
+[23:12] that's that's how it is sometimes. So,
+[23:13] if you're able to learn something from
+[23:14] this video, uh leave a comment down
+[23:15] below.
+[23:17] Leave a like. Consider dropping a sub.
+[23:19] Helps me a lot. And I'll see you guys in
+[23:21] future content. Future educational
+[23:23] content. Stay tuned. Peace.

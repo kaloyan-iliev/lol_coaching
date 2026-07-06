@@ -12,10 +12,21 @@ RIOT_API_KEY = os.getenv("RIOT_API_KEY")
 RIOT_PLATFORM = "euw1"  # platform host: league-v4, champion-mastery-v4
 RIOT_REGION = "europe"  # regional host: match-v5, account-v1
 
-# Model selection - change this to switch providers
-LLM_PROVIDER = "gemini"  # "gemini" or "openai"
-VISION_MODEL = "gemini-2.5-flash"  # for screenshot analysis (better quality)
-TEXT_MODEL = "gemini-2.5-flash"  # best quality for tagging/synthesis
+# Model selection - change this to switch providers. Env var wins so one-off
+# runs can switch without editing this file:  $env:LLM_PROVIDER='openrouter'
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini")  # "gemini", "openai" or "openrouter"
+# gemini-3.5-flash: published free tier 1,500 req/day / 10 RPM / 250k TPM —
+# but this project's LIVE caps have been lower than published before (3-flash:
+# 20/day), so treat quotas as observed, not promised. Verified working 2026-07-05.
+VISION_MODEL = "gemini-3.5-flash"
+TEXT_MODEL = "gemini-3.5-flash"
+# Tried in order when the primary model hits quota (429) or capacity (503).
+# Free-tier daily quotas are per-model, so falling back = fresh quota pool.
+LLM_FALLBACK_MODELS = ["gemini-3-flash-preview", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+# Backup provider: set LLM_PROVIDER = "openrouter" (needs OPENROUTER_API_KEY in
+# .env; ":free" models = 50 req/day, or 1000/day after a one-time $10 top-up)
+# Free model ids rotate - list current ones: GET https://openrouter.ai/api/v1/models
+OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL", "openai/gpt-oss-120b:free")
 
 # Paths
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")

@@ -1,0 +1,96 @@
+{
+  "jungle_fundamentals": [
+    "0Avxo9bDMHM",
+    "4APtz4zDbGo",
+    "CXv1fuU7tc8",
+    "GBKVIehiRKA",
+    "G_fUH6xp2As",
+    "Nzd24hYQDRo",
+    "OVE0qFs7PS0",
+    "a6UyD-hZZgY",
+    "btOjeZ5Acsk",
+    "dJvCEuOb9cU",
+    "f610UsYj5r4",
+    "gUVtr--F2hM"
+  ],
+  "clearing": [
+    "0Avxo9bDMHM",
+    "4APtz4zDbGo",
+    "Nzd24hYQDRo",
+    "OVE0qFs7PS0",
+    "f610UsYj5r4"
+  ],
+  "pathing": [
+    "4APtz4zDbGo",
+    "H-HS7uHNoXE",
+    "Nzd24hYQDRo",
+    "QQku-iYEQ6k",
+    "f610UsYj5r4"
+  ],
+  "early_game": [
+    "OVE0qFs7PS0",
+    "a6UyD-hZZgY",
+    "dJvCEuOb9cU",
+    "f610UsYj5r4"
+  ],
+  "ganking": [
+    "0Avxo9bDMHM",
+    "H-HS7uHNoXE",
+    "Nzd24hYQDRo",
+    "QQku-iYEQ6k",
+    "f610UsYj5r4",
+    "gUVtr--F2hM"
+  ],
+  "objectives": [
+    "H-HS7uHNoXE",
+    "QQku-iYEQ6k",
+    "f610UsYj5r4"
+  ],
+  "mid_game": [
+    "0Avxo9bDMHM",
+    "4APtz4zDbGo",
+    "CXv1fuU7tc8",
+    "G_fUH6xp2As",
+    "H-HS7uHNoXE",
+    "Nzd24hYQDRo",
+    "OVE0qFs7PS0",
+    "QQku-iYEQ6k",
+    "a6UyD-hZZgY",
+    "btOjeZ5Acsk",
+    "dJvCEuOb9cU",
+    "f610UsYj5r4",
+    "gUVtr--F2hM"
+  ],
+  "late_game": [
+    "0Avxo9bDMHM",
+    "f610UsYj5r4"
+  ],
+  "vision": [
+    "4APtz4zDbGo",
+    "CXv1fuU7tc8",
+    "H-HS7uHNoXE",
+    "Nzd24hYQDRo",
+    "QQku-iYEQ6k",
+    "btOjeZ5Acsk",
+    "f610UsYj5r4"
+  ],
+  "mental": [
+    "0Avxo9bDMHM",
+    "4APtz4zDbGo",
+    "CXv1fuU7tc8",
+    "GBKVIehiRKA",
+    "G_fUH6xp2As",
+    "H-HS7uHNoXE",
+    "OVE0qFs7PS0",
+    "QQku-iYEQ6k",
+    "a6UyD-hZZgY",
+    "btOjeZ5Acsk",
+    "dJvCEuOb9cU",
+    "f610UsYj5r4",
+    "gUVtr--F2hM"
+  ],
+  "matchups": [
+    "f610UsYj5r4"
+  ],
+  "_supplementary": []
+}

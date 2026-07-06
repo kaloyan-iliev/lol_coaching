@@ -1,0 +1,146 @@
+{
+  "champion": "Qiyana",
+  "role": "JUNGLE",
+  "n_games": 25,
+  "patches": [
+    "16.12",
+    "16.13"
+  ],
+  "win_rate": 0.52,
+  "cs_at_10": {
+    "p25": 67.0,
+    "median": 74,
+    "p75": 80.5,
+    "n": 25
+  },
+  "cs_at_15": {
+    "p25": 104.0,
+    "median": 116,
+    "p75": 127.5,
+    "n": 25
+  },
+  "first_gank_t_s": {
+    "p25": 199.0,
+    "median": 284,
+    "p75": 549.0,
+    "n": 25
+  },
+  "first_reset_s": {
+    "p25": 198.5,
+    "median": 216,
+    "p75": 225.5,
+    "n": 25
+  },
+  "full_clear_end_s": {
+    "p25": 270.0,
+    "median": 300,
+    "p75": 450.0,
+    "n": 17
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 3.5,
+    "n": 25
+  },
+  "deaths_total": {
+    "p25": 4.0,
+    "median": 5,
+    "p75": 8.5,
+    "n": 25
+  },
+  "gank_involvements": {
+    "p25": 4.0,
+    "median": 7,
+    "p75": 9.5,
+    "n": 25
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 4.0,
+    "n": 25
+  },
+  "wards_placed": {
+    "p25": 3.0,
+    "median": 5,
+    "p75": 7.0,
+    "n": 25
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 1,
+    "p75": 2.0,
+    "n": 25
+  },
+  "wards_killed": {
+    "p25": 3.0,
+    "median": 4,
+    "p75": 9.5,
+    "n": 25
+  },
+  "first_objective_participation_rate": 0.26,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 66.7,
+      "median": 72.0,
+      "p75": 77.4,
+      "n": 25
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -62.0,
+      "median": -59.5,
+      "p75": -44.2,
+      "n": 25
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1,
+      "p75": 1.0,
+      "n": 25
+    },
+    "scuttle_crab_kills": {
+      "p25": 3.0,
+      "median": 4,
+      "p75": 6.0,
+      "n": 25
+    },
+    "vision_score_per_minute": {
+      "p25": 0.8,
+      "median": 1.1,
+      "p75": 1.4,
+      "n": 25
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 1,
+      "p75": 2.0,
+      "n": 25
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.5,
+      "median": 2,
+      "p75": 4.5,
+      "n": 25
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 1.0,
+      "median": 1,
+      "p75": 2.0,
+      "n": 25
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 1.0,
+      "n": 25
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 439.7,
+      "median": 1007.6,
+      "p75": 1181.3,
+      "n": 16
+    }
+  },
+  "note": "Master+ EUW Qiyana jungle. Quartiles over small n - treat as reference range, not law."
+}

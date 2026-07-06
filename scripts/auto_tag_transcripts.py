@@ -91,7 +91,7 @@ def load_transcript(video_id: str) -> str | None:
     return None
 
 
-def tag_transcript(transcript: str) -> dict:
+def tag_transcript(transcript: str, model: str | None = None) -> dict:
     from app.llm_client import generate_text
 
     # Truncate very long transcripts to save tokens
@@ -104,7 +104,7 @@ def tag_transcript(transcript: str) -> dict:
         valid_tags=", ".join(VALID_TAGS),
     )
 
-    text = generate_text(prompt, temperature=0.1, max_tokens=4000, json_mode=True)
+    text = generate_text(prompt, temperature=0.1, max_tokens=6000, json_mode=True, model=model)
     try:
         return json.loads(text)
     except json.JSONDecodeError:
@@ -126,6 +126,8 @@ def main():
     parser.add_argument("--id", help="Tag a specific video by ID")
     parser.add_argument("--all", action="store_true", help="Re-tag all videos (overwrites existing tags)")
     parser.add_argument("--dry-run", action="store_true", help="Show results without saving")
+    parser.add_argument("--model", help="Override LLM model (e.g. gemini-2.5-flash-lite when "
+                                        "the default model's daily free quota is exhausted)")
 
     args = parser.parse_args()
 
@@ -159,7 +161,7 @@ def main():
             time.sleep(15)
 
         try:
-            result = tag_transcript(transcript)
+            result = tag_transcript(transcript, model=args.model)
         except Exception as e:
             print(f"  FAILED: {e}")
             continue

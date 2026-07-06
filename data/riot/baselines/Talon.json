@@ -1,0 +1,145 @@
+{
+  "champion": "Talon",
+  "role": "JUNGLE",
+  "n_games": 22,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.36,
+  "cs_at_10": {
+    "p25": 71.8,
+    "median": 77.0,
+    "p75": 80.0,
+    "n": 22
+  },
+  "cs_at_15": {
+    "p25": 109.0,
+    "median": 120.0,
+    "p75": 126.0,
+    "n": 22
+  },
+  "first_gank_t_s": {
+    "p25": 213.8,
+    "median": 274.0,
+    "p75": 591.5,
+    "n": 22
+  },
+  "first_reset_s": {
+    "p25": 140.5,
+    "median": 223.0,
+    "p75": 285.8,
+    "n": 22
+  },
+  "full_clear_end_s": {
+    "p25": 240.0,
+    "median": 300.0,
+    "p75": 420.0,
+    "n": 14
+  },
+  "deaths_before_14min": {
+    "p25": 0.8,
+    "median": 1.0,
+    "p75": 2.0,
+    "n": 22
+  },
+  "deaths_total": {
+    "p25": 3.8,
+    "median": 5.0,
+    "p75": 8.2,
+    "n": 22
+  },
+  "gank_involvements": {
+    "p25": 5.0,
+    "median": 8.5,
+    "p75": 12.0,
+    "n": 22
+  },
+  "counter_jungle_episodes": {
+    "p25": 2.0,
+    "median": 3.0,
+    "p75": 5.5,
+    "n": 22
+  },
+  "wards_placed": {
+    "p25": 2.8,
+    "median": 5.5,
+    "p75": 8.0,
+    "n": 22
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 0.5,
+    "p75": 1.2,
+    "n": 22
+  },
+  "wards_killed": {
+    "p25": 2.8,
+    "median": 6.0,
+    "p75": 8.0,
+    "n": 22
+  },
+  "first_objective_participation_rate": 0.3,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 69.1,
+      "median": 75.8,
+      "p75": 77.7,
+      "n": 22
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -61.9,
+      "median": -55.1,
+      "p75": -43.5,
+      "n": 22
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.2,
+      "n": 22
+    },
+    "scuttle_crab_kills": {
+      "p25": 3.8,
+      "median": 4.0,
+      "p75": 6.0,
+      "n": 22
+    },
+    "vision_score_per_minute": {
+      "p25": 0.9,
+      "median": 1.1,
+      "p75": 1.3,
+      "n": 22
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 0.5,
+      "p75": 1.2,
+      "n": 22
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 0.8,
+      "median": 2.5,
+      "p75": 4.2,
+      "n": 22
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "n": 22
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 1.0,
+      "n": 22
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 560.0,
+      "median": 679.3,
+      "p75": 1050.7,
+      "n": 19
+    }
+  },
+  "note": "Master+ EUW Talon jungle. Quartiles over small n - treat as reference range, not law."
+}

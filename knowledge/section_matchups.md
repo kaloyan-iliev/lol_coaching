@@ -1,98 +1,162 @@
 ## Champion Matchups & Picks
 
-Understanding champion matchups and how they influence your jungle picks and in-game decisions is crucial for climbing the ranks. This section will guide you through building a versatile champion pool, leveraging matchup knowledge, and adapting your playstyle to your team's composition and win conditions.
+Mastering champion matchups and understanding team compositions are critical skills for any aspiring Challenger jungler. This section will equip you with the knowledge to build an effective champion pool, analyze drafts, counter-pick effectively, and adapt your playstyle to your team's and the enemy's strengths and weaknesses.
 
-### I. Draft Phase: Building Your Foundation
+### I. Champion Pool Management
 
-The game begins in champion select. Your choices here lay the groundwork for your entire strategy.
+A focused champion pool is paramount for consistent climbing.
 
-1.  **Communicate & Hover Your Pick:**
-    *   Always hover the champion you intend to play early in the draft. This allows your teammates to adjust their picks around you.
-    *   If you are an early pick, ask your laners what champions they plan to play (e.g., "AP or AD mid?", "What kind of bot lane?"). This helps ensure a balanced team composition.
+*   **Size Matters:** For players below Master tier, **limit your champion pool to 1-2 champions**. For higher ELOs, 2-3 champions are sufficient.
+*   **Why a Small Pool?** League of Legends is a habit-building game. A small champion pool allows you to:
+    *   **Master Mechanics:** Deeply understand your champion's limits, damage output, and optimal ability usage.
+    *   **Free Mental Stack:** Reduce the cognitive load of piloting a champion, allowing you to focus on macro-level decisions like jungle tracking, game plans, and objective control.
+    *   **Build Consistency:** Develop reliable clear paths, gank timings, and skirmish patterns.
+*   **Drafting with Your Pool:**
+    *   **Hover Your Pick:** Always hover your intended champion in draft. This signals your preference to your teammates, allowing them to adjust their picks to create a more balanced composition.
+    *   **Communicate:** Ask your teammates what champions they plan to play. This is especially crucial if you are an early pick.
+    *   **Balance Damage Types:** Aim for a balanced team composition (e.g., if your team is heavy AP, consider an AD jungler, and vice-versa). A two-trick pony (one AD, one AP) can offer this flexibility.
 
-2.  **Champion Pool Management:**
-    *   **Versatility is Key:** While being an "OTP" (One-Trick Pony) can be effective, it's highly recommended to have at least two champions in your pool. This allows you to adapt to your team's needs and counter-pick effectively.
-    *   **Team Composition Awareness:** Consider your team's overall composition:
-        *   **Damage Types (AD/AP):** Avoid having a team that is entirely AD or AP, as this makes it easy for enemies to stack resistances. Pick a champion that balances your team's damage profile.
-        *   **Crowd Control (CC):** Assess your team's CC. If your team lacks engage or CC, consider picking a jungler that can provide it.
-        *   **Win Condition:** Identify your team's primary win condition. Is it an early game snowball, a scaling late-game carry, or a strong teamfight composition? Your pick should align with this.
+### II. Understanding Champion Identity & Matchups
 
-3.  **Identify Your Team's Win Condition:**
-    *   Before the game starts, analyze both team compositions to determine where your team is strongest (e.g., "we win 3v2 bot lane," "our mid-laner scales harder").
-    *   This pre-game assessment dictates your initial pathing, gank priorities, and overall game plan.
+Every champion has a unique identity that dictates its optimal playstyle and interaction with other champions.
 
-### II. Champion Identity: Farm vs. Gank
+#### Your Champion's Identity
 
-Every jungler has a unique identity that dictates their optimal playstyle.
+*   **Farmers/Scalers (e.g., Kha'Zix pre-6, Lilia, Shyvana, Nasus, Udyr, Karthus):**
+    *   **Focus:** Prioritize farming your jungle camps, achieving optimal clear speeds, and preserving HP.
+    *   **Ganking:** Gank only for "free kills" (e.g., enemy laner overextended, enemy jungler spotted elsewhere, no vision). The success rate of pre-6 ganks is low, and dying is highly punishing.
+    *   **Role:** Primarily cover your lanes to prevent enemy ganks and scale to level 6 or item power spikes. Do not overforce ganks.
+*   **Early Gankers (e.g., Rek'Sai, Elise, Jarvan IV, Wukong, Lee Sin):**
+    *   **Focus:** These champions have high early game pressure and gank potential (often at level 2 or 3).
+    *   **Ganking:** While they have a higher gank success rate, they still don't *have* to gank if no clear opportunity arises. They can opt for specific camp routes (e.g., Red-Raptors-Gromp) to be ready for a gank, or full clear if lanes are safe.
+*   **Assassins (e.g., Rengar, Talon, Kha'Zix, Qiyana, Nidalee):**
+    *   **Focus:** These champions excel at picking off isolated targets and flanking.
+    *   **Teamfights:** Generally struggle in direct, front-to-back teamfights. Instead, look for opportunities to flank the enemy backline or make sideline picks to create a man advantage before a teamfight.
+    *   **Sidelaning:** Can be effective at sidelaning after clearing their jungle to create pressure and look for picks.
+*   **General Rule for All Junglers:** Always look for "free kills" if the opportunity arises. However, understand your champion's identity and the associated risk. Dying as a scaling jungler is far more punishing than as an early game ganker. Maintaining high tempo through fast, optimal clears and staying alive (high KDA) is crucial for all junglers.
 
-1.  **Farm-to-6 / "Free Kill" Junglers:**
-    *   **Examples:** Fiddlesticks, Kha'Zix (pre-6), Lillia (pre-6).
-    *   **Playstyle:** These champions have a low gank success rate before level 6 or without specific conditions.
-    *   **Gank Philosophy:** Only gank if it's a "free kill" – meaning the enemy laner is severely overextended, or the enemy jungler is visible elsewhere.
-    *   **Focus:** Prioritize efficient farming to reach your level 6 power spike. Lillia, for example, wants farm but has low gank success pre-6 due to a lack of hard CC.
+#### Lane Matchups
 
-2.  **Early Gankers (Level 2/3):**
-    *   **Examples:** Rek'Sai, Elise, Jarvan IV, Lee Sin, Xin Zhao.
-    *   **Playstyle:** These champions have a higher gank success rate early in the game.
-    *   **Gank Philosophy:** Look for early gank opportunities, but **do not overforce ganks**. If no clear opportunity arises (e.g., all lanes are playing safe), continue farming efficiently.
-    *   **Tempo:** Regardless of champion, maintaining high tempo (fast, optimal clear speeds, preserving HP) is paramount. Every second you save on your clear can create a crucial gank window.
+Analyze lane matchups during draft to inform your pathing and gank priorities.
 
-3.  **Staying Alive:**
-    *   **Impact of Death:** As a jungler, dying provides the enemy team with valuable information (your location), denies your camps, and puts you significantly behind in gold and experience.
-    *   **KDA Correlation:** Statistically, junglers with higher KDA (Kill/Death/Assist ratio) tend to be in higher ELOs, largely due to the importance of staying alive and maintaining map presence.
+*   **Lane Volatility:**
+    *   **High Volatility:** Lanes with significant crowd control (CC), ranged vs. melee matchups, or both laners taking Ignite are generally more volatile. These lanes often present easier gank opportunities because players are forced to play aggressively or are more susceptible to CC.
+    *   **Ranged vs. Melee:** The ranged champion often dictates the wave state. To gain a lead, they must play aggressively and push, making them vulnerable. A melee champion with CC on your team makes these lanes even more gankable.
+    *   **Melee vs. Melee (e.g., Riven vs. Darius):** These are often "fist-fight" lanes. If both have Ignite (no Teleport), prioritizing these lanes can be highly impactful, as a death can severely set a laner behind.
+*   **Scaling Lanes (e.g., Kassadin mid):**
+    *   **Focus:** These lanes win by default if they go even. They typically don't need ganks.
+    *   **Support:** If a scaling laner is losing, focus on covering potential dives or pushing waves to prevent them from falling too far behind, rather than forcing a gank. Do not waste resources on them.
+*   **Specific Matchup Considerations:**
+    *   **Shaco:** Weak level 1 due to reliance on boxes. Consider a level 1 invade on his raptors, especially with ranged laner support. Shaco players often start wolves to avoid this.
+    *   **Jarvan IV:** Can be very proactive and invade against slow-clearing junglers like Rengar.
+    *   **Nocturne vs. Jarvan IV:** As Nocturne, counter-ganking Jarvan is more effective than initiating ganks, as Jarvan's EQ combo is strong.
 
-### III. Matchup Knowledge & Jungle Tracking
+### III. Counter-Picking & Draft Strategy
 
-Effective jungle play requires constant awareness of both your and the enemy jungler's location and intentions.
+Your decisions in champion select set the stage for the entire game.
 
-1.  **Early Game Jungle Tracking:**
-    *   **Level 1 Warding:**
-        *   Place a ward at an enemy jungle entrance (e.g., Raptors, Blue buff entrance) after 1:00 to avoid it being swept.
-        *   If playing a ranged top laner (e.g., Jayce), you can walk up around 1:20 to check enemy buffs, harass, or delay their clear.
-        *   If you anticipate an invade on a major buff, place a ward and stand in the middle of the lane to see if they come. If they do, start your jungle on the opposite side.
-    *   **Leash Information:** Observe enemy laners' behavior (late arrival to lane, mana usage) to infer where the enemy jungler started their clear. Most players do not fake leashes.
-    *   **Jungler Types & Pathing:**
-        *   **Predictable Paths:** Understand common pathing for different junglers (e.g., Kayn often starts Raptors, Rek'Sai often starts Red buff).
-        *   **Lane Matchup Influence:** Predict enemy jungler's path based on lane volatility. If an enemy lane is highly volatile or easily gankable, the enemy jungler is likely to path towards it.
-    *   **Gank Timers:**
-        *   **Mid Lane:** Junglers typically finish their first three camps around 2:28-2:30. Add 5-7 seconds for travel time to mid lane.
-        *   **Side Lanes:** Expect ganks around 2:45 (for a solo clear) or slightly earlier (-5 seconds) if they received a leash.
-    *   **CS Counting:** Keep track of the enemy jungler's CS (2 CS per small camp, 4 CS per large camp, 1 CS per buff) to know which camps they've cleared and which are still available.
-    *   **Camp Respawn Timers:** Camps generally respawn around 4:20 (or 4:00 for solo Raptors). Use this to predict the enemy jungler's next clear or gank window.
+#### Pre-Game Analysis
 
-2.  **Wave States & Gank Opportunities:**
-    *   **Recognize Lane Volatility:** Before the game, identify which lanes are most likely to be volatile. This helps you decide when to full clear or skip camps to respond.
-    *   **Even Lane State:** If waves are even, laners with a ward and flash should generally be safe, provided they don't over-commit. Ganking here might force flashes but not necessarily kills.
-    *   **Slow Push (towards enemy tower):** This is a prime gank opportunity. Enemy laners will often refuse to give up CS, forcing them to walk up into a vulnerable position.
-    *   **Bounce (towards your tower):** Your laners can farm safely under their tower. Assess if they can be dived. If not, you can continue farming. If they are diveable, cover them, even if it means skipping camps.
-    *   **Think Ahead:** Always think 30-60 seconds ahead about wave states. Anticipate when your laners will need your presence.
-    *   **Ping Aggressively:** If you see a vulnerable wave state, ping your laner directly on their minion wave (or in their face) to ensure they see it and play safe.
+Before the game even starts, use the loading screen and draft information to formulate a game plan:
 
-3.  **Playing Against Invades:**
-    *   **Level 1 Invaders (e.g., Bel'Veth, Karthus, Lee Sin):**
-        *   Ward your jungle entrance.
-        *   If you see them, start your jungle on the opposite side.
-        *   Ask laners for help to harass or cover.
-    *   **Level 2 Invaders (e.g., Lillia, Graves):**
-        *   If the enemy jungler can clear Raptors into your Blue buff (e.g., if you're red side and they're blue side), ward your Blue buff.
-        *   Consider a safe pathing like Blue-Wolves, then check Gromp (smite Blue for HP). This allows you to react if they invade.
-    *   **Level 3 Invaders (e.g., Kindred, Viego):**
-        *   Ward the camp you expect them to invade.
-        *   Clear your other camps first. Even if you lose the invaded camp, you save the rest of your jungle.
-        *   Be prepared to give up a buff rather than dying or losing multiple camps.
-    *   **Laner Harass:** Be aware that enemy laners (e.g., Fiora) might walk into your jungle level 1 to harass. Ask your laner for assistance.
+1.  **Team Compositions:**
+    *   **2v2, 3v3, 4v4 Strength:** Assess your team's skirmishing power at different stages (early game, after level 6).
+    *   **Teamfight vs. Sidelane Focus:** Does your team excel in grouped teamfights (e.g., tanks, engage, AoE damage) or split-pushing and sideline picks (e.g., assassins, strong duelists)?
+    *   **Tank vs. Carry Balance:** A team with a tank and a carry often wins teamfights due to a stronger front-to-back dynamic. If your team lacks tanks, you might need to rely on good positioning or sideline plays.
+2.  **Enemy Threats:**
+    *   Identify dangerous enemy abilities (e.g., Azir's E, Soraka's silence) that can disrupt your ganks or fights.
+    *   Consider the enemy jungler's strength and likely pathing.
 
-### IV. Mid-Game & Objective Play: The "What, How, When" Concept
+#### Invading & Counter-Jungling
 
-As the game progresses, your understanding of champion matchups and team compositions shifts to objective control.
+Knowing when and how to invade the enemy jungle can create significant advantages.
 
-1.  **The "What, How, When" Framework:**
-    *   Constantly ask yourself: "What are we playing for?" (objective, specific teammate), "How are we playing for it?" (strategy), and "When are we playing for it?" (which wave, after which camps).
-    *   This framework should be re-evaluated after every kill, death, objective, or base.
+*   **Level 1 Invaders (e.g., Bel'Veth, Karthus, Nidalee):**
+    *   **Defense:** Place a ward at your jungle entrance (e.g., raptors) around 1:00. If you spot the enemy, consider starting on the opposite side of your jungle.
+    *   **Offense:** If your team has strong level 1 (e.g., ranged laners), consider invading the enemy's raptors.
+    *   **Laner Support:** Always ask your laners for help if you plan to invade or expect an invade.
+*   **Level 2 Invaders (e.g., Rek'Sai, Elise):**
+    *   **Defense (Red Side):** If you're on red side and the enemy jungler can clear Raptors into your blue buff, place a ward at your blue. Consider starting bot side or doing Raptors into your bot side camps to avoid the invade.
+*   **Level 3 Invaders (e.g., Kindred, Viego):**
+    *   **Defense:** If you anticipate a level 3 invade (e.g., on your red buff), clear your red/raptors/gromp, then move to your golems. If they take your red, you still have other camps up, minimizing the loss.
+*   **General Invade Principles:**
+    *   **Press Advantage:** If you successfully invade, continue to full clear the enemy jungle to maximize your gold and XP lead. Avoid random ganks that could waste your tempo.
+    *   **Laner Priority:** Successful invades often require your adjacent laners to have priority (pushed waves) so they can rotate and assist if a fight breaks out.
+    *   **Camp Timers:** Track enemy camp respawn timers (roughly 2 minutes 15 seconds after being cleared) to plan subsequent invades.
 
-2.  **Mid Lane Priority:**
-    *   After 14 minutes, mid lane priority is paramount because the mid wave travels faster.
-    *   Always aim to secure mid lane push first. If your mid lane is losing, translate pressure from a side lane into mid lane.
+### IV. Team Composition Awareness & Win Conditions
 
-3.  **Objective Contestation & Trading:**
-    *   **Strength Check:** Approximately 1:30 before an objective spawns, assess if your team is strong enough to fight
+Understanding your team's overall strategy and how to achieve victory is crucial.
+
+#### The "What, How, When" Framework (KireiLoL)
+
+This framework helps you make decisive macro plays:
+
+*   **What are you playing for?**
+    *   **Objective:** Dragon, Baron, Herald, or a specific tower.
+    *   **Teammate:** Identify your strongest laner (your "win condition") and play around them.
+    *   **Mid Priority:** After 14 minutes, mid lane priority is paramount. Control mid wave to dictate map movement. If your mid laner is losing, focus on generating pressure in a side lane and then translating that pressure to mid.
+*   **How are you playing for it?**
+    *   **Secure Mid Push:** Almost always secure mid lane push *before* attempting an objective like Herald or Baron. This prevents the enemy from collapsing on you.
+    *   **Ping-Pong Strategy:** Push one lane (e.g., mid), then rotate to push another (e.g., top or bot). This forces the enemy to respond, creating openings elsewhere.
+    *   **Vision Control:** Clear enemy wards, place your own pinks, and use blue trinkets to deny vision around objectives. Bait enemy face checks by hiding just outside vision.
+*   **When are you playing for it?**
+    *   **Triggers:** After a kill, a death, securing an objective, or returning to base. These moments create windows of opportunity.
+    *   **Basing on Fresh Waves:** After taking an objective or tower, base when fresh waves are spawning (around 60/40 split in your favor). This ensures you return to the map with item advantage and tempo, ready to contest the next objective.
+    *   **Cooldowns:** Be aware of your team's and the enemy's ultimate and summoner spell cooldowns, especially around objectives. Avoid using your ultimate right before an objective if it's not a guaranteed kill.
+
+#### Objective Play
+
+*   **Fight or Trade:** If your team is weaker, don't force a fight for an objective. Instead, look to trade it for another advantage on the opposite side of the map (e.g., give Dragon for top tower). Use your win condition on the side lane opposite the objective.
+*   **Herald:** If the mid tower is still standing, prioritize Herald. It's a powerful tool to break mid tower, which opens up the entire map.
+*   **Baron:**
+    *   **Team Communication:** Each laner should communicate their tempo status (e.g., "I have mid push," "I need to base").
+    *   **Vision Control:** Clear all enemy vision around Baron. Place pink wards.
+    *   **Baiting:** Use the Baron to bait enemies into unfavorable fights. Hit Baron for a few seconds, then hide in bushes to ambush face-checking enemies.
+    *   **Clear Speed:** Practice how quickly your team can take Baron (typically 14-20 seconds with good DPS).
+
+#### Playing from Behind
+
+Even with losing lanes, games are winnable.
+
+*   **Farm Up:** Focus on consistently clearing your jungle camps to gain gold and XP.
+*   **Scale:** Prioritize reaching your item power spikes and ultimate cooldowns.
+*   **Cross-Map Plays:** If you cannot contest an objective (e.g., enemy is stronger at Dragon), look for an advantage on the opposite side of the map (e.g., take enemy top camps, gank top).
+*   **Don't Surrender:** Maintain a positive mentality. Many games are thrown, and scaling champions can turn the tide late.
+
+#### Communication
+
+Effective communication is vital for coordinating plays and preventing mistakes.
+
+*   **Ping Laners:** Proactively ping your laners to play safe if you are not nearby or if the enemy jungler is likely to gank their lane.
+*   **"In Their Face" Pings:** When a laner is focused on trading or farming, a ping directly on their minion wave is more likely to be seen than a ping far away on the minimap.
+*   **Direction:** Give your team clear directions (e.g., "Push mid," "Group Baron").
+
+### V. Jungle Tracking & Tempo
+
+Knowing where the enemy jungler is (or is likely to be) is a fundamental skill.
+
+*   **Level 1 Information:**
+    *   **Warding:** Place a ward at an enemy buff entrance around 1:00 to spot their start.
+    *   **Leashes:** Observe which enemy laners give a leash (come to lane late or with low HP/mana) to deduce the enemy jungler's starting camp.
+*   **Jungle Types & Pathing:** Predict likely enemy pathing based on their champion's identity (e.g., Kayn often starts Raptors, Rek'Sai rarely starts Red).
+*   **Gank Timers:**
+    *   **Mid Lane:** Enemy junglers typically finish their first three camps around 2:28-2:30. Add 5-7 seconds for travel time to mid lane.
+    *   **Side Lanes:** Ganks usually occur around 2:45, potentially -5 seconds if they received a strong leash.
+*   **CS Counting:** Observe the enemy jungler's CS score (by pressing Tab) to estimate how many camps they have cleared and which camps might still be up.
+*   **Wave States (Enemy POV):** Put yourself in the enemy jungler's shoes. Which of your lanes are vulnerable due to their wave state (slow pushing towards enemy, bouncing back to your tower)? This indicates where the enemy jungler is likely to path.
+*   **Tempo:** Maintain high tempo through fast, efficient clears. Every second saved on clearing camps means more time for ganks, invades, or objective control. Staying alive is crucial, as dying severely impacts your tempo.
+
+### Common Mistakes
+
+*   **Champion Pool Overload:** Playing too many champions, hindering mastery and mental stack.
+*   **Lack of Draft Communication:** Not hovering your pick or asking teammates about their choices, leading to unbalanced comps.
+*   **Ignoring Champion Identity:** Forcing ganks on scaling champions or attempting teamfights as an assassin.
+*   **Poor Objective Prioritization:** Starting Herald without mid priority or fighting for objectives when significantly weaker.
+*   **Not Basing Effectively:** Failing to base on "fresh waves" after a play, losing tempo and item advantage.
+*   **Blaming Teammates:** Focusing on others' mistakes instead of self-reflection and improvement.
+*   **Neglecting Game Review:** Not analyzing your deaths or identifying macro/micro mistakes.
+*   **Mental Weakness:** Not muting chat/pings, or following bad calls from teammates due to fear of blame.
+*   **Blind Ganking:** Attempting ganks without vision, knowing enemy summoner spells, or understanding wave states.
+*   **Wasting Resources:** Ganking scaling lanes that don't need help, or using ultimate right before an objective without a guaranteed kill.
+*   **Passive Invading:** Invading without a clear plan

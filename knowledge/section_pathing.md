@@ -1,183 +1,174 @@
 ## Pathing & Routing
 
-Effective pathing and routing in the jungle are critical for consistent success, allowing you to maximize your impact across all stages of the game. This guide synthesizes core strategies, decision-making frameworks, and practical tips for optimal jungle pathing.
+This section of *The Jungle Bible* covers the core mechanics of early-game routing, win condition identification, tempo management, and adaptive pathing. To climb to Challenger, you must transition from emotional, reactive pathing to structured, information-driven decision-making.
 
-### I. Pre-Game & Early Game Pathing (Draft to First Clear)
+---
 
-#### 1. Identifying Win Conditions & Game Plan
-Your pathing starts in champion select.
-*   **Draft Analysis:**
-    *   **Team Composition:** Understand your team's strengths and weaknesses (e.g., full AD/AP, lack of CC). Hover your champion early so teammates can adjust.
-    *   **Lane Matchups:** Identify lane volatility (who wins/loses, who has push, ignite vs. teleport).
-        *   **Range vs. Range:** Volatile. Path towards the lane with push, as the one not pushing properly will die.
-        *   **Melee vs. Range:** Volatile.
-        *   **Ignite vs. Ignite:** Very volatile, path top side if both have ignite, as a bad trade can put them out of the game.
-    *   **Win Condition:** Determine which lane(s) are your primary win condition (e.g., a strong scaling ADC, a snowballing mid laner). This dictates where you want to focus your resources.
-*   **Champion Identity:**
-    *   **Farm-to-6 Junglers (e.g., Fiddlesticks):** Prioritize farming to reach level 6. Only gank if it's a "free kill" (enemy jungler not around, laner overextended). Your job is to cover, not force ganks.
-    *   **Level 2/3 Gankers (e.g., Rek'Sai, Elise):** These champions have a higher chance of successful early ganks. However, don't force ganks if no opportunities arise; farming is still valuable.
-    *   **Farm-but-can-gank (e.g., Lilia):** Can gank, but success rate pre-6 is lower due to less CC.
-*   **High Tempo:** Regardless of champion, prioritize high tempo. Faster clear speeds, optimal routes, and HP preservation allow you to be on the map more, capitalize on enemy mistakes, and secure free kills.
+## 1. Early-Game Routing & Win Condition Identification
 
-#### 2. First Clear & Initial Pathing
-*   **Ward Level 1:** Always try to ward the enemy jungle entrance or buff at ~1:00 to spot their start. If you have a ranged top laner, they can check the enemy blue buff around 1:20 to harass and spot the jungler.
-*   **Leash & Enemy Start:** Pay attention to which lane gives the leash. If a lane comes to lane very late or uses summoners, the enemy jungler likely started on that side.
-*   **3-Camp vs. Full Clear:**
-    *   **Volatile Lanes:** If a lane is highly volatile, consider a 3-camp clear (e.g., Red-Krugs-Raptors or Blue-Gromp-Wolves) to reach level 3 quickly and be ready for a gank.
-    *   **Safe Lanes:** If lanes are safe, a full clear is generally more efficient for gold and XP.
-*   **Pathing Direction:**
-    *   **Top-to-Bot or Bot-to-Top:** Plan your clear to end on the side of your primary win condition. For example, if bot lane is your win condition, clear top-to-bot so you are on the bot side of the map when your camps respawn. This allows you to skip bot-side camps to respond to a fight without losing top-side camps to an invade.
-    *   **Adapting:** Be ready to adapt. If you planned top-to-bot but see a clear gank opportunity mid, take it.
+Your route planning begins in the draft phase, not at the 0:00 mark. You must actively analyze team compositions to establish your early-game pathing.
 
-#### 3. Invading & Counter-Invading
-*   **Level 1 Invades:**
-    *   **Conditions:** If your team has more range or strong level 1 champions (e.g., Kaisa, Samira, Nautilus), consider a level 1 invade.
-    *   **Execution:** Ping the enemy tower to encourage your laners to push, then ping where you are going, and finally ping assistance in your laners' faces.
-    *   **Exit Plan:** Always have an exit plan. If your mid lane has priority, you can run through mid lane to escape. This is the "bulldoze concept" – pushing one side to prevent collapses.
-*   **Level 2/3 Invades:**
-    *   **Invader Types:** Champions like Nidalee, Elise, Kha'Zix can invade early.
-    *   **Countering:**
-        *   **Ward Entrances:** Place wards at jungle entrances (e.g., your blue buff if you suspect a red-to-blue invade).
-        *   **Safe Clear:** If you suspect an invade, adjust your clear. For example, if you're red side and the enemy can do Raptors into your blue, start blue buff, then wolves (instead of Gromp) to be safe. Check Gromp after.
-        *   **Give Up Camps:** If you are a weak early jungler and the enemy invades, sometimes it's better to give up a camp (e.g., your red buff) and take their opposite side camps (e.g., their Golems) to minimize losses.
-        *   **Match Tempo:** If the enemy jungler invades, they are down tempo on their side of the map. Use this opportunity to take their camps or make a play on the opposite side.
-*   **Level 5/6 Invades (Mid-Game):**
-    *   **Planning:** Around the 6-minute mark, start planning for enemy camp respawns (usually 6:50-7:00 for buffs). Clear your camps, base for items, and then invade.
-    *   **Conditions:** You need to be ahead and have lane priority to invade safely.
+### Draft & Hovering
+*   **Hover Your Champion:** Always hover your intended champion in draft so your team can adjust their picks to balance damage types (AP/AD) and crowd control (CC).
+*   **Communicate Early:** If you are picking early, ask your laners what they want to play. Avoid picking farm-heavy AP junglers (e.g., Karthus) if your mid laner is picking a low-priority, scaling AP champion.
 
-### II. Mid-Game & Objective Pathing
+### Identifying Lane Volatility
+Before the game starts, categorize your lanes to determine your pathing direction:
+*   **Ranged vs. Ranged Matchups:** Highly volatile. One side will secure the push and poke the other down. Path towards these lanes to secure their push or protect them from dives.
+*   **Ignite vs. Ignite Solo Lanes:** Giga-volatile. If both top laners run Ignite (e.g., Riven vs. Darius), path top. A single bad trade without Teleport will completely put a laner out of the game.
+*   **Teleport Lanes:** Less volatile. If laners have Teleport, they can recover from a bad trade, allowing you to deprioritize pathing to them early.
+*   **The Weak Side to Strong Side Rule:** As a default game plan, clear from your weak-side quadrant (the lane that is safe, has TP, or cannot easily set up ganks) to your strong-side quadrant (volatile lanes, high setup, or your primary win condition).
 
-#### 1. The "Ping-Pong" Strategy (Mid-Game)
-*   **Concept:** Use a winning lane (usually mid) to gain man advantage and rotate to another lane or objective. The lane that receives the "ball" (pressure) then pushes it back.
-*   **Conditions:**
-    *   One winning lane that can push the wave and move with the jungler.
-    *   Jungler clears camps, then moves with the winning laner.
-*   **Execution:**
-    *   **Identify Winning Lane:** Prioritize playing through mid lane after 14 minutes due to faster waves.
-    *   **Jungler Movement:** Don't show in the winning lane too early. Stay hidden in the river or jungle until your laner secures the wave.
-    *   **Laner's Role:** The winning laner's job is to push the wave quickly ("gating") and then move with the jungler. Losing side laners should play safe until the rotation.
-    *   **Man Advantage:** This creates a +1 situation for objectives, towers, or invades.
-    *   **Deep Vision:** Crucial for knowing where the enemy is covering, allowing you to switch lanes (e.g., if they cover top, you can go mid).
+---
 
-#### 2. Baron & Dragon Usage
-*   **Pre-Objective:**
-    *   **Base for Items:** Always base before an objective (Drake, Herald, Baron) to get your power spike items and be as strong as possible.
-    *   **Clear Weak Side:** Clear your weak side camps (e.g., top side if playing for bot side objective) before going to the objective. This prevents the enemy from counter-jungling you.
-*   **Post-Objective (Baron):**
-    *   **Identify Target Tower:** Usually a side lane tower is safer to siege than mid lane (less collapse risk).
-    *   **Tempo:**
-        *   **Ahead in Tempo:** Send one person mid, and the jungler + support go through the jungle to the target side lane. Stay "in between" the lanes. Once the mid wave is secured, rotate to the side lane.
-        *   **Behind in Tempo:** Group mid lane together and wait for your laners to return. Don't face-check the jungle.
-    *   **Grouping:** Group with your tank if you have one for safer sieging.
-    *   **Pinging:** Ping your side laners to play safe until you arrive.
-    *   **Vision:** Baron buff provides vision, which can be used to gain man advantage.
+## 2. Level 1 & Level 3 Invade Strategies
 
-#### 3. Adapting to Game State
-*   **Losing Lanes:**
-    *   **Don't Force:** Avoid desperate plays. Farm up and wait for better opportunities.
-    *   **Defensive Play:** Cover slow pushes, cover dives, and wait for your laners to base and return to full HP.
-    *   **Ping-Pong:** Even with losing lanes, if one laner has tempo, use it to create man advantage.
-    *   **Don't Trade Kills:** Avoid trading kills (especially 1-for-1 or 2-for-1) as it loses pressure and momentum, making it harder to carry.
-*   **Winning Lanes:**
-    *   **Trust:** Trust your winning laners to play aggressively.
-    *   **Cover:** Be ready to counter-gank or cover them if the enemy jungler tries to shut them down.
-    *   **Prioritize:** Stick to your game plan and win condition. Don't get baited into helping a losing lane if your winning lane is thriving.
+Invading is one of the most effective ways to disrupt the enemy jungler's tempo and protect your volatile lanes from early cheese.
 
-### III. Ganking & Skirmishing
+### Level 1 Invades
+Identify if your team has a stronger Level 1 (e.g., high range, CC like Nautilus/Ezreal). If so, look to split the map or invade.
+*   **The Shaco Box Counter:** Shaco must place his first box at 0:50. To shut him down, walk into his raptor entrance as a 5-man unit with a Sweeper between **0:55 and 1:00**. Sweep and clear his boxes. This ruins his boxes, forces him to start a different camp with zero setup, and completely breaks his early tempo. *Note: If your laners are AFK or refuse to move, do not force this play.*
+*   **Targeting Weak Level 1 Junglers:** Junglers like Elise, Jarvan IV, and Rengar have incredibly weak Level 1 clears. If you are playing an AFK-clearing champion (e.g., Udyr or Karthus), invading their Raptors level 1 throws them off their sequence and prevents them from cheese-ganking your volatile lanes.
 
-#### 1. Gank Conditions
-*   **Wave State:**
-    *   **Slow Push:** Wave is pushing slowly towards the enemy tower. This creates a large wave that the enemy will be forced to farm, making them vulnerable.
-    *   **Neutral Wave:** Wave is in the middle. Gankable if enemy overextends.
-    *   **Bouncing Wave:** Wave is pushing towards your tower, then will bounce back. This gives you a window (approx. 1 minute) to gank as the wave will eventually crash.
-    *   **Crashing Wave (Cannon Wave):** A large wave, especially a cannon wave, crashing into the enemy tower forces them to farm it, creating a dive opportunity.
-*   **Enemy Vision:** Check the minimap for enemy wards. If no wards are present, you have a higher chance of success. If wards are present, adjust your pathing to avoid them.
-*   **Crowd Control (CC):**
-    *   **Your Team:** More CC increases gank success. The CC-heavy laner should generally initiate the gank to keep the enemy deep in lane, allowing you to deal more damage.
-    *   **Enemy Team:** Be aware of enemy CC and summoner spells (Flash, Exhaust) that can negate your gank. Don't gank if they can easily escape.
-*   **Damage Output:** Your damage + laner's damage must be enough to secure the kill. Consider how long the enemy will be exposed to damage before reaching their tower.
-*   **Summoner Spells:** Track enemy Flash/Heal/Exhaust. Ganking a laner without Flash is much more likely to succeed.
+### Level 3 Invades
+To execute a Level 3 invade, you need a winning 1v1 jungle matchup and at least one pushing lane (ideally mid).
+*   **The Sequence:** Clear three camps (e.g., Red buff $\rightarrow$ Raptors $\rightarrow$ Gromp) to hit Level 3 quickly, then cross into the enemy jungle.
+*   **The "Bulldoze" Concept:** When invading, always plan your exit path through your pushing lane. If the enemy tries to collapse on you, run directly toward your pushing laner. This creates a 2v2 or 3v2 sandwich in your favor, neutralizing the enemy's collapse.
+*   **Invasion Communication Protocol:**
+    1.  Spam-ping the enemy tower in your laner's lane (signals them to push the wave).
+    2.  Ping "On My Way" to the exact enemy camp you are invading.
+    3.  Ping "Assist Me" directly in your laner's face on their screen so they do not tunnel-vision on CS.
+*   **Dancing with the Enemy:** If the enemy jungler or laners move toward you while you are invading, do not panic. "Dance" with them—stay just out of engage range to waste their time. This delays them while your laners crash their waves and rotate to secure a numbers advantage. If your laners refuse to move, accept the loss and exit immediately.
 
-#### 2. Gank Pathing & Timers
-*   **Gank Pathing:**
-    *   **Avoid Vision:** Walk on the edges of walls and around common ward spots (e.g., river bushes, tri-bush) to avoid being seen.
-    *   **Cut Escape Paths:** When ganking, run *behind* the enemy laner, cutting off their escape route to their tower. Don't run directly at them, as they will simply walk away.
-    *   **Over-the-Wall:** Use jump abilities (e.g., Elise E, Kha'Zix E) to gank from unexpected angles over walls.
-*   **Gank Timers:**
-    *   **Optimal Timing:** Gank when the enemy laner is going for a last hit. They will be focused on CS and less likely to look at the minimap.
-    *   **Early Game Timers:**
-        *   **Mid Lane:** Junglers usually finish camps and can be mid around **2:28-2:30**.
-        *   **Side Lanes:** Junglers can be in side lanes around **2:45**.
-    *   **Camp Respawn Timers:** Camps generally respawn around **4:20** (or 4:00 if Raptors are solo-cleared). Use this to predict enemy jungler's next location.
-*   **Pinging Effectively:**
-    *   **Don't Ping Too Early:** Avoid pinging "on the way" when you are far from the lane. This warns the enemy and makes them play safe.
-    *   **Ping in Their Face:** Ping "assistance" directly on enemy minions or in the laner's face when you are close and ready to commit. This grabs their attention immediately.
-    *   **Ping Cautions:** Ping "careful" to your laners if you are on the opposite side of the map or know the enemy jungler is nearby.
+---
 
-#### 3. Skirmish Concepts
-*   **Target Focus:** In early game skirmishes, prioritize focusing the enemy ADC or jungler. Supports often do less damage and are less impactful to kill first.
-*   **Counter-Ganks:**
-    *   **Jungler Strength:** Junglers are often the most powerful champions in early game skirmishes. If you get counter-ganked, you will likely lose if you focused the wrong target.
-    *   **Predicting:** Use jungle tracking and wave states to predict where the enemy jungler might counter-gank. Hover nearby to turn the fight.
+## 3. Tempo, Camp Sequencing, and Base Timings
 
-### IV. Macro Decision Making
+Tempo is the rate at which you acquire gold and XP relative to the game clock. Managing it requires strict discipline regarding camp spawns and base timers.
 
-#### 1. Base Timers
-*   **When to Base:**
-    1.  **Low HP:** If you are low on health and cannot take a fight, base.
-    2.  **Item Power Spike:** Base when you have enough gold for a significant item power spike (e.g., Hexdrinker, Kraken Slayer).
-    3.  **Camps Far Away:** If your next set of camps is far away (e.g., you ganked bot lane on red side and your blue buff is up), it's more time-efficient to base, buy items, and then path to your camps. Running across the map takes 15-17 seconds, which is often less efficient than basing.
-    4.  **Pathing to Win Condition:** Sometimes you need to base to reset your pathing to your win condition (e.g., if you want to play bot side, base and then clear top-to-bot).
-    5.  **Before Objective Spawns:** Always base before a major objective (Drake, Herald, Baron) to be at full strength.
-*   **Impact:** Good base timers ensure you are always at optimal strength and available for fights, increasing your chances of winning skirmishes and objectives.
+### "Camps Up" vs. "Camps Down" Framework
+This framework dictates the risk profile of every play you make:
 
-#### 2. The "What & When" Concept
-*   **Framework:** Always ask yourself: "What am I playing for?" and "When am I playing for it?"
-*   **After a Play:** After a gank, kill, or objective, you are often "down tempo" (enemy jungler has an opportunity).
-    *   **Identify Next Goal:** What is the next objective, tower, or lane you want to impact?
-    *   **Assess Tempo:** Are you down tempo? Can the enemy jungler make a play on the opposite side?
-    *   **Cover or Farm:** If your laners are vulnerable, cover them. If they are safe, use the down tempo time to farm your camps.
-    *   **Ping:** Ping your laners to play safe if you cannot match the enemy jungler's potential play.
-*   **Game Plan:** Stick to your game plan. Don't get distracted by tempting but risky plays that deviate from your primary win condition.
+```
+                     Is your jungle clear alive?
+                                  │
+                 ┌────────────────┴────────────────┐
+                 ▼                                 ▼
+             [CAMPS UP]                       [CAMPS DOWN]
+                 │                                 │
+        Make ONLY 90%+ plays              Make lower % plays
+     (Guaranteed kills, free objectives)  (Sweep, burn flashes, show presence)
+                 │                                 │
+                 ▼                                 ▼
+       Maintain strict tempo             Use "spare tempo" / "free time"
+```
 
-#### 3. Jungle Tracking
-*   **Information Gathering:**
-    *   **Level 1 Wards/Leash:** As above, crucial for initial tracking.
-    *   **Jungle Type/Identity:** Understand common clear paths and gank timings for different enemy junglers (e.g., Kayn often starts Raptors, Rek'Sai often starts Red).
-    *   **Gank Timers:** Know the approximate times junglers can be in lanes (2:28 mid, 2:45 side).
-    *   **Counting CS:** Estimate how many camps the enemy jungler has taken by looking at their CS score. This tells you which camps might still be up or where they might be heading.
-    *   **Wave States:** Crucial for predicting enemy jungler movement. The enemy jungler will look for ganks on lanes with favorable wave states (e.g., slow push towards their tower, or a bouncing wave).
-*   **Execution:**
-    *   **Mini-Map Awareness:** Constantly check the minimap.
-    *   **Ping Laners:** Use pings to warn your laners about potential ganks, especially if you identify the enemy jungler's likely path. Ping directly in their face for maximum impact.
-    *   **Start with One Lane:** If new to tracking, focus on tracking one lane (e.g., your win condition lane) first. Once comfortable, expand to mid, then all lanes.
+*   **Camps Up (High-Tempo State):** Your camps are spawning or alive. You must prioritize clearing. Only deviate for **90%+ guaranteed plays** (e.g., an enemy with no flash, low HP, locked under tower, or free objectives). Forcing a low-percentage play here puts you in "tempo debt."
+*   **Camps Down (Spare Tempo / Free Time):** Your camps are cleared and on cooldown. You are playing on "free time." You can make lower-percentage plays (e.g., showing lane presence, sweeping vision, or burning an enemy's flash) because you are not losing camp efficiency.
 
-#### 4. Carrying Losing Lanes
-*   **Prioritize Survival:** Your survival is paramount. If you die, your losing lanes will be even more vulnerable.
-*   **Don't Force Fights:** Avoid fighting objectives you can't win or taking desperate, risky fights.
-*   **Defensive Pathing:**
-    *   **Cover Slow Pushes:** If a losing lane has a slow push building, hover nearby to prevent a dive and help them secure the wave.
-    *   **Cover Dives:** Be ready to counter-dive if the enemy tries to dive your losing laners.
-    *   **Wait for Base:** Encourage losing laners to base and return to full HP/items before trying to help them.
-*   **Man Advantage:** Use the "ping-pong" strategy to create man advantage even with losing lanes. If one laner has a temporary push, use that to rotate and create a numbers advantage elsewhere.
+### Clear Min-Maxing
+*   **Pulling and Leashing:** Always pull camps toward your next destination. Use the camp's patience/leash range to finish the camp with your pet's burn or final autos while already walking toward the next camp. Failing to kite camps costs up to 20–25 seconds over a full clear.
+*   **Character Control:** Keep your cursor clicked close to your champion model for precise movement and pathing. Use F-keys to pan your camera and gather information on lane states while your champion is auto-attacking camps.
+
+### Base Timings & Efficiency
+*   **The Travel Time Rule:** Running across the map is highly inefficient. 
+    *   Running from bot lane to your blue buff quadrant takes **15–16 seconds**.
+    *   Running from the enemy Gromp to your own Krugs takes **17 seconds**.
+    *   Instead of walking across the map with gold in your pocket, **base, buy your item power spike, and run straight to your spawning quadrant**. This is far more time-efficient and keeps your combat power high.
+*   **Pre-Objective Basing:** Always base **30–40 seconds before an objective spawns** (Dragon or Herald/Grubs) to spend your gold. Fighting an objective skirmish with unspent gold means you are fighting at a stat disadvantage.
+*   **Sequencing for Win Conditions:** If your win condition is bot lane, path **Top-to-Bot**. Clear your top quadrant first, then move bot. If a fight breaks out bot, you can skip your bot camps to join the fight. Because your top camps are already cleared, the enemy jungler cannot counter-gank or counter-jungle your top side while you are stuck bot.
+
+---
+
+## 4. Ganking Mechanics & Wave States
+
+Ganking is not about forcing plays; it is about reading wave states and punishing enemy animations.
+
+### Gank Timings & Windows
+*   **Standard Clear Timings:** Most junglers finish a standard 3-camp clear at **2:28**.
+*   **Mid Lane Window:** It takes 5–7 seconds to walk from a side camp to mid. The mid-lane gank window opens between **2:33 and 2:35**.
+*   **Side Lane Window:** The side-lane gank window opens around **2:45** (or **2:40** if you received a leash).
+*   **CS/Cannon Baiting:** Laners cannot resist last-hitting cannon minions. Time your gank to initiate the exact second a cannon minion becomes low on HP. The enemy laner will lock themselves into their auto-attack or spell animation to secure the gold, preventing them from reacting to your approach or looking at their minimap.
+
+### Positioning & Pincering
+*   **Straight-Line Pathing:** When ganking from behind, do not run directly at the enemy champion. Run in a straight line toward their escape path (their tower). Cut off their angle of retreat first, forcing them to walk into you or your laner.
+*   **Pincering Against Walls:** Wait outside of vision until the enemy walks forward. Pincer them against the terrain/walls. When champions are squeezed against walls, their movement options are restricted, making skillshots (e.g., Ahri charm, Elise cocoon, or Jarvan EQ) nearly impossible to dodge.
+
+### Gank Communication
+*   **Do Not Early-Ping:** Never spam-ping "On My Way" when you are still far away in the river or jungle. Your laner will instinctively alter their movement, walk up, and telegraph the gank to the enemy. Only ping when you are immediately entering their screen.
+
+---
+
+## 5. Mid-Game Macro & Objective Routing
+
+In the mid-game, your pathing must transition from clearing camps to manipulating map pressure through lane priority.
+
+### The "Ping-Pong" Strategy
+This is a fundamental mid-game macro concept used to create a permanent +1 man advantage on the map.
+
+```
+                  [Clear Your Camps First]
+                             │
+                             ▼
+             [Identify Your Winning Lane (e.g., Mid)]
+                             │
+                             ▼
+             [Push Wave with Winning Laner]
+                             │
+                             ▼
+       ┌─────────────────────┴─────────────────────┐
+       ▼                                           ▼
+[Rotate to Side Lane]                     [Invade Enemy Jungle]
+(Create +1 Man Advantage)                 (Secure Deep Vision)
+```
+
+1.  **Clear Your Camps First:** You must clear your own jungle so you do not have to retreat to farm.
+2.  **Identify Your Winning Lane:** Find the laner who is ahead and can easily push their wave (ideally your mid laner).
+3.  **Push and Move:** Help that laner push their wave. Once the wave is crashed, move together into the enemy jungle or toward a side lane.
+4.  **Permanent +1:** Because your mid wave is pushed, the enemy mid laner is stuck under tower clearing. Your rotation to the side lane or enemy jungle guarantees a man advantage (+1).
+5.  **Use Deep Vision:** Place deep wards during this rotation. If the enemy rotates to cover the side lane, ping-pong back to dive mid. If they stay mid, dive the side lane.
+
+### Baron Usage & Sieging
+When you secure Baron, apply these routing rules:
+*   **Identify the Target Tower:** Play for side lane towers rather than mid lane. Sieging mid lane allows the enemy to collapse on you from multiple angles in their jungle. Sieging a side lane limits their collapse angles, making the siege much safer for your carries.
+*   **Group with the Tank:** Carries cannot hit towers without a frontline. Group with your tank so they can zone the enemy while your carries siege.
+*   **The In-Between Position (Ahead in Tempo):** If you are ahead in tempo, send one side-laner to push, and have the jungler + support position "in-between" the mid lane and the active side lane in the enemy jungle. This allows you to quickly rotate and collapse if the enemy tries to catch your side-laner.
+*   **Equalizing Tempo (Behind in Tempo):** If you secure Baron but are low or have dead teammates, **do not force a siege**. Play patient, clear your camps, wait for your team to regroup, and equalize tempo before pushing.
+
+---
+
+## 6. Jungle Tracking Fundamentals
+
+Tracking the enemy jungler allows you to warn your laners and make cross-map plays.
+
+### Fog of War Tracking
+*   **The Last-Second Pivot:** Watch the enemy jungler on the minimap right before they enter the fog of war. Good players will click in one direction to bait you, but their final frame of movement will reveal their true destination (e.g., pivoting toward Dragon or a camp).
+*   **Buff & CS Tracking:** Every jungle camp is worth **4 CS**.
+    *   If the enemy jungler shows with **16 CS** and has Red Buff, they have cleared exactly 4 camps on their red side.
+    *   If they show later with **24 CS** and Blue Buff, they have cleared 2 camps on their blue side.
+    *   Use this process of elimination to know exactly which of their camps are up and where they must path next.
+
+### Post-Play Tracking
+*   **Ping the Enemy's Options:** Every single time you make a play (a gank, a counter-gank, or taking an objective), immediately ask yourself: *"Where is the enemy jungler, and what can they take from me right now?"*
+    *   If you gank bot, the enemy jungler is top. Ping your top laner to back away and ping your top-side camps as "at risk."
+    *   If you take Dragon, expect the enemy jungler to take your top-side camps or Rift Herald/Grubs.
 
 ---
 
 ### Common Mistakes
-*   **Not Identifying Win Conditions:** Playing without a clear game plan, leading to reactive and inefficient pathing.
-*   **Over-Forcing Ganks:** Attempting ganks with low success probability, especially on farm-heavy junglers or against safe laners.
-*   **Ignoring Base Timers:** Staying on the map with low HP or a lot of unspent gold, missing power spikes and being vulnerable.
-*   **Bad Gank Pathing:** Walking through obvious vision, or running directly at enemies instead of cutting off escape paths.
-*   **Pinging "On the Way" Too Early:** Warning the enemy of your presence, allowing them to retreat.
-*   **Not Tracking Enemy Jungler:** Being surprised by ganks or invades, leading to lost camps or deaths.
-*   **Trading Kills When Losing:** Giving up your bounty and tempo, making it harder to carry.
-*   **Not Adapting:** Sticking to a pre-planned path even when game circumstances (e.g., enemy jungler showing, new gank opportunity) change.
-*   **Not Communicating:** Failing to ping or communicate intentions to laners, leading to misplays.
-*   **Ignoring Wave States:** Attempting ganks on unfavorable wave states or not recognizing opportunities from crashing/bouncing waves.
+
+*   **Panic Smiting:** Smiting too early during an invade or contest. Discipline your Smite; wait for the secure threshold or force the enemy to walk away before using it.
+*   **Playing with Losing Teammates:** Never path to or attempt to save a losing lane. Let your losing teammate lose. Pathing to a losing lane often results in getting counter-ganked and double-killed. Play strictly through your winning lanes.
+*   **Trading Quadrants for Early Drakes:** Do not trade your entire blue-side quadrant for an early, non-soul Dragon against fast-clearing junglers (e.g., Hecarim). They will vacuum up your entire jungle, putting you multiple levels behind. Secure vision, clear your camps, and fight on your own tempo.
+*   **Over-forcing Low-Percentage Plays on "Camps Up" Timers:** Ganking a full-HP enemy with flash when your entire jungle is alive. This ruins your clear sequencing and puts you in massive tempo debt.
+*   **Wasting Movement Spells on Camps/Scuttles:** Do not use high-cooldown mobility/combat spells (e.g., Jarvan EQ) to finish a scuttle crab or camp if the enemy jungler is nearby. If they jump you while your spells are on cooldown, you will die.
+
+---
 
 ### Quick Reference
-1.  **Identify Win Condition & Game Plan:** Know *what* you're playing for and *when* you'll execute it.
-2.  **Optimal Base Timers:** Base when low HP, for item power spikes, or when camps are far, especially before objectives.
-3.  **Jungle Track & Ping:** Constantly track the enemy jungler (wards, CS, wave states) and ping your laners effectively (cautions, assistance in their face).
-4.  **Gank Smart, Not Hard:** Gank when conditions are met (favorable wave, no vision, CC advantage, enemy last-hitting), and path to cut off escapes.
-5.  **Tempo Management:** After a play, you're often down tempo. Use this time to farm or cover, and don't force risky plays.
+
+1.  **Camps Up vs. Camps Down:** If your camps are alive, only make 90%+ guaranteed plays. If your camps are dead, use your "free time" to pressure, sweep, and hover lanes.
+2.  **The Travel Time Rule:** Running across the map is a trap. If you have gold and are low, base and buy. Running from bot to blue takes 15–16s; basing and running back is faster and keeps you strong.
+3.  **The Shaco Counter:** Walk in as 5 with a Sweeper at **0:55–1:00** to clear Shaco's boxes. This completely breaks his early clear.
+4.  **Gank on CS Animations:** Time your ganks with low-HP minion last-hits (especially cannons). Laners cannot resist the gold and will lock themselves into attack animations, preventing them from reacting.
+5.  **Post-Play Tracking:** Every time you complete a play, immediately ping the enemy jungler's map options to protect your cross-map camps and lanes.

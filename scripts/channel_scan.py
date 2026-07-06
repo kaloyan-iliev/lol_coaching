@@ -100,8 +100,11 @@ def list_scan(coach: str):
     print(f"\n{len(videos)} videos  ([A] = already in catalog, [x] = selected)")
 
 
-def select_videos(coach: str, ids: list[str] | None, select_all: bool):
-    videos = load_scan(coach)
+def select_videos(coach: str, ids: list[str] | None, select_all: bool, scan_name: str | None = None):
+    """scan_name: which scan file to read (defaults to coach). Lets one coach own
+    several channels, e.g. scan 'KireiVODs' selected under coach 'KireiLoL'."""
+    scan_name = scan_name or coach
+    videos = load_scan(scan_name)
     targets = videos if select_all else [v for v in videos if v["id"] in set(ids or [])]
     if not targets:
         print("No matching videos to select.")
@@ -110,11 +113,11 @@ def select_videos(coach: str, ids: list[str] | None, select_all: bool):
     added = 0
     for v in targets:
         v["selected"] = True
-        result = add_video(v["url"], coach=coach, title=v.get("title", ""))
+        result = add_video(v["url"], coach=coach, title=v.get("title", ""), channel=scan_name)
         if result:
             added += 1
 
-    with open(scan_path(coach), "w", encoding="utf-8") as f:
+    with open(scan_path(scan_name), "w", encoding="utf-8") as f:
         json.dump(videos, f, indent=2, ensure_ascii=False)
 
     print(f"\nAdded {added} videos to the catalog. Next steps:")
@@ -130,6 +133,8 @@ def main():
     parser.add_argument("--list", metavar="COACH", help="List a previous scan")
     parser.add_argument("--select", help="Comma-separated video IDs to add to the catalog")
     parser.add_argument("--select-all", action="store_true", help="Add every scanned video")
+    parser.add_argument("--scan", help="Scan file to select from when it differs from --coach "
+                                       "(e.g. --scan KireiVODs --coach KireiLoL)")
     args = parser.parse_args()
 
     if args.list:
@@ -141,11 +146,14 @@ def main():
             print("--select needs --coach")
             sys.exit(1)
         ids = [i.strip() for i in args.select.split(",")] if args.select else None
-        select_videos(args.coach, ids, args.select_all)
+        select_videos(args.coach, ids, args.select_all, scan_name=args.scan)
         return
 
     if args.url:
-        coach = args.coach or "unknown_channel"
+        if not args.coach:
+            print("Scanning needs --coach (it names the scan file and the catalog coach).")
+            sys.exit(1)
+        coach = args.coach
         scan_channel(args.url, coach)
         print(f"\nReview the list with: python scripts/channel_scan.py --list {coach}")
         return

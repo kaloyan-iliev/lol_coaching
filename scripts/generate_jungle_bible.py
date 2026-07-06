@@ -6,16 +6,24 @@ This script reads all clean transcripts, groups them by topic, and uses
 an LLM to synthesize them into a structured coaching document.
 
 Usage:
-    python scripts/generate_jungle_bible.py                  # Full generation
+    python scripts/generate_jungle_bible.py                  # Full generation (all coaches)
     python scripts/generate_jungle_bible.py --topic pathing  # Single topic
     python scripts/generate_jungle_bible.py --list-topics    # Show available topics
     python scripts/generate_jungle_bible.py --combine-only   # Just combine existing sections
+
+Source filtering (per-coach / per-channel docs, kept separate from the main bible):
+    python scripts/generate_jungle_bible.py --coaches KireiLoL            # one coach
+    python scripts/generate_jungle_bible.py --channels KireiVODs          # one channel
+    python scripts/generate_jungle_bible.py --coaches KireiLoL,JungleGapGG --name duo
+Filtered outputs go to knowledge/subsets/<slug>/section_*.md and
+knowledge/jungle_bible_<slug>.md; the unfiltered run keeps the legacy paths.
 """
 
 import argparse
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
@@ -84,23 +92,53 @@ TOPICS = {
 SECTIONS_META_FILE = os.path.join(config.KNOWLEDGE_DIR, "sections_meta.json")
 
 
-def load_sections_meta() -> dict:
+class OutputPaths:
+    """Where sections/meta/bible go. Unfiltered runs keep the legacy layout;
+    coach/channel-filtered runs get an isolated subset directory + suffixed bible."""
+
+    def __init__(self, slug: str | None):
+        self.slug = slug
+        if slug:
+            self.sections_dir = os.path.join(config.KNOWLEDGE_DIR, "subsets", slug)
+            self.meta_file = os.path.join(self.sections_dir, "sections_meta.json")
+            self.bible_file = os.path.join(config.KNOWLEDGE_DIR, f"jungle_bible_{slug}.md")
+        else:
+            self.sections_dir = config.KNOWLEDGE_DIR
+            self.meta_file = SECTIONS_META_FILE
+            self.bible_file = config.JUNGLE_BIBLE_FILE
+
+    def section_path(self, key: str) -> str:
+        return os.path.join(self.sections_dir, f"section_{key}.md")
+
+
+def load_sections_meta(paths: OutputPaths) -> dict:
     """Which transcript IDs fed each section at last generation."""
-    if os.path.exists(SECTIONS_META_FILE):
-        with open(SECTIONS_META_FILE, "r", encoding="utf-8") as f:
+    if os.path.exists(paths.meta_file):
+        with open(paths.meta_file, "r", encoding="utf-8") as f:
             return json.load(f)
     return {}
 
 
-def save_sections_meta(meta: dict):
-    with open(SECTIONS_META_FILE, "w", encoding="utf-8") as f:
+def save_sections_meta(meta: dict, paths: OutputPaths):
+    os.makedirs(os.path.dirname(paths.meta_file), exist_ok=True)
+    with open(paths.meta_file, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
 
 
-def load_videos_metadata() -> list[dict]:
-    """Load video metadata from videos.json."""
+def load_videos_metadata(coaches: list[str] | None = None,
+                         channels: list[str] | None = None) -> list[dict]:
+    """Load video metadata from videos.json, optionally filtered by coach/channel.
+    Videos without an explicit 'channel' field count as channel == coach."""
     with open(config.VIDEOS_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+        videos = json.load(f)
+    if coaches:
+        wanted = {c.lower() for c in coaches}
+        videos = [v for v in videos if v.get("coach", "").lower() in wanted]
+    if channels:
+        wanted = {c.lower() for c in channels}
+        videos = [v for v in videos
+                  if (v.get("channel") or v.get("coach", "")).lower() in wanted]
+    return videos
 
 
 def load_transcript(video_id: str) -> str | None:
@@ -128,6 +166,29 @@ def match_videos_to_topic(videos: list[dict], topic_key: str) -> list[dict]:
     return matched
 
 
+# Free-tier input-token budget is 250k/min; 55-transcript topics blew it.
+# Cap per-topic transcripts (round-robin across coaches so minority coaches
+# keep representation) and per-transcript length.
+MAX_TRANSCRIPTS_PER_TOPIC = 24
+MAX_TRANSCRIPT_CHARS = 12000
+
+
+def select_transcripts(transcripts: list[tuple[str, str]],
+                       cap: int = MAX_TRANSCRIPTS_PER_TOPIC) -> list[tuple[str, str]]:
+    """Round-robin across coaches until the cap - preserves coach diversity."""
+    if len(transcripts) <= cap:
+        return transcripts
+    by_coach: dict[str, list[tuple[str, str]]] = {}
+    for t in transcripts:
+        by_coach.setdefault(t[0], []).append(t)
+    picked, queues = [], list(by_coach.values())
+    while len(picked) < cap and any(queues):
+        for q in queues:
+            if q and len(picked) < cap:
+                picked.append(q.pop(0))
+    return picked
+
+
 def build_synthesis_prompt(topic_key: str, transcripts: list[tuple[str, str]]) -> str:
     """
     Build the prompt for synthesizing transcripts into a guide section.
@@ -138,8 +199,8 @@ def build_synthesis_prompt(topic_key: str, transcripts: list[tuple[str, str]]) -
     transcript_block = ""
     for coach, text in transcripts:
         # Truncate very long transcripts to avoid token limits
-        if len(text) > 15000:
-            text = text[:15000] + "\n\n[... transcript truncated for length ...]"
+        if len(text) > MAX_TRANSCRIPT_CHARS:
+            text = text[:MAX_TRANSCRIPT_CHARS] + "\n\n[... transcript truncated for length ...]"
         transcript_block += f"\n--- Coach: {coach} ---\n{text}\n"
 
     return f"""You are creating a section of "The Jungle Bible" - a comprehensive
@@ -180,6 +241,9 @@ OUTPUT FORMAT:
 """
 
 
+SYNTH_MODEL = None  # optional override, set from --model
+
+
 def synthesize(prompt: str) -> str:
     """Synthesize using the configured LLM provider."""
     from app.llm_client import generate_text
@@ -189,10 +253,11 @@ def synthesize(prompt: str) -> str:
         system="You are an expert League of Legends coach and technical writer.",
         temperature=0.3,  # Lower temp for factual synthesis
         max_tokens=8000,
+        model=SYNTH_MODEL,
     )
 
 
-def generate_topic_section(topic_key: str, videos: list[dict]) -> str | None:
+def generate_topic_section(topic_key: str, videos: list[dict], paths: OutputPaths) -> str | None:
     """Generate a single topic section of the Jungle Bible."""
     matched = match_videos_to_topic(videos, topic_key)
     topic = TOPICS[topic_key]
@@ -213,24 +278,29 @@ def generate_topic_section(topic_key: str, videos: list[dict]) -> str | None:
         print(f"  Videos matched but no transcripts found for: {topic['title']}")
         return None
 
-    print(f"  Synthesizing {len(transcripts)} transcripts for: {topic['title']}")
+    selected = select_transcripts(transcripts)
+    note = f" (capped from {len(transcripts)})" if len(selected) < len(transcripts) else ""
+    print(f"  Synthesizing {len(selected)} transcripts{note} for: {topic['title']}")
 
-    prompt = build_synthesis_prompt(topic_key, transcripts)
+    prompt = build_synthesis_prompt(topic_key, selected)
     section = synthesize(prompt)
 
     # Save individual section
-    section_path = os.path.join(config.KNOWLEDGE_DIR, f"section_{topic_key}.md")
+    section_path = paths.section_path(topic_key)
+    os.makedirs(os.path.dirname(section_path), exist_ok=True)
     Path(section_path).write_text(section, encoding="utf-8")
     print(f"  Saved section: {section_path}")
 
     return section
 
 
-def combine_sections() -> str:
+def combine_sections(paths: OutputPaths, videos: list[dict]) -> str:
     """Combine all generated sections into the full Jungle Bible."""
+    coaches = sorted({v.get("coach", "unknown") for v in videos if v.get("coach")})
+    scope = f" — sources: {', '.join(coaches)}" if paths.slug else ""
     bible = "# The Jungle Bible\n"
     bible += "### A Comprehensive League of Legends Jungle Coaching Guide\n"
-    bible += "*Synthesized from coaching content by JungleGapGG, KireiLoL, PerryJG, and Agurin*\n\n"
+    bible += f"*Synthesized from coaching content by {', '.join(coaches) or 'various coaches'}{scope}*\n\n"
     bible += "---\n\n"
 
     # Table of contents
@@ -241,7 +311,7 @@ def combine_sections() -> str:
 
     # Add each section
     for key, topic in TOPICS.items():
-        section_path = os.path.join(config.KNOWLEDGE_DIR, f"section_{key}.md")
+        section_path = paths.section_path(key)
         if os.path.exists(section_path):
             section_text = Path(section_path).read_text(encoding="utf-8")
             bible += section_text + "\n\n---\n\n"
@@ -252,7 +322,7 @@ def combine_sections() -> str:
     return bible
 
 
-def generate_for_unmatched_transcripts(videos: list[dict]) -> str | None:
+def generate_for_unmatched_transcripts(videos: list[dict], paths: OutputPaths) -> str | None:
     """
     For any transcripts that didn't match a specific topic,
     generate a general section.
@@ -307,7 +377,8 @@ OUTPUT: A well-organized supplementary guide section.
 """
 
     section = synthesize(prompt)
-    section_path = os.path.join(config.KNOWLEDGE_DIR, "section_supplementary.md")
+    section_path = paths.section_path("supplementary")
+    os.makedirs(os.path.dirname(section_path), exist_ok=True)
     Path(section_path).write_text(section, encoding="utf-8")
     return section
 
@@ -320,8 +391,27 @@ def main():
     parser.add_argument("--show-matching", action="store_true", help="Show which videos match which topics (dry run)")
     parser.add_argument("--incremental", action="store_true",
                         help="Only regenerate sections whose matched transcript set changed")
+    parser.add_argument("--coaches", help="Comma-separated coach names to include (default: all)")
+    parser.add_argument("--channels", help="Comma-separated channel names to include (default: all)")
+    parser.add_argument("--name", help="Slug for filtered output files (default: derived from filters)")
+    parser.add_argument("--model", help="Override LLM model for synthesis")
 
     args = parser.parse_args()
+
+    if args.model:
+        global SYNTH_MODEL
+        SYNTH_MODEL = args.model
+
+    coaches = [c.strip() for c in args.coaches.split(",") if c.strip()] if args.coaches else None
+    channels = [c.strip() for c in args.channels.split(",") if c.strip()] if args.channels else None
+    slug = None
+    if coaches or channels:
+        slug = args.name or "-".join(
+            s.lower().replace(" ", "_") for s in (coaches or []) + (channels or []))
+    paths = OutputPaths(slug)
+    if slug:
+        print(f"Source filter: coaches={coaches or 'all'} channels={channels or 'all'} -> "
+              f"outputs under slug '{slug}'\n")
 
     if args.list_topics:
         print("Available topics:\n")
@@ -332,15 +422,18 @@ def main():
         return
 
     if args.combine_only:
-        bible = combine_sections()
-        Path(config.JUNGLE_BIBLE_FILE).write_text(bible, encoding="utf-8")
-        print(f"Jungle Bible assembled: {config.JUNGLE_BIBLE_FILE}")
+        bible = combine_sections(paths, load_videos_metadata(coaches, channels))
+        Path(paths.bible_file).write_text(bible, encoding="utf-8")
+        print(f"Jungle Bible assembled: {paths.bible_file}")
         word_count = len(bible.split())
         print(f"Total words: {word_count}")
         return
 
     # Check for transcripts
-    videos = load_videos_metadata()
+    videos = load_videos_metadata(coaches, channels)
+    if not videos:
+        print("No videos match the coach/channel filter.")
+        sys.exit(1)
     transcripts_exist = any(
         os.path.exists(os.path.join(config.TRANSCRIPTS_CLEAN_DIR, f"{v['id']}.txt"))
         for v in videos
@@ -359,54 +452,55 @@ def main():
                 print(f"    - [{v['coach']}] {v['title']}")
         return
 
-    os.makedirs(config.KNOWLEDGE_DIR, exist_ok=True)
+    os.makedirs(paths.sections_dir, exist_ok=True)
 
     if args.topic:
         if args.topic not in TOPICS:
             print(f"Unknown topic: {args.topic}")
             print(f"Available: {', '.join(TOPICS.keys())}")
             sys.exit(1)
-        generate_topic_section(args.topic, videos)
-        meta = load_sections_meta()
+        generate_topic_section(args.topic, videos, paths)
+        meta = load_sections_meta(paths)
         meta[args.topic] = sorted(v["id"] for v in match_videos_to_topic(videos, args.topic))
-        save_sections_meta(meta)
+        save_sections_meta(meta, paths)
     else:
         # Generate all topics (or only changed ones with --incremental)
-        meta = load_sections_meta()
+        meta = load_sections_meta(paths)
         mode = "incrementally" if args.incremental else ""
         print(f"Generating The Jungle Bible {mode}\n")
         for topic_key in TOPICS:
             matched_ids = sorted(v["id"] for v in match_videos_to_topic(videos, topic_key))
-            section_path = os.path.join(config.KNOWLEDGE_DIR, f"section_{topic_key}.md")
+            section_path = paths.section_path(topic_key)
             if (args.incremental and meta.get(topic_key) == matched_ids
                     and os.path.exists(section_path)):
                 print(f"\n[{topic_key}] unchanged ({len(matched_ids)} transcripts), skipping")
                 continue
             print(f"\n[{topic_key}]")
-            if generate_topic_section(topic_key, videos) is not None:
+            if generate_topic_section(topic_key, videos, paths) is not None:
                 meta[topic_key] = matched_ids
-                save_sections_meta(meta)
+                save_sections_meta(meta, paths)
+                time.sleep(25)  # free-tier input-token/minute headroom
 
         # Handle unmatched transcripts
         all_matched = set()
         for topic_key in TOPICS:
             all_matched.update(v["id"] for v in match_videos_to_topic(videos, topic_key))
         unmatched_ids = sorted(v["id"] for v in videos if v["id"] not in all_matched)
-        supp_path = os.path.join(config.KNOWLEDGE_DIR, "section_supplementary.md")
+        supp_path = paths.section_path("supplementary")
         if (args.incremental and meta.get("_supplementary") == unmatched_ids
                 and os.path.exists(supp_path)):
             print(f"\n[supplementary] unchanged ({len(unmatched_ids)} transcripts), skipping")
         else:
-            generate_for_unmatched_transcripts(videos)
+            generate_for_unmatched_transcripts(videos, paths)
             meta["_supplementary"] = unmatched_ids
-            save_sections_meta(meta)
+            save_sections_meta(meta, paths)
 
     # Combine into final document
     print("\nAssembling final document...")
-    bible = combine_sections()
-    Path(config.JUNGLE_BIBLE_FILE).write_text(bible, encoding="utf-8")
+    bible = combine_sections(paths, videos)
+    Path(paths.bible_file).write_text(bible, encoding="utf-8")
     word_count = len(bible.split())
-    print(f"\nJungle Bible saved: {config.JUNGLE_BIBLE_FILE}")
+    print(f"\nJungle Bible saved: {paths.bible_file}")
     print(f"Total words: {word_count} (~{word_count * 4 // 3} tokens)")
 
 

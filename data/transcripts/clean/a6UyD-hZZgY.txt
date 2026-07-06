@@ -1,0 +1,1140 @@
+# How To Climb As Jungle With GODLIKE Decision Making  - Educational Guide
+# Coach: JungleGapGG
+# Tags: 
+# URL: https://www.youtube.com/watch?v=a6UyD-hZZgY
+# Video ID: a6UyD-hZZgY
+
+[00:00] What is up, guys? Welcome back to Jungle
+[00:02] Gap. Coach Leo here, and today I have a
+[00:04] very special video where we're going to
+[00:05] be focusing on a topic which is how to
+[00:08] climb with god-like decision-making.
+[00:10] And, you know, for me when it comes to
+[00:12] really, really great jungling, it
+[00:14] usually comes down to three things. It's
+[00:15] how we use our tempo, so how we use our
+[00:17] time on the map. It comes down to our
+[00:20] decision-making, which we're going to be
+[00:21] focusing on in this video. And it comes
+[00:23] down to our execution. These are
+[00:25] basically the three categories
+[00:28] that we obviously have there's more
+[00:29] underneath the surface with these three
+[00:31] categories, but this is what jungling is
+[00:33] all about. Um and this video in
+[00:35] particular, you know, when it comes to
+[00:36] decision-making, a lot of
+[00:37] decision-making is of course we're going
+[00:39] to be I'm going to be sharing with you
+[00:40] guys some really, really valuable
+[00:41] concepts, but a lot of it is judgement.
+[00:44] Um a lot of it is repetition. So, I
+[00:45] think that this video is really, really
+[00:47] aimed at I think from like maybe gold to
+[00:51] diamond and obviously like diamond and
+[00:52] above. Um obviously you're still going
+[00:54] to have really, really great value even
+[00:55] if you are below gold. Um but this is
+[00:57] really for people trying to push to kind
+[00:59] of like climb to diamond because usually
+[01:01] around plat emerald level or like even
+[01:04] diamond level, your decision-making and
+[01:06] your judgement and your information
+[01:07] gathering becomes much more important
+[01:10] because the game becomes a little bit
+[01:11] more you need to adapt a lot better,
+[01:13] right? And so, yeah, we're going to be
+[01:15] doing a deep dive today on
+[01:17] decision-making. So, you know, before I
+[01:19] get into an example game which I'm going
+[01:21] to play and I'm going to explain these
+[01:22] concepts, I quickly want to go through
+[01:24] each of them just so you have a good
+[01:25] idea of what I'm talking about when I
+[01:27] refer back to it in the gameplay
+[01:28] example. Just very quickly, guys. If you
+[01:31] are already part of the Jungle Academy,
+[01:33] you can skip here. However, if you are
+[01:35] not part of the Jungle Academy and are
+[01:37] someone who wants to fast track to their
+[01:39] rank goals, you can do so. Within the
+[01:41] Jungle Academy, you will have access to
+[01:43] coaching sessions with me where we are
+[01:46] going to pinpoint your biggest
+[01:48] weaknesses in the form of learning
+[01:50] objectives. Okay, there's going to be a
+[01:51] bunch of games like this. I'm sure this
+[01:53] is not the first rodeo for you in this
+[01:54] kind of game, right? And they can't all
+[01:57] They can't all just be instant losses.
+[01:59] There are definitely ways you can still
+[02:00] win as well as reinforce your strengths
+[02:02] week by week. You will also have access
+[02:04] to in-depth champion guides as well as
+[02:07] an entire community of like-minded
+[02:09] junglers to help you support you on your
+[02:11] entire journey. Check links in the
+[02:12] description below to get $10 off use
+[02:14] code Leo. Hope to see you and work with
+[02:16] some of you there. Now, let's continue
+[02:18] the video. So, good decision-making
+[02:20] comes down to information gathering and
+[02:23] processing information. These are the
+[02:25] two main things that our decision-making
+[02:27] comes down to. And how we gather
+[02:29] information is firstly by minimap
+[02:32] awareness. The minimap the amount of
+[02:33] times that I've coached guys and I'm
+[02:35] like, "Yo, your minimap is too small.
+[02:37] You need to be looking at your minimap
+[02:38] more. You're missing information." Like
+[02:39] the minimap is pretty much like I would
+[02:41] say 70%
+[02:43] of the information that you are looking
+[02:45] to gather in League of Legends when you
+[02:47] play the game. This is for all lanes,
+[02:48] but especially for jungle because you
+[02:49] can be everywhere, right? And you also
+[02:52] need your your minimap, you know, I like
+[02:54] to call it the minimap prompts, right?
+[02:56] So, I'm going to show you when in the
+[02:57] game, but it's like when things are like
+[02:59] clashing, right? When like mid lane is a
+[03:00] clashing together here like this or when
+[03:02] bot lane is clashing and icons are
+[03:04] clashing and their health bars are
+[03:05] dropping, this is a clear minimap prompt
+[03:07] and this is prompting you to move your
+[03:10] camera to that lane. So, then when you
+[03:12] see that prompt, when you're looking at
+[03:13] the minimap, when you have a good
+[03:14] awareness, that is when you move your
+[03:16] camera to that
+[03:17] to that lane and you kind of explore and
+[03:19] investigate further. And the sooner you
+[03:21] can get this information, the better,
+[03:23] right? Because you're going to have
+[03:24] again more time to process that
+[03:27] information. Uh last thing here as well
+[03:29] as the chat and the summoner spells. So,
+[03:30] again,
+[03:31] um a lot of these takes and what I'm
+[03:33] talking about is based on the fact that
+[03:35] I've been challenger uh every single
+[03:36] season that I've played, but I've also
+[03:38] coached for the past 2 years. And these
+[03:40] are things that I'm noticing the most
+[03:43] with players with a really large sample
+[03:44] size compared to higher-level players
+[03:47] that I watch is that you need to be
+[03:49] looking at summoner spells. Like someone
+[03:51] having no flash, uh someone having no
+[03:54] heal, no barrier, obviously no ult. Like
+[03:56] these things are um the flash is really,
+[03:58] really the main one that you're looking
+[03:59] at with the chat. And yes, I would
+[04:01] suggest turn your chat to party chat
+[04:03] only, but mute people individually
+[04:05] because if bot lane is pinging that, you
+[04:06] know, the enemy bot lane have no
+[04:08] summoners here or have no flashes here,
+[04:09] that is going to significantly change my
+[04:11] decision whether or not I might go to
+[04:13] krugs here or I might skip krugs and go
+[04:15] and kill them, right? Flashes, um
+[04:17] something I like to say is like putting
+[04:18] a crosshair on the enemy's head. If they
+[04:21] have no flash, this is something very,
+[04:22] very important. Okay. So, this is how we
+[04:25] gather information, right? Um
+[04:27] So, how do we actually process that
+[04:29] information into a decision now? So,
+[04:31] again, this comes down to more about
+[04:33] having a good judgement,
+[04:35] being decisive, uh be objective. So,
+[04:38] don't, you know, don't base your
+[04:39] decisions on I need to help this lane, I
+[04:42] need to compensate, I need to do this
+[04:44] otherwise I'm going to lose, I need to
+[04:45] do this otherwise I'm going to win. Be
+[04:46] as objective as possible with your
+[04:48] decisions and be decisive. If you're
+[04:50] objective and decisive, even if you make
+[04:53] a wrong play, the thing is is that you
+[04:55] can kind of hold accountability for that
+[04:57] and you can learn from it, which is, you
+[04:59] know, the step in the right direction.
+[05:00] Um another thing here as well is just
+[05:02] having an empty mental stack. So, what
+[05:05] does that mean? So, I like to use like
+[05:07] the task manager CPU as an example,
+[05:09] right? So, like if you open up your task
+[05:10] manager, you have all these processes,
+[05:12] right? And your brain is basically the
+[05:14] CPU. So, if you have a bunch of
+[05:17] processes here, maybe like 80% of your
+[05:19] CPU is being used for like just clearing
+[05:23] your camps or So, so basically champion
+[05:25] mastery, um not being distracted, not
+[05:28] being on Discord with your friends. Like
+[05:29] you seriously have to be locked in to be
+[05:31] able to process information. So, even
+[05:33] when I make like videos and I make like
+[05:35] the gameplay guides and I and you know,
+[05:36] I'm trying to talk as I explain, it's
+[05:38] actually quite a difficult thing to do
+[05:41] because, you know, you only have so You
+[05:43] have only have limited amount of
+[05:44] processing power. Um and the the main
+[05:47] thing to to increase that power is to
+[05:49] build better habits, uh make processes
+[05:51] auto- automated, right? So, like for
+[05:53] example, think about what you're going
+[05:54] to build at the start of the game. Don't
+[05:55] think about what you're going to build
+[05:57] before you go for a bot gank. Don't
+[05:58] think about what you're going to build
+[05:59] when you're in base. Like think about
+[06:00] okay, I'm going to build mercs this
+[06:01] game. I'm going to build this, this,
+[06:02] this. I'm going to build cleaver because
+[06:04] they have a tanks. Whatever it may be,
+[06:06] think about your items
+[06:07] before the game. Okay? Free up your
+[06:09] mental space. You want to have as much
+[06:11] mental stack as you possibly can.
+[06:14] Um and then the last thing is match
+[06:15] trade and minimize. So, this is a
+[06:16] fundamental. This is something that you
+[06:17] can literally apply to all your games
+[06:19] and this is a big thing about
+[06:21] decision-making. So, generally you want
+[06:23] to always match when you're stronger.
+[06:25] Okay, so if you feel like you win the
+[06:27] bot 3v3, if you feel like you win the
+[06:29] fight on drake, if you feel like you,
+[06:31] you know, are winning the fight, you
+[06:32] have numbers, you have ults, you have
+[06:34] items, like whatever advantage you may
+[06:35] have, you always generally want to match
+[06:38] when you're stronger.
+[06:39] You always generally want to trade when
+[06:42] you're weaker. So, for example, maybe my
+[06:43] bot lane has died here and I'm just
+[06:46] finishing my red buff here and they're
+[06:47] going to take the drake. Actually, this
+[06:48] is a better example if I'm clearing up.
+[06:50] So, let me just change that to I'm
+[06:51] clearing up here, right? And I'm about
+[06:53] to clear towards my wolves here and I
+[06:56] see that the enemy are doing dragon. My
+[06:57] bot lane died. So, here I want to think
+[06:59] okay, I don't want to match obviously. I
+[07:00] don't want to 1v3 this. So, I don't even
+[07:01] want to 2v3 this, right? Something like
+[07:03] this maybe.
+[07:05] I want to at least I want to trade his
+[07:06] red side. So, trading, processing, okay,
+[07:09] we we we we have to give this, but we
+[07:11] can actually just trade. Um and so and
+[07:13] then the last thing is minimizing. And
+[07:15] minimizing is more so when you're on the
+[07:16] same side because sometimes you want to
+[07:18] try and trade, but the thing is you're
+[07:20] on the same side. So, by the time they
+[07:21] finish this drake and you run up here,
+[07:23] he can kind of recall and still match
+[07:24] you, right? Cuz it takes too long. So,
+[07:26] minimizing is actually where you just
+[07:27] say, "Okay, just give the drake." Um and
+[07:30] maybe I will quickly take my camps here
+[07:32] before they decide to invade because I
+[07:33] have no team. Right? That's what
+[07:35] minimizing means. Or maybe your support
+[07:37] died
+[07:38] and your AD carry is here and their bot
+[07:40] lane is here. So, you're minimizing by
+[07:41] just like sitting here and if they go
+[07:43] for the dive, you can then match, right?
+[07:45] Um so, this is all this is to do with
+[07:47] minimizing. You'll see me refer back to
+[07:48] this
+[07:49] when I do the example. Um and then in
+[07:52] the mid game just quickly like again,
+[07:54] it's minimap awareness to up time and
+[07:55] down time. So, this is up time and down
+[07:57] This is this is to do with just syncing
+[07:58] up with your team. Uh I'll explain this
+[08:00] in in the game. And always playing for
+[08:02] an objective or mini objective. So, a
+[08:05] lot of the times again in coaching, you
+[08:07] know, I'll say, "Oh, what are you
+[08:08] playing for here?" And they'll be like,
+[08:09] "Oh, well, the dragon's not up. The rift
+[08:11] herald's not up." But you got to
+[08:12] remember as well like you can play for
+[08:14] towers. Like towers can be objectives,
+[08:16] you know? Like you can you can play for
+[08:19] this tower. You can play for for even a
+[08:20] scuttle crab spawn. Like I call it a
+[08:22] mini objective. Okay, towers are not
+[08:23] really mini objectives, but you can play
+[08:25] for a side of control. Basically, you
+[08:27] just want your thinking to be locked in
+[08:29] on something, right? You don't want to
+[08:31] just be floating around the map. And
+[08:33] then once again, match trade and
+[08:34] minimize is also a thing that you will
+[08:36] apply in the mid game. All right. So,
+[08:39] I'm going to jump straight into a game
+[08:40] now and explain all of these things now
+[08:42] in a real setting in a real game for you
+[08:44] guys to hopefully able to apply in your
+[08:46] own games.
+[08:49] All right, guys. So, now let's take a
+[08:50] look at a game where we apply these
+[08:52] fundamentals right here. I'm going to be
+[08:54] going through some examples in the early
+[08:56] game and in the mid game of what good
+[08:58] decision-making really comes down to. Um
+[09:00] we're going to be going through, you
+[09:01] know, the gathering information aspect
+[09:03] of it and also the processing the
+[09:05] information aspect of it. So, as you can
+[09:07] see here, I am playing a game of Zac.
+[09:09] Okay, I've been playing some more Zac
+[09:10] lately. Don't think too much about the
+[09:12] champion. Whatever you are comfortable,
+[09:14] champion mastery is the most important
+[09:15] thing. So, this is not champion
+[09:17] specific. Uh as you can see we're
+[09:18] playing in a round of diamond game. And
+[09:19] the very first thing that, you know, in
+[09:21] terms of gathering information and
+[09:22] something that I really want to
+[09:23] highlight, when you play League of
+[09:24] Legends, okay, you do not really need to
+[09:26] be effing around like a complete maniac.
+[09:28] I would say that it is much more
+[09:30] important that you actually are looking
+[09:32] at a piece of information for a good
+[09:34] reason. Like I have stated here, okay?
+[09:37] It's about minimap prompts, but there's
+[09:39] also something that we can do um that I
+[09:42] would definitely suggest for pretty much
+[09:45] everyone that plays the game because
+[09:46] there's really no excuse not to do it,
+[09:49] which is when you walk between camp to
+[09:51] camp, you really want to do this thing
+[09:53] which I like to call the click and the
+[09:55] pan. So, as you can see here, I am
+[09:57] clicking here. I am clicking my
+[09:58] character to move here, okay? Instead of
+[10:01] like looking at my character locked in,
+[10:03] what I like to call instead of doing
+[10:04] small clicks about where I'm walking to,
+[10:07] just the simple habit of clicking and
+[10:08] panning. So, I click, my character's
+[10:10] walking, and I pan. Okay? And this is a
+[10:13] really really Yeah, this is a really
+[10:14] great habit to have. And remember that
+[10:16] you also want to look at the proximity
+[10:18] lanes that you were going towards. So,
+[10:20] you know, if I'm pathing to top here, I
+[10:22] don't You know, it's obviously it's not
+[10:23] useless me having a camera pan, but
+[10:25] but I really want to look at the lanes
+[10:27] that I'm actually pathing towards, okay?
+[10:31] So, we're pathing towards the top side.
+[10:32] And so, what is this information that
+[10:33] I'm gathering mean, right?
+[10:35] Obviously, there hasn't really been a
+[10:36] major prompt here. You could see this
+[10:38] little thing on the mini map here as a
+[10:40] prompt, right? People losing health,
+[10:42] Graves pushing, Graves, you know,
+[10:44] trading on on So, this is kind of
+[10:45] prompted me to look top here. And so,
+[10:47] what am I processing this information
+[10:49] as, you know, what am I What am I
+[10:50] seeing?
+[10:51] What does this information mean, right?
+[10:53] In terms of
+[10:55] our judgment and our decisiveness. So,
+[10:57] what you're basically looking for is
+[10:58] like, okay, do I want to go and gank
+[11:00] top? And you just have to really decide
+[11:02] and be like, hmm, objectively, this is
+[11:04] just not any information. So,
+[11:06] it doesn't even have to be anything,
+[11:07] right? Just because you look doesn't
+[11:09] mean you it has to be like, oh yeah,
+[11:11] this is something I need to act upon. Um
+[11:13] and you'll see points where you need to
+[11:15] act and see points where you don't need
+[11:16] to act. So, here something happens to
+[11:17] me, the Kha'Zix ends up just doing some
+[11:20] some invade. He did three camps, he
+[11:21] invaded, he took my blue. Um and so so
+[11:24] your mini map awareness awareness here
+[11:25] to recognize, hey, I have Graves first.
+[11:27] He's coming in here. He's giving you
+[11:29] some good information. He's pinging,
+[11:30] he's on his way. Um so, this is really
+[11:32] really nice for me to have. And and and
+[11:33] so, I'm decisive and I'm confident about
+[11:35] the fact that I can actually take this
+[11:37] uh this gromp here. You know, I can use
+[11:39] my ward, I can use some of my tools, as
+[11:41] I like to say it. You know, use my ward
+[11:42] here, see that he's leaving.
+[11:45] Okay, so this is just general again,
+[11:46] mini map awareness. It's just It's going
+[11:48] to be so much easier for you to make
+[11:49] decisions if you just have good
+[11:51] awareness and you watch your mini map a
+[11:53] lot. So, initially here, I'm planning to
+[11:55] jump. Um you know, I have a decision to
+[11:57] make here. Do I want to go go for top
+[11:58] crab or do I want to go for bot crab?
+[12:00] And so, this is where that fundamental
+[12:01] of the match trade or minimize come in
+[12:03] here, okay? So,
+[12:05] match trade or minimize. We always want
+[12:06] to match when we're stronger, we want to
+[12:08] trade when we're weaker. So, in this
+[12:10] situation, I initially thought that the
+[12:12] Kha'Zix was going to go for the top
+[12:14] crab, right? Cuz he was exiting top
+[12:16] side. And I didn't want to fight the top
+[12:17] crab because they had mid push, because
+[12:19] Kha'Zix beats me one v one, stronger
+[12:21] champion early. So, initially here, I'm
+[12:22] looking to trade. And so and then I see
+[12:24] him crossing and I'm like, okay, then
+[12:26] I'll trade this way, right? So,
+[12:28] even though it's a very, you know, it's
+[12:30] kind of standard decision, the
+[12:31] fundamentals are applied here, match or
+[12:33] trade. And you'll see that more and more
+[12:35] in this game.
+[12:37] Okay, so then I'm just going back to my
+[12:38] camps again here. Whenever you're making
+[12:40] these kind of moves to click somewhere,
+[12:42] right? I'm doing the same thing here.
+[12:43] I'm entering back to the bot side here.
+[12:46] So, I'm clicking and panning to bot. Bot
+[12:48] lane also had a fight here. And even
+[12:50] though I was on the top scuttle, it's
+[12:52] important to have a look at this even
+[12:54] though you're on the opposite side of
+[12:55] the map. And it is very important to pay
+[12:56] attention to the chat, okay? The chat.
+[13:00] We talked about it a little bit. This is
+[13:02] information gathering, chat and summoner
+[13:04] spells. You guys see it right here,
+[13:05] Lucian flash, Lucian barrier.
+[13:07] So, you'll see how this comes into
+[13:10] fruition when we are on the bot side and
+[13:12] what decisions we make when it gets to
+[13:14] that. But yeah, simply, we're clicking,
+[13:15] we're panning, right? We're doing a
+[13:16] click on the mini map. We're doing a
+[13:18] pan.
+[13:20] We're thinking about what Kha'Zix might
+[13:21] be doing here. He might be invading my
+[13:22] raptors or something like that.
+[13:25] Okay? So, we see now that when we're
+[13:27] walking towards our raptors, we see that
+[13:29] the enemy bot lane have now disappeared,
+[13:30] right? And so, there's no real prompt to
+[13:32] even look there now. Again, I'm
+[13:33] clicking, I'm panning. We go back here.
+[13:35] We're getting ready for our jump spot.
+[13:38] And now this is a key decision-making
+[13:39] window, which is like, okay, I've just
+[13:41] done my eight camp. Um do I want to base
+[13:44] now or do I want to use my spare tempo?
+[13:47] And something that because we were
+[13:49] looking at the fact that Lucian has no
+[13:51] flash, because we saw that they fought
+[13:52] bot side, this has given me a ability to
+[13:55] make a decision where it's like, hmm,
+[13:56] maybe I can actually just use this
+[13:58] little bit of spare time before my
+[14:00] before my wolves and my gromp spawn, I
+[14:02] can actually just do a little bit of
+[14:03] fishing here. You know, I like to call
+[14:05] it the int check. And again, this
+[14:06] decision this this decision that was
+[14:08] made here and the reason for this is
+[14:11] mainly because of Lucian just having no
+[14:14] flash. It's just pretty much even though
+[14:15] the wave is fully pushed here, right?
+[14:17] It's just a nicer position for me to
+[14:19] base in because as you will see here,
+[14:21] there is always a chance and this is
+[14:23] obviously a bouncing wave and there is
+[14:24] more information here as well. But the
+[14:25] main thing is is just the fact that I've
+[14:27] spare time and the fact that Lucian has
+[14:29] no flash. And you can make some
+[14:30] decisions like this that that they're
+[14:32] not always going to lead to a kill, but
+[14:36] because this guy has no flash here and
+[14:38] because something happens here,
+[14:40] we now also do the tempo recall hack, if
+[14:42] you know, you know, where you cast
+[14:44] recall and then you cancel it once, you
+[14:45] cancel it twice.
+[14:47] And because he has no flash here,
+[14:49] this is not a waste of my time. So, if
+[14:50] this Lucian had flash here and I eat in
+[14:52] here and he flashed away, it wouldn't be
+[14:54] terrible, but you know, what would it
+[14:55] mean? It means that well, my top side
+[14:57] camps may get invaded by Kha'Zix now
+[14:59] because Kha'Zix should be thinking, oh,
+[15:01] information gathering, I see this guy
+[15:03] bot, I know he started top side, I'm
+[15:05] going to go for his invade.
+[15:07] And yeah, again, because Lucian has no
+[15:08] flash here, he dies, I get 300 gold.
+[15:11] This is really big for the game. If he
+[15:12] gets my wolves here, it's okay. It's
+[15:13] it's an okay trade. Okay? So, this is
+[15:16] really why chat is important. So, as you
+[15:17] can see here, we're pathing out of the
+[15:19] map here. I should move my camera,
+[15:21] right? So, I'm actually [laughter]
+[15:23] you know, the habits have not been
+[15:24] formed completely yet. Yeah, this is a
+[15:26] window. When you're running out of base,
+[15:27] which I did not do here,
+[15:29] you know, my mental stack was somewhere
+[15:30] else pinging the Kha'Zix. You want to
+[15:32] look at look at what's happening.
+[15:34] And so, you see the second that I see
+[15:36] the Kha'Zix drop here, I'm I'm initially
+[15:37] thinking that he's on my camps, which is
+[15:39] why my camera is here. So, again, it's
+[15:40] okay for your camera to be on yourself
+[15:42] if you're thinking, okay, Kha'Zix might
+[15:44] be on my top side here. The second that
+[15:46] Kha'Zix shows, guys, what do we do? We
+[15:48] do the click and the pan. [snorts] On
+[15:50] this In this case, we did the pan and
+[15:51] the click. So, you can see here, I
+[15:53] immediately
+[15:55] I I immediately respond because the
+[15:57] reason why this is good is because I
+[16:00] have a little bit of judgment time here,
+[16:02] right? I'm gathering the information and
+[16:03] and you know, we're not always going to
+[16:05] be able to make
+[16:07] the best decision instantly, right?
+[16:09] Sometimes you need a little bit of time
+[16:10] and this little walk here, you see this
+[16:12] little white line of a walk here, this
+[16:14] is like time for you to judge. And so,
+[16:16] we just watch, we're watching, we're
+[16:17] like, hmm, is this good? Is this bad? Am
+[16:20] I going to make it here? Is there
+[16:21] anything here? And as soon as the Graves
+[16:22] dies, boom, you can change your mind.
+[16:24] And even though we waste
+[16:26] two two to five seconds here,
+[16:28] I do believe that this idea is um worth
+[16:32] it. It it it is worth it to kind of like
+[16:34] check. And then once your judgment is
+[16:36] that it's nothing,
+[16:37] you move on.
+[16:39] Okay? So, once again here, at the second
+[16:41] that Kha'Zix shows, so I'm clicking and
+[16:44] I'm panning.
+[16:45] I'm going to my next spot. As soon as
+[16:46] the Kha'Zix shows,
+[16:48] we look
+[16:50] and we make a decision. Oh, we always
+[16:52] You know, generally in League, right? If
+[16:54] it's an even game, generally you want to
+[16:55] be involved in the action, you know? You
+[16:57] generally want to be really alert to
+[16:59] things that are happening. And I
+[17:00] completely misplay this.
+[17:02] The idea is there, maybe the execution,
+[17:04] you know, 1/3 of the of what is
+[17:06] important about a jungle, tempo,
+[17:08] decision-making, execution. Execution
+[17:10] there could be uh could be better, but
+[17:12] that's that's another video. Okay, back
+[17:14] to it. Immediately back to the camps
+[17:16] here.
+[17:17] Same thing, right? We are
+[17:20] one, we're playing off the fact that
+[17:21] Kha'Zix went into the bot side here.
+[17:23] Okay, so let's just play from here and
+[17:25] let's have a look at the information.
+[17:26] So, Kha'Zix is maybe looking at the
+[17:27] drake, he's maybe looking at the
+[17:29] scuttle. So, either of those two things.
+[17:31] We know that the enemy mid is also dead
+[17:32] here, right? And it's a three v three on
+[17:35] bot side, too. Generally, I want to look
+[17:36] to match it because the dragon actually
+[17:38] counts as an enemy and you want to
+[17:40] fight, right? If if if they're on drake
+[17:42] here, you actually want to fight if it's
+[17:44] even numbers. And we can see here now
+[17:46] that he's on the drake. So,
+[17:48] even though my bot lane is like losing
+[17:50] or they're not really losing here, but
+[17:52] we want to match. Okay, this is the main
+[17:53] thing here. We've gathered the
+[17:54] information. We have, you know, we've
+[17:57] gathered the information and now we're
+[17:58] processing and now we're thinking, okay,
+[18:01] should we match, should we trade or
+[18:02] should we minimize? If I was minimizing
+[18:06] here, it would be just be taking my
+[18:08] camps. Maybe my bot lane died here. And
+[18:09] if your bot lane died dies here and you
+[18:11] can't trade because like I said, you're
+[18:12] on the same side, right? Just like that
+[18:14] example that was in the introduction.
+[18:15] You're on the same side as them. So, you
+[18:18] will just you can't fight. But in this
+[18:19] case, everything's even. Mid is fairly
+[18:22] even, even though Yasu is a little bit
+[18:23] further ahead. Bot lane is fairly even,
+[18:25] but we have one major advantage here,
+[18:28] the dragon, okay? The dragon. So, I want
+[18:30] to fight.
+[18:31] And no matter what call you make here,
+[18:33] right?
+[18:35] No matter what call you make here, as
+[18:37] long as you are decisive and as long as
+[18:39] you are being objective and you're not
+[18:40] doing this play because you think I need
+[18:43] to get this drag because my last game
+[18:45] the enemy team got dragon soul. No
+[18:47] matter what, be decisive, be objective.
+[18:49] I want to fight this, so I'm clearing
+[18:50] this ward. I'm also level six, I'm
+[18:52] feeling quite strong myself. I think I
+[18:53] had level six advantage over the Kha'Zix
+[18:55] here, potentially. And so, obviously,
+[18:57] I'm just, you know, I'm getting some
+[18:58] pings, so I know that I have time here
+[18:59] because the drake is not completely
+[19:01] dying yet.
+[19:02] I'm looking for a jump spot, but I'm
+[19:03] just spotted everywhere here. And then
+[19:05] I've just decided to fight now. As soon
+[19:06] as I see my Akali moving,
+[19:08] we decide to fight.
+[19:10] And once again, execution here, I I mess
+[19:12] up a little bit.
+[19:14] Um but it ends up being overall
+[19:17] uh a winning
+[19:18] situation.
+[19:21] Yep, definitely should have ordered the
+[19:22] ward there, but that is all good. And
+[19:23] now immediately, right? Just a little
+[19:25] bit of a little bit of uh fundamentals
+[19:27] here, being decisive. So, the
+[19:29] information gathering here is that, you
+[19:30] know, as you recall here,
+[19:33] I am watching, okay? So, we're gathering
+[19:35] the information and we're thinking, can
+[19:37] we kill this Lucian? Because if we
+[19:39] cannot kill this Lucian, if he has flash
+[19:41] in this two v two, I'm decisive here.
+[19:43] That's the main thing.
+[19:44] I'm saying I don't think we can kill
+[19:46] Lucian.
+[19:47] So, I'm going to recall. You know, and
+[19:50] and that's okay. Like even if I made a
+[19:51] wrong choice here, the main thing is
+[19:53] that you're decisive in and that you do
+[19:54] not cancel your recall here to save your
+[19:57] Swain. Okay, why can we not kill this
+[19:59] Lucian? I have no ult, Swain has no ult.
+[20:01] It's 2 v 2, he's full HP, he could have
+[20:03] flash now again. So, once again, the the
+[20:06] information has been gathered and we've
+[20:08] processed it and we are decisive and
+[20:11] we're not coping and we're not thinking
+[20:13] that this guy is going to follow us
+[20:14] around like a like a minion around like
+[20:15] an extra jungle pet, right? This is what
+[20:17] you got to do. To to kind of, you know,
+[20:19] carry these kind of games.
+[20:21] Um now again, we we won a match. We have
+[20:23] top push. We've gathered the information
+[20:25] that Akali here is basing. So, they are
+[20:27] going to have a mid difference in a
+[20:29] second and I completely messed this uh
+[20:32] scenario up um because I just did not
+[20:35] check something and I got punished for
+[20:37] it here, okay? If you guys can guess
+[20:39] what I did not check here,
+[20:41] that's very good, okay? So, the thing
+[20:43] that I did not check here and why I lost
+[20:44] this 1 v 1 so hard, I'll I'll play it
+[20:46] for you guys in a second.
+[20:47] But, the information that I missed here
+[20:49] is that he has an item.
+[20:50] Right? And obviously, as I jump in here,
+[20:52] I don't really have an option not to
+[20:53] fight or to fight. I kind of already
+[20:54] just made that decision, which he was
+[20:56] just stronger here and that's
+[20:59] information that I missed, right? I was
+[21:01] fighting here. I was thinking like,
+[21:02] "Damn, I think I can maybe beat this
+[21:03] guy." Uh this is also my lacking of
+[21:05] champion mastery. This is my lacking of
+[21:07] uh how much, you know, my champion does
+[21:09] with that ult. I'm just kind of useless,
+[21:11] especially when I use my E, my most
+[21:13] important ability, not to play that. Um
+[21:16] but this is also something that you can
+[21:17] learn from, right? When you're when
+[21:18] you're practicing your information
+[21:19] gathering. Uh did I miss my Azir uh my
+[21:22] Akali basing that? Uh did I miss the
+[21:24] fact that he had better items than me?
+[21:25] Uh did I miss the fact that I had no ult
+[21:27] and he had ult? This is things that you
+[21:29] can focus on in in terms of like
+[21:30] improving at this skill.
+[21:33] So, okay, we're pathing out of base
+[21:34] here.
+[21:35] We're taking the top crab.
+[21:37] Simple stuff, not too much to think
+[21:39] about here.
+[21:40] Um and so, once again, this is going to
+[21:42] be the last thing that I got that I kind
+[21:43] of show you guys an example as this
+[21:44] game. So, initially, I saw Kha'Zix going
+[21:48] to the bot side here and this is one of
+[21:49] the situations, right? Where it's a bit
+[21:51] awkward because you have all your camps
+[21:52] up and you're you're a little bit off
+[21:53] tempo, right? You're not actually click
+[21:55] because I had died before and because I
+[21:57] had wasted time, I'm a little bit off
+[21:58] tempo here. So, if I did not have these
+[22:01] wards here, I would take crab and
+[22:02] immediately cross to the bot side
+[22:03] because I know that the Kha'Zix is on
+[22:05] the bot side, okay? That's information.
+[22:07] Before we saw this,
+[22:08] we saw that Kha'Zix is spawning here and
+[22:11] I believe we saw him somewhere.
+[22:15] Or we knew that he took his top side or
+[22:16] something like that.
+[22:18] Okay, so I was feeling like there's a
+[22:19] chance he could have invade my bot side.
+[22:20] Then the second that he shows here,
+[22:22] guys, look at this, right? The sooner
+[22:24] that you see this
+[22:26] and the sooner you react
+[22:29] is how you're going to be able to
+[22:30] actually catch him on the camp. If
+[22:32] you're slow here,
+[22:34] you won't catch him. Okay, so this is
+[22:35] why you have to be
+[22:37] Number one is also a little bit
+[22:38] predicting potentially what the enemy
+[22:40] jungle plays on, what his moves are.
+[22:42] But, number two is just utilizing your
+[22:44] smite, utilizing your E, utilizing the
+[22:45] blast cone, being really fast here,
+[22:47] being really decisive, pinging your
+[22:48] team. A bunch of things that went really
+[22:50] well here and his mess up was that he
+[22:52] actually used his E uh on the camp,
+[22:55] which is a big no-no, okay? If you're
+[22:57] looking to to counter jungle. I'm trying
+[22:58] to cancel it here. I'm trying to do
+[22:59] something here.
+[23:00] He just didn't have his E. And he dies
+[23:02] for it.
+[23:03] So,
+[23:04] this is going to be the early game. Um
+[23:06] we're going to take a look at the mid
+[23:07] game now in terms of, you know, how you
+[23:09] want to process information and how you
+[23:10] want to do these plays.
+[23:12] All right, guys, starting things off,
+[23:13] this is around 14 minutes. We've just
+[23:14] left the base. We're feeling pretty
+[23:16] strong. We've got our one item. So, the
+[23:18] first thing we want to talk about is
+[23:19] just this thing about um again, the same
+[23:21] thing, which is going to be up time and
+[23:22] down time and syncing with our team,
+[23:25] always having an objective to play for
+[23:26] and match trade to minimize. So, all
+[23:28] those things happen here. The very first
+[23:29] thing is we're trying to sync with our
+[23:31] team here. Our Swain gets caught mid.
+[23:33] Okay, this is going to happen in your
+[23:33] games, too. So, we're thinking about
+[23:35] playing for the Rift Herald here, but
+[23:37] this information has happened, which
+[23:39] means that now we want to trade. We want
+[23:41] to take our top side as fast as we can
+[23:43] and maybe just even trade the bot
+[23:44] scuttle or the bot kill on the Azir,
+[23:45] right? So, that's initially what we want
+[23:48] to do here. However, um the enemy
+[23:50] doesn't end up going for the Rift
+[23:51] Herald, but you see the idea is the same
+[23:52] thing here. We don't want to actually go
+[23:54] to the Rift Herald. We don't want to
+[23:55] start the Rift Herald, even though we
+[23:56] initially wanted to play for the Rift
+[23:57] Herald, we end up not going for it. Now,
+[24:00] new information has just popped up.
+[24:02] Numbers game, okay? So, we actually have
+[24:03] Akali move here. And Akali is being a
+[24:06] difference here, right? The Azir is
+[24:07] still bot, she has first move, so then
+[24:09] we end up going for a fight.
+[24:11] So, simply,
+[24:12] we get caught, we respect. We now have a
+[24:15] numbers advantage with Akali moving and
+[24:17] Graves moving as well. We engage. Simply
+[24:20] put, we are trading when they are
+[24:22] stronger because our Swain got caught.
+[24:24] We are matching when we are stronger
+[24:25] because we have two moves, all right?
+[24:27] This is how you can literally apply
+[24:28] these fundamentals, guys. Like, they
+[24:30] literally apply to your games like this
+[24:31] in these situations.
+[24:33] And
+[24:34] the the more you can realize, "Oh, my
+[24:36] Swain got caught, I should not fight."
+[24:38] and "My team is here, I should fight."
+[24:40] the more fights that you will win, okay?
+[24:42] So, now our team is all with we're
+[24:45] playing up time here, right? So, don't
+[24:47] immediately after this kill, do not just
+[24:49] go back to your camps, okay? Look for
+[24:51] enemy camps and look to keep playing up
+[24:53] time, okay? Even though my Graves is
+[24:55] basing here, we still have an advantage
+[24:58] and of course, you don't have to make
+[24:59] like the play here is like honestly a
+[25:01] little bit risky. I should definitely
+[25:02] just look for his camps instead. I think
+[25:04] this is like where you can definitely
+[25:05] throw. Um again, this is a little bit
+[25:08] about limit testing. If you think you
+[25:10] can kill, that is all good. You can go
+[25:12] for the play. If you're doing it out of
+[25:13] the fact that you think that you are
+[25:15] going to lose the game, any kind of
+[25:16] subjective anxiety over anything like
+[25:19] that, my team is going to flame me, then
+[25:21] as for the wrong reason, okay? So, we're
+[25:23] playing up time here, right?
+[25:25] And this was honestly a little bit of a
+[25:27] a little bit of an int decision here, I
+[25:29] think, going for the Rift Herald. This
+[25:30] is actually where you can get caught
+[25:32] because you just played an up time. This
+[25:33] is where I should have based. Or I
+[25:35] should have just gone and farmed my bot
+[25:36] side. So, I don't actually like how I
+[25:38] took the Rift Herald here.
+[25:40] Um of course, you can always play off
+[25:41] information, right? So, the information
+[25:43] that we're playing off is the fact that
+[25:44] Kha'Zix is dead, Azir is dead, uh Graves
+[25:47] is top side. We don't see Malphite, we
+[25:49] don't see Kha'Zix. So, at the end of the
+[25:50] day, it can be a 3 v 4 here, but then
+[25:53] when Akali gets here, it's a 4 v 4.
+[25:55] But yeah, I didn't really like the
+[25:56] decision here to do this.
+[25:58] Um the the the key factor is as well as
+[26:00] that I don't actually immediately base
+[26:01] off this, right? So, when you play up
+[26:03] time, it's all about using your team's
+[26:05] pressure. Like, if your team is dying 3
+[26:07] v 2 here, we want to go and dive the
+[26:09] Malphite or use the Rift Herald top. If
+[26:11] your team is getting if your Swain is
+[26:12] getting ganked here, you want to play up
+[26:14] time and you want to look for things.
+[26:16] So, you can see here my active decision
+[26:18] to not immediately want to base. Then as
+[26:20] soon as my Graves bases, as soon as my
+[26:22] Swain dies, that is what's called down
+[26:24] time. Okay, so you there's a clear up
+[26:26] time and down time here. Up time, our
+[26:27] team is on the map. Down time, our team
+[26:30] is off the map. So, we're just trying to
+[26:31] basically sync when we are on the map to
+[26:34] our team. If our team is on the map,
+[26:36] we want to be on the map. If our team is
+[26:37] off the map, like here, like this is our
+[26:39] teaming off the map. This guy's here,
+[26:41] this guy's here, this guy's basing and
+[26:42] this guy is dead. So, we don't want to
+[26:45] stay doing things anymore. Um and you
+[26:47] got you got to also sync up for the next
+[26:49] sequence, right? The next sequence, you
+[26:51] see how everyone is running out of base
+[26:52] here? Like, this is you this is great
+[26:53] League of Legends. Everyone's on sync
+[26:56] with each other and Swain's a little bit
+[26:57] behind. So, that's why we're going to do
+[26:59] the red buff first and we're going to
+[27:00] wait for Swain. Then when Swain gets
+[27:02] here, look at that beautiful tempo line.
+[27:03] Everyone's in line. So, that's why we
+[27:05] skip the krugs and the the raptors here
+[27:08] because now we are playing up time. Now
+[27:09] we want to get vision. Uh we're going to
+[27:11] use the rift. We're going to do stuff.
+[27:13] That's all you need to know, all right?
+[27:14] The details, I'm not going to go through
+[27:15] the details, but we're looking to do
+[27:16] stuff.
+[27:17] Um and I will say as well, right? There
+[27:19] is also
+[27:21] kind of int there. This is honestly, I'm
+[27:22] just going to blame my own Zac mastery.
+[27:24] I'm just like kind of kind of starting
+[27:25] to pick him up again. I need some more I
+[27:26] need some more time.
+[27:28] But, yeah, the main thing is that we we
+[27:29] think about up time. Okay, so then here
+[27:31] we go. We play the team fight out. Um
+[27:34] I I do some crazy Zac thing where I just
+[27:36] jump in like a like a maniac. I just
+[27:39] jump in. We end up just catching Kha'Zix
+[27:42] and, you know, we activate the sweeper
+[27:44] so we can see him and he just dies here.
+[27:46] Great. We win the fight. So, we we get a
+[27:49] pick. What does that mean? It means that
+[27:51] we win the fight and typically, you
+[27:53] should always just switch to the dragon
+[27:54] here, right? You should switch. Um but,
+[27:56] you know, I want to blow the I want to
+[27:58] blow this guy's flash. I want to blow
+[27:59] his ult. Then as soon as we cannot kill
+[28:01] him anymore, then we switch to the drake
+[28:03] straight away. Objective focused, always
+[28:05] having an objective in mind.
+[28:07] Okay? And then after we take the drake
+[28:08] here,
+[28:10] we go back and play down time. Okay, so
+[28:12] even though my team is actually still on
+[28:13] the map here,
+[28:14] this is where it gets a little bit to a
+[28:15] gray area. Okay, the gray area is if you
+[28:17] can't take anything, if it's not Well,
+[28:19] the Swain is also basing. So, this is
+[28:21] technically a down time time where we
+[28:23] should all be kind of playing down time,
+[28:25] but um
+[28:27] if there is nothing for you to take, so
+[28:29] if you don't think you can take
+[28:30] anything, for example, if you don't
+[28:31] think you can take towers, camps,
+[28:33] whatever it may be. Um and also, the
+[28:35] tempo lines, they need to be pretty
+[28:36] matched here, right? So, like your tempo
+[28:38] lines need to be all the way up like
+[28:39] this. Um it's more so like this to be
+[28:42] able to take these camps as well, okay?
+[28:44] So, you'll see in this game, which I
+[28:46] will like to I haven't actually talked
+[28:48] about this much in my videos in general,
+[28:50] but sometimes there is actually going to
+[28:51] be a a a kind of a gray area where
+[28:54] there's not really going to be much to
+[28:55] do. As you can see here, once again, I'm
+[28:56] trying to sync up with my team. My Karma
+[28:58] is basing
+[29:00] and we're syncing up with our team.
+[29:02] Okay, I'm kind of trolling here, waiting
+[29:03] for Actually, I was waiting for a ward
+[29:05] in here. So, so it's okay to desync if
+[29:07] it's for a good reason. I don't know if
+[29:09] this is a good reason, to be honest with
+[29:10] you. I think like a major item is a good
+[29:12] reason. But, you can see it immediately
+[29:14] now, once we get back on the map, we're
+[29:16] looking to do up time stuff again. What
+[29:17] do we want to do in up time? Up time is
+[29:19] when our team is on the map, when our
+[29:21] team is pushing and our team is pushing
+[29:22] when our team is pushing. So, the reason
+[29:24] why we're doing this right now is
+[29:25] because it's giving
+[29:27] it's relieving pressure so Graves can
+[29:29] push. If we are not doing this right
+[29:31] now, Graves cannot push. Why can Graves
+[29:33] cannot push? Because if he gets ganked,
+[29:37] there will be no trade.
+[29:39] If he gets ganked right now or gets
+[29:40] ganked on the next wave, we can do
+[29:41] Baron. We can take top tower. We can
+[29:43] engage mid. We can take mid tower. This
+[29:45] is what up time is all about.
+[29:47] Okay? and in terms of the information
+[29:49] portion of that, the second that you see
+[29:50] causes like this, you're thinking, "Ooh,
+[29:52] okay. Well, even though my team is
+[29:54] actually in base right now, I can now
+[29:57] kind of
+[29:58] cheat the fundamental because I have
+[30:00] information." Okay, this is where you
+[30:02] can kind of break fundamentals because
+[30:04] you have information.
+[30:06] So, our team's in base here. So, we are
+[30:08] we can still do the stuff. Now, we're
+[30:09] working forwards. Now, Graves is basing.
+[30:12] So, as soon as you see as soon as like
+[30:13] Graves starts to look like he's basing,
+[30:15] I initially wanted to just go back and
+[30:16] do my camps. Um and this is where I
+[30:19] would just say
+[30:20] sometimes, for example here, right?
+[30:23] My team is all on this tempo line. Okay,
+[30:25] so this is this is the one thing I have
+[30:26] to explain, the one gray area.
+[30:28] If you don't think, especially cuz this
+[30:30] game is quite even, right? And
+[30:31] especially when you're in a in a game
+[30:32] where you're behind as well, you're not
+[30:34] always going to be able to play like you
+[30:38] know, let's just say we want to play for
+[30:39] the camp. So, that's like on this line.
+[30:41] You're not always going to be able to do
+[30:42] that, especially in an even game because
+[30:44] basically, yeah, the the they can they
+[30:46] can beat you. They can kill you. You're
+[30:47] not actually stronger than them. So, the
+[30:49] the objective that we're playing for is
+[30:50] top tower here, but sometimes there are
+[30:52] these nuances in the game where like a
+[30:54] Malphite is a really going to weak side
+[30:55] champion, and we just simply cannot
+[30:57] actually break top tower. So, this is
+[30:59] called, you know, a lull phase. We're
+[31:00] basically just waiting for Drake, and
+[31:02] it's okay. It's okay to just wait for
+[31:03] Drake, right? You can see that. Um I'm
+[31:06] still technically kind of similar to my
+[31:07] team's tempo line here if I farm my
+[31:09] camps, but it is okay to farm your camps
+[31:11] here even when your team is on the map
+[31:13] as long as you are the most important
+[31:15] thing again is just about being in
+[31:16] proximity to things, right? The reason
+[31:19] why you want to take Raptors over that
+[31:21] here generally, if you can, is so you're
+[31:23] closer to these things. But you're not
+[31:24] always going to be able to do that.
+[31:26] Okay?
+[31:27] So, yeah, you see here as soon as the
+[31:28] fight starts happening,
+[31:30] I immediately smite and move, right?
+[31:32] Like I'm still really conscious, and I'm
+[31:35] still Look at that. So, once again here,
+[31:37] click and pan. You can still see it even
+[31:39] exists in the mid game. We're clicking,
+[31:41] we're panning, we're analyzing. Does
+[31:43] this look good? Does this look bad?
+[31:44] Okay, this doesn't look good.
+[31:46] So, as soon as I realize this doesn't
+[31:47] look good, what are we going to do?
+[31:48] We're going to check for camps. We're
+[31:49] going to farm some information. Graves
+[31:51] bases. What are we doing Graves' bases?
+[31:53] Okay, we're looking like we're engaging.
+[31:55] This is a bit of cope.
+[31:57] Yeah, I remember this actually. This was
+[31:58] super cope. So, as you can see here, I'm
+[32:01] doing the mistake. I'm not looking at
+[32:03] this in an objective way. I'm not
+[32:04] looking at this as, "Okay, Karma's got
+[32:06] caught. Akali died." That's it.
+[32:08] You know, we're we're we're doing the
+[32:12] the non-objective decision.
+[32:14] Which is
+[32:15] Okay, just fight mid on the downtime and
+[32:18] because our team got caught.
+[32:21] So, this is a a big mistake.
+[32:23] Big mistake. We flash out.
+[32:26] We reset. We decide here that we want to
+[32:28] match the Baron. Okay, why do we want to
+[32:30] match the Baron? Because the answer is
+[32:32] bot bot lane. It is 3 v 4, but they used
+[32:36] a lot of abilities to kill us there, and
+[32:39] the Baron is an enemy. Same same way the
+[32:41] Drake is an enemy. When you do these
+[32:42] objectives, especially at 23 minutes,
+[32:45] we're we're we're um you know, we're
+[32:46] matching. That's it. And whether or not
+[32:48] you're correct about this or wrong about
+[32:49] this,
+[32:50] that's all good. As long as you're, once
+[32:52] again, objective, decisive,
+[32:54] you go for it. We end up smiting and
+[32:57] winning the smite fight.
+[32:59] And I think we end up winning the fight
+[33:00] here as well.
+[33:03] Okay, so
+[33:05] the rest of this game is, I think, us
+[33:07] uh winning some fights, playing some
+[33:10] downtime,
+[33:12] going for a team fight.
+[33:15] My Zac really needs some work still in
+[33:17] some of these fights.
+[33:18] As soon as you win a fight, guys, really
+[33:20] think like what can you take?
+[33:22] So, you know, you're looking for
+[33:24] objectives, you're looking for camps,
+[33:26] then you're playing downtime. Really
+[33:28] make sure you don't die in this
+[33:29] downtime. And that's just the flow of
+[33:30] the game there.
+[33:32] Karma bases. We're waiting. We're
+[33:34] picking. We're playing up time.
+[33:37] We're playing up time. We're playing up
+[33:39] time. You know, we're not on our camps
+[33:41] here cuz our team is all pushed up.
+[33:43] Karma is now basing, so I'm kind of
+[33:44] inting
+[33:46] cuz I'm not paying attention, right?
+[33:49] Should be looking for camps.
+[33:52] Again, playing up time. Whole team is
+[33:54] here fighting Drake. So, I think I'll
+[33:56] wrap it up here.
+[33:57] Um
+[33:59] you know, we end up
+[34:00] winning the game. And
+[34:03] yeah, they end up just actually
+[34:05] overextending at the end. We win. So,
+[34:07] yeah, if you're able to learn something
+[34:08] from this video about how to
+[34:11] make decisions, how to gather
+[34:12] information, and kind of the mentality
+[34:14] about being decisive and, you know,
+[34:17] objective. Again, you see even I'm
+[34:19] making the mistakes. It's okay to make
+[34:20] the mistakes. It's fine. Something to
+[34:22] work on, right? Something to improve.
+[34:24] Focus on improvement. Don't focus on LP,
+[34:26] and I'll see you guys on the next vid.
+[34:28] Peace.

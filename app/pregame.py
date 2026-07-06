@@ -45,10 +45,19 @@ def build_pregame_prompt(ours: list[str], enemy: list[str], notes: str | None = 
     sections_text = load_sections(PREGAME_SECTIONS)
     notes_block = f"\nPlayer notes: {notes}\n" if notes else ""
 
+    # Deterministic grounding: current-patch champion facts + enemy jungler baseline
+    from analysis.champion_data import draft_facts_block, jungler_baseline_block
+    facts = draft_facts_block(ours, enemy)
+    facts_block = f"{facts}\n\n---\n\n" if facts else ""
+    enemy_jgl = jungler_baseline_block(enemy[1])
+    enemy_jgl_block = f"{enemy_jgl}\n---\n\n" if enemy_jgl else ""
+
     return (
         f"{house_block}"
         f"# COACHING KNOWLEDGE (sections: {', '.join(PREGAME_SECTIONS)})\n\n"
         f"{sections_text}\n\n---\n\n"
+        f"{facts_block}"
+        f"{enemy_jgl_block}"
         f"# THE DRAFT (our champion vs enemy champion per role)\n"
         f"The player is the JUNGLER on our team ({ours[1]}).\n\n"
         f"{draft}\n"
@@ -57,12 +66,14 @@ def build_pregame_prompt(ours: list[str], enemy: list[str], notes: str | None = 
     )
 
 
-def run_pregame(ours: list[str], enemy: list[str], notes: str | None = None) -> str:
+def run_pregame(ours: list[str], enemy: list[str], notes: str | None = None,
+                model: str | None = None) -> str:
     """One LLM call -> game-plan card markdown."""
     from app.llm_client import generate_text
 
     prompt = build_pregame_prompt(ours, enemy, notes)
-    return generate_text(prompt, system=SYSTEM_PROMPT, temperature=0.4, max_tokens=6000)
+    return generate_text(prompt, system=SYSTEM_PROMPT, temperature=0.4, max_tokens=6000,
+                         model=model)
 
 
 def save_pregame(card_md: str, ours: list[str], enemy: list[str]) -> str:

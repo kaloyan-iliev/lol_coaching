@@ -1,0 +1,145 @@
+{
+  "champion": "Rengar",
+  "role": "JUNGLE",
+  "n_games": 11,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.64,
+  "cs_at_10": {
+    "p25": 71.0,
+    "median": 75,
+    "p75": 79.0,
+    "n": 11
+  },
+  "cs_at_15": {
+    "p25": 92.0,
+    "median": 115,
+    "p75": 124.0,
+    "n": 11
+  },
+  "first_gank_t_s": {
+    "p25": 198.0,
+    "median": 374,
+    "p75": 598.0,
+    "n": 11
+  },
+  "first_reset_s": {
+    "p25": 205.0,
+    "median": 213,
+    "p75": 230.0,
+    "n": 11
+  },
+  "full_clear_end_s": {
+    "p25": 180.0,
+    "median": 300.0,
+    "p75": 345.0,
+    "n": 10
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 3.0,
+    "n": 11
+  },
+  "deaths_total": {
+    "p25": 4.0,
+    "median": 6,
+    "p75": 9.0,
+    "n": 11
+  },
+  "gank_involvements": {
+    "p25": 1.0,
+    "median": 9,
+    "p75": 11.0,
+    "n": 11
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 1,
+    "p75": 4.0,
+    "n": 11
+  },
+  "wards_placed": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 12.0,
+    "n": 11
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 0,
+    "p75": 1.0,
+    "n": 11
+  },
+  "wards_killed": {
+    "p25": 3.0,
+    "median": 5,
+    "p75": 10.0,
+    "n": 11
+  },
+  "first_objective_participation_rate": 0.24,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 70.0,
+      "median": 72.0,
+      "p75": 76.5,
+      "n": 11
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -55.5,
+      "median": -53.0,
+      "p75": -42.6,
+      "n": 11
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1,
+      "p75": 1.0,
+      "n": 11
+    },
+    "scuttle_crab_kills": {
+      "p25": 1.0,
+      "median": 5,
+      "p75": 6.0,
+      "n": 11
+    },
+    "vision_score_per_minute": {
+      "p25": 0.6,
+      "median": 1.0,
+      "p75": 1.5,
+      "n": 11
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 1.0,
+      "n": 11
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 2.0,
+      "median": 4,
+      "p75": 6.0,
+      "n": 11
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 1.0,
+      "median": 2,
+      "p75": 3.0,
+      "n": 11
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 1.0,
+      "n": 11
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 369.5,
+      "median": 866.8,
+      "p75": 1291.2,
+      "n": 9
+    }
+  },
+  "note": "Master+ EUW Rengar jungle. Quartiles over small n - treat as reference range, not law."
+}

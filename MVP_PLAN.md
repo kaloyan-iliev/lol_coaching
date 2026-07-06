@@ -1,5 +1,11 @@
 # MVP Plan: LoL Jungle Screenshot Coach
 
+> **STATUS (2026-07-05): shipped 2026-07-03; historical.** The MVP was built and then
+> outgrown — what shipped differs from this plan mainly in that the screenshot coach
+> became a Streamlit tab rather than the centerpiece, and the post-game analyzer
+> (deterministic Riot facts + baselines + tripwires) became the real product core.
+> Current state: [ROADMAP.md](ROADMAP.md) · resume via [docs/HANDOVER.md](docs/HANDOVER.md).
+
 ## Goal
 Send a LoL screenshot + question -> get coaching advice grounded in your trusted coaches' methodology.
 

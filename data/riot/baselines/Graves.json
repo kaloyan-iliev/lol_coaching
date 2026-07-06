@@ -1,0 +1,145 @@
+{
+  "champion": "Graves",
+  "role": "JUNGLE",
+  "n_games": 22,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.59,
+  "cs_at_10": {
+    "p25": 65.5,
+    "median": 76.0,
+    "p75": 83.5,
+    "n": 22
+  },
+  "cs_at_15": {
+    "p25": 103.2,
+    "median": 124.0,
+    "p75": 139.2,
+    "n": 22
+  },
+  "first_gank_t_s": {
+    "p25": 180.5,
+    "median": 241.5,
+    "p75": 388.0,
+    "n": 22
+  },
+  "first_reset_s": {
+    "p25": 201.0,
+    "median": 223.0,
+    "p75": 252.5,
+    "n": 22
+  },
+  "full_clear_end_s": {
+    "p25": 300.0,
+    "median": 330.0,
+    "p75": 405.0,
+    "n": 16
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 22
+  },
+  "deaths_total": {
+    "p25": 3.0,
+    "median": 5.0,
+    "p75": 7.0,
+    "n": 22
+  },
+  "gank_involvements": {
+    "p25": 4.0,
+    "median": 7.0,
+    "p75": 10.2,
+    "n": 22
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 22
+  },
+  "wards_placed": {
+    "p25": 2.8,
+    "median": 3.5,
+    "p75": 6.0,
+    "n": 22
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 1.0,
+    "p75": 2.0,
+    "n": 22
+  },
+  "wards_killed": {
+    "p25": 1.8,
+    "median": 4.0,
+    "p75": 7.0,
+    "n": 22
+  },
+  "first_objective_participation_rate": 0.5,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 59.9,
+      "median": 72.7,
+      "p75": 82.3,
+      "n": 22
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -59.5,
+      "median": -50.6,
+      "p75": -40.2,
+      "n": 22
+    },
+    "initial_crab_count": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 22
+    },
+    "scuttle_crab_kills": {
+      "p25": 1.0,
+      "median": 4.0,
+      "p75": 5.2,
+      "n": 22
+    },
+    "vision_score_per_minute": {
+      "p25": 0.8,
+      "median": 1.0,
+      "p75": 1.1,
+      "n": 22
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.0,
+      "n": 22
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.0,
+      "median": 2.0,
+      "p75": 3.0,
+      "n": 22
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 2.0,
+      "p75": 2.2,
+      "n": 22
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 1.0,
+      "n": 22
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 393.9,
+      "median": 469.5,
+      "p75": 1191.9,
+      "n": 19
+    }
+  },
+  "note": "Master+ EUW Graves jungle. Quartiles over small n - treat as reference range, not law."
+}

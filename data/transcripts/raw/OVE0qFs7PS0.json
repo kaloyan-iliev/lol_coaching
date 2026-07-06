@@ -1,0 +1,5922 @@
+[
+  {
+    "text": "So the three things we've already seen,",
+    "start": 0.0,
+    "duration": 3.36
+  },
+  {
+    "text": "tempo, information gathering, and",
+    "start": 1.64,
+    "duration": 3.56
+  },
+  {
+    "text": "execution, all already has happened in",
+    "start": 3.36,
+    "duration": 3.56
+  },
+  {
+    "text": "this game within the first 5 minutes of",
+    "start": 5.2,
+    "duration": 3.48
+  },
+  {
+    "text": "the game. What is up Jungle Gap is today",
+    "start": 6.92,
+    "duration": 3.28
+  },
+  {
+    "text": "I have a really insane video for you",
+    "start": 8.68,
+    "duration": 3.72
+  },
+  {
+    "text": "where you are going to learn what is at",
+    "start": 10.2,
+    "duration": 4.84
+  },
+  {
+    "text": "the core foundation of jungling and",
+    "start": 12.4,
+    "duration": 5.28
+  },
+  {
+    "text": "ultimately impacting games to climb. In",
+    "start": 15.04,
+    "duration": 4.12
+  },
+  {
+    "text": "this video I'm going to be explaining my",
+    "start": 17.68,
+    "duration": 3.6
+  },
+  {
+    "text": "exact thought process to be as relatable",
+    "start": 19.16,
+    "duration": 4.16
+  },
+  {
+    "text": "to an actual game as possible covering",
+    "start": 21.28,
+    "duration": 4.04
+  },
+  {
+    "text": "these three principles of jungling. The",
+    "start": 23.32,
+    "duration": 4.36
+  },
+  {
+    "text": "first principle is of course tempo,",
+    "start": 25.32,
+    "duration": 4.24
+  },
+  {
+    "text": "which is how we use our time. The next",
+    "start": 27.68,
+    "duration": 3.64
+  },
+  {
+    "text": "principle is information gathering,",
+    "start": 29.56,
+    "duration": 3.44
+  },
+  {
+    "text": "which is how we make decisions, and",
+    "start": 31.32,
+    "duration": 4.16
+  },
+  {
+    "text": "lastly execution, which is how we fight",
+    "start": 33.0,
+    "duration": 4.16
+  },
+  {
+    "text": "or gank. Now, the reason I know that",
+    "start": 35.48,
+    "duration": 2.84
+  },
+  {
+    "text": "these are the most important",
+    "start": 37.16,
+    "duration": 3.4
+  },
+  {
+    "text": "fundamentals to jungling is because I",
+    "start": 38.32,
+    "duration": 4.2
+  },
+  {
+    "text": "have played at Worlds multiple times, I",
+    "start": 40.56,
+    "duration": 3.08
+  },
+  {
+    "text": "am challenger in solo queue every",
+    "start": 42.52,
+    "duration": 3.4
+  },
+  {
+    "text": "season, and I have coached hundreds of",
+    "start": 43.64,
+    "duration": 3.92
+  },
+  {
+    "text": "players, most of them specifically",
+    "start": 45.92,
+    "duration": 3.08
+  },
+  {
+    "text": "having results from these core",
+    "start": 47.56,
+    "duration": 3.2
+  },
+  {
+    "text": "principles. If you are interested in",
+    "start": 49.0,
+    "duration": 3.92
+  },
+  {
+    "text": "fast-tracking your climb, I offer group",
+    "start": 50.76,
+    "duration": 4.04
+  },
+  {
+    "text": "coaching and one-on-one coaching, so",
+    "start": 52.92,
+    "duration": 2.96
+  },
+  {
+    "text": "check the links in the description",
+    "start": 54.8,
+    "duration": 2.64
+  },
+  {
+    "text": "below. Without further ado, let's get",
+    "start": 55.88,
+    "duration": 3.52
+  },
+  {
+    "text": "into it. Welcome back to Jungle Gap",
+    "start": 57.44,
+    "duration": 4.72
+  },
+  {
+    "text": "everybody. Coach Leo here. Core jungle",
+    "start": 59.4,
+    "duration": 5.159
+  },
+  {
+    "text": "principles to climb consistently, and",
+    "start": 62.16,
+    "duration": 3.72
+  },
+  {
+    "text": "these are three principles that you're",
+    "start": 64.559,
+    "duration": 3.041
+  },
+  {
+    "text": "really going to always be able to refer",
+    "start": 65.88,
+    "duration": 4.04
+  },
+  {
+    "text": "back to when you are playing, you know,",
+    "start": 67.6,
+    "duration": 4.56
+  },
+  {
+    "text": "whether in a 20 winning streak or a 20",
+    "start": 69.92,
+    "duration": 4.32
+  },
+  {
+    "text": "losing streak, these are going to be the",
+    "start": 72.16,
+    "duration": 3.36
+  },
+  {
+    "text": "principles that you can always come back",
+    "start": 74.24,
+    "duration": 2.84
+  },
+  {
+    "text": "to and they never change. This is why",
+    "start": 75.52,
+    "duration": 4.32
+  },
+  {
+    "text": "it's so consistent for climbing. And the",
+    "start": 77.08,
+    "duration": 5.52
+  },
+  {
+    "text": "very first principle is how we use our",
+    "start": 79.84,
+    "duration": 4.48
+  },
+  {
+    "text": "tempo. And you know, tempo getting",
+    "start": 82.6,
+    "duration": 4.32
+  },
+  {
+    "text": "started here has to do with how I use",
+    "start": 84.32,
+    "duration": 4.52
+  },
+  {
+    "text": "your time. And one of those things about",
+    "start": 86.92,
+    "duration": 3.8
+  },
+  {
+    "text": "how you use your time is your clear",
+    "start": 88.84,
+    "duration": 4.16
+  },
+  {
+    "text": "speed and how fast that you clear camps.",
+    "start": 90.72,
+    "duration": 4.24
+  },
+  {
+    "text": "Um you know, a funny stat was done where",
+    "start": 93.0,
+    "duration": 3.64
+  },
+  {
+    "text": "like, you know, you compared diamond",
+    "start": 94.96,
+    "duration": 3.96
+  },
+  {
+    "text": "players to, you know, plat players and",
+    "start": 96.64,
+    "duration": 4.4
+  },
+  {
+    "text": "plat players. And within each of the",
+    "start": 98.92,
+    "duration": 4.44
+  },
+  {
+    "text": "different ranks, one of the main uh",
+    "start": 101.04,
+    "duration": 4.08
+  },
+  {
+    "text": "things that were",
+    "start": 103.36,
+    "duration": 4.92
+  },
+  {
+    "text": "talked about, which oh my goodness,",
+    "start": 105.12,
+    "duration": 4.76
+  },
+  {
+    "text": "is the clear speed. And sometimes when",
+    "start": 108.28,
+    "duration": 3.4
+  },
+  {
+    "text": "you go for too fast, you'll you'll, you",
+    "start": 109.88,
+    "duration": 3.6
+  },
+  {
+    "text": "know, look, you don't need to be setting",
+    "start": 111.68,
+    "duration": 3.2
+  },
+  {
+    "text": "any world records, but clear speed is a",
+    "start": 113.48,
+    "duration": 2.6
+  },
+  {
+    "text": "very important thing to do with your",
+    "start": 114.88,
+    "duration": 5.04
+  },
+  {
+    "text": "tempo. Okay, so tempo is the first key",
+    "start": 116.08,
+    "duration": 6.32
+  },
+  {
+    "text": "concept and core fundamental of",
+    "start": 119.92,
+    "duration": 4.36
+  },
+  {
+    "text": "jungling. Okay? And we're going to be",
+    "start": 122.4,
+    "duration": 3.0
+  },
+  {
+    "text": "talking about it more in this game,",
+    "start": 124.28,
+    "duration": 3.68
+  },
+  {
+    "text": "which is camps up versus camps down. And",
+    "start": 125.4,
+    "duration": 4.16
+  },
+  {
+    "text": "essentially what that is is that if we",
+    "start": 127.96,
+    "duration": 4.48
+  },
+  {
+    "text": "have camps to farm, we are only going to",
+    "start": 129.56,
+    "duration": 4.76
+  },
+  {
+    "text": "go for plays, you know, if our camps are",
+    "start": 132.44,
+    "duration": 3.64
+  },
+  {
+    "text": "alive, we're only going to go for ganks,",
+    "start": 134.32,
+    "duration": 4.04
+  },
+  {
+    "text": "for invades, for objectives, for any of",
+    "start": 136.08,
+    "duration": 3.96
+  },
+  {
+    "text": "these things",
+    "start": 138.36,
+    "duration": 3.4
+  },
+  {
+    "text": "if we think it's very high percentage.",
+    "start": 140.04,
+    "duration": 2.76
+  },
+  {
+    "text": "Okay?",
+    "start": 141.76,
+    "duration": 2.92
+  },
+  {
+    "text": "And the last thing to do with tempo is",
+    "start": 142.8,
+    "duration": 3.4
+  },
+  {
+    "text": "our base timers. So I'm also going to be",
+    "start": 144.68,
+    "duration": 3.76
+  },
+  {
+    "text": "talking about base timers in this game",
+    "start": 146.2,
+    "duration": 3.759
+  },
+  {
+    "text": "and",
+    "start": 148.44,
+    "duration": 2.88
+  },
+  {
+    "text": "you know, when are good times to base,",
+    "start": 149.959,
+    "duration": 2.761
+  },
+  {
+    "text": "when are when are, you know, these these",
+    "start": 151.32,
+    "duration": 2.92
+  },
+  {
+    "text": "other things.",
+    "start": 152.72,
+    "duration": 3.28
+  },
+  {
+    "text": "Um and I again, that's to do with",
+    "start": 154.24,
+    "duration": 4.28
+  },
+  {
+    "text": "maximizing your tempo. Okay? The next",
+    "start": 156.0,
+    "duration": 3.64
+  },
+  {
+    "text": "key principle that we're going to be",
+    "start": 158.52,
+    "duration": 2.92
+  },
+  {
+    "text": "talking about in this video is the",
+    "start": 159.64,
+    "duration": 3.8
+  },
+  {
+    "text": "information gathering. Okay? What does",
+    "start": 161.44,
+    "duration": 3.6
+  },
+  {
+    "text": "that mean? What is What is information",
+    "start": 163.44,
+    "duration": 4.48
+  },
+  {
+    "text": "gathering? Essentially, it is mini map",
+    "start": 165.04,
+    "duration": 4.68
+  },
+  {
+    "text": "prompts, it is panning your camera to",
+    "start": 167.92,
+    "duration": 4.48
+  },
+  {
+    "text": "lanes, it is noticing things in chat.",
+    "start": 169.72,
+    "duration": 4.64
+  },
+  {
+    "text": "And it it also is the idea of the match",
+    "start": 172.4,
+    "duration": 3.52
+  },
+  {
+    "text": "trade minimize, which is something that",
+    "start": 174.36,
+    "duration": 3.12
+  },
+  {
+    "text": "I've come up with on my own, and also",
+    "start": 175.92,
+    "duration": 3.52
+  },
+  {
+    "text": "things like the click and pan.",
+    "start": 177.48,
+    "duration": 3.4
+  },
+  {
+    "text": "So, these are all going to be things",
+    "start": 179.44,
+    "duration": 2.24
+  },
+  {
+    "text": "that we're going to be talking about in",
+    "start": 180.88,
+    "duration": 2.24
+  },
+  {
+    "text": "this video.",
+    "start": 181.68,
+    "duration": 4.8
+  },
+  {
+    "text": "And the last key is the execution. Okay,",
+    "start": 183.12,
+    "duration": 5.56
+  },
+  {
+    "text": "so these three things, which is tempo,",
+    "start": 186.48,
+    "duration": 4.44
+  },
+  {
+    "text": "decision-making, and execution, is",
+    "start": 188.68,
+    "duration": 4.6
+  },
+  {
+    "text": "basically what jungling is. Okay? That",
+    "start": 190.92,
+    "duration": 3.68
+  },
+  {
+    "text": "That's That's the three things. That's",
+    "start": 193.28,
+    "duration": 2.56
+  },
+  {
+    "text": "all you got to pretty much worry about.",
+    "start": 194.6,
+    "duration": 2.8
+  },
+  {
+    "text": "Of course, there's other things,",
+    "start": 195.84,
+    "duration": 3.399
+  },
+  {
+    "text": "but things like this, click and pan, you",
+    "start": 197.4,
+    "duration": 2.92
+  },
+  {
+    "text": "got to click to the fight, you got to",
+    "start": 199.239,
+    "duration": 3.121
+  },
+  {
+    "text": "pan your camera. All right, information",
+    "start": 200.32,
+    "duration": 4.0
+  },
+  {
+    "text": "gathering, Kayn has done not his full",
+    "start": 202.36,
+    "duration": 4.24
+  },
+  {
+    "text": "clear, so I immediately want to kind of,",
+    "start": 204.32,
+    "duration": 3.199
+  },
+  {
+    "text": "you know,",
+    "start": 206.6,
+    "duration": 2.32
+  },
+  {
+    "text": "check what's going on here. Okay, my",
+    "start": 207.519,
+    "duration": 3.161
+  },
+  {
+    "text": "Thresh is backing me, I'm noticing the",
+    "start": 208.92,
+    "duration": 2.92
+  },
+  {
+    "text": "mini map prompts here that my team is",
+    "start": 210.68,
+    "duration": 2.64
+  },
+  {
+    "text": "basing. So, I instead I'm going to",
+    "start": 211.84,
+    "duration": 2.84
+  },
+  {
+    "text": "instantly base here and run to the top",
+    "start": 213.32,
+    "duration": 2.48
+  },
+  {
+    "text": "crab.",
+    "start": 214.68,
+    "duration": 2.0
+  },
+  {
+    "text": "Right? And this is also about",
+    "start": 215.8,
+    "duration": 2.8
+  },
+  {
+    "text": "adaptation, of course. Mini map and just",
+    "start": 216.68,
+    "duration": 3.92
+  },
+  {
+    "text": "being aware of stuff like this",
+    "start": 218.6,
+    "duration": 4.48
+  },
+  {
+    "text": "um is, you know, very, very important",
+    "start": 220.6,
+    "duration": 4.4
+  },
+  {
+    "text": "because, you know, initially I'm like,",
+    "start": 223.08,
+    "duration": 3.24
+  },
+  {
+    "text": "well, I'm level four, this guy's level",
+    "start": 225.0,
+    "duration": 3.44
+  },
+  {
+    "text": "three, and what's going on? Okay, this",
+    "start": 226.32,
+    "duration": 3.4
+  },
+  {
+    "text": "is very interesting here now. He's",
+    "start": 228.44,
+    "duration": 3.0
+  },
+  {
+    "text": "actually going to cross to the top crab.",
+    "start": 229.72,
+    "duration": 3.12
+  },
+  {
+    "text": "And because I have done information",
+    "start": 231.44,
+    "duration": 3.68
+  },
+  {
+    "text": "gathering, I actually know that he is",
+    "start": 232.84,
+    "duration": 3.44
+  },
+  {
+    "text": "or one of his camps on the bottom is",
+    "start": 235.12,
+    "duration": 3.28
+  },
+  {
+    "text": "still up here. So, yeah, unfortunately,",
+    "start": 236.28,
+    "duration": 3.8
+  },
+  {
+    "text": "this game is a little bit a little bit",
+    "start": 238.4,
+    "duration": 3.12
+  },
+  {
+    "text": "different to the to the normal game",
+    "start": 240.08,
+    "duration": 3.56
+  },
+  {
+    "text": "here. Um but I'm still going to just do",
+    "start": 241.52,
+    "duration": 3.6
+  },
+  {
+    "text": "my best to adapt to the situation. I",
+    "start": 243.64,
+    "duration": 2.76
+  },
+  {
+    "text": "still know he has not done a camp here,",
+    "start": 245.12,
+    "duration": 2.16
+  },
+  {
+    "text": "so",
+    "start": 246.4,
+    "duration": 2.08
+  },
+  {
+    "text": "we're going to go for that. Now we're",
+    "start": 247.28,
+    "duration": 2.16
+  },
+  {
+    "text": "looking at the chat again, you know,",
+    "start": 248.48,
+    "duration": 2.4
+  },
+  {
+    "text": "your mid laner starts spam pinging you.",
+    "start": 249.44,
+    "duration": 2.92
+  },
+  {
+    "text": "He's like spam pinging, he's like, \"Yo,",
+    "start": 250.88,
+    "duration": 3.0
+  },
+  {
+    "text": "yo, please come and do this.\" But I",
+    "start": 252.36,
+    "duration": 3.879
+  },
+  {
+    "text": "checked here, and I know that he does",
+    "start": 253.88,
+    "duration": 3.88
+  },
+  {
+    "text": "not have",
+    "start": 256.239,
+    "duration": 2.961
+  },
+  {
+    "text": "He has his flash, right? He He hasn't",
+    "start": 257.76,
+    "duration": 3.039
+  },
+  {
+    "text": "pinged his flash at all.",
+    "start": 259.2,
+    "duration": 2.48
+  },
+  {
+    "text": "So, I'm going to take the Gromp here,",
+    "start": 260.799,
+    "duration": 2.521
+  },
+  {
+    "text": "and I'm going to cross gang mid. Uh back",
+    "start": 261.68,
+    "duration": 3.12
+  },
+  {
+    "text": "to my top side. I'm having a look again.",
+    "start": 263.32,
+    "duration": 2.68
+  },
+  {
+    "text": "I'm information gathering here on the",
+    "start": 264.8,
+    "duration": 2.92
+  },
+  {
+    "text": "bot side. I'm checking how this is going",
+    "start": 266.0,
+    "duration": 3.12
+  },
+  {
+    "text": "to work.",
+    "start": 267.72,
+    "duration": 2.36
+  },
+  {
+    "text": "Now I'm going to ping on the way cuz I",
+    "start": 269.12,
+    "duration": 3.64
+  },
+  {
+    "text": "want to cross back to my Gromp here.",
+    "start": 270.08,
+    "duration": 4.0
+  },
+  {
+    "text": "Going to walk up. I know Kayn is top",
+    "start": 272.76,
+    "duration": 2.28
+  },
+  {
+    "text": "side, so I'm going to ping that real",
+    "start": 274.08,
+    "duration": 2.76
+  },
+  {
+    "text": "quick. Going to hold all my abilities",
+    "start": 275.04,
+    "duration": 2.76
+  },
+  {
+    "text": "here. I'm going to look, I'm holding my",
+    "start": 276.84,
+    "duration": 2.079
+  },
+  {
+    "text": "abilities. I'm going to wait for the",
+    "start": 277.8,
+    "duration": 2.24
+  },
+  {
+    "text": "charm to come out, then I'm going to",
+    "start": 278.919,
+    "duration": 3.041
+  },
+  {
+    "text": "throw my EQ. If he flashes, I have flash",
+    "start": 280.04,
+    "duration": 3.2
+  },
+  {
+    "text": "to follow.",
+    "start": 281.96,
+    "duration": 2.6
+  },
+  {
+    "text": "Huge.",
+    "start": 283.24,
+    "duration": 2.44
+  },
+  {
+    "text": "Now I'm going to help push this guy's",
+    "start": 284.56,
+    "duration": 3.32
+  },
+  {
+    "text": "lane out because I know that he wants to",
+    "start": 285.68,
+    "duration": 4.68
+  },
+  {
+    "text": "base.",
+    "start": 287.88,
+    "duration": 2.48
+  },
+  {
+    "text": "Who knows? He could be typing out an",
+    "start": 291.36,
+    "duration": 2.48
+  },
+  {
+    "text": "essay here. This is something that you",
+    "start": 292.56,
+    "duration": 3.04
+  },
+  {
+    "text": "need to recognize when you play jungle,",
+    "start": 293.84,
+    "duration": 4.0
+  },
+  {
+    "text": "most hated role in the entire game.",
+    "start": 295.6,
+    "duration": 4.52
+  },
+  {
+    "text": "You got to know that um yeah, people are",
+    "start": 297.84,
+    "duration": 3.68
+  },
+  {
+    "text": "people are going to have it out for you.",
+    "start": 300.12,
+    "duration": 2.36
+  },
+  {
+    "text": "All right, so information gathering",
+    "start": 301.52,
+    "duration": 2.28
+  },
+  {
+    "text": "here, you can see I'm clicking to my",
+    "start": 302.48,
+    "duration": 2.72
+  },
+  {
+    "text": "Gromp here, and I'm panning my camera",
+    "start": 303.8,
+    "duration": 3.119
+  },
+  {
+    "text": "here. I'm panning my camera here cuz I'm",
+    "start": 305.2,
+    "duration": 3.12
+  },
+  {
+    "text": "wondering what this Kayn is going to do",
+    "start": 306.919,
+    "duration": 3.041
+  },
+  {
+    "text": "next. Is he going to go to his bot side?",
+    "start": 308.32,
+    "duration": 3.36
+  },
+  {
+    "text": "Look at that. Little bit of information",
+    "start": 309.96,
+    "duration": 3.8
+  },
+  {
+    "text": "there, I saw him going to his bot side.",
+    "start": 311.68,
+    "duration": 3.68
+  },
+  {
+    "text": "So, now I know he's going to his wolves,",
+    "start": 313.76,
+    "duration": 2.84
+  },
+  {
+    "text": "and I can ping that, and I can do this",
+    "start": 315.36,
+    "duration": 2.32
+  },
+  {
+    "text": "kind of thing.",
+    "start": 316.6,
+    "duration": 2.48
+  },
+  {
+    "text": "So, the three things we've already seen,",
+    "start": 317.68,
+    "duration": 3.72
+  },
+  {
+    "text": "tempo, information gathering, and",
+    "start": 319.08,
+    "duration": 4.36
+  },
+  {
+    "text": "execution, all already has happened in",
+    "start": 321.4,
+    "duration": 3.12
+  },
+  {
+    "text": "this game.",
+    "start": 323.44,
+    "duration": 3.72
+  },
+  {
+    "text": "Within the first 5 minutes of the game.",
+    "start": 324.52,
+    "duration": 4.08
+  },
+  {
+    "text": "Um and and when you're when you're",
+    "start": 327.16,
+    "duration": 3.16
+  },
+  {
+    "text": "looking to, you know, I like to have",
+    "start": 328.6,
+    "duration": 2.92
+  },
+  {
+    "text": "this concept called the click in the",
+    "start": 330.32,
+    "duration": 3.2
+  },
+  {
+    "text": "pan. Okay, so you don't have to be like",
+    "start": 331.52,
+    "duration": 3.76
+  },
+  {
+    "text": "F'ing like this, right? Okay, you don't",
+    "start": 333.52,
+    "duration": 3.2
+  },
+  {
+    "text": "even need to do this. It is actually",
+    "start": 335.28,
+    "duration": 3.639
+  },
+  {
+    "text": "better that you information gather um",
+    "start": 336.72,
+    "duration": 4.04
+  },
+  {
+    "text": "when you're actually going to digest the",
+    "start": 338.919,
+    "duration": 3.521
+  },
+  {
+    "text": "information, you know, processing",
+    "start": 340.76,
+    "duration": 3.36
+  },
+  {
+    "text": "processing the information is also part",
+    "start": 342.44,
+    "duration": 4.24
+  },
+  {
+    "text": "of this, okay? So, when you click, look,",
+    "start": 344.12,
+    "duration": 3.96
+  },
+  {
+    "text": "this is a click and pan. I click to my",
+    "start": 346.68,
+    "duration": 4.32
+  },
+  {
+    "text": "Raptors and I pan, right? And usually",
+    "start": 348.08,
+    "duration": 4.0
+  },
+  {
+    "text": "you want to pan to the lanes that you",
+    "start": 351.0,
+    "duration": 2.6
+  },
+  {
+    "text": "are in proximity to as well. You want",
+    "start": 352.08,
+    "duration": 3.52
+  },
+  {
+    "text": "You don't really I mean it's If I pan to",
+    "start": 353.6,
+    "duration": 3.8
+  },
+  {
+    "text": "top here, right? It's It's obviously not",
+    "start": 355.6,
+    "duration": 4.48
+  },
+  {
+    "text": "bad. It still is free information, but",
+    "start": 357.4,
+    "duration": 4.08
+  },
+  {
+    "text": "the priority should be on the bot side.",
+    "start": 360.08,
+    "duration": 2.24
+  },
+  {
+    "text": "What's happening bot side? Because",
+    "start": 361.48,
+    "duration": 3.44
+  },
+  {
+    "text": "that's where I'm proximity to.",
+    "start": 362.32,
+    "duration": 4.44
+  },
+  {
+    "text": "Okay, so it's it's my regular time. It's",
+    "start": 364.92,
+    "duration": 4.24
+  },
+  {
+    "text": "my regular tempo. I have camps to farm.",
+    "start": 366.76,
+    "duration": 3.36
+  },
+  {
+    "text": "So, I'm not going to actually do",
+    "start": 369.16,
+    "duration": 2.32
+  },
+  {
+    "text": "anything else besides farm here unless I",
+    "start": 370.12,
+    "duration": 2.92
+  },
+  {
+    "text": "think it's a guaranteed play. We think",
+    "start": 371.48,
+    "duration": 3.6
+  },
+  {
+    "text": "that Kayn Oh, here he is.",
+    "start": 373.04,
+    "duration": 4.36
+  },
+  {
+    "text": "Got to make sure I win the smite fight.",
+    "start": 375.08,
+    "duration": 3.88
+  },
+  {
+    "text": "Boom.",
+    "start": 377.4,
+    "duration": 2.6
+  },
+  {
+    "text": "So, I don't Yeah, I'm going to use my",
+    "start": 378.96,
+    "duration": 2.2
+  },
+  {
+    "text": "smite there. I don't really care about,",
+    "start": 380.0,
+    "duration": 2.04
+  },
+  {
+    "text": "you know, holding it or whatever like",
+    "start": 381.16,
+    "duration": 2.64
+  },
+  {
+    "text": "that. They see me now, so This is my",
+    "start": 382.04,
+    "duration": 3.48
+  },
+  {
+    "text": "spare time, okay? So, this is camps",
+    "start": 383.8,
+    "duration": 3.36
+  },
+  {
+    "text": "downtime. In camps downtime, we just",
+    "start": 385.52,
+    "duration": 3.64
+  },
+  {
+    "text": "look for anything. We don't care. Like",
+    "start": 387.16,
+    "duration": 3.8
+  },
+  {
+    "text": "we just ping and we just send it because",
+    "start": 389.16,
+    "duration": 4.0
+  },
+  {
+    "text": "my blue is spawning in 15 seconds and I",
+    "start": 390.96,
+    "duration": 4.4
+  },
+  {
+    "text": "actually don't mind trading",
+    "start": 393.16,
+    "duration": 3.28
+  },
+  {
+    "text": "flashes here. I'm actually not sure if",
+    "start": 395.36,
+    "duration": 2.4
+  },
+  {
+    "text": "this guy has flash or not, but I I don't",
+    "start": 396.44,
+    "duration": 3.28
+  },
+  {
+    "text": "mind trading the flash here.",
+    "start": 397.76,
+    "duration": 3.72
+  },
+  {
+    "text": "Okay? Now, look at my base time here.",
+    "start": 399.72,
+    "duration": 3.56
+  },
+  {
+    "text": "Because my blue is spawning, because I",
+    "start": 401.48,
+    "duration": 3.32
+  },
+  {
+    "text": "have nothing left to do, okay? A lot of",
+    "start": 403.28,
+    "duration": 2.72
+  },
+  {
+    "text": "people would go for Drake here, okay?",
+    "start": 404.8,
+    "duration": 2.52
+  },
+  {
+    "text": "Drake",
+    "start": 406.0,
+    "duration": 2.72
+  },
+  {
+    "text": "is not good here. Uh I'm not going to",
+    "start": 407.32,
+    "duration": 3.56
+  },
+  {
+    "text": "explain too much why cuz the game is",
+    "start": 408.72,
+    "duration": 4.08
+  },
+  {
+    "text": "currently happening, right? There's",
+    "start": 410.88,
+    "duration": 2.96
+  },
+  {
+    "text": "things for me to think about. There's",
+    "start": 412.8,
+    "duration": 2.68
+  },
+  {
+    "text": "things for me to do.",
+    "start": 413.84,
+    "duration": 3.079
+  },
+  {
+    "text": "But just know",
+    "start": 415.48,
+    "duration": 2.56
+  },
+  {
+    "text": "because when you play League of Legends,",
+    "start": 416.919,
+    "duration": 2.881
+  },
+  {
+    "text": "especially in the early game, um you",
+    "start": 418.04,
+    "duration": 2.84
+  },
+  {
+    "text": "know, there are going to be cases where",
+    "start": 419.8,
+    "duration": 2.24
+  },
+  {
+    "text": "you can take Drake there, but the the",
+    "start": 420.88,
+    "duration": 3.52
+  },
+  {
+    "text": "death time is early game are too",
+    "start": 422.04,
+    "duration": 4.92
+  },
+  {
+    "text": "uh small to where you should just send",
+    "start": 424.4,
+    "duration": 3.88
+  },
+  {
+    "text": "your next run. And because my blue is",
+    "start": 426.96,
+    "duration": 3.24
+  },
+  {
+    "text": "here now, you know, the the the Kayn may",
+    "start": 428.28,
+    "duration": 3.32
+  },
+  {
+    "text": "have traded my blue here. I think that's",
+    "start": 430.2,
+    "duration": 2.88
+  },
+  {
+    "text": "a definitely a possibility. Yep, here he",
+    "start": 431.6,
+    "duration": 3.88
+  },
+  {
+    "text": "is.",
+    "start": 433.08,
+    "duration": 3.76
+  },
+  {
+    "text": "So, that's okay. Okay, now I have some",
+    "start": 435.48,
+    "duration": 3.12
+  },
+  {
+    "text": "spare time again. In this spare time,",
+    "start": 436.84,
+    "duration": 2.92
+  },
+  {
+    "text": "I'm just simply going to go and farm",
+    "start": 438.6,
+    "duration": 2.28
+  },
+  {
+    "text": "some information. I'm going to go and",
+    "start": 439.76,
+    "duration": 2.64
+  },
+  {
+    "text": "like farm Hey, can I take his Raptors",
+    "start": 440.88,
+    "duration": 3.24
+  },
+  {
+    "text": "here? You know, he just used his smite",
+    "start": 442.4,
+    "duration": 2.92
+  },
+  {
+    "text": "on my blue, so I'm just going to pull",
+    "start": 444.12,
+    "duration": 3.4
+  },
+  {
+    "text": "this out here. And of course again, even",
+    "start": 445.32,
+    "duration": 4.12
+  },
+  {
+    "text": "if this is like, you know, he",
+    "start": 447.52,
+    "duration": 3.44
+  },
+  {
+    "text": "you know, gets this gets this camp or",
+    "start": 449.44,
+    "duration": 3.32
+  },
+  {
+    "text": "something like that, um I'm not too",
+    "start": 450.96,
+    "duration": 3.6
+  },
+  {
+    "text": "worried because",
+    "start": 452.76,
+    "duration": 3.2
+  },
+  {
+    "text": "it's my spare time.",
+    "start": 454.56,
+    "duration": 2.64
+  },
+  {
+    "text": "Now, I have camps back to farm. Am I",
+    "start": 455.96,
+    "duration": 2.84
+  },
+  {
+    "text": "going to keep invading him here? No, I'm",
+    "start": 457.2,
+    "duration": 3.16
+  },
+  {
+    "text": "not. Why am I not going to keep invading",
+    "start": 458.8,
+    "duration": 3.64
+  },
+  {
+    "text": "him here? Because I'm not sure I will be",
+    "start": 460.36,
+    "duration": 4.12
+  },
+  {
+    "text": "able to 100% get his camps here. Like",
+    "start": 462.44,
+    "duration": 5.64
+  },
+  {
+    "text": "I'm just not sure. Um and when in doubt,",
+    "start": 464.48,
+    "duration": 5.72
+  },
+  {
+    "text": "farm. Okay? When in doubt, just farm",
+    "start": 468.08,
+    "duration": 4.36
+  },
+  {
+    "text": "your camps. It is always a good play to",
+    "start": 470.2,
+    "duration": 4.16
+  },
+  {
+    "text": "farm your camps.",
+    "start": 472.44,
+    "duration": 3.52
+  },
+  {
+    "text": "Of course, there are timers where people",
+    "start": 474.36,
+    "duration": 3.08
+  },
+  {
+    "text": "are being a bit too fundamental and we",
+    "start": 475.96,
+    "duration": 3.88
+  },
+  {
+    "text": "farm a bit too much and we don't camera",
+    "start": 477.44,
+    "duration": 4.56
+  },
+  {
+    "text": "pan and we don't information gather. Um",
+    "start": 479.84,
+    "duration": 3.32
+  },
+  {
+    "text": "and that's really, really essential,",
+    "start": 482.0,
+    "duration": 2.32
+  },
+  {
+    "text": "especially if you're trying to hit",
+    "start": 483.16,
+    "duration": 2.4
+  },
+  {
+    "text": "diamond.",
+    "start": 484.32,
+    "duration": 2.24
+  },
+  {
+    "text": "Uh you know, I've had some coaching",
+    "start": 485.56,
+    "duration": 2.4
+  },
+  {
+    "text": "sessions recently around the emerald",
+    "start": 486.56,
+    "duration": 2.6
+  },
+  {
+    "text": "plat period and people wanting to get",
+    "start": 487.96,
+    "duration": 2.68
+  },
+  {
+    "text": "diamond. You know, you need to start",
+    "start": 489.16,
+    "duration": 2.8
+  },
+  {
+    "text": "adapting, which is all about the",
+    "start": 490.64,
+    "duration": 3.0
+  },
+  {
+    "text": "decision making. So, once you've once",
+    "start": 491.96,
+    "duration": 3.72
+  },
+  {
+    "text": "you've locked in tempo to your",
+    "start": 493.64,
+    "duration": 4.44
+  },
+  {
+    "text": "fundamentals, you move on to information",
+    "start": 495.68,
+    "duration": 4.2
+  },
+  {
+    "text": "gathering. And I think tempo is the is",
+    "start": 498.08,
+    "duration": 3.24
+  },
+  {
+    "text": "the main priority, you know, clearing",
+    "start": 499.88,
+    "duration": 3.64
+  },
+  {
+    "text": "your camps and and regular time and and",
+    "start": 501.32,
+    "duration": 4.24
+  },
+  {
+    "text": "and spare time and camps up and camps",
+    "start": 503.52,
+    "duration": 3.56
+  },
+  {
+    "text": "down time.",
+    "start": 505.56,
+    "duration": 2.68
+  },
+  {
+    "text": "Okay, cool. So, now I'm on the strong",
+    "start": 507.08,
+    "duration": 2.92
+  },
+  {
+    "text": "side and I'm information gathering here",
+    "start": 508.24,
+    "duration": 3.52
+  },
+  {
+    "text": "again. I'm I mean, I'm my my habits are",
+    "start": 510.0,
+    "duration": 4.12
+  },
+  {
+    "text": "F king. Um but for for people who do not",
+    "start": 511.76,
+    "duration": 5.24
+  },
+  {
+    "text": "have good uh awareness, um I just",
+    "start": 514.12,
+    "duration": 5.08
+  },
+  {
+    "text": "suggest clicking between camps.",
+    "start": 517.0,
+    "duration": 3.479
+  },
+  {
+    "text": "Again, look, my bot lane's pinging here.",
+    "start": 519.2,
+    "duration": 3.08
+  },
+  {
+    "text": "All right, Kayn is showing mid.",
+    "start": 520.479,
+    "duration": 3.161
+  },
+  {
+    "text": "I'm having a look bot lane. My Thresh is",
+    "start": 522.28,
+    "duration": 2.88
+  },
+  {
+    "text": "pinging me, but I'm not going to I'm not",
+    "start": 523.64,
+    "duration": 2.68
+  },
+  {
+    "text": "going to go for it, okay? Cuz I'm going",
+    "start": 525.16,
+    "duration": 2.44
+  },
+  {
+    "text": "to do my Krugs instead, because I don't",
+    "start": 526.32,
+    "duration": 3.16
+  },
+  {
+    "text": "think this is 100%. Why do we not think",
+    "start": 527.6,
+    "duration": 3.4
+  },
+  {
+    "text": "this is 100%? Because they have full HP,",
+    "start": 529.48,
+    "duration": 2.96
+  },
+  {
+    "text": "they may have sums, they may have",
+    "start": 531.0,
+    "duration": 3.56
+  },
+  {
+    "text": "flashes, they may have a ward. There's",
+    "start": 532.44,
+    "duration": 3.399
+  },
+  {
+    "text": "all these conditions, right, that you",
+    "start": 534.56,
+    "duration": 2.56
+  },
+  {
+    "text": "want to think about before going for a",
+    "start": 535.839,
+    "duration": 2.801
+  },
+  {
+    "text": "play. Okay, I didn't see where Kayn",
+    "start": 537.12,
+    "duration": 4.12
+  },
+  {
+    "text": "left, because I was too busy yapping.",
+    "start": 538.64,
+    "duration": 4.12
+  },
+  {
+    "text": "But here we go, spare time. Look, look,",
+    "start": 541.24,
+    "duration": 2.4
+  },
+  {
+    "text": "I'm going to do my spare time. I'm just",
+    "start": 542.76,
+    "duration": 2.4
+  },
+  {
+    "text": "going to run through. All right, lantern",
+    "start": 543.64,
+    "duration": 2.84
+  },
+  {
+    "text": "gets thrown.",
+    "start": 545.16,
+    "duration": 2.84
+  },
+  {
+    "text": "My Thresh completely messes up, but I",
+    "start": 546.48,
+    "duration": 3.44
+  },
+  {
+    "text": "didn't mess up. Now he has no flash. We",
+    "start": 548.0,
+    "duration": 3.2
+  },
+  {
+    "text": "go for the center.",
+    "start": 549.92,
+    "duration": 2.24
+  },
+  {
+    "text": "So, you see the priority of the",
+    "start": 551.2,
+    "duration": 3.28
+  },
+  {
+    "text": "abilities there as well.",
+    "start": 552.16,
+    "duration": 4.44
+  },
+  {
+    "text": "Boom. Now, we're not sure about Kayn",
+    "start": 554.48,
+    "duration": 4.44
+  },
+  {
+    "text": "being here, but since Look at my camp",
+    "start": 556.6,
+    "duration": 3.72
+  },
+  {
+    "text": "timers here.",
+    "start": 558.92,
+    "duration": 2.36
+  },
+  {
+    "text": "All right, look at my camp timers on the",
+    "start": 560.32,
+    "duration": 3.64
+  },
+  {
+    "text": "top side. Ooh, okay, Xerath shows bot.",
+    "start": 561.28,
+    "duration": 3.84
+  },
+  {
+    "text": "I'm thinking about Drake. I'm thinking",
+    "start": 563.96,
+    "duration": 3.28
+  },
+  {
+    "text": "about",
+    "start": 565.12,
+    "duration": 4.08
+  },
+  {
+    "text": "checking his Gromp here. So, this is",
+    "start": 567.24,
+    "duration": 3.28
+  },
+  {
+    "text": "where you got to you got to It's It's",
+    "start": 569.2,
+    "duration": 2.48
+  },
+  {
+    "text": "hard to make a decision. And look at",
+    "start": 570.52,
+    "duration": 2.68
+  },
+  {
+    "text": "that, Kayn shows bot side. I immediately",
+    "start": 571.68,
+    "duration": 2.72
+  },
+  {
+    "text": "leave.",
+    "start": 573.2,
+    "duration": 2.12
+  },
+  {
+    "text": "And we're going to go to the top side",
+    "start": 574.4,
+    "duration": 2.72
+  },
+  {
+    "text": "now. Ooh, nice. My Thresh is giving me",
+    "start": 575.32,
+    "duration": 3.12
+  },
+  {
+    "text": "information here.",
+    "start": 577.12,
+    "duration": 2.6
+  },
+  {
+    "text": "Really good to do. Little extra",
+    "start": 578.44,
+    "duration": 3.0
+  },
+  {
+    "text": "fundamentals. Direct your team what you",
+    "start": 579.72,
+    "duration": 3.04
+  },
+  {
+    "text": "want.",
+    "start": 581.44,
+    "duration": 3.68
+  },
+  {
+    "text": "Okay.",
+    "start": 582.76,
+    "duration": 3.96
+  },
+  {
+    "text": "So, I didn't take a base there. Um and",
+    "start": 585.12,
+    "duration": 3.12
+  },
+  {
+    "text": "this is basically the main reason for",
+    "start": 586.72,
+    "duration": 3.52
+  },
+  {
+    "text": "that is just because, you know, again,",
+    "start": 588.24,
+    "duration": 4.04
+  },
+  {
+    "text": "like your team like I think having chat",
+    "start": 590.24,
+    "duration": 4.56
+  },
+  {
+    "text": "on, guys, is is important. Um but you",
+    "start": 592.28,
+    "duration": 4.12
+  },
+  {
+    "text": "want to Yeah, just mute people",
+    "start": 594.8,
+    "duration": 2.84
+  },
+  {
+    "text": "individually. If you feel like someone",
+    "start": 596.4,
+    "duration": 2.52
+  },
+  {
+    "text": "is pinging you too much, if you're being",
+    "start": 597.64,
+    "duration": 2.76
+  },
+  {
+    "text": "affected by it.",
+    "start": 598.92,
+    "duration": 2.76
+  },
+  {
+    "text": "Yeah. Also, just let your team cook",
+    "start": 600.4,
+    "duration": 2.72
+  },
+  {
+    "text": "here, right? Like I don't need to follow",
+    "start": 601.68,
+    "duration": 2.84
+  },
+  {
+    "text": "these pings. I can just let my team Hey,",
+    "start": 603.12,
+    "duration": 3.28
+  },
+  {
+    "text": "if you guys go for that, cool. If Kayn",
+    "start": 604.52,
+    "duration": 3.2
+  },
+  {
+    "text": "is moving here, I'm panning. Look at my",
+    "start": 606.4,
+    "duration": 2.96
+  },
+  {
+    "text": "camera control here, right? I'm looking.",
+    "start": 607.72,
+    "duration": 2.92
+  },
+  {
+    "text": "Does this look good? Does this look bad?",
+    "start": 609.36,
+    "duration": 2.2
+  },
+  {
+    "text": "I'm going to finish a gromp here. I'm",
+    "start": 610.64,
+    "duration": 2.2
+  },
+  {
+    "text": "going to move.",
+    "start": 611.56,
+    "duration": 2.68
+  },
+  {
+    "text": "Cuz it To me, it just My judgment here",
+    "start": 612.84,
+    "duration": 2.84
+  },
+  {
+    "text": "is that I just think it looks good. So,",
+    "start": 614.24,
+    "duration": 2.96
+  },
+  {
+    "text": "no matter what you do, just be decisive,",
+    "start": 615.68,
+    "duration": 2.48
+  },
+  {
+    "text": "right?",
+    "start": 617.2,
+    "duration": 2.72
+  },
+  {
+    "text": "Does it look good? Ooh, the charm lands.",
+    "start": 618.16,
+    "duration": 2.84
+  },
+  {
+    "text": "Huge.",
+    "start": 619.92,
+    "duration": 2.0
+  },
+  {
+    "text": "And you know, that that could have been",
+    "start": 621.0,
+    "duration": 3.08
+  },
+  {
+    "text": "a little a little 50/50, right? All",
+    "start": 621.92,
+    "duration": 3.0
+  },
+  {
+    "text": "right, what are we going to do here? So,",
+    "start": 624.08,
+    "duration": 2.44
+  },
+  {
+    "text": "we Whenever the enemy jungle dies,",
+    "start": 624.92,
+    "duration": 2.8
+  },
+  {
+    "text": "right?",
+    "start": 626.52,
+    "duration": 2.32
+  },
+  {
+    "text": "You really want to look to what can I",
+    "start": 627.72,
+    "duration": 2.6
+  },
+  {
+    "text": "take? Now, I'm not exactly sure what",
+    "start": 628.84,
+    "duration": 3.2
+  },
+  {
+    "text": "camps he had up here. So, I'm just going",
+    "start": 630.32,
+    "duration": 3.12
+  },
+  {
+    "text": "to go for what I know is up, which is",
+    "start": 632.04,
+    "duration": 2.96
+  },
+  {
+    "text": "the gromps. Okay, I'm just going to go",
+    "start": 633.44,
+    "duration": 2.8
+  },
+  {
+    "text": "for that.",
+    "start": 635.0,
+    "duration": 2.36
+  },
+  {
+    "text": "And yeah, a little bit of adaptation is",
+    "start": 636.24,
+    "duration": 2.32
+  },
+  {
+    "text": "going to happen here. So, so really",
+    "start": 637.36,
+    "duration": 2.479
+  },
+  {
+    "text": "important when you're decision-making,",
+    "start": 638.56,
+    "duration": 2.279
+  },
+  {
+    "text": "right? You want to think about what",
+    "start": 639.839,
+    "duration": 2.801
+  },
+  {
+    "text": "you're going to do after the camp. Okay,",
+    "start": 640.839,
+    "duration": 3.761
+  },
+  {
+    "text": "what am I going to do after these",
+    "start": 642.64,
+    "duration": 3.48
+  },
+  {
+    "text": "gromps? Am I going to base? Am I going",
+    "start": 644.6,
+    "duration": 3.12
+  },
+  {
+    "text": "to cross to my bot side? Am I going to",
+    "start": 646.12,
+    "duration": 3.0
+  },
+  {
+    "text": "What am I going to do, right? So, in",
+    "start": 647.72,
+    "duration": 2.68
+  },
+  {
+    "text": "this situation, I'm going to immediately",
+    "start": 649.12,
+    "duration": 3.16
+  },
+  {
+    "text": "base because I just have a lot of gold.",
+    "start": 650.4,
+    "duration": 3.0
+  },
+  {
+    "text": "And",
+    "start": 652.28,
+    "duration": 2.52
+  },
+  {
+    "text": "one thing about knowing where to path",
+    "start": 653.4,
+    "duration": 2.6
+  },
+  {
+    "text": "here, right? So, there's a lot to do in",
+    "start": 654.8,
+    "duration": 2.28
+  },
+  {
+    "text": "the bot side. And this is what gets",
+    "start": 656.0,
+    "duration": 2.68
+  },
+  {
+    "text": "everyone",
+    "start": 657.08,
+    "duration": 3.04
+  },
+  {
+    "text": "you know, this is the mistake I always",
+    "start": 658.68,
+    "duration": 4.28
+  },
+  {
+    "text": "see here. It's people that path straight",
+    "start": 660.12,
+    "duration": 5.04
+  },
+  {
+    "text": "to the dragon here, okay? I've seen it",
+    "start": 662.96,
+    "duration": 4.0
+  },
+  {
+    "text": "too much. It's always people path",
+    "start": 665.16,
+    "duration": 3.88
+  },
+  {
+    "text": "straight to the drake. And what I'm",
+    "start": 666.96,
+    "duration": 2.96
+  },
+  {
+    "text": "going to do here is I'm going to get my",
+    "start": 669.04,
+    "duration": 2.44
+  },
+  {
+    "text": "team to ward the drake because this is",
+    "start": 669.92,
+    "duration": 2.64
+  },
+  {
+    "text": "the weak side and strong side",
+    "start": 671.48,
+    "duration": 2.72
+  },
+  {
+    "text": "fundamental, okay?",
+    "start": 672.56,
+    "duration": 2.96
+  },
+  {
+    "text": "You don't want to path straight here",
+    "start": 674.2,
+    "duration": 3.0
+  },
+  {
+    "text": "because even though I'm super super",
+    "start": 675.52,
+    "duration": 3.04
+  },
+  {
+    "text": "strong,",
+    "start": 677.2,
+    "duration": 2.8
+  },
+  {
+    "text": "oh, okay, Kayn tried to stop anyway. But",
+    "start": 678.56,
+    "duration": 2.72
+  },
+  {
+    "text": "yeah, you can get your team to cover",
+    "start": 680.0,
+    "duration": 2.64
+  },
+  {
+    "text": "stuff. And if you can't cover stuff,",
+    "start": 681.28,
+    "duration": 3.08
+  },
+  {
+    "text": "okay, here we go. Click and pan. Game is",
+    "start": 682.64,
+    "duration": 3.68
+  },
+  {
+    "text": "alive. All right, we click, we pan, we",
+    "start": 684.36,
+    "duration": 3.28
+  },
+  {
+    "text": "watch. Oh, it doesn't look good. Turn",
+    "start": 686.32,
+    "duration": 2.96
+  },
+  {
+    "text": "around. Boom.",
+    "start": 687.64,
+    "duration": 3.0
+  },
+  {
+    "text": "That's how easy you can to decisions.",
+    "start": 689.28,
+    "duration": 2.52
+  },
+  {
+    "text": "All right, look again. What's Vladimir",
+    "start": 690.64,
+    "duration": 2.84
+  },
+  {
+    "text": "going to do? Is he going to int? Is it",
+    "start": 691.8,
+    "duration": 3.16
+  },
+  {
+    "text": "an int check? Should I stay around here?",
+    "start": 693.48,
+    "duration": 2.76
+  },
+  {
+    "text": "Is he going to hit tower? Can I kill him",
+    "start": 694.96,
+    "duration": 2.92
+  },
+  {
+    "text": "if he hits tower?",
+    "start": 696.24,
+    "duration": 4.12
+  },
+  {
+    "text": "Let's see. Let's see his body language.",
+    "start": 697.88,
+    "duration": 4.52
+  },
+  {
+    "text": "Okay, either way I can get the wave.",
+    "start": 700.36,
+    "duration": 3.32
+  },
+  {
+    "text": "No, your team is like pinging stuff like",
+    "start": 702.4,
+    "duration": 3.48
+  },
+  {
+    "text": "this. You do whatever you want.",
+    "start": 703.68,
+    "duration": 5.12
+  },
+  {
+    "text": "You speak decisive.",
+    "start": 705.88,
+    "duration": 2.92
+  },
+  {
+    "text": "Okay, I guess I'm just going to get his",
+    "start": 709.16,
+    "duration": 2.56
+  },
+  {
+    "text": "flash here. He has flash, but we're just",
+    "start": 710.2,
+    "duration": 2.56
+  },
+  {
+    "text": "going to Yeah, we're just going to go",
+    "start": 711.72,
+    "duration": 2.28
+  },
+  {
+    "text": "for a",
+    "start": 712.76,
+    "duration": 2.64
+  },
+  {
+    "text": "a play here.",
+    "start": 714.0,
+    "duration": 3.68
+  },
+  {
+    "text": "Oh, okay. It's fine.",
+    "start": 715.4,
+    "duration": 3.76
+  },
+  {
+    "text": "So, sometimes your judgment, just like",
+    "start": 717.68,
+    "duration": 3.44
+  },
+  {
+    "text": "this, this is a great example, right? My",
+    "start": 719.16,
+    "duration": 4.6
+  },
+  {
+    "text": "judgment here, which is a So, by the",
+    "start": 721.12,
+    "duration": 4.12
+  },
+  {
+    "text": "way, if you go for this play as Once",
+    "start": 723.76,
+    "duration": 2.64
+  },
+  {
+    "text": "again, as long as you're decisive, as",
+    "start": 725.24,
+    "duration": 3.44
+  },
+  {
+    "text": "long as you're not doing these plays for",
+    "start": 726.4,
+    "duration": 3.64
+  },
+  {
+    "text": "reasons",
+    "start": 728.68,
+    "duration": 2.6
+  },
+  {
+    "text": "that aren't just you think that you can",
+    "start": 730.04,
+    "duration": 3.32
+  },
+  {
+    "text": "kill. So, now as a player I'm going to",
+    "start": 731.28,
+    "duration": 3.6
+  },
+  {
+    "text": "say, \"Oh, okay, I can't kill Vlad",
+    "start": 733.36,
+    "duration": 3.28
+  },
+  {
+    "text": "because I didn't know he had no flash",
+    "start": 734.88,
+    "duration": 3.68
+  },
+  {
+    "text": "and he has pool and he can live.\"",
+    "start": 736.64,
+    "duration": 3.04
+  },
+  {
+    "text": "So, you you got to test limits",
+    "start": 738.56,
+    "duration": 2.92
+  },
+  {
+    "text": "sometimes, too. And that does really",
+    "start": 739.68,
+    "duration": 3.88
+  },
+  {
+    "text": "kind of the game here kind of does get a",
+    "start": 741.48,
+    "duration": 4.52
+  },
+  {
+    "text": "little bit um it was really kind of bad",
+    "start": 743.56,
+    "duration": 4.0
+  },
+  {
+    "text": "for my tempo that I went for that. That",
+    "start": 746.0,
+    "duration": 3.6
+  },
+  {
+    "text": "that fundamental of camps up versus",
+    "start": 747.56,
+    "duration": 4.36
+  },
+  {
+    "text": "camps down, that to me was not worth.",
+    "start": 749.6,
+    "duration": 4.0
+  },
+  {
+    "text": "Even though, honestly, burning flash is",
+    "start": 751.92,
+    "duration": 3.56
+  },
+  {
+    "text": "a job and he's like not bad because next",
+    "start": 753.6,
+    "duration": 3.76
+  },
+  {
+    "text": "time I ult him he's dead.",
+    "start": 755.48,
+    "duration": 5.44
+  },
+  {
+    "text": "Um yeah, ultimately it's it's not great.",
+    "start": 757.36,
+    "duration": 5.24
+  },
+  {
+    "text": "Okay, cool. My Ari's pinging Zera's no",
+    "start": 760.92,
+    "duration": 3.64
+  },
+  {
+    "text": "flash. She's She's not very happy. Okay,",
+    "start": 762.6,
+    "duration": 3.48
+  },
+  {
+    "text": "so this week I can just mute.",
+    "start": 764.56,
+    "duration": 2.32
+  },
+  {
+    "text": "You can be like, \"Ah, I don't really",
+    "start": 766.08,
+    "duration": 1.759
+  },
+  {
+    "text": "want to deal with that. I don't really",
+    "start": 766.88,
+    "duration": 2.04
+  },
+  {
+    "text": "want to deal with this guy just spam",
+    "start": 767.839,
+    "duration": 2.601
+  },
+  {
+    "text": "pinging me all the time.\"",
+    "start": 768.92,
+    "duration": 3.24
+  },
+  {
+    "text": "Um it's always the jungler's fault,",
+    "start": 770.44,
+    "duration": 3.56
+  },
+  {
+    "text": "guys, so it's all good. He's like diving",
+    "start": 772.16,
+    "duration": 4.64
+  },
+  {
+    "text": "through the mid tower.",
+    "start": 774.0,
+    "duration": 2.8
+  },
+  {
+    "text": "We're just going to smite. We're going",
+    "start": 777.12,
+    "duration": 2.52
+  },
+  {
+    "text": "to get out. We're going to cross his red",
+    "start": 778.0,
+    "duration": 3.76
+  },
+  {
+    "text": "buff in 20 in 6 seconds, but I have no",
+    "start": 779.64,
+    "duration": 3.32
+  },
+  {
+    "text": "information to play off, so there's no",
+    "start": 781.76,
+    "duration": 2.88
+  },
+  {
+    "text": "need for me to do anything. Okay, I want",
+    "start": 782.96,
+    "duration": 3.12
+  },
+  {
+    "text": "to make sure I don't show crossing here",
+    "start": 784.64,
+    "duration": 3.28
+  },
+  {
+    "text": "off of this mid wave.",
+    "start": 786.08,
+    "duration": 3.52
+  },
+  {
+    "text": "Just to make sure the enemy has the",
+    "start": 787.92,
+    "duration": 3.28
+  },
+  {
+    "text": "least amount of information",
+    "start": 789.6,
+    "duration": 3.84
+  },
+  {
+    "text": "as possible. So, because the you know,",
+    "start": 791.2,
+    "duration": 4.04
+  },
+  {
+    "text": "because the enemy jungle is not showing",
+    "start": 793.44,
+    "duration": 2.92
+  },
+  {
+    "text": "on the bot side here, I'm just going to",
+    "start": 795.24,
+    "duration": 2.68
+  },
+  {
+    "text": "assume that he probably just based and",
+    "start": 796.36,
+    "duration": 3.88
+  },
+  {
+    "text": "is clearing from top to bottom.",
+    "start": 797.92,
+    "duration": 3.44
+  },
+  {
+    "text": "So, I will just maintain clearing as",
+    "start": 800.24,
+    "duration": 2.04
+  },
+  {
+    "text": "well. Again, I'm not going to start",
+    "start": 801.36,
+    "duration": 2.12
+  },
+  {
+    "text": "Drake here.",
+    "start": 802.28,
+    "duration": 2.28
+  },
+  {
+    "text": "Not going to start Drake here. I play",
+    "start": 803.48,
+    "duration": 2.32
+  },
+  {
+    "text": "every single jungle pretty much in the",
+    "start": 804.56,
+    "duration": 3.28
+  },
+  {
+    "text": "same way unless it's actually like",
+    "start": 805.8,
+    "duration": 3.32
+  },
+  {
+    "text": "you know, a tank. I always play for",
+    "start": 807.84,
+    "duration": 4.4
+  },
+  {
+    "text": "golden XP. I think most players if you",
+    "start": 809.12,
+    "duration": 4.52
+  },
+  {
+    "text": "watch any really really high level",
+    "start": 812.24,
+    "duration": 2.64
+  },
+  {
+    "text": "player, they always just play for golden",
+    "start": 813.64,
+    "duration": 3.08
+  },
+  {
+    "text": "XP. Now the Kane shows, now we go for",
+    "start": 814.88,
+    "duration": 3.04
+  },
+  {
+    "text": "the drake.",
+    "start": 816.72,
+    "duration": 2.24
+  },
+  {
+    "text": "Look at that.",
+    "start": 817.92,
+    "duration": 2.44
+  },
+  {
+    "text": "All right, now the Kane shows we have a",
+    "start": 818.96,
+    "duration": 4.12
+  },
+  {
+    "text": "big advantage here. Now we do the drake.",
+    "start": 820.36,
+    "duration": 4.16
+  },
+  {
+    "text": "So you need to be paying attention to",
+    "start": 823.08,
+    "duration": 3.76
+  },
+  {
+    "text": "the map. Okay, when I coach players,",
+    "start": 824.52,
+    "duration": 3.64
+  },
+  {
+    "text": "some players will do the red buff here.",
+    "start": 826.84,
+    "duration": 2.64
+  },
+  {
+    "text": "Okay, look here. I'm still paying",
+    "start": 828.16,
+    "duration": 2.96
+  },
+  {
+    "text": "attention. Now he's dead. Now what",
+    "start": 829.48,
+    "duration": 2.76
+  },
+  {
+    "text": "should we do? We should go for his",
+    "start": 831.12,
+    "duration": 2.6
+  },
+  {
+    "text": "wolves, the furthest camp back and we",
+    "start": 832.24,
+    "duration": 3.6
+  },
+  {
+    "text": "should let it marinate. What is What the",
+    "start": 833.72,
+    "duration": 3.16
+  },
+  {
+    "text": "hell is this guy talking about? Let it",
+    "start": 835.84,
+    "duration": 2.44
+  },
+  {
+    "text": "marinate. We're letting the bot lane",
+    "start": 836.88,
+    "duration": 3.08
+  },
+  {
+    "text": "We're not going to gank bot right now.",
+    "start": 838.28,
+    "duration": 2.88
+  },
+  {
+    "text": "We're going to let them fight a little",
+    "start": 839.96,
+    "duration": 2.64
+  },
+  {
+    "text": "bit first. And then when we watch them",
+    "start": 841.16,
+    "duration": 2.52
+  },
+  {
+    "text": "fighting and we're doing our click and",
+    "start": 842.6,
+    "duration": 2.96
+  },
+  {
+    "text": "pan here and there's no camps to farm,",
+    "start": 843.68,
+    "duration": 3.24
+  },
+  {
+    "text": "we're watching how they move. How are",
+    "start": 845.56,
+    "duration": 2.96
+  },
+  {
+    "text": "they moving here? You know, this is what",
+    "start": 846.92,
+    "duration": 2.6
+  },
+  {
+    "text": "you really want to watch. I'm going to",
+    "start": 848.52,
+    "duration": 3.16
+  },
+  {
+    "text": "just actually ping this.",
+    "start": 849.52,
+    "duration": 3.4
+  },
+  {
+    "text": "I was a little bit wrong about his camps",
+    "start": 851.68,
+    "duration": 3.56
+  },
+  {
+    "text": "here, but that's okay.",
+    "start": 852.92,
+    "duration": 3.36
+  },
+  {
+    "text": "And there's no dive here. I've already",
+    "start": 855.24,
+    "duration": 2.04
+  },
+  {
+    "text": "established that, so I'm just going to",
+    "start": 856.28,
+    "duration": 2.28
+  },
+  {
+    "text": "farm.",
+    "start": 857.28,
+    "duration": 3.12
+  },
+  {
+    "text": "Kane is now spawning. I probably could",
+    "start": 858.56,
+    "duration": 3.36
+  },
+  {
+    "text": "have done his wolves.",
+    "start": 860.4,
+    "duration": 2.6
+  },
+  {
+    "text": "All right, we're watching bot still and",
+    "start": 861.92,
+    "duration": 3.92
+  },
+  {
+    "text": "now we immediately click and pan here.",
+    "start": 863.0,
+    "duration": 4.68
+  },
+  {
+    "text": "This guy has no flash, so I'm just going",
+    "start": 865.84,
+    "duration": 4.64
+  },
+  {
+    "text": "to ping to ult.",
+    "start": 867.68,
+    "duration": 3.84
+  },
+  {
+    "text": "Hopefully drake Okay, he does have",
+    "start": 870.48,
+    "duration": 2.76
+  },
+  {
+    "text": "flash. That's okay.",
+    "start": 871.52,
+    "duration": 3.52
+  },
+  {
+    "text": "I was wrong, slightly.",
+    "start": 873.24,
+    "duration": 3.88
+  },
+  {
+    "text": "Oh, Xerath is here. Kane could also be",
+    "start": 875.04,
+    "duration": 3.44
+  },
+  {
+    "text": "coming here.",
+    "start": 877.12,
+    "duration": 3.76
+  },
+  {
+    "text": "Oh my goodness.",
+    "start": 878.48,
+    "duration": 4.96
+  },
+  {
+    "text": "All right, I should be I should be good.",
+    "start": 880.88,
+    "duration": 5.0
+  },
+  {
+    "text": "Chill out, Xerath.",
+    "start": 883.44,
+    "duration": 4.36
+  },
+  {
+    "text": "Watch this dodge.",
+    "start": 885.88,
+    "duration": 3.68
+  },
+  {
+    "text": "All right, insta base.",
+    "start": 887.8,
+    "duration": 3.32
+  },
+  {
+    "text": "I knew I was going to base soon, but the",
+    "start": 889.56,
+    "duration": 3.44
+  },
+  {
+    "text": "clear indicator is my top side camps are",
+    "start": 891.12,
+    "duration": 3.6
+  },
+  {
+    "text": "spawned once again. And you can feel the",
+    "start": 893.0,
+    "duration": 3.44
+  },
+  {
+    "text": "flow of the game here, right? The flow",
+    "start": 894.72,
+    "duration": 3.6
+  },
+  {
+    "text": "of the game is that aside from that one",
+    "start": 896.44,
+    "duration": 3.6
+  },
+  {
+    "text": "top gank, okay?",
+    "start": 898.32,
+    "duration": 3.28
+  },
+  {
+    "text": "Whoops. The flow of the game is very",
+    "start": 900.04,
+    "duration": 4.12
+  },
+  {
+    "text": "very good. I'm always, you know, I'm 120",
+    "start": 901.6,
+    "duration": 5.16
+  },
+  {
+    "text": "CS. I'm making impact. This is what",
+    "start": 904.16,
+    "duration": 4.52
+  },
+  {
+    "text": "jungling is all about and obviously this",
+    "start": 906.76,
+    "duration": 4.4
+  },
+  {
+    "text": "is not an easy skill. Focus on them one",
+    "start": 908.68,
+    "duration": 3.84
+  },
+  {
+    "text": "at a time. Like I said, focus on your",
+    "start": 911.16,
+    "duration": 2.72
+  },
+  {
+    "text": "tempo first. Once you feel like you got",
+    "start": 912.52,
+    "duration": 2.88
+  },
+  {
+    "text": "good tempo, focus on information",
+    "start": 913.88,
+    "duration": 2.44
+  },
+  {
+    "text": "gathering. Once you feel like you got",
+    "start": 915.4,
+    "duration": 2.52
+  },
+  {
+    "text": "good information gathering, focus on",
+    "start": 916.32,
+    "duration": 2.88
+  },
+  {
+    "text": "processing the information and your",
+    "start": 917.92,
+    "duration": 3.8
+  },
+  {
+    "text": "judgment calls. Be decisive. No wrong",
+    "start": 919.2,
+    "duration": 3.6
+  },
+  {
+    "text": "There's not really a wrong call if",
+    "start": 921.72,
+    "duration": 3.4
+  },
+  {
+    "text": "you're decisive. Only learning",
+    "start": 922.8,
+    "duration": 4.8
+  },
+  {
+    "text": "experiences. Okay, next round here.",
+    "start": 925.12,
+    "duration": 4.36
+  },
+  {
+    "text": "We're clearing. We are kind of entering",
+    "start": 927.6,
+    "duration": 3.92
+  },
+  {
+    "text": "the mid game. So, either this video is",
+    "start": 929.48,
+    "duration": 3.0
+  },
+  {
+    "text": "going to be called like three",
+    "start": 931.52,
+    "duration": 2.52
+  },
+  {
+    "text": "fundamentals or three concepts, whatever",
+    "start": 932.48,
+    "duration": 2.88
+  },
+  {
+    "text": "that may be. Still going to teach you",
+    "start": 934.04,
+    "duration": 2.2
+  },
+  {
+    "text": "guys how to play the mid game. Still",
+    "start": 935.36,
+    "duration": 2.8
+  },
+  {
+    "text": "going to teach you guys how to translate",
+    "start": 936.24,
+    "duration": 3.84
+  },
+  {
+    "text": "your lead and and stuff like this. And",
+    "start": 938.16,
+    "duration": 3.8
+  },
+  {
+    "text": "this is all going to come from",
+    "start": 940.08,
+    "duration": 2.96
+  },
+  {
+    "text": "Okay, this is a numbers check. It's",
+    "start": 941.96,
+    "duration": 3.2
+  },
+  {
+    "text": "already happened. So, if Skarner appears",
+    "start": 943.04,
+    "duration": 4.04
+  },
+  {
+    "text": "here you could see how scared I was.",
+    "start": 945.16,
+    "duration": 3.72
+  },
+  {
+    "text": "Okay, I was very scared. Why am I very",
+    "start": 947.08,
+    "duration": 4.4
+  },
+  {
+    "text": "scared? Because numbers check.",
+    "start": 948.88,
+    "duration": 4.2
+  },
+  {
+    "text": "If Skarner is here",
+    "start": 951.48,
+    "duration": 3.2
+  },
+  {
+    "text": "so could the enemy Kayn. And that means",
+    "start": 953.08,
+    "duration": 3.28
+  },
+  {
+    "text": "they have three people.",
+    "start": 954.68,
+    "duration": 2.84
+  },
+  {
+    "text": "Right?",
+    "start": 956.36,
+    "duration": 3.64
+  },
+  {
+    "text": "And if they have three people it's going",
+    "start": 957.52,
+    "duration": 6.16
+  },
+  {
+    "text": "to be a like not a good fight, right? So",
+    "start": 960.0,
+    "duration": 4.68
+  },
+  {
+    "text": "Yeah.",
+    "start": 963.68,
+    "duration": 2.8
+  },
+  {
+    "text": "This is why you don't want to just, you",
+    "start": 964.68,
+    "duration": 3.08
+  },
+  {
+    "text": "know, you want to do a numbers check.",
+    "start": 966.48,
+    "duration": 2.76
+  },
+  {
+    "text": "They have three, we have two. Where is",
+    "start": 967.76,
+    "duration": 2.84
+  },
+  {
+    "text": "my Where is my jungle? Where is my",
+    "start": 969.24,
+    "duration": 3.68
+  },
+  {
+    "text": "support? Where is my",
+    "start": 970.6,
+    "duration": 4.8
+  },
+  {
+    "text": "Where is their support, you know?",
+    "start": 972.92,
+    "duration": 3.32
+  },
+  {
+    "text": "All right.",
+    "start": 975.4,
+    "duration": 2.48
+  },
+  {
+    "text": "Spare time once again. Every time in the",
+    "start": 976.24,
+    "duration": 3.68
+  },
+  {
+    "text": "spare time we want to do stuff.",
+    "start": 977.88,
+    "duration": 3.08
+  },
+  {
+    "text": "I want to look for that center as well.",
+    "start": 979.92,
+    "duration": 3.36
+  },
+  {
+    "text": "I know she has no flash.",
+    "start": 980.96,
+    "duration": 3.28
+  },
+  {
+    "text": "So, I'm just going to flash I'm just",
+    "start": 983.28,
+    "duration": 3.88
+  },
+  {
+    "text": "going to flash to secure it.",
+    "start": 984.24,
+    "duration": 4.0
+  },
+  {
+    "text": "Boom.",
+    "start": 987.16,
+    "duration": 2.08
+  },
+  {
+    "text": "We're not going to worry about mid.",
+    "start": 988.24,
+    "duration": 1.92
+  },
+  {
+    "text": "We're not going to worry about top.",
+    "start": 989.24,
+    "duration": 2.84
+  },
+  {
+    "text": "We're not going to compensate.",
+    "start": 990.16,
+    "duration": 3.32
+  },
+  {
+    "text": "Kind of taking Draven's wave here. It's",
+    "start": 992.08,
+    "duration": 3.4
+  },
+  {
+    "text": "all good.",
+    "start": 993.48,
+    "duration": 6.28
+  },
+  {
+    "text": "Gold and XP, guys. Gold and XP.",
+    "start": 995.48,
+    "duration": 5.64
+  },
+  {
+    "text": "If I was playing Zac here, I'd play kind",
+    "start": 999.76,
+    "duration": 2.72
+  },
+  {
+    "text": "of the same way. Okay, the only",
+    "start": 1001.12,
+    "duration": 2.64
+  },
+  {
+    "text": "champions that don't work like this",
+    "start": 1002.48,
+    "duration": 3.76
+  },
+  {
+    "text": "probably kind of is like Ivern. All",
+    "start": 1003.76,
+    "duration": 4.76
+  },
+  {
+    "text": "right, base timer. Base timer, blue",
+    "start": 1006.24,
+    "duration": 4.28
+  },
+  {
+    "text": "spawning in 35. Nothing left to do on",
+    "start": 1008.52,
+    "duration": 4.12
+  },
+  {
+    "text": "the bot side. Got items to build.",
+    "start": 1010.52,
+    "duration": 3.24
+  },
+  {
+    "text": "Checking what we want to build in this",
+    "start": 1012.64,
+    "duration": 2.92
+  },
+  {
+    "text": "game.",
+    "start": 1013.76,
+    "duration": 3.0
+  },
+  {
+    "text": "We kind of want to build mercs. It's a",
+    "start": 1015.56,
+    "duration": 2.32
+  },
+  {
+    "text": "bit scary, so we're going to build",
+    "start": 1016.76,
+    "duration": 3.68
+  },
+  {
+    "text": "mercs.",
+    "start": 1017.88,
+    "duration": 2.56
+  },
+  {
+    "text": "Cool. And back to it.",
+    "start": 1021.0,
+    "duration": 2.76
+  },
+  {
+    "text": "So, what I'm going to do here? 20",
+    "start": 1022.68,
+    "duration": 3.2
+  },
+  {
+    "text": "seconds on blue.",
+    "start": 1023.76,
+    "duration": 3.319
+  },
+  {
+    "text": "Um",
+    "start": 1025.88,
+    "duration": 2.48
+  },
+  {
+    "text": "Yeah, we're just going to we're just",
+    "start": 1027.079,
+    "duration": 2.88
+  },
+  {
+    "text": "going to spend some spare time here.",
+    "start": 1028.36,
+    "duration": 2.56
+  },
+  {
+    "text": "We're going to look for like maybe a",
+    "start": 1029.959,
+    "duration": 2.041
+  },
+  {
+    "text": "little play here. We're going to ping",
+    "start": 1030.92,
+    "duration": 2.76
+  },
+  {
+    "text": "our Thresh here.",
+    "start": 1032.0,
+    "duration": 3.36
+  },
+  {
+    "text": "Until we wait for this. Oh, someone's",
+    "start": 1033.68,
+    "duration": 3.279
+  },
+  {
+    "text": "just warded here. It's a Skarner. So,",
+    "start": 1035.36,
+    "duration": 3.04
+  },
+  {
+    "text": "again, I'm already a bit worried, but I",
+    "start": 1036.959,
+    "duration": 3.761
+  },
+  {
+    "text": "have my thresh this time.",
+    "start": 1038.4,
+    "duration": 3.6
+  },
+  {
+    "text": "Okay, so this is how you can also use",
+    "start": 1040.72,
+    "duration": 2.359
+  },
+  {
+    "text": "your spare time, right? You can just",
+    "start": 1042.0,
+    "duration": 3.24
+  },
+  {
+    "text": "clear some camps.",
+    "start": 1043.079,
+    "duration": 3.36
+  },
+  {
+    "text": "I'm a bit worried about playing through",
+    "start": 1045.24,
+    "duration": 2.32
+  },
+  {
+    "text": "top here. I really want to play through",
+    "start": 1046.439,
+    "duration": 3.001
+  },
+  {
+    "text": "my strong side, guys. Make sure you play",
+    "start": 1047.56,
+    "duration": 3.4
+  },
+  {
+    "text": "through your strong side and not try and",
+    "start": 1049.44,
+    "duration": 3.56
+  },
+  {
+    "text": "fight top 3 V 3. You can see this. This",
+    "start": 1050.96,
+    "duration": 4.52
+  },
+  {
+    "text": "is an easy situation where some people",
+    "start": 1053.0,
+    "duration": 4.28
+  },
+  {
+    "text": "will Oh, okay, well.",
+    "start": 1055.48,
+    "duration": 3.6
+  },
+  {
+    "text": "The Kayn shows bot side. So, now we can",
+    "start": 1057.28,
+    "duration": 3.32
+  },
+  {
+    "text": "fight. I don't know. This guy might want",
+    "start": 1059.08,
+    "duration": 3.8
+  },
+  {
+    "text": "me to us, to be honest with you.",
+    "start": 1060.6,
+    "duration": 4.12
+  },
+  {
+    "text": "Yeah.",
+    "start": 1062.88,
+    "duration": 3.84
+  },
+  {
+    "text": "Please don't kill me.",
+    "start": 1064.72,
+    "duration": 4.16
+  },
+  {
+    "text": "If he ults at EQ.",
+    "start": 1066.72,
+    "duration": 3.76
+  },
+  {
+    "text": "So, this is actually where match trade",
+    "start": 1068.88,
+    "duration": 3.48
+  },
+  {
+    "text": "and minimize comes in, okay? So, I have",
+    "start": 1070.48,
+    "duration": 3.48
+  },
+  {
+    "text": "a on my notepad next to me, guys. Mid",
+    "start": 1072.36,
+    "duration": 3.28
+  },
+  {
+    "text": "game, up time, down time. Some of me",
+    "start": 1073.96,
+    "duration": 3.84
+  },
+  {
+    "text": "Some of you may know about it. And also",
+    "start": 1075.64,
+    "duration": 3.76
+  },
+  {
+    "text": "match trade and minimize. So, here, even",
+    "start": 1077.8,
+    "duration": 3.6
+  },
+  {
+    "text": "though the Kayn was bought here,",
+    "start": 1079.4,
+    "duration": 3.8
+  },
+  {
+    "text": "and I was clearing my weak side camps, I",
+    "start": 1081.4,
+    "duration": 2.92
+  },
+  {
+    "text": "just have to minimize that. Like,",
+    "start": 1083.2,
+    "duration": 2.28
+  },
+  {
+    "text": "sometimes even when you're four and",
+    "start": 1084.32,
+    "duration": 3.84
+  },
+  {
+    "text": "zero, you have to minimize their play.",
+    "start": 1085.48,
+    "duration": 4.84
+  },
+  {
+    "text": "You have to maintain your composure",
+    "start": 1088.16,
+    "duration": 3.92
+  },
+  {
+    "text": "to wait for an actual good fight, like",
+    "start": 1090.32,
+    "duration": 4.16
+  },
+  {
+    "text": "this one.",
+    "start": 1092.08,
+    "duration": 4.44
+  },
+  {
+    "text": "So, number just check here. The enemy",
+    "start": 1094.48,
+    "duration": 3.64
+  },
+  {
+    "text": "solo laner, which is the Vladimir, is",
+    "start": 1096.52,
+    "duration": 3.48
+  },
+  {
+    "text": "actually grouping here, which I'm not",
+    "start": 1098.12,
+    "duration": 4.2
+  },
+  {
+    "text": "like the biggest fan of this fight.",
+    "start": 1100.0,
+    "duration": 3.84
+  },
+  {
+    "text": "Um maybe we can just get like this guy's",
+    "start": 1102.32,
+    "duration": 3.4
+  },
+  {
+    "text": "flash here. But I Yeah, I'm not the",
+    "start": 1103.84,
+    "duration": 3.0
+  },
+  {
+    "text": "biggest fan of this fight. It's okay. We",
+    "start": 1105.72,
+    "duration": 3.84
+  },
+  {
+    "text": "take his flash.",
+    "start": 1106.84,
+    "duration": 4.52
+  },
+  {
+    "text": "And yeah, this is the This is a mid game",
+    "start": 1109.56,
+    "duration": 3.72
+  },
+  {
+    "text": "where like my solos",
+    "start": 1111.36,
+    "duration": 2.64
+  },
+  {
+    "text": "uh",
+    "start": 1113.28,
+    "duration": 2.52
+  },
+  {
+    "text": "you know, a little bit, you know, Ari's",
+    "start": 1114.0,
+    "duration": 3.52
+  },
+  {
+    "text": "doing okay, but you know, Nasus is kind",
+    "start": 1115.8,
+    "duration": 3.6
+  },
+  {
+    "text": "of kind of So, this is a pretty average",
+    "start": 1117.52,
+    "duration": 3.0
+  },
+  {
+    "text": "game where, you know, I play through",
+    "start": 1119.4,
+    "duration": 3.0
+  },
+  {
+    "text": "bot. I power the bot. I have a strong",
+    "start": 1120.52,
+    "duration": 3.32
+  },
+  {
+    "text": "bot lane. So, make sure I just keep",
+    "start": 1122.4,
+    "duration": 2.92
+  },
+  {
+    "text": "playing around my bot lane, okay? That's",
+    "start": 1123.84,
+    "duration": 3.32
+  },
+  {
+    "text": "This is This Honestly, a big a big thing",
+    "start": 1125.32,
+    "duration": 3.0
+  },
+  {
+    "text": "about the mid game is playing around",
+    "start": 1127.16,
+    "duration": 3.44
+  },
+  {
+    "text": "your strong member.",
+    "start": 1128.32,
+    "duration": 3.36
+  },
+  {
+    "text": "All right. So, here we're protecting",
+    "start": 1130.6,
+    "duration": 3.4
+  },
+  {
+    "text": "waves, okay? Ari makes a pick here.",
+    "start": 1131.68,
+    "duration": 3.92
+  },
+  {
+    "text": "We're going to get some control. Here we",
+    "start": 1134.0,
+    "duration": 3.24
+  },
+  {
+    "text": "really want to wait for waves to like",
+    "start": 1135.6,
+    "duration": 3.56
+  },
+  {
+    "text": "push in. So, for example, here like I",
+    "start": 1137.24,
+    "duration": 3.8
+  },
+  {
+    "text": "want to be careful",
+    "start": 1139.16,
+    "duration": 4.32
+  },
+  {
+    "text": "until people show.",
+    "start": 1141.04,
+    "duration": 3.6
+  },
+  {
+    "text": "Now, if you can hook up that, that would",
+    "start": 1143.48,
+    "duration": 2.8
+  },
+  {
+    "text": "be great, Thresh.",
+    "start": 1144.64,
+    "duration": 3.72
+  },
+  {
+    "text": "Very nice. Yep. And then we play for the",
+    "start": 1146.28,
+    "duration": 3.84
+  },
+  {
+    "text": "drake.",
+    "start": 1148.36,
+    "duration": 3.4
+  },
+  {
+    "text": "So, in the mid game, always have an",
+    "start": 1150.12,
+    "duration": 3.6
+  },
+  {
+    "text": "objective in mind and try and match your",
+    "start": 1151.76,
+    "duration": 3.56
+  },
+  {
+    "text": "team's tempo lines. Try and match your",
+    "start": 1153.72,
+    "duration": 4.44
+  },
+  {
+    "text": "team's pressure. If they're all on the",
+    "start": 1155.32,
+    "duration": 5.64
+  },
+  {
+    "text": "map, you also want to be on the map",
+    "start": 1158.16,
+    "duration": 4.52
+  },
+  {
+    "text": "in proximity to your strong lane. Is",
+    "start": 1160.96,
+    "duration": 4.24
+  },
+  {
+    "text": "this guy really going to go for this?",
+    "start": 1162.68,
+    "duration": 4.12
+  },
+  {
+    "text": "I'm going to ping my team here. Oh,",
+    "start": 1165.2,
+    "duration": 4.28
+  },
+  {
+    "text": "okay. My Draven wants to base.",
+    "start": 1166.8,
+    "duration": 4.44
+  },
+  {
+    "text": "He has IE, so I just want to take this",
+    "start": 1169.48,
+    "duration": 3.28
+  },
+  {
+    "text": "guy quickly. All right. We don't want to",
+    "start": 1171.24,
+    "duration": 2.84
+  },
+  {
+    "text": "fight here. So, I'm going to back ping",
+    "start": 1172.76,
+    "duration": 2.68
+  },
+  {
+    "text": "my team and be like, \"Okay, we do not",
+    "start": 1174.08,
+    "duration": 2.52
+  },
+  {
+    "text": "want to fight.\"",
+    "start": 1175.44,
+    "duration": 2.72
+  },
+  {
+    "text": "Just want to get the blue.",
+    "start": 1176.6,
+    "duration": 2.32
+  },
+  {
+    "text": "And then I'm going to have some",
+    "start": 1178.16,
+    "duration": 2.0
+  },
+  {
+    "text": "downtime, but in the downtime I have",
+    "start": 1178.92,
+    "duration": 2.44
+  },
+  {
+    "text": "nothing to do, so I'm going to do a",
+    "start": 1180.16,
+    "duration": 3.28
+  },
+  {
+    "text": "really quick base. Really, really quick",
+    "start": 1181.36,
+    "duration": 4.4
+  },
+  {
+    "text": "base here. Your turret is Um I guess I'm",
+    "start": 1183.44,
+    "duration": 3.72
+  },
+  {
+    "text": "just going lethality this game. I think",
+    "start": 1185.76,
+    "duration": 2.56
+  },
+  {
+    "text": "Edge of Night is actually really good",
+    "start": 1187.16,
+    "duration": 2.8
+  },
+  {
+    "text": "this game since they have abilities like",
+    "start": 1188.32,
+    "duration": 4.56
+  },
+  {
+    "text": "Skarner ult, Skarner E, Kayn W.",
+    "start": 1189.96,
+    "duration": 4.48
+  },
+  {
+    "text": "All right, look here. Perfect example of",
+    "start": 1192.88,
+    "duration": 3.52
+  },
+  {
+    "text": "uptime. You see my team. Okay, Nasus is",
+    "start": 1194.44,
+    "duration": 3.68
+  },
+  {
+    "text": "like low-key freezing, but we have",
+    "start": 1196.4,
+    "duration": 3.84
+  },
+  {
+    "text": "pressure mid and we have someone doing",
+    "start": 1198.12,
+    "duration": 3.56
+  },
+  {
+    "text": "something bot. So, I really want to",
+    "start": 1200.24,
+    "duration": 4.4
+  },
+  {
+    "text": "fight this kind of stuff.",
+    "start": 1201.68,
+    "duration": 2.96
+  },
+  {
+    "text": "Whoops. I don't need",
+    "start": 1205.24,
+    "duration": 5.44
+  },
+  {
+    "text": "Okay, looks good.",
+    "start": 1207.76,
+    "duration": 2.92
+  },
+  {
+    "text": "All right, looks bad. Vlad is here.",
+    "start": 1211.44,
+    "duration": 3.2
+  },
+  {
+    "text": "Retreat.",
+    "start": 1213.36,
+    "duration": 3.04
+  },
+  {
+    "text": "Let one die. It's all good. Okay, TP's",
+    "start": 1214.64,
+    "duration": 3.28
+  },
+  {
+    "text": "coming in, so we have to play slow here.",
+    "start": 1216.4,
+    "duration": 2.88
+  },
+  {
+    "text": "I'm going to just Let me pop my level",
+    "start": 1217.92,
+    "duration": 3.68
+  },
+  {
+    "text": "one pop here pop here, looks like. Okay,",
+    "start": 1219.28,
+    "duration": 3.44
+  },
+  {
+    "text": "we can keep playing slow. Holding my",
+    "start": 1221.6,
+    "duration": 2.8
+  },
+  {
+    "text": "abilities. Execution now coming into",
+    "start": 1222.72,
+    "duration": 4.08
+  },
+  {
+    "text": "play. He has pool, but he has no flash.",
+    "start": 1224.4,
+    "duration": 3.8
+  },
+  {
+    "text": "Yeah, I'm going to keep holding. They",
+    "start": 1226.8,
+    "duration": 2.48
+  },
+  {
+    "text": "still have abilities, so I have to play",
+    "start": 1228.2,
+    "duration": 2.44
+  },
+  {
+    "text": "really slow. Wait for Ari. Wait for Ari",
+    "start": 1229.28,
+    "duration": 4.08
+  },
+  {
+    "text": "smite. Keep playing slow. Here we go.",
+    "start": 1230.64,
+    "duration": 3.8
+  },
+  {
+    "text": "So, I'm playing lethality this game,",
+    "start": 1233.36,
+    "duration": 2.84
+  },
+  {
+    "text": "which means I need to play a little bit",
+    "start": 1234.44,
+    "duration": 3.12
+  },
+  {
+    "text": "slower. Oh my god, I'm actually dead",
+    "start": 1236.2,
+    "duration": 2.8
+  },
+  {
+    "text": "here.",
+    "start": 1237.56,
+    "duration": 3.16
+  },
+  {
+    "text": "I am playing lethality, which means I'm",
+    "start": 1239.0,
+    "duration": 4.36
+  },
+  {
+    "text": "very squishy and",
+    "start": 1240.72,
+    "duration": 4.36
+  },
+  {
+    "text": "Wow, this guy did a lot of damage. Damn.",
+    "start": 1243.36,
+    "duration": 3.76
+  },
+  {
+    "text": "So, this actually here what happened was",
+    "start": 1245.08,
+    "duration": 4.36
+  },
+  {
+    "text": "mainly just a numbers check. Okay, the",
+    "start": 1247.12,
+    "duration": 5.4
+  },
+  {
+    "text": "Vladimir is grouped. So, so the kind of",
+    "start": 1249.44,
+    "duration": 4.48
+  },
+  {
+    "text": "analogy I like to give is like, if you",
+    "start": 1252.52,
+    "duration": 3.16
+  },
+  {
+    "text": "go for a gank, right?",
+    "start": 1253.92,
+    "duration": 3.8
+  },
+  {
+    "text": "And they respect your gank, it feels bad",
+    "start": 1255.68,
+    "duration": 3.64
+  },
+  {
+    "text": "for you. Especially when you have camps",
+    "start": 1257.72,
+    "duration": 3.12
+  },
+  {
+    "text": "up. So, it's the same thing when",
+    "start": 1259.32,
+    "duration": 3.16
+  },
+  {
+    "text": "Vladimir groups mid. When Vladimir",
+    "start": 1260.84,
+    "duration": 4.4
+  },
+  {
+    "text": "groups mid, if we don't give him a play,",
+    "start": 1262.48,
+    "duration": 4.36
+  },
+  {
+    "text": "it's like he's, you know, he's not even",
+    "start": 1265.24,
+    "duration": 3.0
+  },
+  {
+    "text": "farming his way, right? He's he's he's",
+    "start": 1266.84,
+    "duration": 4.08
+  },
+  {
+    "text": "basically AFK. So, numbers check is all",
+    "start": 1268.24,
+    "duration": 4.64
+  },
+  {
+    "text": "about doing like a plus and a minus.",
+    "start": 1270.92,
+    "duration": 4.36
+  },
+  {
+    "text": "Like we have numbers, we have the plus,",
+    "start": 1272.88,
+    "duration": 3.6
+  },
+  {
+    "text": "we should fight. Like my Nasus is",
+    "start": 1275.28,
+    "duration": 3.08
+  },
+  {
+    "text": "grouping, we should fight.",
+    "start": 1276.48,
+    "duration": 2.52
+  },
+  {
+    "text": "Um",
+    "start": 1278.36,
+    "duration": 2.08
+  },
+  {
+    "text": "my Nasus is not grouping, that blood is",
+    "start": 1279.0,
+    "duration": 3.0
+  },
+  {
+    "text": "you get you get the point. Like if they",
+    "start": 1280.44,
+    "duration": 3.84
+  },
+  {
+    "text": "are grouping as five men mid, you should",
+    "start": 1282.0,
+    "duration": 4.12
+  },
+  {
+    "text": "not just like give them the plate, you",
+    "start": 1284.28,
+    "duration": 3.32
+  },
+  {
+    "text": "know.",
+    "start": 1286.12,
+    "duration": 2.92
+  },
+  {
+    "text": "Okay, so simply here we're just having a",
+    "start": 1287.6,
+    "duration": 2.72
+  },
+  {
+    "text": "bit of down time. Okay, what does that",
+    "start": 1289.04,
+    "duration": 3.84
+  },
+  {
+    "text": "mean? Because you see like this is not",
+    "start": 1290.32,
+    "duration": 4.04
+  },
+  {
+    "text": "up time because",
+    "start": 1292.88,
+    "duration": 4.4
+  },
+  {
+    "text": "my team only two people. So, I shouldn't",
+    "start": 1294.36,
+    "duration": 4.44
+  },
+  {
+    "text": "be with Thresh here. I'm waiting for my",
+    "start": 1297.28,
+    "duration": 3.44
+  },
+  {
+    "text": "team to",
+    "start": 1298.8,
+    "duration": 3.52
+  },
+  {
+    "text": "be on the map. Now I see something and",
+    "start": 1300.72,
+    "duration": 3.56
+  },
+  {
+    "text": "this is called protecting waves. Even",
+    "start": 1302.32,
+    "duration": 3.64
+  },
+  {
+    "text": "though Baron is up here,",
+    "start": 1304.28,
+    "duration": 2.96
+  },
+  {
+    "text": "I want to make the really really quick",
+    "start": 1305.96,
+    "duration": 3.52
+  },
+  {
+    "text": "decision to go and protect my bot wave",
+    "start": 1307.24,
+    "duration": 4.0
+  },
+  {
+    "text": "on this up time. Okay, look look at the",
+    "start": 1309.48,
+    "duration": 3.24
+  },
+  {
+    "text": "up time here. And look at the also the",
+    "start": 1311.24,
+    "duration": 4.32
+  },
+  {
+    "text": "ability usage, we're holding everything.",
+    "start": 1312.72,
+    "duration": 3.96
+  },
+  {
+    "text": "Cool.",
+    "start": 1315.56,
+    "duration": 3.92
+  },
+  {
+    "text": "Now we're going to push.",
+    "start": 1316.68,
+    "duration": 2.8
+  },
+  {
+    "text": "All right, perfect. Now I'm on my Nasus'",
+    "start": 1320.28,
+    "duration": 3.12
+  },
+  {
+    "text": "base, which means he kind of dropped",
+    "start": 1322.32,
+    "duration": 2.88
+  },
+  {
+    "text": "pressure. Wouldn't mind going for the",
+    "start": 1323.4,
+    "duration": 3.16
+  },
+  {
+    "text": "Gromp here.",
+    "start": 1325.2,
+    "duration": 3.6
+  },
+  {
+    "text": "Okay, cool.",
+    "start": 1326.56,
+    "duration": 3.6
+  },
+  {
+    "text": "Now Draven's basing, right? So, you've",
+    "start": 1328.8,
+    "duration": 3.44
+  },
+  {
+    "text": "got to watch that. As soon as he bases,",
+    "start": 1330.16,
+    "duration": 3.6
+  },
+  {
+    "text": "we're we're backing off here.",
+    "start": 1332.24,
+    "duration": 3.96
+  },
+  {
+    "text": "I'm leaving. I don't care. Because if we",
+    "start": 1333.76,
+    "duration": 4.76
+  },
+  {
+    "text": "fight bot lane 2 v 4, the rest of the",
+    "start": 1336.2,
+    "duration": 4.04
+  },
+  {
+    "text": "map can get nothing.",
+    "start": 1338.52,
+    "duration": 3.84
+  },
+  {
+    "text": "You see? So, your Ari will spam ping you",
+    "start": 1340.24,
+    "duration": 3.56
+  },
+  {
+    "text": "here and and you need to not be a",
+    "start": 1342.36,
+    "duration": 2.68
+  },
+  {
+    "text": "follower. If you want to climb out of",
+    "start": 1343.8,
+    "duration": 3.56
+  },
+  {
+    "text": "the rank you're in, guys, you need to",
+    "start": 1345.04,
+    "duration": 4.04
+  },
+  {
+    "text": "not follow your teammates' pings because",
+    "start": 1347.36,
+    "duration": 4.2
+  },
+  {
+    "text": "guess what? This Ari is this rank for a",
+    "start": 1349.08,
+    "duration": 4.4
+  },
+  {
+    "text": "reason. Let me just tell you that. And I",
+    "start": 1351.56,
+    "duration": 2.96
+  },
+  {
+    "text": "know I'm playing in like diamond and",
+    "start": 1353.48,
+    "duration": 2.16
+  },
+  {
+    "text": "master tier.",
+    "start": 1354.52,
+    "duration": 3.2
+  },
+  {
+    "text": "Um but like you need whatever rank",
+    "start": 1355.64,
+    "duration": 4.28
+  },
+  {
+    "text": "you're in, if you're following pings,",
+    "start": 1357.72,
+    "duration": 3.8
+  },
+  {
+    "text": "see look, he died but we can't get",
+    "start": 1359.92,
+    "duration": 3.16
+  },
+  {
+    "text": "anything from it because Draven was off",
+    "start": 1361.52,
+    "duration": 3.84
+  },
+  {
+    "text": "the map. And same same with Nasus.",
+    "start": 1363.08,
+    "duration": 3.88
+  },
+  {
+    "text": "And the up time down time is a is a is a",
+    "start": 1365.36,
+    "duration": 3.52
+  },
+  {
+    "text": "game wide fundamental. Now because my",
+    "start": 1366.96,
+    "duration": 3.8
+  },
+  {
+    "text": "Ari died, guess what we're going to do?",
+    "start": 1368.88,
+    "duration": 3.68
+  },
+  {
+    "text": "We're just going to play full down time.",
+    "start": 1370.76,
+    "duration": 2.8
+  },
+  {
+    "text": "Okay, we're not going to be looking to",
+    "start": 1372.56,
+    "duration": 2.36
+  },
+  {
+    "text": "take any camps. We're not going to be",
+    "start": 1373.56,
+    "duration": 2.6
+  },
+  {
+    "text": "looking to dive center. We're not",
+    "start": 1374.92,
+    "duration": 2.84
+  },
+  {
+    "text": "looking to do anything here except for",
+    "start": 1376.16,
+    "duration": 4.04
+  },
+  {
+    "text": "farm our camps because",
+    "start": 1377.76,
+    "duration": 4.0
+  },
+  {
+    "text": "because Ari died.",
+    "start": 1380.2,
+    "duration": 2.76
+  },
+  {
+    "text": "And the worst thing you can do is just",
+    "start": 1381.76,
+    "duration": 2.92
+  },
+  {
+    "text": "chain it. The worst thing you can do is",
+    "start": 1382.96,
+    "duration": 4.48
+  },
+  {
+    "text": "just perma perma die on on cool down.",
+    "start": 1384.68,
+    "duration": 4.84
+  },
+  {
+    "text": "Okay? So look, my my team is going to my",
+    "start": 1387.44,
+    "duration": 3.6
+  },
+  {
+    "text": "Nami is going to get ganked here. The",
+    "start": 1389.52,
+    "duration": 4.08
+  },
+  {
+    "text": "problem is is that because already died",
+    "start": 1391.04,
+    "duration": 3.96
+  },
+  {
+    "text": "there's nothing we can really do. So now",
+    "start": 1393.6,
+    "duration": 3.16
+  },
+  {
+    "text": "we are perma inting because Nami is is",
+    "start": 1395.0,
+    "duration": 2.8
+  },
+  {
+    "text": "trying to play up time when it's not",
+    "start": 1396.76,
+    "duration": 2.16
+  },
+  {
+    "text": "down when it's not up time when it's",
+    "start": 1397.8,
+    "duration": 2.8
+  },
+  {
+    "text": "down time.",
+    "start": 1398.92,
+    "duration": 3.36
+  },
+  {
+    "text": "So we'll just we'll just play on our own",
+    "start": 1400.6,
+    "duration": 2.88
+  },
+  {
+    "text": "tempo. Okay? When this happens guys,",
+    "start": 1402.28,
+    "duration": 2.64
+  },
+  {
+    "text": "just do whatever you want. Okay? I don't",
+    "start": 1403.48,
+    "duration": 3.12
+  },
+  {
+    "text": "I don't care. Like base, don't base,",
+    "start": 1404.92,
+    "duration": 3.4
+  },
+  {
+    "text": "farm, take bot wave, take top wave, like",
+    "start": 1406.6,
+    "duration": 2.92
+  },
+  {
+    "text": "whatever it is.",
+    "start": 1408.32,
+    "duration": 3.12
+  },
+  {
+    "text": "Obviously if if I could use the fact",
+    "start": 1409.52,
+    "duration": 3.6
+  },
+  {
+    "text": "that Kayn was top here to like take",
+    "start": 1411.44,
+    "duration": 3.92
+  },
+  {
+    "text": "something, obviously it's not as black",
+    "start": 1413.12,
+    "duration": 5.0
+  },
+  {
+    "text": "or white as I'm putting it. Um but you",
+    "start": 1415.36,
+    "duration": 4.16
+  },
+  {
+    "text": "got to know the rules before you can",
+    "start": 1418.12,
+    "duration": 3.24
+  },
+  {
+    "text": "break the rules, okay? You can break the",
+    "start": 1419.52,
+    "duration": 3.56
+  },
+  {
+    "text": "rules once you've mastered it. I mean no",
+    "start": 1421.36,
+    "duration": 4.24
+  },
+  {
+    "text": "one's really mastered it, so",
+    "start": 1423.08,
+    "duration": 3.68
+  },
+  {
+    "text": "yeah.",
+    "start": 1425.6,
+    "duration": 2.8
+  },
+  {
+    "text": "All right, vision control.",
+    "start": 1426.76,
+    "duration": 3.08
+  },
+  {
+    "text": "Okay, vision control. Look, my team is",
+    "start": 1428.4,
+    "duration": 2.88
+  },
+  {
+    "text": "basing again. Look how dangerous this",
+    "start": 1429.84,
+    "duration": 3.48
+  },
+  {
+    "text": "ward is. Look how dangerous this area",
+    "start": 1431.28,
+    "duration": 4.8
+  },
+  {
+    "text": "is, okay? Be Be very careful here, okay?",
+    "start": 1433.32,
+    "duration": 4.28
+  },
+  {
+    "text": "It's once down time again. You You see",
+    "start": 1436.08,
+    "duration": 3.68
+  },
+  {
+    "text": "that? I'm just looking at my team. My",
+    "start": 1437.6,
+    "duration": 4.04
+  },
+  {
+    "text": "team is running out of base. My Ari is",
+    "start": 1439.76,
+    "duration": 3.08
+  },
+  {
+    "text": "inting. I'm going to back ping her.",
+    "start": 1441.64,
+    "duration": 4.48
+  },
+  {
+    "text": "She's going to die anyway. Who cares?",
+    "start": 1442.84,
+    "duration": 5.44
+  },
+  {
+    "text": "You can see guys, I I go through the",
+    "start": 1446.12,
+    "duration": 3.92
+  },
+  {
+    "text": "same struggles as you guys in these",
+    "start": 1448.28,
+    "duration": 4.2
+  },
+  {
+    "text": "games. The most important thing is that",
+    "start": 1450.04,
+    "duration": 4.32
+  },
+  {
+    "text": "you don't focus on the outcome of the",
+    "start": 1452.48,
+    "duration": 4.24
+  },
+  {
+    "text": "game. You focus on the game is giving",
+    "start": 1454.36,
+    "duration": 4.56
+  },
+  {
+    "text": "you decisions. It's saying, \"How are you",
+    "start": 1456.72,
+    "duration": 3.4
+  },
+  {
+    "text": "going to make decisions here? Are you",
+    "start": 1458.92,
+    "duration": 2.64
+  },
+  {
+    "text": "going to go compensate for this Ari",
+    "start": 1460.12,
+    "duration": 3.32
+  },
+  {
+    "text": "here? Are we going to compensate on this",
+    "start": 1461.56,
+    "duration": 2.88
+  },
+  {
+    "text": "strike here? Are we going to try and",
+    "start": 1463.44,
+    "duration": 2.16
+  },
+  {
+    "text": "make a better play?\" Which is like going",
+    "start": 1464.44,
+    "duration": 2.92
+  },
+  {
+    "text": "for Baron.",
+    "start": 1465.6,
+    "duration": 2.76
+  },
+  {
+    "text": "Right?",
+    "start": 1467.36,
+    "duration": 3.36
+  },
+  {
+    "text": "What are you going to do? Is the Is the",
+    "start": 1468.36,
+    "duration": 3.84
+  },
+  {
+    "text": "Is the game is asking you that. Okay,",
+    "start": 1470.72,
+    "duration": 3.0
+  },
+  {
+    "text": "let's do Baron here.",
+    "start": 1472.2,
+    "duration": 3.48
+  },
+  {
+    "text": "Whatever. We'll trade. Match or trade.",
+    "start": 1473.72,
+    "duration": 3.44
+  },
+  {
+    "text": "They're going on this. We're just going",
+    "start": 1475.68,
+    "duration": 3.44
+  },
+  {
+    "text": "to start the the Baron here, right? And",
+    "start": 1477.16,
+    "duration": 3.04
+  },
+  {
+    "text": "they're going to try and come across",
+    "start": 1479.12,
+    "duration": 2.88
+  },
+  {
+    "text": "here. If they're smart, they they should",
+    "start": 1480.2,
+    "duration": 3.24
+  },
+  {
+    "text": "try and do that. Ooh, nice. We have",
+    "start": 1482.0,
+    "duration": 3.4
+  },
+  {
+    "text": "vision of this, too. Okay, they blew it.",
+    "start": 1483.44,
+    "duration": 3.56
+  },
+  {
+    "text": "But guess what? We just get Baron now",
+    "start": 1485.4,
+    "duration": 3.0
+  },
+  {
+    "text": "cuz we understand match or trade. We",
+    "start": 1487.0,
+    "duration": 3.0
+  },
+  {
+    "text": "understand not compensating. We",
+    "start": 1488.4,
+    "duration": 3.16
+  },
+  {
+    "text": "understand that if it's 4 v 5, that's",
+    "start": 1490.0,
+    "duration": 3.48
+  },
+  {
+    "text": "the best chance the enemy has.",
+    "start": 1491.56,
+    "duration": 3.28
+  },
+  {
+    "text": "Now they're inting. Now they're",
+    "start": 1493.48,
+    "duration": 4.48
+  },
+  {
+    "text": "compensating. You see what happens.",
+    "start": 1494.84,
+    "duration": 4.24
+  },
+  {
+    "text": "I'm just going to play my Draven here",
+    "start": 1497.96,
+    "duration": 2.96
+  },
+  {
+    "text": "cuz he's strong.",
+    "start": 1499.08,
+    "duration": 3.92
+  },
+  {
+    "text": "Oh, my Thresh is",
+    "start": 1500.92,
+    "duration": 3.6
+  },
+  {
+    "text": "being carried. Okay, no need to go for",
+    "start": 1503.0,
+    "duration": 3.12
+  },
+  {
+    "text": "more.",
+    "start": 1504.52,
+    "duration": 4.4
+  },
+  {
+    "text": "We're thinking here, what can we take?",
+    "start": 1506.12,
+    "duration": 4.36
+  },
+  {
+    "text": "We have 1,300 gold, but we actually",
+    "start": 1508.92,
+    "duration": 2.8
+  },
+  {
+    "text": "don't want to play down. We don't want",
+    "start": 1510.48,
+    "duration": 2.6
+  },
+  {
+    "text": "to base yet. Okay, the reason we don't",
+    "start": 1511.72,
+    "duration": 3.32
+  },
+  {
+    "text": "want to base is because the enemy are",
+    "start": 1513.08,
+    "duration": 3.52
+  },
+  {
+    "text": "dead and we have an advantage. We do",
+    "start": 1515.04,
+    "duration": 2.92
+  },
+  {
+    "text": "need to be careful about face checking",
+    "start": 1516.6,
+    "duration": 3.32
+  },
+  {
+    "text": "and stuff like that. But most likely,",
+    "start": 1517.96,
+    "duration": 3.6
+  },
+  {
+    "text": "okay, my Draven's basing again. Yep, I",
+    "start": 1519.92,
+    "duration": 3.76
+  },
+  {
+    "text": "want to try and override his call here",
+    "start": 1521.56,
+    "duration": 3.36
+  },
+  {
+    "text": "because I think that we should be able",
+    "start": 1523.68,
+    "duration": 3.24
+  },
+  {
+    "text": "to take something.",
+    "start": 1524.92,
+    "duration": 3.84
+  },
+  {
+    "text": "Maybe. I'm not I'm not I'm not 100%",
+    "start": 1526.92,
+    "duration": 4.52
+  },
+  {
+    "text": "sure, I won't lie.",
+    "start": 1528.76,
+    "duration": 2.68
+  },
+  {
+    "text": "Yep, okay, it doesn't look like it.",
+    "start": 1531.84,
+    "duration": 5.52
+  },
+  {
+    "text": "So, we can we we could take a base here.",
+    "start": 1535.32,
+    "duration": 3.64
+  },
+  {
+    "text": "Yeah, let's just take a base.",
+    "start": 1537.36,
+    "duration": 3.32
+  },
+  {
+    "text": "We'll spend our gold. With Baron, of",
+    "start": 1538.96,
+    "duration": 3.68
+  },
+  {
+    "text": "course, guys, you really want to use",
+    "start": 1540.68,
+    "duration": 3.64
+  },
+  {
+    "text": "Baron to push.",
+    "start": 1542.64,
+    "duration": 2.88
+  },
+  {
+    "text": "So, every time I'm going to play down",
+    "start": 1544.32,
+    "duration": 3.08
+  },
+  {
+    "text": "time, I'm just backing in my team here.",
+    "start": 1545.52,
+    "duration": 4.48
+  },
+  {
+    "text": "I'm just like, \"Yo. By the way, guys,",
+    "start": 1547.4,
+    "duration": 4.64
+  },
+  {
+    "text": "we're off the map. So, you guys should",
+    "start": 1550.0,
+    "duration": 3.8
+  },
+  {
+    "text": "not push.\" Uh it's whatever. Do it Let",
+    "start": 1552.04,
+    "duration": 3.32
+  },
+  {
+    "text": "Let them do what they want to do.",
+    "start": 1553.8,
+    "duration": 3.28
+  },
+  {
+    "text": "Okay, I'm telling you guys, you can",
+    "start": 1555.36,
+    "duration": 3.76
+  },
+  {
+    "text": "carry most games. You don't have to win",
+    "start": 1557.08,
+    "duration": 5.04
+  },
+  {
+    "text": "every game. Okay, this is also commonly",
+    "start": 1559.12,
+    "duration": 4.92
+  },
+  {
+    "text": "uh asked question and and you know,",
+    "start": 1562.12,
+    "duration": 3.68
+  },
+  {
+    "text": "people always complaining about your bad",
+    "start": 1564.04,
+    "duration": 3.4
+  },
+  {
+    "text": "teams, but you also have to consider",
+    "start": 1565.8,
+    "duration": 3.24
+  },
+  {
+    "text": "sometimes you have good teams. And and",
+    "start": 1567.44,
+    "duration": 2.84
+  },
+  {
+    "text": "this game in",
+    "start": 1569.04,
+    "duration": 4.24
+  },
+  {
+    "text": "is essentially one of those 70% games. A",
+    "start": 1570.28,
+    "duration": 4.64
+  },
+  {
+    "text": "game where",
+    "start": 1573.28,
+    "duration": 2.72
+  },
+  {
+    "text": "as you can see, guys, my Draven's in",
+    "start": 1574.92,
+    "duration": 2.44
+  },
+  {
+    "text": "base. So, what am I doing? Even though I",
+    "start": 1576.0,
+    "duration": 2.84
+  },
+  {
+    "text": "have Baron here,",
+    "start": 1577.36,
+    "duration": 3.72
+  },
+  {
+    "text": "I have to adapt to my team.",
+    "start": 1578.84,
+    "duration": 5.72
+  },
+  {
+    "text": "I have to adapt to my team.",
+    "start": 1581.08,
+    "duration": 4.56
+  },
+  {
+    "text": "And",
+    "start": 1584.56,
+    "duration": 2.08
+  },
+  {
+    "text": "I'm just going to farm. I'm just going",
+    "start": 1585.64,
+    "duration": 4.12
+  },
+  {
+    "text": "to maintain my composure, my agency.",
+    "start": 1586.64,
+    "duration": 5.2
+  },
+  {
+    "text": "The more I maintain,",
+    "start": 1589.76,
+    "duration": 3.44
+  },
+  {
+    "text": "you know, you guys saw what happened",
+    "start": 1591.84,
+    "duration": 4.04
+  },
+  {
+    "text": "just before. Because I'm so strong, we",
+    "start": 1593.2,
+    "duration": 4.2
+  },
+  {
+    "text": "take Baron instantly because, you know,",
+    "start": 1595.88,
+    "duration": 3.32
+  },
+  {
+    "text": "I've made all the right all the right",
+    "start": 1597.4,
+    "duration": 3.4
+  },
+  {
+    "text": "butterfly decisions this game around bot",
+    "start": 1599.2,
+    "duration": 5.0
+  },
+  {
+    "text": "lane and about not compensating for mid.",
+    "start": 1600.8,
+    "duration": 4.76
+  },
+  {
+    "text": "So, I'm going to wait here.",
+    "start": 1604.2,
+    "duration": 2.36
+  },
+  {
+    "text": "We're waiting for people to show on",
+    "start": 1605.56,
+    "duration": 2.6
+  },
+  {
+    "text": "waves. No one's showing bot right now.",
+    "start": 1606.56,
+    "duration": 3.4
+  },
+  {
+    "text": "My Ari's bot. She does have TP, but we",
+    "start": 1608.16,
+    "duration": 4.12
+  },
+  {
+    "text": "just have to be careful here. We can",
+    "start": 1609.96,
+    "duration": 3.64
+  },
+  {
+    "text": "fight.",
+    "start": 1612.28,
+    "duration": 3.28
+  },
+  {
+    "text": "Oh, thresh is running the wrong way.",
+    "start": 1613.6,
+    "duration": 3.36
+  },
+  {
+    "text": "So, we have to be a bit careful, play a",
+    "start": 1615.56,
+    "duration": 3.16
+  },
+  {
+    "text": "bit slow.",
+    "start": 1616.96,
+    "duration": 3.16
+  },
+  {
+    "text": "Okay.",
+    "start": 1618.72,
+    "duration": 3.88
+  },
+  {
+    "text": "I'm trolling.",
+    "start": 1620.12,
+    "duration": 2.48
+  },
+  {
+    "text": "Jarvan, my most played champion, by the",
+    "start": 1623.0,
+    "duration": 3.44
+  },
+  {
+    "text": "way.",
+    "start": 1624.24,
+    "duration": 2.2
+  },
+  {
+    "text": "Oh, I really trolled.",
+    "start": 1627.6,
+    "duration": 3.16
+  },
+  {
+    "text": "Okay, is this Kayn not just doing insane",
+    "start": 1631.84,
+    "duration": 3.8
+  },
+  {
+    "text": "damage? Wow. Okay, I need to start",
+    "start": 1634.0,
+    "duration": 3.0
+  },
+  {
+    "text": "building Hoobris. Okay, I completely",
+    "start": 1635.64,
+    "duration": 3.44
+  },
+  {
+    "text": "trolled that. Um, and it it goes to the",
+    "start": 1637.0,
+    "duration": 4.28
+  },
+  {
+    "text": "same thing as before as I said,",
+    "start": 1639.08,
+    "duration": 4.2
+  },
+  {
+    "text": "when they have numbers, when they are",
+    "start": 1641.28,
+    "duration": 4.4
+  },
+  {
+    "text": "not showing bot, they just had someone",
+    "start": 1643.28,
+    "duration": 3.88
+  },
+  {
+    "text": "grouped here, right? They just had like",
+    "start": 1645.68,
+    "duration": 3.16
+  },
+  {
+    "text": "the Xerath already grouped, too. My",
+    "start": 1647.16,
+    "duration": 3.36
+  },
+  {
+    "text": "Aurelion was TPing, so TP is also a",
+    "start": 1648.84,
+    "duration": 3.04
+  },
+  {
+    "text": "factor.",
+    "start": 1650.52,
+    "duration": 4.0
+  },
+  {
+    "text": "Um, but yeah, misplay execution-wise, I",
+    "start": 1651.88,
+    "duration": 6.36
+  },
+  {
+    "text": "just did the the classic flash Q Jarvan.",
+    "start": 1654.52,
+    "duration": 5.32
+  },
+  {
+    "text": "And so, as you as you close some of",
+    "start": 1658.24,
+    "duration": 3.12
+  },
+  {
+    "text": "these games out, guys, like you got to",
+    "start": 1659.84,
+    "duration": 3.16
+  },
+  {
+    "text": "remember that um, this is also something",
+    "start": 1661.36,
+    "duration": 3.16
+  },
+  {
+    "text": "else I get I get a lot in coaching,",
+    "start": 1663.0,
+    "duration": 3.04
+  },
+  {
+    "text": "which is like, I was like, so fed this",
+    "start": 1664.52,
+    "duration": 4.16
+  },
+  {
+    "text": "game, but we didn't win in 20 minutes.",
+    "start": 1666.04,
+    "duration": 3.92
+  },
+  {
+    "text": "Like, a lot of the question is like, if",
+    "start": 1668.68,
+    "duration": 2.52
+  },
+  {
+    "text": "you're if you're really far ahead, like,",
+    "start": 1669.96,
+    "duration": 3.16
+  },
+  {
+    "text": "you should win in 20 minutes. And",
+    "start": 1671.2,
+    "duration": 4.08
+  },
+  {
+    "text": "nowadays, League of Legends is not like",
+    "start": 1673.12,
+    "duration": 4.56
+  },
+  {
+    "text": "it's not really like most every like, on",
+    "start": 1675.28,
+    "duration": 3.56
+  },
+  {
+    "text": "average, games go for a little bit",
+    "start": 1677.68,
+    "duration": 3.12
+  },
+  {
+    "text": "longer, right? So,",
+    "start": 1678.84,
+    "duration": 3.48
+  },
+  {
+    "text": "yeah, most games you're not going to win",
+    "start": 1680.8,
+    "duration": 2.76
+  },
+  {
+    "text": "in like, 20 minutes. Like, I like to",
+    "start": 1682.32,
+    "duration": 3.36
+  },
+  {
+    "text": "think about closing the amount as,",
+    "start": 1683.56,
+    "duration": 3.76
+  },
+  {
+    "text": "you know, a campaign game where like,",
+    "start": 1685.68,
+    "duration": 3.0
+  },
+  {
+    "text": "you want to do all the missions, like,",
+    "start": 1687.32,
+    "duration": 2.96
+  },
+  {
+    "text": "you want to get all the all the first",
+    "start": 1688.68,
+    "duration": 3.0
+  },
+  {
+    "text": "towers and the second towers and all the",
+    "start": 1690.28,
+    "duration": 2.56
+  },
+  {
+    "text": "drakes and then, you know, you have",
+    "start": 1691.68,
+    "duration": 5.16
+  },
+  {
+    "text": "like, things, quests for you to do.",
+    "start": 1692.84,
+    "duration": 4.0
+  },
+  {
+    "text": "Okay, I just got to one-shot him before",
+    "start": 1697.4,
+    "duration": 2.6
+  },
+  {
+    "text": "he one-shots me. That's the that's the",
+    "start": 1698.56,
+    "duration": 3.68
+  },
+  {
+    "text": "play.",
+    "start": 1700.0,
+    "duration": 2.24
+  },
+  {
+    "text": "Nice.",
+    "start": 1702.32,
+    "duration": 3.6
+  },
+  {
+    "text": "All right, cool. And now, we really want",
+    "start": 1704.4,
+    "duration": 3.48
+  },
+  {
+    "text": "to push waves. So, in this situation,",
+    "start": 1705.92,
+    "duration": 2.8
+  },
+  {
+    "text": "even though there you know, there's no",
+    "start": 1707.88,
+    "duration": 3.44
+  },
+  {
+    "text": "drake spawning, we want to push.",
+    "start": 1708.72,
+    "duration": 4.36
+  },
+  {
+    "text": "Push, push, push. The next quest, the",
+    "start": 1711.32,
+    "duration": 3.08
+  },
+  {
+    "text": "next objective, okay? Always have an",
+    "start": 1713.08,
+    "duration": 2.68
+  },
+  {
+    "text": "objective in mind.",
+    "start": 1714.4,
+    "duration": 5.04
+  },
+  {
+    "text": "The objective is these towers.",
+    "start": 1715.76,
+    "duration": 5.92
+  },
+  {
+    "text": "Wow, I'm level 18. Is this is this role",
+    "start": 1719.44,
+    "duration": 3.52
+  },
+  {
+    "text": "balanced?",
+    "start": 1721.68,
+    "duration": 3.16
+  },
+  {
+    "text": "How am I level 18?",
+    "start": 1722.96,
+    "duration": 4.44
+  },
+  {
+    "text": "How's my Draven level 14.",
+    "start": 1724.84,
+    "duration": 4.96
+  },
+  {
+    "text": "All right.",
+    "start": 1727.4,
+    "duration": 2.4
+  },
+  {
+    "text": "All right, slowly. All right, slowly.",
+    "start": 1731.84,
+    "duration": 3.12
+  },
+  {
+    "text": "Yeah, even though we didn't get the last",
+    "start": 1733.56,
+    "duration": 2.92
+  },
+  {
+    "text": "strike, it kind of sucks. We're not",
+    "start": 1734.96,
+    "duration": 2.48
+  },
+  {
+    "text": "going to be able to break more here",
+    "start": 1736.48,
+    "duration": 2.4
+  },
+  {
+    "text": "because Nasus is dead. We want to clear",
+    "start": 1737.44,
+    "duration": 4.08
+  },
+  {
+    "text": "all their vision.",
+    "start": 1738.88,
+    "duration": 2.64
+  },
+  {
+    "text": "And let's clear all their vision and",
+    "start": 1742.04,
+    "duration": 2.84
+  },
+  {
+    "text": "then let's play for Drake. And here",
+    "start": 1743.48,
+    "duration": 2.72
+  },
+  {
+    "text": "because we have Baron, because we had a",
+    "start": 1744.88,
+    "duration": 2.8
+  },
+  {
+    "text": "lot of control, it I mean, because we",
+    "start": 1746.2,
+    "duration": 2.68
+  },
+  {
+    "text": "have, you know, waves pushed in, we have",
+    "start": 1747.68,
+    "duration": 2.84
+  },
+  {
+    "text": "a lot of control.",
+    "start": 1748.88,
+    "duration": 3.12
+  },
+  {
+    "text": "So, we can just play off of Okay, so how",
+    "start": 1750.52,
+    "duration": 2.44
+  },
+  {
+    "text": "do we want to play fights now? Okay,",
+    "start": 1752.0,
+    "duration": 2.72
+  },
+  {
+    "text": "obviously we want to play around Draven.",
+    "start": 1752.96,
+    "duration": 2.76
+  },
+  {
+    "text": "Um we want to play around the fact that",
+    "start": 1754.72,
+    "duration": 2.24
+  },
+  {
+    "text": "we have Ori and Thresh, which have",
+    "start": 1755.72,
+    "duration": 3.36
+  },
+  {
+    "text": "really, really good pick tools.",
+    "start": 1756.96,
+    "duration": 3.48
+  },
+  {
+    "text": "We kind of want this guy to group here",
+    "start": 1759.08,
+    "duration": 3.4
+  },
+  {
+    "text": "with us, to be honest with you, because",
+    "start": 1760.44,
+    "duration": 3.16
+  },
+  {
+    "text": "But again here, we might have to We",
+    "start": 1762.48,
+    "duration": 2.84
+  },
+  {
+    "text": "might have to see what happens. Like, we",
+    "start": 1763.6,
+    "duration": 2.8
+  },
+  {
+    "text": "want to play this really slow and wait",
+    "start": 1765.32,
+    "duration": 3.48
+  },
+  {
+    "text": "for Ori.",
+    "start": 1766.4,
+    "duration": 2.4
+  },
+  {
+    "text": "Yeah, that's kind of sucks. It's kind of",
+    "start": 1769.2,
+    "duration": 2.72
+  },
+  {
+    "text": "sucks, but it is what it is. And I also",
+    "start": 1770.6,
+    "duration": 3.56
+  },
+  {
+    "text": "have 2K gold cuz um",
+    "start": 1771.92,
+    "duration": 4.2
+  },
+  {
+    "text": "Let's try.",
+    "start": 1774.16,
+    "duration": 3.4
+  },
+  {
+    "text": "It's okay. Now I'll just stay. I can't",
+    "start": 1776.12,
+    "duration": 4.16
+  },
+  {
+    "text": "really base now.",
+    "start": 1777.56,
+    "duration": 2.72
+  },
+  {
+    "text": "Yeah, we keep playing slow. Sometimes",
+    "start": 1780.84,
+    "duration": 3.4
+  },
+  {
+    "text": "it's Jarvan, what or whoever you play,",
+    "start": 1782.36,
+    "duration": 3.08
+  },
+  {
+    "text": "right? [snorts] You got to know champ",
+    "start": 1784.24,
+    "duration": 2.12
+  },
+  {
+    "text": "mastery and what to do in these",
+    "start": 1785.44,
+    "duration": 2.8
+  },
+  {
+    "text": "situations. It is just about, you know,",
+    "start": 1786.36,
+    "duration": 4.44
+  },
+  {
+    "text": "getting some vision here.",
+    "start": 1788.24,
+    "duration": 3.88
+  },
+  {
+    "text": "Maybe finding a little bit of a Cuz we",
+    "start": 1790.8,
+    "duration": 2.4
+  },
+  {
+    "text": "have so much space, actually. We can",
+    "start": 1792.12,
+    "duration": 2.6
+  },
+  {
+    "text": "actually find We can actually find flank",
+    "start": 1793.2,
+    "duration": 3.16
+  },
+  {
+    "text": "angles this game.",
+    "start": 1794.72,
+    "duration": 3.56
+  },
+  {
+    "text": "Unlike the Xerath.",
+    "start": 1796.36,
+    "duration": 3.16
+  },
+  {
+    "text": "Potentially. And I'm pretty safe because",
+    "start": 1798.28,
+    "duration": 2.96
+  },
+  {
+    "text": "I I have EQ.",
+    "start": 1799.52,
+    "duration": 5.16
+  },
+  {
+    "text": "They're kind of marking me though. Okay.",
+    "start": 1801.24,
+    "duration": 6.32
+  },
+  {
+    "text": "Want to pull the Drake now.",
+    "start": 1804.68,
+    "duration": 2.88
+  },
+  {
+    "text": "And I also want this bush. Bit of a",
+    "start": 1807.68,
+    "duration": 4.92
+  },
+  {
+    "text": "standoff, guys.",
+    "start": 1809.48,
+    "duration": 4.76
+  },
+  {
+    "text": "All right, let's go now.",
+    "start": 1812.6,
+    "duration": 5.28
+  },
+  {
+    "text": "I think they can't get here on time.",
+    "start": 1814.24,
+    "duration": 3.64
+  },
+  {
+    "text": "We will be able to play for the smite,",
+    "start": 1819.8,
+    "duration": 3.64
+  },
+  {
+    "text": "but",
+    "start": 1821.12,
+    "duration": 2.32
+  },
+  {
+    "text": "Okay, Thresh is one HP, but we can still",
+    "start": 1824.48,
+    "duration": 5.28
+  },
+  {
+    "text": "potentially fight.",
+    "start": 1826.92,
+    "duration": 4.4
+  },
+  {
+    "text": "I trolled a bit. All right, we're not",
+    "start": 1829.76,
+    "duration": 2.8
+  },
+  {
+    "text": "fighting.",
+    "start": 1831.32,
+    "duration": 3.0
+  },
+  {
+    "text": "We ain't fighting anymore. So, we just",
+    "start": 1832.56,
+    "duration": 2.64
+  },
+  {
+    "text": "got to play with the cards we've been",
+    "start": 1834.32,
+    "duration": 2.0
+  },
+  {
+    "text": "dealt, right? The cards we've been dealt",
+    "start": 1835.2,
+    "duration": 2.32
+  },
+  {
+    "text": "here is like it's a bit of a weird",
+    "start": 1836.32,
+    "duration": 2.44
+  },
+  {
+    "text": "situation.",
+    "start": 1837.52,
+    "duration": 2.48
+  },
+  {
+    "text": "Um",
+    "start": 1838.76,
+    "duration": 4.44
+  },
+  {
+    "text": "Oh, I didn't get a stunned.",
+    "start": 1840.0,
+    "duration": 3.2
+  },
+  {
+    "text": "All right, I should be chilling.",
+    "start": 1844.16,
+    "duration": 4.8
+  },
+  {
+    "text": "I'm not chilling. I am chilling. Is he a",
+    "start": 1846.8,
+    "duration": 4.64
+  },
+  {
+    "text": "bot? Shut down.",
+    "start": 1848.96,
+    "duration": 5.04
+  },
+  {
+    "text": "Oh my goodness, this guy is a madman.",
+    "start": 1851.44,
+    "duration": 4.851
+  },
+  {
+    "text": "And this guy is chasing me as well.",
+    "start": 1854.0,
+    "duration": 2.96
+  },
+  {
+    "text": ">> [snorts]",
+    "start": 1856.291,
+    "duration": 3.389
+  },
+  {
+    "text": ">> All right.",
+    "start": 1856.96,
+    "duration": 2.72
+  },
+  {
+    "text": "Uh Baron is probably gone.",
+    "start": 1859.8,
+    "duration": 5.12
+  },
+  {
+    "text": "Reality reality-wise, Baron is probably",
+    "start": 1862.12,
+    "duration": 4.52
+  },
+  {
+    "text": "gone, but the enemy are kind of",
+    "start": 1864.92,
+    "duration": 3.12
+  },
+  {
+    "text": "trolling. They're kind of doing two",
+    "start": 1866.64,
+    "duration": 3.0
+  },
+  {
+    "text": "things at once.",
+    "start": 1868.04,
+    "duration": 2.96
+  },
+  {
+    "text": "So, we're just going to",
+    "start": 1869.64,
+    "duration": 3.56
+  },
+  {
+    "text": "accept reality here and just throw our",
+    "start": 1871.0,
+    "duration": 3.24
+  },
+  {
+    "text": "camps.",
+    "start": 1873.2,
+    "duration": 2.72
+  },
+  {
+    "text": "Um you know, some people as well I would",
+    "start": 1874.24,
+    "duration": 3.08
+  },
+  {
+    "text": "see like trying to defend this tower and",
+    "start": 1875.92,
+    "duration": 2.72
+  },
+  {
+    "text": "stuff like that.",
+    "start": 1877.32,
+    "duration": 3.2
+  },
+  {
+    "text": "Just it's okay. Just let it drop. Farm",
+    "start": 1878.64,
+    "duration": 3.44
+  },
+  {
+    "text": "your camps. Minimize. Again, that",
+    "start": 1880.52,
+    "duration": 4.8
+  },
+  {
+    "text": "fundamental of minimizing.",
+    "start": 1882.08,
+    "duration": 3.24
+  },
+  {
+    "text": "I don't need this game. I need like GA",
+    "start": 1885.64,
+    "duration": 4.08
+  },
+  {
+    "text": "now, I think.",
+    "start": 1887.04,
+    "duration": 2.68
+  },
+  {
+    "text": "All right, if my Nasus dies",
+    "start": 1890.4,
+    "duration": 4.64
+  },
+  {
+    "text": "And and also like I finally like I talk",
+    "start": 1893.0,
+    "duration": 3.64
+  },
+  {
+    "text": "about this a lot in in the vids, too,",
+    "start": 1895.04,
+    "duration": 3.24
+  },
+  {
+    "text": "but like you got to remember as well",
+    "start": 1896.64,
+    "duration": 3.32
+  },
+  {
+    "text": "like even though this game it would",
+    "start": 1898.28,
+    "duration": 3.28
+  },
+  {
+    "text": "really suck to lose,",
+    "start": 1899.96,
+    "duration": 3.32
+  },
+  {
+    "text": "you you got to know that like if you",
+    "start": 1901.56,
+    "duration": 3.04
+  },
+  {
+    "text": "play like this enough, okay, you're",
+    "start": 1903.28,
+    "duration": 2.88
+  },
+  {
+    "text": "going to win most games. You're not",
+    "start": 1904.6,
+    "duration": 3.56
+  },
+  {
+    "text": "going to you're not going to lose",
+    "start": 1906.16,
+    "duration": 5.0
+  },
+  {
+    "text": "uh all of these games, right?",
+    "start": 1908.16,
+    "duration": 4.56
+  },
+  {
+    "text": "Yeah, someone will say I will. I'm",
+    "start": 1911.16,
+    "duration": 4.24
+  },
+  {
+    "text": "really unlucky. Um",
+    "start": 1912.72,
+    "duration": 3.8
+  },
+  {
+    "text": "Hey, that's the nature of the game,",
+    "start": 1915.4,
+    "duration": 2.32
+  },
+  {
+    "text": "right? The nature of League of Legends",
+    "start": 1916.52,
+    "duration": 3.72
+  },
+  {
+    "text": "is that",
+    "start": 1917.72,
+    "duration": 2.52
+  },
+  {
+    "text": "uh not every game is winnable. Not every",
+    "start": 1920.44,
+    "duration": 5.04
+  },
+  {
+    "text": "game is in completely in your control.",
+    "start": 1921.88,
+    "duration": 3.6
+  },
+  {
+    "text": "All right.",
+    "start": 1925.92,
+    "duration": 2.68
+  },
+  {
+    "text": "Nasus spawning in 20. Let's do a Let's",
+    "start": 1926.88,
+    "duration": 4.2
+  },
+  {
+    "text": "do a numbers check. We're pinging his TP",
+    "start": 1928.6,
+    "duration": 3.64
+  },
+  {
+    "text": "here. The good thing is that we still",
+    "start": 1931.08,
+    "duration": 2.16
+  },
+  {
+    "text": "have dragon. The good thing is that his",
+    "start": 1932.24,
+    "duration": 2.88
+  },
+  {
+    "text": "game is still very very winnable.",
+    "start": 1933.24,
+    "duration": 3.92
+  },
+  {
+    "text": "Um if you play fight and obviously half",
+    "start": 1935.12,
+    "duration": 3.88
+  },
+  {
+    "text": "of the half of League of Legends is is",
+    "start": 1937.16,
+    "duration": 3.32
+  },
+  {
+    "text": "the fight, right? Like",
+    "start": 1939.0,
+    "duration": 2.56
+  },
+  {
+    "text": "you got to be able to fight. You got to",
+    "start": 1940.48,
+    "duration": 2.72
+  },
+  {
+    "text": "be able to to team fight and stuff like",
+    "start": 1941.56,
+    "duration": 3.48
+  },
+  {
+    "text": "that. Can't really full send it on this",
+    "start": 1943.2,
+    "duration": 3.24
+  },
+  {
+    "text": "guy because I don't think he's a very",
+    "start": 1945.04,
+    "duration": 4.28
+  },
+  {
+    "text": "valuable kill. Okay, we just got to kill",
+    "start": 1946.44,
+    "duration": 6.16
+  },
+  {
+    "text": "the Vladimir. We got to kill the",
+    "start": 1949.32,
+    "duration": 6.64
+  },
+  {
+    "text": "Kayn and the Zarath.",
+    "start": 1952.6,
+    "duration": 3.36
+  },
+  {
+    "text": "Like this.",
+    "start": 1956.52,
+    "duration": 4.44
+  },
+  {
+    "text": "Nice. Let's do Baron.",
+    "start": 1957.88,
+    "duration": 3.08
+  },
+  {
+    "text": "And I'm just going to be confident in my",
+    "start": 1962.48,
+    "duration": 2.8
+  },
+  {
+    "text": "smite here. I'm just going to make a",
+    "start": 1964.32,
+    "duration": 3.4
+  },
+  {
+    "text": "decisive call just to do it. I I do want",
+    "start": 1965.28,
+    "duration": 4.0
+  },
+  {
+    "text": "to mark and I do still want to look for",
+    "start": 1967.72,
+    "duration": 5.28
+  },
+  {
+    "text": "like the the turns.",
+    "start": 1969.28,
+    "duration": 5.24
+  },
+  {
+    "text": "Okay.",
+    "start": 1973.0,
+    "duration": 4.28
+  },
+  {
+    "text": "It's okay. We can stay on the Baron.",
+    "start": 1974.52,
+    "duration": 5.44
+  },
+  {
+    "text": "We're watching.",
+    "start": 1977.28,
+    "duration": 2.68
+  },
+  {
+    "text": "Nice. He's not getting He's not getting",
+    "start": 1981.4,
+    "duration": 3.92
+  },
+  {
+    "text": "in the pit. Perfect. We got Baron.",
+    "start": 1982.68,
+    "duration": 4.64
+  },
+  {
+    "text": "Now we just play off Draven here.",
+    "start": 1985.32,
+    "duration": 4.68
+  },
+  {
+    "text": "Simply we just play off Draven.",
+    "start": 1987.32,
+    "duration": 3.8
+  },
+  {
+    "text": "Okay. Now we want to think what can we",
+    "start": 1990.0,
+    "duration": 2.2
+  },
+  {
+    "text": "take?",
+    "start": 1991.12,
+    "duration": 2.96
+  },
+  {
+    "text": "If we can take mid tower, that would be",
+    "start": 1992.2,
+    "duration": 2.72
+  },
+  {
+    "text": "really good. So I'm going to ping",
+    "start": 1994.08,
+    "duration": 3.36
+  },
+  {
+    "text": "everyone here.",
+    "start": 1994.92,
+    "duration": 2.52
+  },
+  {
+    "text": "Oh, this guy's hurting. I need MR. I'm",
+    "start": 1998.64,
+    "duration": 3.44
+  },
+  {
+    "text": "kind of I think my build is kind of",
+    "start": 2000.68,
+    "duration": 2.92
+  },
+  {
+    "text": "troll this game. I was",
+    "start": 2002.08,
+    "duration": 4.12
+  },
+  {
+    "text": "too much happen.",
+    "start": 2003.6,
+    "duration": 2.6
+  },
+  {
+    "text": "So let's just get",
+    "start": 2009.32,
+    "duration": 3.6
+  },
+  {
+    "text": "All right. Let's just kill this guy.",
+    "start": 2011.4,
+    "duration": 4.52
+  },
+  {
+    "text": "That is also why I went lethality.",
+    "start": 2012.92,
+    "duration": 4.96
+  },
+  {
+    "text": "Stop. You're tickling.",
+    "start": 2015.92,
+    "duration": 4.16
+  },
+  {
+    "text": "All right. We can't take anything more.",
+    "start": 2017.88,
+    "duration": 5.52
+  },
+  {
+    "text": "It's time to base.",
+    "start": 2020.08,
+    "duration": 5.48
+  },
+  {
+    "text": "Okay. Remember guys, you don't want to",
+    "start": 2023.4,
+    "duration": 4.2
+  },
+  {
+    "text": "throw here. This is the throw zone. Oh,",
+    "start": 2025.56,
+    "duration": 3.68
+  },
+  {
+    "text": "my team's My team's going for the throw",
+    "start": 2027.6,
+    "duration": 4.04
+  },
+  {
+    "text": "zone.",
+    "start": 2029.24,
+    "duration": 2.4
+  },
+  {
+    "text": "All right. I'm just going to back ping",
+    "start": 2032.2,
+    "duration": 2.24
+  },
+  {
+    "text": "them once.",
+    "start": 2033.12,
+    "duration": 2.48
+  },
+  {
+    "text": "Again, with your pings guys, with your",
+    "start": 2034.44,
+    "duration": 2.8
+  },
+  {
+    "text": "communication, you don't need to be like",
+    "start": 2035.6,
+    "duration": 3.8
+  },
+  {
+    "text": "spam pinging. Uh you just need to ping",
+    "start": 2037.24,
+    "duration": 4.6
+  },
+  {
+    "text": "effectively. Okay. Effective pings much",
+    "start": 2039.4,
+    "duration": 3.88
+  },
+  {
+    "text": "better than",
+    "start": 2041.84,
+    "duration": 3.36
+  },
+  {
+    "text": "spam pings.",
+    "start": 2043.28,
+    "duration": 4.08
+  },
+  {
+    "text": "Quality over quantity.",
+    "start": 2045.2,
+    "duration": 3.959
+  },
+  {
+    "text": "All right. It's up time.",
+    "start": 2047.36,
+    "duration": 4.36
+  },
+  {
+    "text": "It is up time because my Nasus is",
+    "start": 2049.159,
+    "duration": 5.121
+  },
+  {
+    "text": "pushing. We have numbers here. Nice",
+    "start": 2051.72,
+    "duration": 4.4
+  },
+  {
+    "text": "quick little pick. Force this guy's",
+    "start": 2054.28,
+    "duration": 4.24
+  },
+  {
+    "text": "pool. All right. Now he has no pool. So",
+    "start": 2056.12,
+    "duration": 5.279
+  },
+  {
+    "text": "if he walks up again, we can do this.",
+    "start": 2058.52,
+    "duration": 6.2
+  },
+  {
+    "text": "Nice. Now he has no flash.",
+    "start": 2061.399,
+    "duration": 4.721
+  },
+  {
+    "text": "Okay. Can we get more here? I think we",
+    "start": 2064.72,
+    "duration": 3.04
+  },
+  {
+    "text": "can. So let's go over here guys. Let's",
+    "start": 2066.12,
+    "duration": 4.6
+  },
+  {
+    "text": "go for this guy maybe.",
+    "start": 2067.76,
+    "duration": 2.96
+  },
+  {
+    "text": "And I should be chilling. I still have",
+    "start": 2072.399,
+    "duration": 3.721
+  },
+  {
+    "text": "GA.",
+    "start": 2073.6,
+    "duration": 2.52
+  },
+  {
+    "text": "Kind of want to",
+    "start": 2076.36,
+    "duration": 3.84
+  },
+  {
+    "text": "play it slow though.",
+    "start": 2077.52,
+    "duration": 2.68
+  },
+  {
+    "text": "On this guy? Nice.",
+    "start": 2080.76,
+    "duration": 4.879
+  },
+  {
+    "text": "And I think we I don't want to speak too",
+    "start": 2083.639,
+    "duration": 3.721
+  },
+  {
+    "text": "early, but I think we did it.",
+    "start": 2085.639,
+    "duration": 4.121
+  },
+  {
+    "text": "I think we did it. So,",
+    "start": 2087.36,
+    "duration": 3.76
+  },
+  {
+    "text": "yeah, I think",
+    "start": 2089.76,
+    "duration": 2.56
+  },
+  {
+    "text": "a big thing as well guys is right is",
+    "start": 2091.12,
+    "duration": 2.96
+  },
+  {
+    "text": "like don't compensate. Like your allies",
+    "start": 2092.32,
+    "duration": 2.88
+  },
+  {
+    "text": "pinging you. I think this game could",
+    "start": 2094.08,
+    "duration": 2.599
+  },
+  {
+    "text": "have gone very very differently and I",
+    "start": 2095.2,
+    "duration": 2.88
+  },
+  {
+    "text": "think you guys would have to agree with",
+    "start": 2096.679,
+    "duration": 4.161
+  },
+  {
+    "text": "that if we did not trade the drake. We",
+    "start": 2098.08,
+    "duration": 4.8
+  },
+  {
+    "text": "did not trade the baron.",
+    "start": 2100.84,
+    "duration": 3.36
+  },
+  {
+    "text": "You know, stuff like that. So, anyway,",
+    "start": 2102.88,
+    "duration": 2.32
+  },
+  {
+    "text": "if you're able to learn something from",
+    "start": 2104.2,
+    "duration": 3.2
+  },
+  {
+    "text": "this vid, leave a comment, leave a like,",
+    "start": 2105.2,
+    "duration": 3.96
+  },
+  {
+    "text": "consider dropping a sub, and I'll see",
+    "start": 2107.4,
+    "duration": 5.12
+  },
+  {
+    "text": "you guys on the next vid. Peace.",
+    "start": 2109.16,
+    "duration": 3.36
+  }
+]

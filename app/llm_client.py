@@ -71,6 +71,11 @@ def _gemini_config(system: str | None, temperature: float, max_tokens: int, json
 
 # --- Public interface ---
 
+def _is_transient(err: Exception) -> bool:
+    s = str(err)
+    return any(code in s for code in ("429", "503", "RESOURCE_EXHAUSTED", "UNAVAILABLE"))
+
+
 def generate_text(
     prompt: str,
     system: str | None = None,
@@ -79,32 +84,74 @@ def generate_text(
     max_tokens: int = 4000,
     json_mode: bool = False,
 ) -> str:
-    """Send a text prompt to the configured LLM and return the response text."""
-    if config.LLM_PROVIDER == "gemini":
-        response = _gemini().models.generate_content(
-            model=model or config.TEXT_MODEL,
-            contents=prompt,
-            config=_gemini_config(system, temperature, max_tokens, json_mode),
-        )
-        return response.text
+    """Send a text prompt to the configured LLM and return the response text.
 
-    elif config.LLM_PROVIDER == "openai":
+    Gemini calls retry once after 20s on transient errors (503 spikes, RPM 429),
+    then walk config.LLM_FALLBACK_MODELS (daily-quota 429s exhaust a model for
+    the whole day, so retrying the same model is pointless)."""
+    if config.LLM_PROVIDER == "gemini":
+        import time
+
+        models = [model or config.TEXT_MODEL]
+        models += [m for m in getattr(config, "LLM_FALLBACK_MODELS", []) if m not in models]
+        last_err = None
+        for i, m in enumerate(models):
+            for attempt in (1, 2):
+                try:
+                    response = _gemini().models.generate_content(
+                        model=m,
+                        contents=prompt,
+                        config=_gemini_config(system, temperature, max_tokens, json_mode),
+                    )
+                    if i > 0:
+                        print(f"  (note: generated with fallback model {m})")
+                    return response.text
+                except Exception as e:
+                    if not _is_transient(e):
+                        raise
+                    last_err = e
+                    if attempt == 1 and "RESOURCE_EXHAUSTED" not in str(e):
+                        time.sleep(20)  # 503 spikes are usually short
+                    else:
+                        break  # daily quota / persistent - try next model
+        raise last_err
+
+    elif config.LLM_PROVIDER in ("openai", "openrouter"):
         import openai
 
-        client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
+        if config.LLM_PROVIDER == "openrouter":
+            # OpenAI-compatible; free ":free" models = 50 req/day (1000 with a
+            # one-time $10 credit purchase), 20 RPM
+            client = openai.OpenAI(api_key=os.getenv("OPENROUTER_API_KEY"),
+                                   base_url="https://openrouter.ai/api/v1")
+            default_model = getattr(config, "OPENROUTER_MODEL", None)
+        else:
+            client = openai.OpenAI(api_key=config.OPENAI_API_KEY)
+            default_model = "gpt-4o-mini"
         messages = []
         if system:
             messages.append({"role": "system", "content": system})
         messages.append({"role": "user", "content": prompt})
         kwargs = {"response_format": {"type": "json_object"}} if json_mode else {}
-        response = client.chat.completions.create(
-            model=model or "gpt-4o-mini",
-            messages=messages,
-            temperature=temperature,
-            max_tokens=max_tokens,
-            **kwargs,
-        )
-        return response.choices[0].message.content
+        # Free OpenRouter variants throw transient upstream 429/503s - retry
+        # with a wait instead of failing a whole batch run.
+        import time as _time
+        for attempt in range(4):
+            try:
+                response = client.chat.completions.create(
+                    model=model or default_model,
+                    messages=messages,
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                    **kwargs,
+                )
+                return response.choices[0].message.content
+            except Exception as e:
+                code = getattr(e, "status_code", None)
+                if attempt == 3 or code not in (429, 500, 502, 503):
+                    raise
+                print(f"  (transient {code}, retrying in 45s...)")
+                _time.sleep(45)
 
     raise ValueError(f"Unknown LLM provider: {config.LLM_PROVIDER}")
 

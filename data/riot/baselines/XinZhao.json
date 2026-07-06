@@ -1,0 +1,145 @@
+{
+  "champion": "XinZhao",
+  "role": "JUNGLE",
+  "n_games": 8,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.12,
+  "cs_at_10": {
+    "p25": 63.8,
+    "median": 67.0,
+    "p75": 78.0,
+    "n": 8
+  },
+  "cs_at_15": {
+    "p25": 95.0,
+    "median": 99.0,
+    "p75": 118.0,
+    "n": 8
+  },
+  "first_gank_t_s": {
+    "p25": 247.8,
+    "median": 354.0,
+    "p75": 610.8,
+    "n": 8
+  },
+  "first_reset_s": {
+    "p25": 165.0,
+    "median": 223.0,
+    "p75": 252.8,
+    "n": 8
+  },
+  "full_clear_end_s": {
+    "p25": 240.0,
+    "median": 300,
+    "p75": 480.0,
+    "n": 5
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 1.5,
+    "p75": 2.8,
+    "n": 8
+  },
+  "deaths_total": {
+    "p25": 5.2,
+    "median": 6.0,
+    "p75": 6.8,
+    "n": 8
+  },
+  "gank_involvements": {
+    "p25": 3.2,
+    "median": 6.5,
+    "p75": 8.0,
+    "n": 8
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2.0,
+    "p75": 3.0,
+    "n": 8
+  },
+  "wards_placed": {
+    "p25": 3.2,
+    "median": 5.5,
+    "p75": 6.8,
+    "n": 8
+  },
+  "control_wards": {
+    "p25": 0.5,
+    "median": 2.5,
+    "p75": 3.8,
+    "n": 8
+  },
+  "wards_killed": {
+    "p25": 2.0,
+    "median": 5.5,
+    "p75": 6.0,
+    "n": 8
+  },
+  "first_objective_participation_rate": 0.25,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 62.3,
+      "median": 65.2,
+      "p75": 69.9,
+      "n": 8
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -62.5,
+      "median": -60.7,
+      "p75": -53.1,
+      "n": 8
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1.0,
+      "p75": 1.0,
+      "n": 8
+    },
+    "scuttle_crab_kills": {
+      "p25": 2.0,
+      "median": 3.0,
+      "p75": 5.0,
+      "n": 8
+    },
+    "vision_score_per_minute": {
+      "p25": 0.7,
+      "median": 0.8,
+      "p75": 1.3,
+      "n": 8
+    },
+    "control_wards_placed": {
+      "p25": 0.5,
+      "median": 2.5,
+      "p75": 3.8,
+      "n": 8
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.0,
+      "median": 2.5,
+      "p75": 4.0,
+      "n": 8
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 1.0,
+      "p75": 2.5,
+      "n": 8
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0.0,
+      "p75": 0.0,
+      "n": 8
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 625.9,
+      "median": 757.1,
+      "p75": 983.9,
+      "n": 6
+    }
+  },
+  "note": "Master+ EUW XinZhao jungle. Quartiles over small n - treat as reference range, not law."
+}

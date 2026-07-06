@@ -1,0 +1,145 @@
+{
+  "champion": "Aatrox",
+  "role": "JUNGLE",
+  "n_games": 11,
+  "patches": [
+    "16.13"
+  ],
+  "win_rate": 0.36,
+  "cs_at_10": {
+    "p25": 68.0,
+    "median": 80,
+    "p75": 93.0,
+    "n": 11
+  },
+  "cs_at_15": {
+    "p25": 110.0,
+    "median": 121,
+    "p75": 128.0,
+    "n": 11
+  },
+  "first_gank_t_s": {
+    "p25": 223.0,
+    "median": 420,
+    "p75": 686.0,
+    "n": 11
+  },
+  "first_reset_s": {
+    "p25": 201.0,
+    "median": 235,
+    "p75": 241.0,
+    "n": 11
+  },
+  "full_clear_end_s": {
+    "p25": 300.0,
+    "median": 420,
+    "p75": 480.0,
+    "n": 7
+  },
+  "deaths_before_14min": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 3.0,
+    "n": 11
+  },
+  "deaths_total": {
+    "p25": 5.0,
+    "median": 7,
+    "p75": 8.0,
+    "n": 11
+  },
+  "gank_involvements": {
+    "p25": 3.0,
+    "median": 4,
+    "p75": 8.0,
+    "n": 11
+  },
+  "counter_jungle_episodes": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 3.0,
+    "n": 11
+  },
+  "wards_placed": {
+    "p25": 2.0,
+    "median": 4,
+    "p75": 9.0,
+    "n": 11
+  },
+  "control_wards": {
+    "p25": 0.0,
+    "median": 0,
+    "p75": 2.0,
+    "n": 11
+  },
+  "wards_killed": {
+    "p25": 1.0,
+    "median": 2,
+    "p75": 7.0,
+    "n": 11
+  },
+  "first_objective_participation_rate": 0.41,
+  "challenges": {
+    "jungle_cs_before_10m": {
+      "p25": 68.3,
+      "median": 80.0,
+      "p75": 92.0,
+      "n": 11
+    },
+    "more_enemy_jungle_than_opponent": {
+      "p25": -60.3,
+      "median": -47.9,
+      "p75": -35.5,
+      "n": 11
+    },
+    "initial_crab_count": {
+      "p25": 1.0,
+      "median": 1,
+      "p75": 2.0,
+      "n": 11
+    },
+    "scuttle_crab_kills": {
+      "p25": 4.0,
+      "median": 4,
+      "p75": 5.0,
+      "n": 11
+    },
+    "vision_score_per_minute": {
+      "p25": 0.7,
+      "median": 0.9,
+      "p75": 1.2,
+      "n": 11
+    },
+    "control_wards_placed": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 2.0,
+      "n": 11
+    },
+    "ward_takedowns_before_20m": {
+      "p25": 1.0,
+      "median": 1,
+      "p75": 3.0,
+      "n": 11
+    },
+    "kills_on_laners_early_as_jungler": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 1.0,
+      "n": 11
+    },
+    "epic_monster_kills_within_30s_of_spawn": {
+      "p25": 0.0,
+      "median": 0,
+      "p75": 1.0,
+      "n": 11
+    },
+    "earliest_dragon_takedown_s": {
+      "p25": 361.5,
+      "median": 588.2,
+      "p75": 733.6,
+      "n": 11
+    }
+  },
+  "note": "Master+ EUW Aatrox jungle. Quartiles over small n - treat as reference range, not law."
+}
