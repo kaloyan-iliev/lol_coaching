@@ -24,7 +24,7 @@ didn't make anything up.
 | Review features | Single-game review (timestamp tripwire) · **20-game account recap** (pattern analysis + retrospective drafts, zero grounding warnings) · pregame draft cards · screenshot coach/Q&A (Streamlit) |
 | Ingestion tooling | `data/video_catalog.csv` (2,052 videos, 7 channels) + one-command `ingest_videos.py` |
 | LLM providers | Gemini (free, 20 req/day/model — real constraint) + OpenRouter backup; paid key present but unwired by choice |
-| Business | Discord-bot SaaS plan approved; M0 (Riot registration) not started; **work uncommitted — commit next session** |
+| Business | Discord-bot SaaS plan approved; M0 (Riot registration) not started; repo pushed (de7d203) |
 
 ## Reading order for a thorough review
 
@@ -78,6 +78,5 @@ didn't make anything up.
 - Merge (parts of) the disagreement report into the bible, or keep permanently separate?
 - Product name + domain (blocks M0/landing page/Paddle).
 - Coach outreach: email KireiLoL first (blessing/attribution/affiliate) — before launch.
-- Paid LLM key: stays unwired per your call; revisit only if free-tier juggling costs
-  more time than it saves.
-- Git: two days of work uncommitted — say the word and it gets committed/pushed.
+- Paid LLM key: stays unwired per your call — and likely moot now that
+  `gemini-3.5-flash`'s live free quota verified >20/day on this project.

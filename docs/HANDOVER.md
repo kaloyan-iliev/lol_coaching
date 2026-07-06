@@ -52,7 +52,7 @@ Jungle Bible ~34k words from **93 videos / 3 coaches** + per-coach subset bibles
 `coach_disagreements.md` · video catalog `data/video_catalog.csv` (2,052 rows, 7
 channels/playlists incl. PerryJG 1,236 + Veigarv2 8, unselected) · 20-game account recap
 + smurf review validated · KB curation policy in `docs/KB_STRATEGY.md` · git remote:
-github.com/kaloyan-iliev/lol_coaching (**local work uncommitted — commit next session**).
+github.com/kaloyan-iliev/lol_coaching (up to date as of 2026-07-06, commit de7d203).
 
 ## 3. Key insights from Riot game data (hard-won; don't rediscover)
 
