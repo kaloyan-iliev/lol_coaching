@@ -136,10 +136,33 @@ def check_timestamps(review: str, facts: dict) -> list[str]:
     return warnings
 
 
+def account_slug(match: dict, puuid: str) -> str:
+    """Filesystem-safe account name of the reviewed player, e.g. 'Poledarden_6081'."""
+    p = next((p for p in match["info"]["participants"] if p["puuid"] == puuid), None)
+    if p and p.get("riotIdGameName"):
+        name = f"{p['riotIdGameName']}_{p.get('riotIdTagline', '')}"
+    else:
+        name = puuid[:12]
+    return re.sub(r"[^A-Za-z0-9_-]", "_", name).strip("_")
+
+
+def review_out_path(match: dict, puuid: str) -> str:
+    """Reviews live under data/reviews/<Account_Tag>/<YYYY-MM-DD>/<match_id>.md
+    (game-end date, local time)."""
+    from datetime import datetime
+
+    day = datetime.fromtimestamp(
+        match["info"]["gameEndTimestamp"] / 1000).strftime("%Y-%m-%d")
+    out_dir = os.path.join(config.REVIEWS_DIR, account_slug(match, puuid), day)
+    os.makedirs(out_dir, exist_ok=True)
+    return os.path.join(out_dir, f"{match['metadata']['matchId']}.md")
+
+
 def main():
     parser = argparse.ArgumentParser(description="LLM game review grounded in facts + Jungle Bible")
     parser.add_argument("--riot-id", help='Your Riot ID, e.g. "Name#TAG"')
     parser.add_argument("--latest", action="store_true", help="Review your most recent ranked game")
+    parser.add_argument("--last", type=int, metavar="N", help="Review your N most recent ranked games")
     parser.add_argument("--match", help="Review a specific match ID")
     parser.add_argument("--puuid", help="Puuid to analyze (with --match, skips --riot-id lookup)")
     parser.add_argument("--list", action="store_true", help="List recent ranked games and exit")
@@ -163,17 +186,33 @@ def main():
         return
 
     if args.match:
-        match_id = args.match
-    elif args.latest:
-        ids = client.match_ids(puuid, queue=RANKED_SOLO_QUEUE, count=1)
-        if not ids:
+        match_ids = [args.match]
+    elif args.latest or args.last:
+        n = args.last or 1
+        match_ids = client.match_ids(puuid, queue=RANKED_SOLO_QUEUE, count=n)
+        if not match_ids:
             print("No recent ranked games found.")
             sys.exit(1)
-        match_id = ids[0]
     else:
-        print("Need --latest or --match")
+        print("Need --latest, --last N or --match")
         sys.exit(1)
 
+    saved = []
+    for i, match_id in enumerate(match_ids, 1):
+        if len(match_ids) > 1:
+            print(f"\n===== Game {i}/{len(match_ids)} =====")
+        saved.append(run_review(client, match_id, puuid, args.facts_only))
+
+    if len(saved) > 1:
+        print("\nAll reviews saved:")
+        for s in saved:
+            if s:
+                print(f"  {s}")
+
+
+def run_review(client: RiotClient, match_id: str, puuid: str,
+               facts_only: bool = False) -> str | None:
+    """Fetch, analyze and review one game; returns the saved review path."""
     print(f"Analyzing {match_id}...")
     match, timeline = fetch_game(client, match_id)
     facts = extract_facts(match, timeline, puuid)
@@ -200,9 +239,9 @@ def main():
 
     fact_sheet = build_fact_sheet(facts, baseline)
 
-    if args.facts_only:
+    if facts_only:
         print("\n" + fact_sheet)
-        return
+        return None
 
     section_keys, sections_text = select_sections_for_flags(facts["flags"])
     print(f"Flags: {', '.join(facts['flags']) or 'none'}")
@@ -234,8 +273,7 @@ def main():
 
     warnings = check_timestamps(review, facts)
 
-    os.makedirs(config.REVIEWS_DIR, exist_ok=True)
-    out_path = os.path.join(config.REVIEWS_DIR, f"{match_id}.md")
+    out_path = review_out_path(match, puuid)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(f"# Game Review: {match_id}\n\n{review}\n\n---\n\n"
                 f"<details><summary>Fact sheet used</summary>\n\n{fact_sheet}\n</details>\n")
@@ -250,6 +288,7 @@ def main():
     else:
         print("\nTimestamp check: all cited moments match extracted facts.")
     print(f"\nSaved to {out_path}")
+    return out_path
 
 
 if __name__ == "__main__":

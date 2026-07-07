@@ -230,10 +230,12 @@ def main():
                   f"{'WIN' if f_['win'] else 'LOSS'} | {f_['kda']} | {f_['duration_clock']} | "
                   f"{g['match_id']} |\n")
 
-    out_dir = config.REVIEWS_DIR
+    # Recaps span days, so they live at the account-folder root
+    # (per-game reviews go in data/reviews/<Account>/<YYYY-MM-DD>/)
+    safe = re.sub(r"[^A-Za-z0-9_-]", "_", label).strip("_")
+    out_dir = os.path.join(config.REVIEWS_DIR, safe)
     os.makedirs(out_dir, exist_ok=True)
-    safe = re.sub(r"[^A-Za-z0-9_-]", "_", label)
-    out_path = os.path.join(out_dir, f"account_recap_{safe}_{date.today().isoformat()}.md")
+    out_path = os.path.join(out_dir, f"account_recap_{date.today().isoformat()}.md")
 
     champ_records = " · ".join(f"{c} {w}W-{l}L"
                                for c, (w, l) in sorted(per_champ.items(), key=lambda x: -sum(x[1])))

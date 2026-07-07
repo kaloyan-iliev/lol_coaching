@@ -132,7 +132,8 @@ data/
     baselines/             # _generic.json (n=500) + per-champion quartiles (22 champs)
     baseline_ekko.json     # legacy single-champion file
   csv/{match_id}/          # 8 browsable tables per exported game
-  reviews/                 # game reviews (gitignored)
+  reviews/                 # gitignored; <Account_Tag>/<YYYY-MM-DD>/<match_id>.md
+                           #   + <Account_Tag>/account_recap_<date>.md
   pregame/                 # game-plan cards
 knowledge/
   jungle_bible.md          # distilled coaching guide (~45k tokens)

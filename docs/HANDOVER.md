@@ -27,7 +27,7 @@ expires every 24h (regenerate at developer.riotgames.com; all fetch jobs resume)
 
 | I want to... | Command |
 |---|---|
-| Review my last ranked game | `.venv\Scripts\python.exe scripts\review_game.py --riot-id "ReaperOfMars#Drrw" --latest` |
+| Review my last ranked game(s) | `.venv\Scripts\python.exe scripts\review_game.py --riot-id "ReaperOfMars#Drrw" --latest` (or `--last N`) |
 | List my recent games first | `... review_game.py --riot-id "..." --list` then `--match EUW1_xxx` |
 | See the fact sheet without spending an LLM call | add `--facts-only` |
 | Get a pre-game plan | `... scripts\pregame.py --ours "Top,Jgl,Mid,Bot,Sup" --enemy "..."` |
@@ -44,7 +44,8 @@ expires every 24h (regenerate at developer.riotgames.com; all fetch jobs resume)
 | Sanity-check data after a patch | `... scripts\audit_data_dictionary.py --check` and `riot_build_baseline.py --validate` |
 
 Three data layers per game: raw (`data/riot/matches|timelines/`), parsed facts
-(`data/riot/facts/`), readable (fact sheet embedded in `data/reviews/{id}.md`).
+(`data/riot/facts/`), readable (fact sheet embedded in the review at
+`data/reviews/<Account_Tag>/<YYYY-MM-DD>/{id}.md`; recaps at the account root).
 
 **Assets on disk (2026-07-05):** 500 Master+ EUW jungler-games (250 matches, patches
 16.12–13) → `baselines/_generic.json` (n=500) + 22 per-champion baselines (Ekko n=55) ·
