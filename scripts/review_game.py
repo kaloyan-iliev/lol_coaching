@@ -210,6 +210,43 @@ def main():
                 print(f"  {s}")
 
 
+def generate_review_text(facts: dict, fact_sheet: str,
+                         verbose: bool = False) -> tuple[str, list[str]]:
+    """The prompt-build + single LLM call that turns a fact sheet into a review.
+    Reused by the judge regression harness so it exercises the exact same pipeline.
+    Returns (review_markdown, selected_section_keys)."""
+    section_keys, sections_text = select_sections_for_flags(facts["flags"])
+    if verbose:
+        print(f"Flags: {', '.join(facts['flags']) or 'none'}")
+        print(f"Bible sections selected: {', '.join(section_keys)}")
+
+    system_prompt = Path(
+        os.path.join(os.path.dirname(__file__), "..", "app", "prompts", "review_prompt.txt")
+    ).read_text(encoding="utf-8")
+
+    from app.llm_client import generate_text, load_house_rules
+    house_rules = load_house_rules()
+    house_block = (
+        f"# HOUSE RULES (the player's own principles - these OVERRIDE everything below, "
+        f"including COACHING KNOWLEDGE)\n\n{house_rules}\n\n---\n\n"
+    ) if house_rules else ""
+
+    user_prompt = (
+        f"{house_block}"
+        f"{fact_sheet}\n\n"
+        f"---\n\n"
+        f"# COACHING KNOWLEDGE (selected sections: {', '.join(section_keys)})\n\n"
+        f"{sections_text}\n\n"
+        f"---\n\n"
+        f"Write the coaching review of this game now, following the output format."
+    )
+
+    if verbose:
+        print("Generating review (1 LLM call)...")
+    review = generate_text(user_prompt, system=system_prompt, temperature=0.3, max_tokens=8000)
+    return review, section_keys
+
+
 def run_review(client: RiotClient, match_id: str, puuid: str,
                facts_only: bool = False) -> str | None:
     """Fetch, analyze and review one game; returns the saved review path."""
@@ -243,33 +280,7 @@ def run_review(client: RiotClient, match_id: str, puuid: str,
         print("\n" + fact_sheet)
         return None
 
-    section_keys, sections_text = select_sections_for_flags(facts["flags"])
-    print(f"Flags: {', '.join(facts['flags']) or 'none'}")
-    print(f"Bible sections selected: {', '.join(section_keys)}")
-
-    system_prompt = Path(
-        os.path.join(os.path.dirname(__file__), "..", "app", "prompts", "review_prompt.txt")
-    ).read_text(encoding="utf-8")
-
-    from app.llm_client import generate_text, load_house_rules
-    house_rules = load_house_rules()
-    house_block = (
-        f"# HOUSE RULES (the player's own principles - these OVERRIDE everything below, "
-        f"including COACHING KNOWLEDGE)\n\n{house_rules}\n\n---\n\n"
-    ) if house_rules else ""
-
-    user_prompt = (
-        f"{house_block}"
-        f"{fact_sheet}\n\n"
-        f"---\n\n"
-        f"# COACHING KNOWLEDGE (selected sections: {', '.join(section_keys)})\n\n"
-        f"{sections_text}\n\n"
-        f"---\n\n"
-        f"Write the coaching review of this game now, following the output format."
-    )
-
-    print("Generating review (1 LLM call)...")
-    review = generate_text(user_prompt, system=system_prompt, temperature=0.3, max_tokens=8000)
+    review, section_keys = generate_review_text(facts, fact_sheet, verbose=True)
 
     warnings = check_timestamps(review, facts)
 

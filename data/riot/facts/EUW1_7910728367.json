@@ -1,0 +1,1022 @@
+{
+  "match_id": "EUW1_7910728367",
+  "champion": "Ekko",
+  "win": false,
+  "duration_s": 1549,
+  "duration_clock": "25:49",
+  "game_version": "16.13",
+  "our_team": "blue",
+  "our_role": "JUNGLE",
+  "enemy_jungler": "Diana",
+  "kda": "10/9/1",
+  "comps": {
+    "ours": [
+      {
+        "champion": "Illaoi",
+        "role": "TOP"
+      },
+      {
+        "champion": "Ekko",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Heimerdinger",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Ezreal",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Sona",
+        "role": "UTILITY"
+      }
+    ],
+    "enemy": [
+      {
+        "champion": "Sett",
+        "role": "TOP"
+      },
+      {
+        "champion": "Diana",
+        "role": "JUNGLE"
+      },
+      {
+        "champion": "Yasuo",
+        "role": "MIDDLE"
+      },
+      {
+        "champion": "Aphelios",
+        "role": "BOTTOM"
+      },
+      {
+        "champion": "Milio",
+        "role": "UTILITY"
+      }
+    ]
+  },
+  "teamfights": [
+    {
+      "t_start": 123,
+      "clock": "02:02",
+      "t_end": 125,
+      "zone": "mid_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      },
+      "our_zone_at_start": "mid_lane",
+      "our_champ_dmg_during": 0
+    },
+    {
+      "t_start": 215,
+      "clock": "03:34",
+      "t_end": 217,
+      "zone": "mid_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 315,
+      "clock": "05:15",
+      "t_end": 352,
+      "zone": "top_lane",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      },
+      "our_zone_at_start": "blue_jungle_top",
+      "our_champ_dmg_during": 1028
+    },
+    {
+      "t_start": 484,
+      "clock": "08:04",
+      "t_end": 488,
+      "zone": "mid_lane",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 538,
+      "clock": "08:58",
+      "t_end": 556,
+      "zone": "mid_lane",
+      "kills_total": 3,
+      "our_deaths": 2,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 1,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 589,
+      "clock": "09:49",
+      "t_end": 593,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 2,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      },
+      "our_zone_at_start": "bot_river",
+      "our_champ_dmg_during": 0
+    },
+    {
+      "t_start": 693,
+      "clock": "11:33",
+      "t_end": 706,
+      "zone": "bot_lane",
+      "kills_total": 2,
+      "our_deaths": 0,
+      "enemy_deaths": 2,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 820,
+      "clock": "13:40",
+      "t_end": 825,
+      "zone": "red_jungle_top",
+      "kills_total": 3,
+      "our_deaths": 2,
+      "enemy_deaths": 1,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 2,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1011,
+      "clock": "16:51",
+      "t_end": 1023,
+      "zone": "mid_lane",
+      "kills_total": 4,
+      "our_deaths": 1,
+      "enemy_deaths": 3,
+      "result": "won",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1090,
+      "clock": "18:10",
+      "t_end": 1111,
+      "zone": "blue_jungle_bot",
+      "kills_total": 2,
+      "our_deaths": 2,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 2,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      },
+      "our_zone_at_start": "red_jungle_bot",
+      "our_champ_dmg_during": 702
+    },
+    {
+      "t_start": 1157,
+      "clock": "19:17",
+      "t_end": 1305,
+      "zone": "blue_jungle_top",
+      "kills_total": 11,
+      "our_deaths": 8,
+      "enemy_deaths": 3,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 1,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1416,
+      "clock": "23:35",
+      "t_end": 1454,
+      "zone": "blue_jungle_top",
+      "kills_total": 4,
+      "our_deaths": 4,
+      "enemy_deaths": 0,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 5,
+        "enemies": 5,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1484,
+      "clock": "24:43",
+      "t_end": 1525,
+      "zone": "bot_lane",
+      "kills_total": 6,
+      "our_deaths": 4,
+      "enemy_deaths": 2,
+      "result": "lost",
+      "we_involved": true,
+      "numbers_at_start": {
+        "allies": 3,
+        "enemies": 4,
+        "confidence": "heuristic (60s snapshots)"
+      }
+    },
+    {
+      "t_start": 1533,
+      "clock": "25:33",
+      "t_end": 1534,
+      "zone": "blue_base",
+      "kills_total": 2,
+      "our_deaths": 1,
+      "enemy_deaths": 1,
+      "result": "even",
+      "we_involved": false,
+      "numbers_at_start": {
+        "allies": 5,
+        "enemies": 3,
+        "confidence": "heuristic (60s snapshots)"
+      },
+      "our_zone_at_start": "blue_jungle_top",
+      "our_champ_dmg_during": 0
+    }
+  ],
+  "momentum": {
+    "swings": [
+      {
+        "t_start": 360,
+        "t_end": 540,
+        "clock_start": "06:00",
+        "clock_end": "09:00",
+        "magnitude": 1825,
+        "direction": "gained",
+        "diff_before": 984,
+        "diff_after": 2809,
+        "drivers": [
+          "even teamfight at 05:15 in top_lane (1-1 kills)",
+          "won teamfight at 08:04 in mid_lane (2-0 kills)",
+          "lost teamfight at 08:58 in mid_lane (1-2 kills)",
+          "we took HORDE at 08:50",
+          "enemy took HORDE at 08:59",
+          "enemy took HORDE at 09:02"
+        ]
+      },
+      {
+        "t_start": 540,
+        "t_end": 660,
+        "clock_start": "09:00",
+        "clock_end": "11:00",
+        "magnitude": -1532,
+        "direction": "lost",
+        "diff_before": 2809,
+        "diff_after": 1277,
+        "drivers": [
+          "lost teamfight at 08:58 in mid_lane (1-2 kills)",
+          "lost teamfight at 09:49 in bot_lane (0-2 kills)",
+          "we took HORDE at 08:50",
+          "enemy took HORDE at 08:59",
+          "enemy took HORDE at 09:02",
+          "we took DRAGON at 11:05"
+        ]
+      },
+      {
+        "t_start": 660,
+        "t_end": 780,
+        "clock_start": "11:00",
+        "clock_end": "13:00",
+        "magnitude": 2559,
+        "direction": "gained",
+        "diff_before": 1277,
+        "diff_after": 3836,
+        "drivers": [
+          "won teamfight at 11:33 in bot_lane (2-0 kills)",
+          "we took DRAGON at 11:05",
+          "we destroyed 1 building",
+          "kill gold to us +705g"
+        ]
+      },
+      {
+        "t_start": 780,
+        "t_end": 960,
+        "clock_start": "13:00",
+        "clock_end": "16:00",
+        "magnitude": -2312,
+        "direction": "lost",
+        "diff_before": 3836,
+        "diff_after": 1524,
+        "drivers": [
+          "lost teamfight at 13:40 in red_jungle_top (1-2 kills)",
+          "enemy took RIFTHERALD at 15:18",
+          "we destroyed 3 buildings",
+          "kill gold to enemy +2011g"
+        ]
+      },
+      {
+        "t_start": 1080,
+        "t_end": 1260,
+        "clock_start": "18:00",
+        "clock_end": "21:00",
+        "magnitude": -5119,
+        "direction": "lost",
+        "diff_before": 2917,
+        "diff_after": -2202,
+        "drivers": [
+          "lost teamfight at 18:10 in blue_jungle_bot (0-2 kills)",
+          "lost teamfight at 19:17 in blue_jungle_top (3-8 kills)",
+          "we destroyed 1 building",
+          "enemy destroyed 3 buildings",
+          "kill gold to enemy +2247g"
+        ]
+      },
+      {
+        "t_start": 1380,
+        "t_end": 1549,
+        "clock_start": "23:00",
+        "clock_end": "25:49",
+        "magnitude": -4525,
+        "direction": "lost",
+        "diff_before": -3248,
+        "diff_after": -7773,
+        "drivers": [
+          "lost teamfight at 23:35 in blue_jungle_top (0-4 kills)",
+          "lost teamfight at 24:43 in bot_lane (2-4 kills)",
+          "even teamfight at 25:33 in blue_base (1-1 kills)",
+          "enemy took DRAGON at 22:36",
+          "enemy took BARON_NASHOR at 23:23",
+          "enemy destroyed 6 buildings"
+        ]
+      }
+    ],
+    "team_gold_diff_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "diff": 851
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "diff": 1689
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "diff": 3090
+      },
+      {
+        "t": 960,
+        "clock": "16:00",
+        "diff": 1524
+      },
+      {
+        "t": 1200,
+        "clock": "20:00",
+        "diff": -629
+      },
+      {
+        "t": 1440,
+        "clock": "24:00",
+        "diff": -4924
+      }
+    ]
+  },
+  "challenges": {
+    "ours": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 2,
+      "jungle_cs_before_10m": 69.1,
+      "more_enemy_jungle_than_opponent": -49.0,
+      "kills_on_laners_early_as_jungler": 1,
+      "jungler_kills_early_jungle": 0,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 0,
+      "epic_monster_kills_within_30s_of_spawn": 0,
+      "earliest_dragon_takedown_s": 665.99,
+      "scuttle_crab_kills": 5,
+      "buffs_stolen": 2,
+      "vision_score_per_minute": 0.58,
+      "control_wards_placed": 0,
+      "ward_takedowns_before_20m": 0,
+      "danced_with_rift_herald": 0
+    },
+    "enemy_jgl": {
+      "initial_buff_count": 2,
+      "initial_crab_count": 0,
+      "jungle_cs_before_10m": 68.0,
+      "more_enemy_jungle_than_opponent": -43.1,
+      "kills_on_laners_early_as_jungler": 3,
+      "jungler_kills_early_jungle": 1,
+      "takedowns_before_jungle_minions": 0,
+      "epic_monster_steals": 1,
+      "epic_monster_kills_within_30s_of_spawn": 2,
+      "earliest_dragon_takedown_s": 989.35,
+      "scuttle_crab_kills": 2,
+      "buffs_stolen": 2,
+      "vision_score_per_minute": 0.43,
+      "control_wards_placed": 0,
+      "ward_takedowns_before_20m": 1,
+      "danced_with_rift_herald": 0
+    }
+  },
+  "clear": {
+    "start": "red_side_start",
+    "sequence": [
+      {
+        "camp": "raptors",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "red_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "wolves",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          60,
+          120
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "scuttle",
+        "side": "top_river",
+        "own_side": false,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "blue_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "gromp",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          120,
+          180
+        ],
+        "confidence": "low"
+      },
+      {
+        "camp": "wolves",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          300,
+          360
+        ],
+        "confidence": "high"
+      },
+      {
+        "camp": "scuttle",
+        "side": "top_river",
+        "own_side": false,
+        "t_window": [
+          360,
+          420
+        ],
+        "confidence": "high"
+      },
+      {
+        "camp": "red_buff",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "raptors",
+        "side": "blue",
+        "own_side": true,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "medium"
+      },
+      {
+        "camp": "raptors",
+        "side": "red",
+        "own_side": false,
+        "t_window": [
+          420,
+          480
+        ],
+        "confidence": "low"
+      }
+    ],
+    "full_clear_end_s": null,
+    "level_at_end": 6,
+    "jungle_cs_at_end": 59,
+    "note": "Inferred from 60s snapshots; times are windows, not exact. First 8 minutes."
+  },
+  "deaths": [
+    {
+      "t": 382,
+      "clock": "06:22",
+      "killer": "Sett",
+      "assists": 1,
+      "zone": "blue_jungle_top",
+      "our_level": 5,
+      "allies_nearby": 0,
+      "enemies_nearby": 1,
+      "enemy_jgl_zone": "top_river",
+      "gold_diff_vs_enemy_jgl": -636,
+      "unspent_gold": 465,
+      "flags": []
+    },
+    {
+      "t": 556,
+      "clock": "09:16",
+      "killer": "Diana",
+      "assists": 0,
+      "zone": "blue_jungle_top",
+      "our_level": 7,
+      "allies_nearby": 0,
+      "enemies_nearby": 0,
+      "enemy_jgl_zone": "top_river",
+      "gold_diff_vs_enemy_jgl": -209,
+      "unspent_gold": 1312,
+      "flags": [
+        "large_unspent_gold"
+      ]
+    },
+    {
+      "t": 715,
+      "clock": "11:55",
+      "killer": "Diana",
+      "assists": 1,
+      "zone": "bot_lane",
+      "our_level": 8,
+      "allies_nearby": 2,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "bot_lane",
+      "gold_diff_vs_enemy_jgl": -419,
+      "unspent_gold": 1434,
+      "flags": [
+        "large_unspent_gold"
+      ]
+    },
+    {
+      "t": 825,
+      "clock": "13:44",
+      "killer": "Sett",
+      "assists": 2,
+      "zone": "red_jungle_top",
+      "our_level": 9,
+      "allies_nearby": 1,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "red_jungle_top",
+      "gold_diff_vs_enemy_jgl": -1224,
+      "unspent_gold": 428,
+      "flags": []
+    },
+    {
+      "t": 944,
+      "clock": "15:43",
+      "killer": "Aphelios",
+      "assists": 2,
+      "zone": "bot_lane",
+      "our_level": 10,
+      "allies_nearby": 1,
+      "enemies_nearby": 3,
+      "enemy_jgl_zone": "red_base",
+      "gold_diff_vs_enemy_jgl": -1285,
+      "unspent_gold": 26,
+      "flags": [
+        "outnumbered"
+      ]
+    },
+    {
+      "t": 1228,
+      "clock": "20:27",
+      "killer": "Aphelios",
+      "assists": 1,
+      "zone": "mid_lane",
+      "our_level": 13,
+      "allies_nearby": 4,
+      "enemies_nearby": 2,
+      "enemy_jgl_zone": "red_base",
+      "gold_diff_vs_enemy_jgl": -344,
+      "unspent_gold": 1898,
+      "flags": [
+        "large_unspent_gold"
+      ]
+    },
+    {
+      "t": 1305,
+      "clock": "21:45",
+      "killer": "Yasuo",
+      "assists": 3,
+      "zone": "blue_jungle_bot",
+      "our_level": 14,
+      "allies_nearby": 0,
+      "enemies_nearby": 3,
+      "enemy_jgl_zone": "blue_jungle_bot",
+      "gold_diff_vs_enemy_jgl": 615,
+      "unspent_gold": 1473,
+      "flags": [
+        "outnumbered",
+        "large_unspent_gold"
+      ]
+    },
+    {
+      "t": 1416,
+      "clock": "23:35",
+      "killer": "Diana",
+      "assists": 1,
+      "zone": "blue_jungle_top",
+      "our_level": 14,
+      "allies_nearby": 3,
+      "enemies_nearby": 3,
+      "enemy_jgl_zone": "top_lane",
+      "gold_diff_vs_enemy_jgl": -355,
+      "unspent_gold": 33,
+      "flags": []
+    },
+    {
+      "t": 1525,
+      "clock": "25:25",
+      "killer": "Aphelios",
+      "assists": 2,
+      "zone": "blue_jungle_top",
+      "our_level": 15,
+      "allies_nearby": 1,
+      "enemies_nearby": 4,
+      "enemy_jgl_zone": "blue_jungle_bot",
+      "gold_diff_vs_enemy_jgl": 50,
+      "unspent_gold": 1324,
+      "flags": [
+        "outnumbered",
+        "large_unspent_gold"
+      ]
+    }
+  ],
+  "ganks": [
+    {
+      "t": 215,
+      "clock": "03:34",
+      "lane": "mid",
+      "victim": "Yasuo",
+      "result": "kill",
+      "enemy_jgl_zone": "mid_lane",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 693,
+      "clock": "11:33",
+      "lane": "bot",
+      "victim": "Aphelios",
+      "result": "assist",
+      "enemy_jgl_zone": "bot_lane",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 706,
+      "clock": "11:46",
+      "lane": "bot",
+      "victim": "Milio",
+      "result": "kill",
+      "enemy_jgl_zone": "bot_lane",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1019,
+      "clock": "16:58",
+      "lane": "mid",
+      "victim": "Yasuo",
+      "result": "kill",
+      "enemy_jgl_zone": "mid_lane",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1023,
+      "clock": "17:03",
+      "lane": "mid",
+      "victim": "Sett",
+      "result": "kill",
+      "enemy_jgl_zone": "mid_lane",
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1484,
+      "clock": "24:43",
+      "lane": "bot",
+      "victim": "Sett",
+      "result": "kill",
+      "enemy_jgl_zone": "blue_jungle_top",
+      "confidence": "heuristic"
+    }
+  ],
+  "objectives": [
+    {
+      "t": 530,
+      "clock": "08:50",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 539,
+      "clock": "08:59",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": true,
+      "kills_60s_before": 4,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 542,
+      "clock": "09:02",
+      "type": "HORDE",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": true,
+      "kills_60s_before": 4,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 666,
+      "clock": "11:05",
+      "type": "DRAGON",
+      "subtype": "FIRE_DRAGON",
+      "team": "ally",
+      "we_secured": true,
+      "we_nearby": true,
+      "kills_60s_before": 1,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 918,
+      "clock": "15:18",
+      "type": "RIFTHERALD",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 1,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 989,
+      "clock": "16:29",
+      "type": "DRAGON",
+      "subtype": "AIR_DRAGON",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 3,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 1357,
+      "clock": "22:36",
+      "type": "DRAGON",
+      "subtype": "CHEMTECH_DRAGON",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 2,
+      "participation_confidence": "heuristic"
+    },
+    {
+      "t": 1404,
+      "clock": "23:23",
+      "type": "BARON_NASHOR",
+      "subtype": "",
+      "team": "enemy",
+      "we_secured": false,
+      "we_nearby": false,
+      "kills_60s_before": 1,
+      "participation_confidence": "heuristic"
+    }
+  ],
+  "counter_jungle": [
+    {
+      "t": 780,
+      "clock": "13:00",
+      "zone": "red_jungle_top",
+      "jungle_cs_gained": 2,
+      "confidence": "heuristic"
+    },
+    {
+      "t": 840,
+      "clock": "14:00",
+      "zone": "red_jungle_top",
+      "jungle_cs_gained": 6,
+      "confidence": "heuristic"
+    },
+    {
+      "t": 1080,
+      "clock": "18:00",
+      "zone": "red_jungle_bot",
+      "jungle_cs_gained": 4,
+      "confidence": "heuristic"
+    }
+  ],
+  "economy": {
+    "cs_at_10": 70,
+    "cs_at_15": 109,
+    "first_reset_s": 282,
+    "first_gank_t": 215,
+    "gold_diff_vs_enemy_jgl_curve": [
+      {
+        "t": 0,
+        "clock": "00:00",
+        "gold_diff": 0,
+        "xp_diff": 0,
+        "level_diff": 0
+      },
+      {
+        "t": 120,
+        "clock": "02:00",
+        "gold_diff": 52,
+        "xp_diff": 95,
+        "level_diff": 0
+      },
+      {
+        "t": 240,
+        "clock": "04:00",
+        "gold_diff": -266,
+        "xp_diff": -18,
+        "level_diff": 0
+      },
+      {
+        "t": 360,
+        "clock": "06:00",
+        "gold_diff": -636,
+        "xp_diff": -305,
+        "level_diff": -1
+      },
+      {
+        "t": 480,
+        "clock": "08:00",
+        "gold_diff": -764,
+        "xp_diff": -420,
+        "level_diff": -1
+      },
+      {
+        "t": 600,
+        "clock": "10:00",
+        "gold_diff": -852,
+        "xp_diff": -898,
+        "level_diff": -1
+      },
+      {
+        "t": 720,
+        "clock": "12:00",
+        "gold_diff": -419,
+        "xp_diff": -614,
+        "level_diff": -1
+      },
+      {
+        "t": 840,
+        "clock": "14:00",
+        "gold_diff": -1224,
+        "xp_diff": -1318,
+        "level_diff": -1
+      },
+      {
+        "t": 960,
+        "clock": "16:00",
+        "gold_diff": -1285,
+        "xp_diff": -756,
+        "level_diff": -1
+      },
+      {
+        "t": 1080,
+        "clock": "18:00",
+        "gold_diff": -486,
+        "xp_diff": 11,
+        "level_diff": 0
+      },
+      {
+        "t": 1200,
+        "clock": "20:00",
+        "gold_diff": -344,
+        "xp_diff": 185,
+        "level_diff": 0
+      },
+      {
+        "t": 1320,
+        "clock": "22:00",
+        "gold_diff": 615,
+        "xp_diff": 212,
+        "level_diff": 0
+      },
+      {
+        "t": 1440,
+        "clock": "24:00",
+        "gold_diff": -355,
+        "xp_diff": -1260,
+        "level_diff": -1
+      }
+    ]
+  },
+  "vision": {
+    "wards_placed": 1,
+    "control_wards": 0,
+    "wards_killed": 0
+  },
+  "flags": [
+    "three_plus_deaths_before_14min",
+    "first_riftherald_lost_absent",
+    "first_baron_nashor_lost_absent",
+    "no_control_wards",
+    "died_outnumbered",
+    "lost_outnumbered_teamfight",
+    "lost_counter_jungle_battle",
+    "big_momentum_loss",
+    "died_with_large_unspent_gold",
+    "absent_from_multiple_fights"
+  ]
+}

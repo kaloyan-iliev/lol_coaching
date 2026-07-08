@@ -38,6 +38,7 @@ expires every 24h (regenerate at developer.riotgames.com; all fetch jobs resume)
 | Review the whole video library + pipeline status | `... scripts\video_catalog.py` → `data/video_catalog.csv` |
 | Ingest picked videos end-to-end | `... scripts\ingest_videos.py ID1 ID2 --coach X [--regen]` |
 | Per-coach bible / disagreement report | `... generate_jungle_bible.py --coaches X` / `... scripts\coach_compare.py` |
+| Measure review quality after a change | `... scripts\judge_review.py --regression` (or `--score <review.md>`) |
 | Grow the baseline | `... scripts\riot_fetch_baseline.py --target N` then `riot_build_baseline.py` |
 | Add a new coach's channel | `channel_scan.py <url> --coach X` → `--list X` → `--select ids --coach X` (or use `ingest_videos.py`) |
 | Teach the AI my principles | edit `knowledge/house_rules.md` (HR ids; overrides everything) |
@@ -133,9 +134,10 @@ attribution / rev-share) BEFORE public launch.**
     provider (`$env:LLM_PROVIDER='openrouter'`). Quota reality on this project:
     **20 req/day per model on ALL Gemini models** + 250k input-tokens/min; OpenRouter
     free = 50 req/day. `GEMINI_PAID_API_KEY` exists in .env, deliberately unwired.
-11. **Prioritization quality is unmeasured.** The tripwire proves reviews don't invent
-    facts, but nothing measures whether the Top-3 mistakes are the RIGHT top-3. Only the
-    user's VOD judgment can calibrate this — do it for 5 games and log disagreements.
+11. **Prioritization quality is unmeasured** — PARTLY ADDRESSED 2026-07-08 by
+    `scripts/judge_review.py` (LLM-as-judge: regression win-rate + absolute scores).
+    Still needs the human calibration pass: fill `knowledge/judge_anchors.md` from
+    5–10 of your own graded reviews, else the judge measures its taste, not yours.
 12. ~~Free-tier fetch throughput~~ **DONE 2026-07-05**: two-junglers-per-match trick
     delivered n=500 + 22 per-champion baselines in one overnight fetch (M7 gate
     effectively met).

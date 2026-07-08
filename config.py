@@ -27,6 +27,10 @@ LLM_FALLBACK_MODELS = ["gemini-3-flash-preview", "gemini-2.5-flash", "gemini-2.5
 # .env; ":free" models = 50 req/day, or 1000/day after a one-time $10 top-up)
 # Free model ids rotate - list current ones: GET https://openrouter.ai/api/v1/models
 OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL", "openai/gpt-oss-120b:free")
+# LLM-as-judge (scripts/judge_review.py): deliberately a DIFFERENT model than the
+# generator (TEXT_MODEL) to reduce self-preference bias. gemini-3-pro-preview is a
+# stronger judge if its free quota allows; 3-flash-preview is the safe free default.
+JUDGE_MODEL = os.getenv("JUDGE_MODEL", "gemini-3-flash-preview")
 
 # Paths
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")

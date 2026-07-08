@@ -59,6 +59,15 @@ Working notes on what's built, what's verified, and what comes next.
 - **Data dictionary**: `docs/DATA_DICTIONARY.md` (+ `audit_data_dictionary.py
   --check` after each patch).
 
+### v3.1 additions (2026-07-07/08)
+- **Reviews organized by account/day**: `data/reviews/<Account>/<YYYY-MM-DD>/<match>.md`
+  (recaps at account root); `review_game.py --last N` for multi-game runs.
+- **LLM-as-judge** (`scripts/judge_review.py`): closes the "prioritization quality
+  is unmeasured" gap. `--regression` regenerates reviews from cached facts and
+  judges new-vs-stored (pairwise, both orderings, different model than the
+  generator); `--score`/`--score-account` give absolute rubric scores (SaaS QA-gate
+  seed). Calibrate on your taste via `knowledge/judge_anchors.md`. See KB_STRATEGY §3.
+
 ### v3 additions (2026-07-04/05)
 - **Account recap** (`scripts/account_recap.py --riot-id "..." --games 20
   --drafts 5`): multi-game pattern review — deterministic per-champion W/L

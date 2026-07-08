@@ -53,6 +53,14 @@ already preserves-with-attribution rather than asserting them as current.
   user-approved answers in `knowledge/eval_questions.md`; re-ask via
   `ask_transcripts.py` after each regen. This is the KB's regression test —
   today nothing tells us whether a regen made answers better or worse.
+- **LLM-as-judge for reviews** (`scripts/judge_review.py`, built 2026-07-08):
+  the review-side counterpart of the golden questions. `--regression` regenerates
+  reviews from cached facts with the current pipeline and judges them against the
+  stored versions (pairwise, both orderings, a *different* model than the
+  generator to cut self-preference bias). Run it after any bible/prompt change to
+  get a win-rate instead of a hunch. Calibrate it on your own taste first via
+  `knowledge/judge_anchors.md` (else it measures the judge's taste, not yours).
+  `--score` / `--score-account` give absolute rubric scores (a SaaS QA-gate seed).
 - **House rules override everything** (`knowledge/house_rules.md`) — the user's
   judgment stays sovereign over any coach content.
 - **Attribution audit**: per-coach subset bibles
