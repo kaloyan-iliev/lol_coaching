@@ -59,6 +59,24 @@ Working notes on what's built, what's verified, and what comes next.
 - **Data dictionary**: `docs/DATA_DICTIONARY.md` (+ `audit_data_dictionary.py
   --check` after each patch).
 
+### v3.2 additions (2026-07-14) — granular reconstruction
+The Riot timeline is a hard 60s frame cap (no API tier changes this — a production
+key raises rate limits, not resolution). These tools reconstruct finer detail by
+anchoring interpolation to millisecond-exact events (items/kills/objectives):
+- **`scripts/map_state.py`** — map state at any second. `--at mm:ss` dumps all 10
+  players (position+zone, level, gold, exact items via DDragon) with a per-value
+  confidence label (observed / anchored / interp / dead / uncertain); `--tick N`
+  writes `data/csv/<match>/state_Ns.csv`. Item map auto-downloads (keyless DDragon).
+- **`scripts/state_report.py`** — deterministic (no-LLM) analytics from a tick
+  export: zone occupancy, jungler contact windows (with spatial+temporal fight
+  cross-check), power-spike windows vs the enemy jungler.
+- **`scripts/review_granular.py`** — the standard review pipeline with the tick
+  reconstruction appended to the fact sheet (`--tick`, `--riot-id/--last` or
+  `--match`); tripwire extended to the granular window times. Saved as
+  `<match>_granular.md` alongside the standard review.
+- **Default LLM: `gemini-3.6-flash`** (newest flash; per-model free quota, so it's a
+  fresh pool) with a fallback chain 3.6→3.5→3-preview→3.5-lite→2.5.
+
 ### v3.1 additions (2026-07-07/08)
 - **Reviews organized by account/day**: `data/reviews/<Account>/<YYYY-MM-DD>/<match>.md`
   (recaps at account root); `review_game.py --last N` for multi-game runs.

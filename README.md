@@ -37,10 +37,11 @@ copy .env.example .env   # then fill in your keys
 ```
 
 Keys in `.env`:
-- `GEMINI_API_KEY` — [Google AI Studio](https://aistudio.google.com/apikey). Free tier works but
-  is tight: **20 requests/day per model** on this project (all models) + 250k input-tokens/min.
-  Batch scripts pace themselves and walk a fallback model chain (`config.LLM_FALLBACK_MODELS`).
-- `RIOT_API_KEY` — [Riot developer portal](https://developer.riotgames.com). **Dev keys expire every 24h** — regenerate before long fetch jobs. All fetch scripts resume where they left off.
+- `GEMINI_API_KEY` — [Google AI Studio](https://aistudio.google.com/apikey). Default model is
+  `gemini-3.6-flash` (newest flash; free quotas are per-model, so the newest model = a fresh
+  pool — the trick when an older model is quota-blocked). Batch scripts pace themselves and walk
+  a fallback chain (`config.LLM_FALLBACK_MODELS`: 3.6→3.5→3-preview→3.5-lite→2.5).
+- `RIOT_API_KEY` — [Riot developer portal](https://developer.riotgames.com). **Dev keys expire every 24h** — regenerate before long fetch jobs. A production key raises *rate limits*, not timeline resolution (still 60s frames). All fetch scripts resume where they left off.
 - `OPENROUTER_API_KEY` — optional backup LLM provider (50 free req/day). Switch per-run with
   `$env:LLM_PROVIDER='openrouter'` (+ optional `$env:OPENROUTER_MODEL=...`; free model ids rotate).
 - `DISCORD_BOT_TOKEN` / `OPENAI_API_KEY` — optional. `GEMINI_PAID_API_KEY` may exist but is
@@ -88,9 +89,14 @@ When a review's judgment differs from yours, add a rule to
 | `scripts/riot_fetch_baseline.py` | Discover + download Master+ Ekko-jungle games (resumable, `--status`, `--seed-riot-ids`) |
 | `scripts/riot_build_baseline.py` | Facts for all games + `--validate` cross-checks + baseline quartiles |
 | `scripts/export_game_csv.py` | One game → 8 CSV tables in `data/csv/{id}/` |
+| `scripts/map_state.py` | Reconstruct map state at any second (`--at mm:ss`) or a 10s/15s tick CSV (`--tick N`); anchor-aware, confidence-labeled |
+| `scripts/state_report.py` | Deterministic analytics from a tick export: zone occupancy, jungler contact + power-spike windows |
 | `scripts/audit_data_dictionary.py` | Verify DATA_DICTIONARY covers all observed fields (`--check`) |
 | **Coaching** | |
-| `scripts/review_game.py` | Game review: facts + baseline + house rules + bible → LLM → timestamp-checked review |
+| `scripts/review_game.py` | Game review: facts + baseline + house rules + bible → LLM → timestamp-checked review (`--last N`) |
+| `scripts/review_granular.py` | Review with map_state tick data appended to the fact sheet (`--tick`, `--riot-id/--last`) |
+| `scripts/account_recap.py` | Multi-game pattern review + retrospective drafts |
+| `scripts/judge_review.py` | LLM-as-judge: review quality regression + absolute scoring |
 | `scripts/pregame.py` | Draft analysis → game-plan card |
 
 ## Architecture (data flow)

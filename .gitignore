@@ -9,3 +9,5 @@ data/videos_*_tags.json
 data/riot/matches/
 data/riot/timelines/
 data/reviews/
+# Generated per-game CSV exports + tick reconstructions (regenerable)
+data/csv/

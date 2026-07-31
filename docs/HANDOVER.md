@@ -39,6 +39,9 @@ expires every 24h (regenerate at developer.riotgames.com; all fetch jobs resume)
 | Ingest picked videos end-to-end | `... scripts\ingest_videos.py ID1 ID2 --coach X [--regen]` |
 | Per-coach bible / disagreement report | `... generate_jungle_bible.py --coaches X` / `... scripts\coach_compare.py` |
 | Measure review quality after a change | `... scripts\judge_review.py --regression` (or `--score <review.md>`) |
+| Reconstruct map state at any second (10s/15s) | `... scripts\map_state.py --match EUW1_xxx --at 14:30` (or `--tick 10`) |
+| Deterministic analytics report from ticks | `... scripts\state_report.py --match EUW1_xxx` |
+| Review a game with granular movement data | `... scripts\review_granular.py --riot-id "..." --last 4 --tick 10` |
 | Grow the baseline | `... scripts\riot_fetch_baseline.py --target N` then `riot_build_baseline.py` |
 | Add a new coach's channel | `channel_scan.py <url> --coach X` → `--list X` → `--select ids --coach X` (or use `ingest_videos.py`) |
 | Teach the AI my principles | edit `knowledge/house_rules.md` (HR ids; overrides everything) |
@@ -72,6 +75,17 @@ exact challenge stats, draft comps, per-champion baselines (generic n=500; Ekko 
 **What the API can NOT give (hard limits):** positions only every 60s (no kiting/micro);
 no smite, no camp-kill, no summoner-spell events; no ward positions; no wave states; no
 vision-of information. Clear paths and gank detection are labeled approximations.
+**A licensed/production key does NOT change this** — it raises rate limits, not data
+resolution; the 60s frame interval is the same for every key tier, and there is no
+high-resolution timeline endpoint. Finer per-machine data only exists in the Live Client
+Data API (localhost:2999, your own live game only) and unofficial .rofl replay parsing.
+
+**How we get finer than 60s anyway (`scripts/map_state.py`):** interpolate positions
+between *anchors* — millisecond-exact events that pin a location (item purchase → base
+shop, kill → death spot, camp/objective/tower kill → that spot). Each reconstructed value
+carries a confidence label (observed / anchored / interp / dead / uncertain). This is the
+resolution ceiling from match-v5; it helps most around fights/objectives (event-dense) and
+NOT for first-clear camp timing (camps aren't events — that stays honestly 60s-bound).
 
 **Verified data quirks:** `wardType=UNDEFINED` polluted by champion objects (Shen blade
 "placed" 136 wards); `timeEnemySpentControlled` inflated (relative use only); plate events
