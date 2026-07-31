@@ -20,6 +20,7 @@ including with judge_review.py --pair <standard> <granular>.
 
 import argparse
 import os
+import json
 import re
 import sys
 
@@ -27,10 +28,13 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, os.path.dirname(__file__))
 import config
 from riot import store
+from riot.client import RiotClient
 from analysis.narrative import build_fact_sheet
-from review_game import (account_slug, check_timestamps, collect_fact_times,
-                         generate_review_text, load_baseline)
-from map_state import build_player_data, item_map, state_ticks
+from analysis.timeline_facts import extract_facts
+from review_game import (RANKED_SOLO_QUEUE, collect_fact_times, fetch_game,
+                         generate_review_text, load_baseline, resolve_puuid,
+                         review_out_path)
+from map_state import item_map, state_ticks
 from state_report import (CSV_DIR, contact_windows, load_item_gold_index,
                           load_kills, load_state_rows, mmss, power_spike_windows,
                           zone_occupancy)
@@ -94,40 +98,43 @@ def granular_block(rows, kills, gold_index, our_champ, enemy_champ, our_side, ti
     return "\n".join(lines), times_s
 
 
-def main():
-    ap = argparse.ArgumentParser(description="Coaching review augmented with map_state granular data")
-    ap.add_argument("--match", required=True)
-    ap.add_argument("--tick", type=int, default=15)
-    args = ap.parse_args()
-
-    match_id = args.match
-    facts_path = os.path.join(config.FACTS_DIR, f"{match_id}.json")
-    if not os.path.exists(facts_path):
-        print(f"No facts for {match_id}. Run review_game.py --match {match_id} first "
-              f"(--facts-only is enough) to cache the match and facts.")
-        sys.exit(1)
-    import json
-    facts = json.load(open(facts_path, encoding="utf-8"))
-
+def granular_review(match_id: str, tick: int, client: "RiotClient | None" = None,
+                    puuid: str | None = None) -> str | None:
+    """Produce one granular review; fetch+cache the game and facts if missing."""
     match = store.load_match(match_id)
     timeline = store.load_timeline(match_id)
+    if (match is None or timeline is None) and client is not None:
+        match, timeline = fetch_game(client, match_id)
     if match is None or timeline is None:
-        print(f"Match/timeline not cached for {match_id}.")
-        sys.exit(1)
+        print(f"Match/timeline not cached for {match_id} (pass --riot-id to fetch).")
+        return None
 
-    state_path = os.path.join(CSV_DIR, match_id, f"state_{args.tick}s.csv")
+    facts_path = os.path.join(config.FACTS_DIR, f"{match_id}.json")
+    if os.path.exists(facts_path):
+        facts = json.load(open(facts_path, encoding="utf-8"))
+    elif puuid:
+        facts = extract_facts(match, timeline, puuid)
+        os.makedirs(config.FACTS_DIR, exist_ok=True)
+        with open(facts_path, "w", encoding="utf-8") as f:
+            json.dump(facts, f, indent=2, ensure_ascii=False)
+    else:
+        print(f"No cached facts for {match_id}. Run review_game.py --match {match_id} "
+              f"first, or pass --riot-id so this can build them.")
+        return None
+
+    state_path = os.path.join(CSV_DIR, match_id, f"state_{tick}s.csv")
     if not os.path.exists(state_path):
-        print(f"Building state_{args.tick}s.csv (not found)...")
+        print(f"Building state_{tick}s.csv (not found)...")
         items_db = item_map(match["info"]["gameVersion"])
-        state_ticks(match, timeline, args.tick, items_db)
+        state_ticks(match, timeline, tick, items_db)
 
-    rows = load_state_rows(match_id, args.tick)
+    rows = load_state_rows(match_id, tick)
     kills = load_kills(match_id)
     gold_index = load_item_gold_index(facts["game_version"])
     our_champ, enemy_champ, our_side = facts["champion"], facts["enemy_jungler"], facts["our_team"]
 
     g_block, g_times = granular_block(rows, kills, gold_index, our_champ, enemy_champ,
-                                      our_side, args.tick)
+                                      our_side, tick)
 
     baseline = load_baseline(facts["champion"])
     fact_sheet = build_fact_sheet(facts, baseline)
@@ -147,11 +154,9 @@ def main():
             warnings.append(f"{m.group(0)} does not match any extracted or granular fact "
                             f"- possibly hallucinated")
 
-    puuid = get_our_puuid(match, facts)
-    if puuid:
-        from review_game import review_out_path
-        base_path = review_out_path(match, puuid)
-        out_path = base_path[:-3] + "_granular.md"
+    our_puuid = get_our_puuid(match, facts)
+    if our_puuid:
+        out_path = review_out_path(match, our_puuid)[:-3] + "_granular.md"
     else:
         out_path = os.path.join(config.REVIEWS_DIR, "_unsorted", f"{match_id}_granular.md")
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
@@ -161,16 +166,46 @@ def main():
                 f"<details><summary>Fact sheet used (incl. granular movement data)</summary>\n\n"
                 f"{combined}\n</details>\n")
 
-    print("\n" + "=" * 70 + "\n")
-    print(review)
-    print("\n" + "=" * 70)
+    print(f"  saved -> {out_path}")
     if warnings:
-        print("\nTIMESTAMP CHECK WARNINGS (possible hallucinations):")
-        for w in warnings:
-            print(f"  - {w}")
+        print("  TIMESTAMP WARNINGS: " + "; ".join(warnings))
     else:
-        print("\nTimestamp check: all cited moments match extracted or granular facts.")
-    print(f"\nSaved to {out_path}")
+        print("  timestamp check clean")
+    return out_path
+
+
+def main():
+    ap = argparse.ArgumentParser(description="Coaching review augmented with map_state granular data")
+    ap.add_argument("--match", help="Single match id")
+    ap.add_argument("--riot-id", help='Fetch this account\'s games, e.g. "Name#TAG"')
+    ap.add_argument("--last", type=int, help="Review the N most recent ranked games (with --riot-id)")
+    ap.add_argument("--tick", type=int, default=15, help="Reconstruction tick seconds (e.g. 10)")
+    args = ap.parse_args()
+
+    client = None
+    puuid = None
+    if args.riot_id:
+        store.ensure_dirs()
+        client = RiotClient()
+        puuid = resolve_puuid(client, args.riot_id)
+
+    if args.match:
+        match_ids = [args.match]
+    elif args.riot_id:
+        match_ids = client.match_ids(puuid, queue=RANKED_SOLO_QUEUE, count=args.last or 1)
+    else:
+        ap.error("need --match or --riot-id")
+
+    saved = []
+    for i, mid in enumerate(match_ids, 1):
+        print(f"\n===== [{i}/{len(match_ids)}] {mid} =====")
+        out = granular_review(mid, args.tick, client=client, puuid=puuid)
+        if out:
+            saved.append(out)
+
+    print(f"\nDone. {len(saved)} granular review(s):")
+    for s in saved:
+        print(f"  {s}")
 
 
 if __name__ == "__main__":
