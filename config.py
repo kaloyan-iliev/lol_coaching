@@ -15,14 +15,16 @@ RIOT_REGION = "europe"  # regional host: match-v5, account-v1
 # Model selection - change this to switch providers. Env var wins so one-off
 # runs can switch without editing this file:  $env:LLM_PROVIDER='openrouter'
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini")  # "gemini", "openai" or "openrouter"
-# gemini-3.5-flash: published free tier 1,500 req/day / 10 RPM / 250k TPM —
-# but this project's LIVE caps have been lower than published before (3-flash:
-# 20/day), so treat quotas as observed, not promised. Verified working 2026-07-05.
-VISION_MODEL = "gemini-3.5-flash"
-TEXT_MODEL = "gemini-3.5-flash"
+# gemini-3.6-flash: newest flash model (verified on this key 2026-07-14). Being a
+# NEW model it has its own separate free-tier daily quota pool - switching to it
+# resets quota regardless of what the older models have spent. Treat published
+# limits as advisory; this project's live caps have been lower before (3-flash: 20/day).
+VISION_MODEL = "gemini-3.6-flash"
+TEXT_MODEL = "gemini-3.6-flash"
 # Tried in order when the primary model hits quota (429) or capacity (503).
-# Free-tier daily quotas are per-model, so falling back = fresh quota pool.
-LLM_FALLBACK_MODELS = ["gemini-3-flash-preview", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+# Free-tier daily quotas are per-model, so each fallback = a fresh quota pool.
+LLM_FALLBACK_MODELS = ["gemini-3.5-flash", "gemini-3-flash-preview",
+                       "gemini-3.5-flash-lite", "gemini-2.5-flash"]
 # Backup provider: set LLM_PROVIDER = "openrouter" (needs OPENROUTER_API_KEY in
 # .env; ":free" models = 50 req/day, or 1000/day after a one-time $10 top-up)
 # Free model ids rotate - list current ones: GET https://openrouter.ai/api/v1/models
