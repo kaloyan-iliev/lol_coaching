@@ -1,0 +1,11 @@
+participantId,champion,team,role,win,kills,deaths,assists,goldEarned,totalCS,jungleCS,wardsPlaced,controlWards,visionScore,totalDamageToChampions,damageTaken,totalTimeSpentDead_s,initial_buff_count,initial_crab_count,jungle_cs_before_10m,more_enemy_jungle_than_opponent,kills_on_laners_early_as_jungler,jungler_kills_early_jungle,takedowns_before_jungle_minions,epic_monster_steals,epic_monster_kills_within_30s_of_spawn,earliest_dragon_takedown_s,scuttle_crab_kills,buffs_stolen,vision_score_per_minute,control_wards_placed,ward_takedowns_before_20m,danced_with_rift_herald
+1,Darius,100,TOP,False,4,11,9,11129,169,0,8,0,18,24722,33250,373,0,0,0,0,,,0,0,0,,0,0,0.58,0,1,0
+2,Sylas,100,JUNGLE,False,18,7,11,17478,241,204,5,3,29,36698,47761,260,2,0,64.0,-66.3,6,0,0,0,0,946.55,5,1,0.9,3,2,0
+3,Viktor,100,MIDDLE,False,5,9,12,13801,261,1,7,0,13,42456,26401,312,0,0,1.2,0,,,0,0,0,,0,0,0.41,0,0,0
+4,Kaisa,100,BOTTOM,False,12,4,9,21053,312,4,11,0,27,42894,17494,124,0,0,0,0,,,0,0,0,,0,0,0.86,0,1,0
+5,Leona,100,UTILITY,False,0,8,27,9457,22,0,28,3,78,10965,33849,195,0,0,0,0,,,0,0,0,,0,0,2.44,3,5,0
+6,Renekton,200,TOP,True,9,7,10,15441,237,4,13,0,26,32684,46113,271,0,0,0,0,,,0,0,0,,1,0,0.83,0,0,0
+7,Ekko,200,JUNGLE,True,18,9,3,19275,252,204,7,0,19,41626,39741,260,2,2,80.8,-52.7,2,0,0,0,1,1260.15,3,1,0.6,0,0,0
+8,Nasus,200,MIDDLE,True,2,6,15,11578,182,0,3,0,12,13727,52388,199,0,0,0,0,,,0,0,0,,0,0,0.37,0,1,0
+9,Jhin,200,BOTTOM,True,8,7,12,15978,244,18,12,0,22,22980,23342,126,0,0,0,0,,,0,0,0,1260.15,1,0,0.7,0,2,0
+10,Seraphine,200,UTILITY,True,2,10,25,10612,29,0,45,5,97,22302,25214,222,0,0,0,0,,,0,0,0,1260.15,0,0,3.02,5,2,0
