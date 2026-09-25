@@ -1,6 +1,8 @@
 # HANDOVER — Jungle Coach Project
 
-*Written 2026-07-03. Read this first when resuming work. Companion docs:
+*Written 2026-07-03, state re-verified 2026-09-25. Read this first when resuming work.
+New machine / new session? Start with [CLAUDE.md](../CLAUDE.md) (bootstrap + what a fresh
+clone does and doesn't contain), then come back here. Companion docs:
 [README](../README.md) (usage hub) · [BUSINESS_PLAN](BUSINESS_PLAN.md) (monetization) ·
 [ROADMAP](../ROADMAP.md) · [DATA_DICTIONARY](DATA_DICTIONARY.md) · [CSV_TABLES_GUIDE](CSV_TABLES_GUIDE.md)*
 
@@ -8,6 +10,13 @@
 > report), account-recap feature, yt-dlp transcript fallback, promo playbook —
 > see [SESSION_2026-07-04.md](SESSION_2026-07-04.md) for state, blockers
 > (Riot key expired, YouTube 429) and the exact next commands.
+>
+> **Update 2026-09-25 (audit, no code changes):** the project has been idle since
+> 2026-07-31. Working tree clean, `main` == `origin/main`, all 26 commits pushed. All 22
+> scripts smoke-tested OK on Python 3.14.5 (`--help` loads every module); the Streamlit
+> app still compiles. Doc counts in §2 were stale and are
+> now corrected against disk. Nothing is broken; the work simply stopped mid-queue — see
+> §8 for where to pick up.
 
 ---
 
@@ -51,13 +60,18 @@ Three data layers per game: raw (`data/riot/matches|timelines/`), parsed facts
 (`data/riot/facts/`), readable (fact sheet embedded in the review at
 `data/reviews/<Account_Tag>/<YYYY-MM-DD>/{id}.md`; recaps at the account root).
 
-**Assets on disk (2026-07-05):** 500 Master+ EUW jungler-games (250 matches, patches
-16.12–13) → `baselines/_generic.json` (n=500) + 22 per-champion baselines (Ekko n=55) ·
-Jungle Bible ~34k words from **93 videos / 3 coaches** + per-coach subset bibles +
-`coach_disagreements.md` · video catalog `data/video_catalog.csv` (2,052 rows, 7
-channels/playlists incl. PerryJG 1,236 + Veigarv2 8, unselected) · 20-game account recap
-+ smurf review validated · KB curation policy in `docs/KB_STRATEGY.md` · git remote:
-github.com/kaloyan-iliev/lol_coaching (up to date as of 2026-07-06, commit de7d203).
+**Assets on disk (verified 2026-09-25):** 500 Master+ EUW jungler-games in
+`match_index.json` (patches 16.12–13; 280 matches + 280 timelines cached locally,
+gitignored) → `baselines/_generic.json` (n=500) + 22 per-champion baselines (Ekko 55,
+LeeSin 28, Qiyana 25, Talon/Graves 22) · 580 tracked fact files · Jungle Bible 19.8k words
+(+ 12 topic sections, ~20.7k words) from **108 videos / 5 coaches** — KireiLoL 78,
+JungleGapGG 14, Veigarv2 8, PerryJG 7, Thomas Yuen 1; 104 tagged, the 4 untagged are the
+known-blocked Veigarv2 transcripts — plus 2 per-coach subset bibles (KireiLoL 46k words,
+JungleGapGG 16k) + `coach_disagreements.md` · 124 clean transcripts · video catalog
+`data/video_catalog.csv` (2,052 rows, 7 channels/playlists; PerryJG 1,236 mostly
+unselected) · 17 reviews on disk incl. 4 granular ReaperOfMars games · KB curation policy
+in `docs/KB_STRATEGY.md` · git remote: github.com/kaloyan-iliev/lol_coaching — **fully
+pushed as of 2026-09-25, commit 3667fb1 (2026-07-31), 26 commits, clean tree**.
 
 ## 3. Key insights from Riot game data (hard-won; don't rediscover)
 
@@ -132,11 +146,13 @@ attribution / rev-share) BEFORE public launch.**
    noisy at tails; patch drift will silently skew it — needs a freshness policy.
 4. **Numbers-at-fight from 60s snapshots** can misstate a fight's true numbers (players
    move a lot in 60s). Labeled heuristic, but users will quote it as fact.
-5. ~~The knowledge base is one coach deep~~ **FIXED 2026-07-05**: 3 coaches ingested,
-   per-coach subset bibles + disagreement report exist. Still KireiLoL-heavy (78/93) —
-   the curation pass on PerryJG/Veigarv2 rebalances it (see docs/KB_STRATEGY.md).
-6. **house_rules.md has 2 rules.** The whole grounding architecture leans on a file the
-   user hasn't invested in yet. Every review disagreement should become a rule.
+5. ~~The knowledge base is one coach deep~~ **FIXED 2026-07-05**: 5 coaches ingested,
+   per-coach subset bibles + disagreement report exist. Still KireiLoL-heavy (78/108, and
+   PerryJG contributes only 7 of 1,236 scanned) — the curation pass on PerryJG/Veigarv2
+   rebalances it (see docs/KB_STRATEGY.md). **Still open as of 2026-09-25.**
+6. **house_rules.md still has 2 rules** (unchanged since 2026-07-03). The whole grounding
+   architecture leans on a file the user hasn't invested in yet. Every review disagreement
+   should become a rule — this is the highest-leverage hour in the whole project.
 7. **No automated tests** beyond the `--validate` cross-checks; no CI. The service
    extraction (M1) is the right moment to add pytest for quota/facts/momentum.
 8. **Streamlit app verified only to boot** (HTTP 200 + compiles) — full click-through of
@@ -152,6 +168,9 @@ attribution / rev-share) BEFORE public launch.**
     `scripts/judge_review.py` (LLM-as-judge: regression win-rate + absolute scores).
     Still needs the human calibration pass: fill `knowledge/judge_anchors.md` from
     5–10 of your own graded reviews, else the judge measures its taste, not yours.
+    **Verified 2026-09-25: that file is still the unmodified template**, so every judge
+    number produced so far reflects the model's taste, not the user's. There are now 4
+    granular reviews from 2026-07-30 sitting on disk ready to be graded as anchors.
 12. ~~Free-tier fetch throughput~~ **DONE 2026-07-05**: two-junglers-per-match trick
     delivered n=500 + 22 per-champion baselines in one overnight fetch (M7 gate
     effectively met).
@@ -168,6 +187,13 @@ attribution / rev-share) BEFORE public launch.**
       — public data, but confirm before the Reddit stunt).
 
 ## 8. Next steps (priority order)
+
+> **Resume point after the 2026-09-25 audit.** Nothing is half-finished in code — the
+> tree is clean and every entry point runs. Cheapest way back in: regenerate the Riot dev
+> key, run `review_granular.py --riot-id "ReaperOfMars#Drrw" --last 1`, and grade the
+> output into `knowledge/house_rules.md` + `knowledge/judge_anchors.md`. That single hour
+> closes critique items 6 and 11, which gate quality measurement for everything else.
+> Note the baseline is now on patches 16.12–13, which are ~2 months stale (critique #3).
 
 **User-only actions (nobody else can do these):**
 1. Register the product on Riot Developer Portal + apply for the Personal key (longest wait).
@@ -217,5 +243,19 @@ game-review flow (its 3 modes are screenshot/Q&A/pregame).
    death, missed-fight context, level diff) — shipped same day; plates quarantined.
 6. **Business plan**: researched Riot monetization policy, pricing anchors, unit economics;
    approved Discord-bot SaaS plan (BUSINESS_PLAN.md); M1 implementation NOT started.
+7. **KB scale-up (07-06)**: 3 coaches ingested, per-coach bibles + disagreement report,
+   baselines to n=500, multi-provider LLM; 4 Veigarv2 transcripts still blocked.
+8. **Review quality (07-07/08)**: reviews reorganized to `<Account>/<date>/`, `--last N`
+   multi-game runs, and `judge_review.py` (LLM-as-judge regression + absolute scoring).
+   `knowledge/judge_anchors.md` was created as a TEMPLATE and **is still uncalibrated**.
+9. **Granular reconstruction (07-14 → 07-31)**: `map_state.py` (anchor-aware map state at
+   any second, confidence-labeled), `state_report.py` (deterministic no-LLM analytics),
+   `review_granular.py` (tick data appended to the fact sheet, `--riot-id/--last` front
+   end). Default model moved to `gemini-3.6-flash` for a fresh per-model quota pool.
+10. **Last active session (07-31)**: produced 4 granular reviews of ReaperOfMars games and
+    committed the 8 CSV tables for EUW1_7934556314 (Ekko 18/9/3 vs Sylas) as a reference
+    export. **This is where work stopped.**
+11. **Audit (2026-09-25)**: no code changes — verified clean/pushed state, smoke-tested all
+    entry points, corrected stale doc counts, added `CLAUDE.md` for cross-machine resume.
 
-All work is committed and pushed to `main` (12 commits ahead of the initial state).
+All work is committed and pushed to `main` (26 commits; tree clean as of 2026-09-25).

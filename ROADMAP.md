@@ -6,10 +6,12 @@ Working notes on what's built, what's verified, and what comes next.
 ## Done (July 2026)
 
 ### Knowledge base (part 1)
-- **93 videos across 3 coaches** (KireiLoL incl. VODs channel, JungleGapGG,
-  Thomas Yuen) → transcripts → LLM tags → `knowledge/jungle_bible.md`
-  (~34k words / ~45k tokens; per-topic synthesis capped at 24 transcripts
-  round-robin across coaches)
+- **108 videos across 5 coaches** (KireiLoL 78 incl. VODs channel, JungleGapGG 14,
+  Veigarv2 8, PerryJG 7, Thomas Yuen 1; 104 tagged — the 4 untagged are the
+  known-blocked Veigarv2 transcripts) → transcripts → LLM tags →
+  `knowledge/jungle_bible.md` (19.8k words, plus 12 topic sections totalling
+  ~20.7k words; per-topic synthesis capped at 24 transcripts round-robin
+  across coaches)
 - **Per-coach subset bibles** (`generate_jungle_bible.py --coaches X`) and a
   **coach-disagreement report** (`scripts/coach_compare.py` →
   `knowledge/coach_disagreements.md`, kept separate from the bible by design)
@@ -19,8 +21,9 @@ Working notes on what's built, what's verified, and what comes next.
   `scripts/ingest_videos.py ID... --coach X [--regen]`
 - Q&A with timestamped YouTube citations: `scripts/ask_transcripts.py`
 - Curation policy: [docs/KB_STRATEGY.md](docs/KB_STRATEGY.md)
-- All LLM calls consolidated in `app/llm_client.py` — Gemini (3-flash-preview
-  default + fallback chain) or OpenRouter (`$env:LLM_PROVIDER='openrouter'`)
+- All LLM calls consolidated in `app/llm_client.py` — Gemini (default is
+  `gemini-3.6-flash` since 2026-07-31, + fallback chain; see v3.2 below) or
+  OpenRouter (`$env:LLM_PROVIDER='openrouter'`)
 
 ### High-elo baseline (part 3)
 - `scripts/riot_fetch_baseline.py` — Master+ **all-jungler** discovery on EUW
@@ -100,9 +103,14 @@ anchoring interpolation to millisecond-exact events (items/kills/objectives):
 
 ## Next steps (in rough priority order)
 
+*Status as of the 2026-09-25 audit: the project has been idle since 2026-07-31 and
+none of the steps below were started. Everything still runs; see
+[CLAUDE.md](CLAUDE.md) and HANDOVER §8 for the cheapest re-entry point.*
+
 1. **Curation pass (user).** Open `data/video_catalog.csv`, tier the PerryJG
-   (1,236 scanned) and Veigarv2 (8) videos per KB_STRATEGY §1, ingest picks
-   with `ingest_videos.py <ids> --coach PerryJG`.
+   (1,236 scanned, only 7 ingested) and Veigarv2 (8 selected, 4 transcripts
+   still blocked) videos per KB_STRATEGY §1, ingest picks with
+   `ingest_videos.py <ids> --coach PerryJG`.
 2. **Golden-question eval set** (~1h): 15–20 questions with approved answers in
    `knowledge/eval_questions.md`; re-ask after each bible regen (KB_STRATEGY §3).
    Plus: review 3–5 of your own games and turn every disagreement into a house

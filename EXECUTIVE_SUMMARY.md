@@ -15,16 +15,21 @@ coaching grounded in named methodology **paired with deterministic fact-checking
 dashboards tell you what your numbers were; this tells you what to change and proves it
 didn't make anything up.
 
-## State snapshot (2026-07-05)
+## State snapshot (verified 2026-09-25)
+
+Development has been **idle since 2026-07-31**. The audit found nothing broken: clean
+tree, everything pushed, all 22 scripts import and run on Python 3.14.5.
 
 | Area | State |
 |---|---|
-| Knowledge base | 93 videos / 3 coaches → Jungle Bible ~34k words; per-coach bibles + disagreement report (generation completing in background) |
-| Baselines | Generic n=500 + 22 per-champion (Ekko 55, LeeSin 28, Qiyana 25, …) — any jungler reviewable |
-| Review features | Single-game review (timestamp tripwire) · **20-game account recap** (pattern analysis + retrospective drafts, zero grounding warnings) · pregame draft cards · screenshot coach/Q&A (Streamlit) |
+| Knowledge base | 108 videos / 5 coaches (KireiLoL 78, JungleGapGG 14, Veigarv2 8, PerryJG 7, Thomas Yuen 1) → Jungle Bible 19.8k words + 12 sections; 2 per-coach bibles + disagreement report |
+| Baselines | Generic n=500 + 22 per-champion (Ekko 55, LeeSin 28, Qiyana 25, …) — any jungler reviewable. **Patches 16.12–13, now ~2 months stale** |
+| Review features | Single-game review (timestamp tripwire) · **20-game account recap** (pattern analysis + retrospective drafts, zero grounding warnings) · **granular tick-level review** (`review_granular.py`) · pregame draft cards · screenshot coach/Q&A (Streamlit) |
+| Quality measurement | `judge_review.py` exists (regression + absolute scoring), but `knowledge/judge_anchors.md` is **still an uncalibrated template** — scores reflect the model's taste, not the user's |
 | Ingestion tooling | `data/video_catalog.csv` (2,052 videos, 7 channels) + one-command `ingest_videos.py` |
-| LLM providers | Gemini (free, 20 req/day/model — real constraint) + OpenRouter backup; paid key present but unwired by choice |
-| Business | Discord-bot SaaS plan approved; M0 (Riot registration) not started; repo pushed (de7d203) |
+| LLM providers | Gemini (free, 20 req/day/model — real constraint), default `gemini-3.6-flash` + fallback chain; OpenRouter backup; paid key present but unwired by choice |
+| Business | Discord-bot SaaS plan approved; M0 (Riot registration) and M1 (service extraction) **not started** |
+| Repo | 26 commits, clean, fully pushed (3667fb1). Raw Riot dumps (245 MB) gitignored — see [CLAUDE.md](CLAUDE.md) |
 
 ## Reading order for a thorough review
 
@@ -53,10 +58,18 @@ didn't make anything up.
 
 ## Generated artifacts worth reviewing (the product itself)
 
-- **Your 20-game recap**: `data/reviews/account_recap_ReaperOfMars_Drrw_2026-07-04.md` —
-  verdict: builds early leads, fails to convert. Check: are the Top-5 recurring problems
-  the RIGHT ones? Every disagreement → a house rule.
-- **Smurf single-game review**: `data/reviews/EUW1_7909606924.md` (clean tripwire).
+*`data/reviews/` is gitignored. Only the 4 granular reviews below are committed — the
+rest exist solely on the author's machine, so a fresh clone will not have them.*
+
+- **Granular reviews (newest output, IN THE REPO)**:
+  `data/reviews/ReaperOfMars_Drrw/2026-07-30/*_granular.md` — 4 games reviewed with 10s
+  tick reconstruction. The best candidates for the judge-calibration pass.
+- **Your 20-game recap** *(local only)*:
+  `data/reviews/ReaperOfMars_Drrw/account_recap_2026-07-04.md` — verdict: builds early
+  leads, fails to convert. Check: are the Top-5 recurring problems the RIGHT ones? Every
+  disagreement → a house rule.
+- **Smurf single-game review** *(local only)*:
+  `data/reviews/Poledarden_6081/2026-07-05/EUW1_7909606924.md` (clean tripwire).
 - **The Jungle Bible**: `knowledge/jungle_bible.md` (+ `jungle_bible_kireilol.md`,
   `jungle_bible_junglegapgg.md`) — spot-read a section you know well.
 - **Coach disagreements**: `knowledge/coach_disagreements.md` — kept separate from the

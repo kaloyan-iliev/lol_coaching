@@ -3,7 +3,7 @@
 Personal AI jungle-coaching tool grounded in methodology from trusted coaches
 (KireiLoL, JungleGapGG, PerryJG, ...) and hard data from the Riot API. Four pillars:
 
-1. **Knowledge base** — 93 coaching videos (3 coaches) → transcripts → LLM tagging →
+1. **Knowledge base** — 108 coaching videos (5 coaches) → transcripts → LLM tagging →
    synthesized "Jungle Bible" (+ per-coach bibles, a coach-disagreement report, and
    your own **house rules** that override everything)
 2. **High-elo baseline** — 500 Master+ EUW jungler-games reduced to deterministic
@@ -17,6 +17,7 @@ Personal AI jungle-coaching tool grounded in methodology from trusted coaches
 
 | Doc | What's in it |
 |---|---|
+| [CLAUDE.md](CLAUDE.md) | **new machine / new session** — bootstrap, what a fresh clone has vs. must regenerate, working rules |
 | [EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md) | **start here** — state snapshot, guided reading order, open decisions |
 | this README | setup, script reference, data layout, architecture |
 | [ROADMAP.md](ROADMAP.md) | build status, next steps, productization path |
@@ -137,9 +138,11 @@ data/
     discovery_state.json   # resumable fetch progress
     baselines/             # _generic.json (n=500) + per-champion quartiles (22 champs)
     baseline_ekko.json     # legacy single-champion file
-  csv/{match_id}/          # 8 browsable tables per exported game
+  csv/{match_id}/          # gitignored; 8 browsable tables per exported game
+                           #   (one sample export force-added as a reference)
   reviews/                 # gitignored; <Account_Tag>/<YYYY-MM-DD>/<match_id>.md
                            #   + <Account_Tag>/account_recap_<date>.md
+                           #   (4 sample reviews force-added as references)
   pregame/                 # game-plan cards
 knowledge/
   jungle_bible.md          # distilled coaching guide (~45k tokens)
